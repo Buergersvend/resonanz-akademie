@@ -1,4 +1,5 @@
 import P01 from './P01.js'
+import G01 from './G01.js'
 // ═══════════════════════════════════════════════════════════
 // KURSDATEN — Single Source of Truth
 // Lokale JS-Daten für MVP · Migration zu Firestore in Phase 3+
@@ -1809,6 +1810,7 @@ Bewahre diese Reflexion neben der aus Modul 1 auf. Lies beides in 4 Wochen noch 
   },
 
   P01,
+  G01,
   // ═══════════════════════════════════════════════════════
   // Y05 — Human Design × Numerologie (COMING SOON)
   // ═══════════════════════════════════════════════════════

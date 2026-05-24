@@ -1808,6 +1808,7 @@ Bewahre diese Reflexion neben der aus Modul 1 auf. Lies beides in 4 Wochen noch 
     ],
   },
 
+  P01,
   // ═══════════════════════════════════════════════════════
   // Y05 — Human Design × Numerologie (COMING SOON)
   // ═══════════════════════════════════════════════════════

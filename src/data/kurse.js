@@ -1,6 +1,8 @@
 import P01 from './P01.js'
 import G01 from './G01.js'
 import K01 from './K01.js'
+import G03 from './G03.js'
+import G11 from './G11.js'
 // ═══════════════════════════════════════════════════════════
 // KURSDATEN — Single Source of Truth
 // Lokale JS-Daten für MVP · Migration zu Firestore in Phase 3+
@@ -23,6 +25,7 @@ export const BEREICHE = [
   { id: 'quanten', name: 'Quantenarbeit', icon: '∞' },
   { id: 'praxis', name: 'Praxis & Business', icon: '💎' },
   { id: 'psyche', name: 'Psyche & Persönlichkeit', icon: '◉' },
+  { id: 'schutz', name: 'Schutz & Erdung', icon: '⊕' },
 ]
 
 export const KURSE = [
@@ -1813,6 +1816,8 @@ Bewahre diese Reflexion neben der aus Modul 1 auf. Lies beides in 4 Wochen noch 
   P01,
   G01,
   K01,
+  G03,
+G11,
   // ═══════════════════════════════════════════════════════
   // Y05 — Human Design × Numerologie (COMING SOON)
   // ═══════════════════════════════════════════════════════

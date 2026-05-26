@@ -3,8 +3,8 @@ import G01 from './G01.js'
 import K01 from './K01.js'
 import G03 from './G03.js'
 import G11 from './G11.js'
-import G05 from './G05';
-import G08 from './G08';
+import G05 from './G05'
+import G08 from './G08'
 // ═══════════════════════════════════════════════════════════
 // KURSDATEN — Single Source of Truth
 // Lokale JS-Daten für MVP · Migration zu Firestore in Phase 3+

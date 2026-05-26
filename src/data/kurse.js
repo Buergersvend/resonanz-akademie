@@ -27,7 +27,6 @@ export const BEREICHE = [
   { id: 'quanten', name: 'Quantenarbeit', icon: '∞' },
   { id: 'praxis', name: 'Praxis & Business', icon: '💎' },
   { id: 'psyche', name: 'Psyche & Persönlichkeit', icon: '◉' },
-  { id: 'schutz', name: 'Schutz & Erdung', icon: '⊕' },
 ]
 
 export const KURSE = [

@@ -7,6 +7,7 @@ import G05 from './G05.js'
 import G08 from './G08.js'
 import P04 from './P04.js'
 import N01 from './N01.js'
+import G06 from './G06.js'
 // ═══════════════════════════════════════════════════════════
 // KURSDATEN — Single Source of Truth
 // Lokale JS-Daten für MVP · Migration zu Firestore in Phase 3+
@@ -30,6 +31,9 @@ export const BEREICHE = [
   { id: 'praxis', name: 'Praxis & Business', icon: '💎' },
   { id: 'psyche', name: 'Psyche & Persönlichkeit', icon: '◉' },
   { id: 'naturheilkunde', name: 'Natur & Pflanzenheilkunde', icon: '✦' },
+  { id: 'koerpergeist', name: 'Körper-Geist-Verbindung', icon: '◇' },
+{ id: 'energie', name: 'Energetik & Bewusstsein', icon: '◈' },
+{ id: 'koerper', name: 'Körper & Physische Heilung', icon: '⊕' },
 ]
 
 export const KURSE = [
@@ -1826,6 +1830,7 @@ G11,
   G08,
   P04,
   N01,
+  G06,
   // ═══════════════════════════════════════════════════════
   // Y05 — Human Design × Numerologie (COMING SOON)
   // ═══════════════════════════════════════════════════════

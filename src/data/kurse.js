@@ -28,6 +28,7 @@ import C02 from './C02.js'
 import K03 from './K03.js'
 import C08 from './C08.js'
 import Y02 from './Y02.js'
+import Y05 from './Y05.js'
 // ═══════════════════════════════════════════════════════════
 // KURSDATEN — Single Source of Truth
 // Lokale JS-Daten für MVP · Migration zu Firestore in Phase 3+
@@ -1873,6 +1874,7 @@ G11,
   K03,
   C08,
   Y02,
+  Y05,
   // ═══════════════════════════════════════════════════════
   // Y05 — Human Design × Numerologie (COMING SOON)
   // ═══════════════════════════════════════════════════════

@@ -53,6 +53,7 @@ export const BEREICHE = [
 { id: 'energie', name: 'Energetik & Bewusstsein', icon: '◈' },
 { id: 'koerper', name: 'Körper & Physische Heilung', icon: '⊕' },
   { id: 'spiritualitaet', name: 'Spiritualität', icon: '🙏' },
+  { id: 'koerper', name: 'Körper & Energie', icon: '🫀' },
 ]
 
 export const KURSE = [

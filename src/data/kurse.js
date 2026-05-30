@@ -33,6 +33,7 @@ import P22 from './P22.js'
 import F01 from './F01.js'
 import F02 from './F02.js'
 import G02 from './G02.js'
+import T01 from './T01.js'
 // ═══════════════════════════════════════════════════════════
 // KURSDATEN — Single Source of Truth
 // Lokale JS-Daten für MVP · Migration zu Firestore in Phase 3+
@@ -61,6 +62,7 @@ export const BEREICHE = [
 { id: 'koerper', name: 'Körper & Physische Heilung', icon: '⊕' },
   { id: 'spiritualitaet', name: 'Spiritualität', icon: '🙏' },
   { id: 'koerper', name: 'Körper & Energie', icon: '🫀' },
+  { id: 'tiere', name: 'Tierkommunikation', icon: '🐾' },
 ]
 
 export const KURSE = [
@@ -1883,6 +1885,7 @@ G11,
   F01,
   F02,
   G02,
+  T01,
   // ═══════════════════════════════════════════════════════
   // Y05 — Human Design × Numerologie (COMING SOON)
   // ═══════════════════════════════════════════════════════

@@ -1,4 +1,4 @@
-ximport P01 from './P01.js'
+import P01 from './P01.js'
 import G01 from './G01.js'
 import K01 from './K01.js'
 import G03 from './G03.js'

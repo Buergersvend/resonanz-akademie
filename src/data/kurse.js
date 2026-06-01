@@ -41,6 +41,7 @@ import T02 from './T02.js'
 import T07 from './T07.js'
 import G07 from './G07.js'
 import G12 from './G12.js'
+import B01 from './B01.js'
 // ═══════════════════════════════════════════════════════════
 // KURSDATEN — Single Source of Truth
 // Lokale JS-Daten für MVP · Migration zu Firestore in Phase 3+
@@ -1900,6 +1901,7 @@ G11,
   T07,
   G07,
   G12,
+  B01,
   // ═══════════════════════════════════════════════════════
   // Y05 — Human Design × Numerologie (COMING SOON)
   // ═══════════════════════════════════════════════════════

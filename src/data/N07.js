@@ -6,7 +6,7 @@ const N07 = {
   id: 'N07',
   titel: 'Ayurveda Grundlagen',
   untertitel: 'Doshas · Konstitutionstypen · Ernährung · Tagesrhythmus · Lebensführung',
-  bereich: 'natur',
+  bereich: 'naturheilkunde',
   format: 'standard',
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',

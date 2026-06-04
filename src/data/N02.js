@@ -6,7 +6,7 @@ const N02 = {
   id: 'N02',
   titel: 'Heilpflanzen-Lexikon',
   untertitel: 'Kräuterwissen · Anwendungsgebiete · Zubereitungsformen · Energetische Pflanzenheilkunde',
-  bereich: 'natur',
+  bereich: 'naturheilkunde',
   format: 'standard',
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',

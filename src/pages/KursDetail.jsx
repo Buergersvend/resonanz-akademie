@@ -89,7 +89,7 @@ export default function KursDetail() {
         <div style={s.header}>
           <span style={s.badge}>{kurs.symbol} {kurs.format === 'mikro' ? 'Mikro-Kurs' : kurs.format === 'standard' ? 'Standard-Kurs' : kurs.format === 'intensiv' ? 'Intensiv-Schulung' : 'Ausbildung'} · {kurs.stunden} · {kurs.preis}</span>
           <h1 style={s.title}>{kurs.titel}</h1>
-          <p style={s.desc}>{kurs.desc}</p>
+          <p style={s.desc}>{kurs.beschreibung || kurs.desc}</p>
         </div>
 
         {/* Fortschritts-Leiste */}

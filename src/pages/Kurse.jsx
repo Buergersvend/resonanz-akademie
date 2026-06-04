@@ -87,7 +87,7 @@ export default function Kurse() {
                   </span>
                 </div>
                 <h3 style={s.cardTitle}>{kurs.titel}</h3>
-                <p style={s.cardDesc}>{kurs.desc}</p>
+                <p style={s.cardDesc}>{kurs.beschreibung || kurs.desc}</p>
 
                 {/* Fortschritts-Leiste für aktive Kurse */}
                 {kurs.status === 'live' && hasProgress && (
@@ -109,7 +109,7 @@ export default function Kurse() {
                   <span style={s.cardModules}>
                     {kurs.module.length} Module{total > 0 ? ` · ${total} Lektionen` : ''}
                   </span>
-                  {kurs.status === 'live' ? (
+                  {(kurs.status ?? 'live') !== 'coming' ? (
                     <Link to={`/kurs/${kurs.id}`} className="btn btn-gold" style={s.cardBtn}>
                       {hasProgress ? (progress === 100 ? 'Ansehen' : 'Fortsetzen') : 'Starten'}
                     </Link>

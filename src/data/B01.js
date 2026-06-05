@@ -3,7 +3,7 @@ const B01 = {
   titel: 'META-Healing Level 1',
   bereich: 'bewusstsein',
   beschreibung: 'Lerne die Grundprinzipien des META-Healings — einer ganzheitlichen Methode, die körperliche Symptome als sinnvolle biologische Programme versteht. Diese Ausbildung vermittelt dir das Verständnis der Organ-Psyche-Verbindung, die Kunst der therapeutischen Befunderhebung und praktische Werkzeuge zur Aktivierung der Selbstheilungskräfte.',
-  status: 'live',
+  status: 'coming',
   module: [
     {
       id: 'B01-M1',

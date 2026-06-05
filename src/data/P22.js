@@ -3,7 +3,7 @@ const P22 = {
   titel: 'Traumatherapie energetisch',
   bereich: 'psyche',
   beschreibung: 'Lerne, wie sich Trauma im Energiefeld manifestiert und wie du mit energetischen Methoden zur Integration und Heilung beiträgst. Diese Ausbildung verbindet modernes Traumawissen mit feinstofflicher Wahrnehmung und energetischen Interventionstechniken für eine ganzheitliche Begleitung.',
-  status: 'live',
+  status: 'coming',
   module: [
     {
       id: 'P22-M1',

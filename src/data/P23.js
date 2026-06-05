@@ -3,7 +3,7 @@ const P23 = {
   titel: 'Somatic Experiencing — Körperorientierte Traumaarbeit',
   bereich: 'psyche',
   beschreibung: 'Lerne die Grundlagen körperorientierter Traumaarbeit nach den Prinzipien des Somatic Experiencing. Diese Ausbildung verbindet das Verständnis des autonomen Nervensystems mit praktischen Techniken zur Traumaregulation und befähigt dich, Klienten auf der Körperebene zu begleiten.',
-  status: 'live',
+  status: 'coming',
   module: [
     {
       id: 'P23-M1',

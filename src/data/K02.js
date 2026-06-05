@@ -12,7 +12,7 @@ const K02 = {
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
   beschreibung: `Dein Körper lügt nicht. Jedes Symptom, jeder Schmerz, jede chronische Beschwerde trägt eine Botschaft — einen Hinweis auf ein emotionales, mentales oder energetisches Ungleichgewicht, das nach Aufmerksamkeit ruft. Organsprache ist die Kunst, diese Botschaften zu entschlüsseln. In diesem Kurs lernst du, wie Organe, Körperregionen und Symptome mit seelischen Themen zusammenhängen, wie du diese Zusammenhänge in der energetischen Praxis nutzt und wie du den Körper als Landkarte der Seele lesen lernst.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

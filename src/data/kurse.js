@@ -49,6 +49,26 @@ import K04 from './K04.js'
 import B10 from './B10.js'
 import P03 from './P03.js'
 import P02 from './P02.js'
+import B14 from './B14.js'
+import C03 from './C03.js'
+import C04 from './C04.js'
+import C09 from './C09.js'
+import C10 from './C10.js'
+import N04 from './N04.js'
+import N08 from './N08.js'
+import N09 from './N09.js'
+import N10 from './N10.js'
+import N11 from './N11.js'
+import N12 from './N12.js'
+import N13 from './N13.js'
+import N14 from './N14.js'
+import N15 from './N15.js'
+import N16 from './N16.js'
+import P07 from './P07.js'
+import P12 from './P12.js'
+import S15 from './S15.js'
+import Y03 from './Y03.js'
+import Z03 from './Z03.js'
 // ═══════════════════════════════════════════════════════════
 // KURSDATEN — Single Source of Truth
 // Lokale JS-Daten für MVP · Migration zu Firestore in Phase 3+
@@ -130,6 +150,26 @@ G11,
   B08,
   B09,
   K04,
+  B14,
+  C03,
+  C04,
+  C09,
+  C10,
+  N04,
+  N08,
+  N09,
+  N10,
+  N11,
+  N12,
+  N13,
+  N14,
+  N15,
+  N16,
+  P07,
+  P12,
+  S15,
+  Y03,
+  Z03,
 ]
 
 // ── Helper-Funktionen ────────────────────────────────────

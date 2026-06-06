@@ -12,7 +12,7 @@ const N02 = {
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
   beschreibung: `Pflanzen heilen seit Jahrtausenden — lange bevor es Apotheken, Labore oder Pharmaunternehmen gab. In diesem Kurs lernst du die wichtigsten Heilpflanzen der europäischen und weltweiten Tradition kennen, verstehst ihre Wirkmechanismen, lernst praktische Zubereitungsformen und entdeckst die energetische Dimension der Pflanzenheilkunde. Von der Kamille auf der Wiese bis zu den großen Heilkräutern der Klostermedizin — du baust dir ein lebendiges Pflanzenwissen auf, das du sofort in Praxis und Alltag anwenden kannst.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

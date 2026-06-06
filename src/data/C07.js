@@ -12,7 +12,7 @@ const C07 = {
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Grundverständnis von Coaching oder Energiearbeit empfohlen',
   beschreibung: `Psychoenergetik schließt die Lücke zwischen klassischer Psychologie und energetischer Heilarbeit. Während die Psychologie den Verstand, die Emotionen und das Verhalten adressiert, arbeitet die Energetik mit Schwingungen, Feldern und subtilen Körpersystemen. Beide Ansätze haben enorme Stärken — und beide haben blinde Flecken. Die Psychoenergetik nach Sven Donath verbindet beide Welten zu einem integrativen Modell, das den ganzen Menschen erreicht: Körper, Psyche und Energiefeld als untrennbare Einheit. In diesem Kurs lernst du das Modell in seiner vollen Tiefe kennen und anwenden.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

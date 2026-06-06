@@ -1,17 +1,20 @@
-// N01.js — Aromatherapie
+// N01.js — Aromakunde
 // Standard ◈◈ · 6 Module · 18 Lektionen
 // Human Resonanz Akademie · Mai 2026
+// Rechtlich saniert (Zuschnitt): Heilaussagen entfernt, Wohlbefinds-/Duftrahmen, Disclaimer
 
 const N01 = {
   id: 'N01',
-  titel: 'Aromatherapie',
-  untertitel: 'Ätherische Öle · Wirkungsweisen · Anwendung in Praxis & Alltag',
+  titel: 'Aromakunde',
+  untertitel: 'Ätherische Öle · Duftcharakter · Anwendung in Praxis & Alltag',
   bereich: 'naturheilkunde',
   format: 'standard',
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
-  beschreibung: `Ätherische Öle sind hochkonzentrierte Pflanzenkraft — flüchtige Substanzen, die seit Jahrtausenden zur Heilung, Reinigung und Stärkung eingesetzt werden. In diesem Kurs lernst du, wie ätherische Öle wirken, welche Öle du für welche Anliegen einsetzt und wie du Aromatherapie professionell in deine Praxis und deinen Alltag integrierst. Von der Qualitätserkennung über die Mischungslehre bis zur energetischen Anwendung — du baust dir ein fundiertes Wissen auf, das dich sicher und kreativ mit Düften arbeiten lässt.`,
+  beschreibung: `Ätherische Öle sind hochkonzentrierte Pflanzenkraft — flüchtige Substanzen, die seit Jahrtausenden zur Pflege, Reinigung und für das Wohlbefinden geschätzt werden. In diesem Kurs lernst du, was ätherische Öle sind, woran du hochwertige Qualität erkennst, wie sie über den Geruchssinn wirken und wie du sie sicher und kreativ für mehr Wohlbefinden in deinem Alltag und deiner Praxis einsetzt. Von der Qualitätserkennung über die Mischungslehre bis zur achtsamen Duftarbeit — du baust dir ein fundiertes Wissen auf, das dich sicher mit Düften arbeiten lässt.
+
+Hinweis: Dieser Kurs vermittelt Duft- und Pflanzenkunde für Wohlbefinden, Entspannung und Selbsterfahrung. Er ersetzt keine ärztliche, heilkundliche oder pharmazeutische Beratung und ist keine Anleitung zur Behandlung von Krankheiten. Bei gesundheitlichen Beschwerden wende dich bitte an Ärztin oder Arzt, Apotheke oder Heilpraktiker.`,
   status: 'live',
 
   module: [
@@ -32,43 +35,43 @@ const N01 = {
 
 Ätherische Öle sind flüchtige, aromatische Verbindungen, die Pflanzen in spezialisierten Drüsenzellen produzieren. Sie sind keine "Öle" im klassischen Sinn — sie enthalten kein Fett, verdunsten vollständig und hinterlassen keinen fettigen Rückstand. Der Name "ätherisch" kommt vom griechischen "aither" — das Himmlische, das Flüchtige.
 
-Für die Pflanze erfüllen diese Substanzen lebenswichtige Funktionen: Sie locken bestäubende Insekten an, wehren Fressfeinde ab, schützen vor Pilzbefall und Bakterien, regulieren die Verdunstung und kommunizieren mit benachbarten Pflanzen. Was für die Pflanze Überlebenschemie ist, wird für den Menschen zum Heilmittel.
+Für die Pflanze erfüllen diese Substanzen lebenswichtige Funktionen: Sie locken bestäubende Insekten an, wehren Fressfeinde ab, schützen vor Pilzbefall und Bakterien, regulieren die Verdunstung und kommunizieren mit benachbarten Pflanzen. Was für die Pflanze Überlebenschemie ist, fasziniert den Menschen seit Jahrtausenden als Duft.
 
 ### Die Konzentration
 
-Um die Potenz ätherischer Öle zu verstehen, hilft ein Vergleich: Für einen einzigen Tropfen Rosenöl werden etwa 30 Rosenblüten benötigt. Für ein Kilogramm Rosenöl braucht es rund 4.000 bis 5.000 Kilogramm Rosenblätter. Diese extreme Konzentration erklärt sowohl die Wirksamkeit als auch die Notwendigkeit, mit ätherischen Ölen respektvoll und verdünnt zu arbeiten.
+Um die Potenz ätherischer Öle zu verstehen, hilft ein Vergleich: Für einen einzigen Tropfen Rosenöl werden etwa 30 Rosenblüten benötigt. Für ein Kilogramm Rosenöl braucht es rund 4.000 bis 5.000 Kilogramm Rosenblätter. Diese extreme Konzentration erklärt sowohl die Intensität als auch die Notwendigkeit, mit ätherischen Ölen respektvoll und verdünnt zu arbeiten.
 
 ### Wo in der Pflanze?
 
 Ätherische Öle finden sich in verschiedenen Pflanzenteilen — und der Pflanzenanteil bestimmt den Charakter des Öls:
 
-**Blüten:** Rose, Jasmin, Ylang-Ylang, Kamille, Lavendel — oft die kostbarsten und emotional wirksamsten Öle.
+**Blüten:** Rose, Jasmin, Ylang-Ylang, Kamille, Lavendel — oft die kostbarsten und duftintensivsten Öle.
 
-**Blätter:** Eukalyptus, Teebaum, Pfefferminze, Rosmarin — typisch frisch, klärend, atemwegsaktiv.
+**Blätter:** Eukalyptus, Teebaum, Pfefferminze, Rosmarin — typisch frisch und klärend im Duft.
 
-**Schalen/Rinden:** Zitrone, Orange, Bergamotte (Schale), Zimt (Rinde) — Zitrusöle wirken stimmungsaufhellend, Rindenöle wärmend.
+**Schalen/Rinden:** Zitrone, Orange, Bergamotte (Schale), Zimt (Rinde) — Zitrusöle duften hell und spritzig, Rindenöle warm.
 
-**Wurzeln:** Ingwer, Vetiver, Angelika — erdend, wärmend, stabilisierend.
+**Wurzeln:** Ingwer, Vetiver, Angelika — erdig, warm, schwer im Duft.
 
 **Harz:** Weihrauch, Myrrhe, Benzoe — tiefe, meditative Düfte mit langer Duftnote.
 
-**Holz:** Sandelholz, Zedernholz — beruhigend, zentrierend, langanhaltend.
+**Holz:** Sandelholz, Zedernholz — weich, zentrierend, langanhaltend.
 
-**Samen/Früchte:** Fenchel, Anis, Schwarzer Pfeffer — oft verdauungsfördernd und wärmend.
+**Samen/Früchte:** Fenchel, Anis, Schwarzer Pfeffer — oft würzig und wärmend im Charakter.
 
 ### Chemische Vielfalt
 
-Die Wirkung eines ätherischen Öls hängt von seiner chemischen Zusammensetzung ab. Die wichtigsten Stoffgruppen:
+Der Charakter eines ätherischen Öls hängt von seiner chemischen Zusammensetzung ab. Die wichtigsten Stoffgruppen:
 
-**Monoterpene** (z.B. in Zitrusölen, Kiefer): Stimmungsaufhellend, reinigend, luftverbessernd. Leicht und flüchtig.
+**Monoterpene** (z.B. in Zitrusölen, Kiefer): Leicht und flüchtig, frisch und spritzig im Duft.
 
-**Sesquiterpene** (z.B. in Kamille, Vetiver): Beruhigend, entzündungshemmend, erdend. Schwerere Moleküle.
+**Sesquiterpene** (z.B. in Kamille, Vetiver): Schwerere Moleküle, weicher, erdiger Duftcharakter.
 
-**Oxide** (z.B. 1,8-Cineol in Eukalyptus): Schleimlösend, atemwegsöffnend, klärend.
+**Oxide** (z.B. 1,8-Cineol in Eukalyptus): Klar, frisch, durchdringend im Duft.
 
-**Alkohole** (z.B. Linalool in Lavendel): Hautfreundlich, antimikrobiell, sanft wirkend.
+**Alkohole** (z.B. Linalool in Lavendel): Sanft, mild, gut hautverträglich.
 
-**Phenole** (z.B. in Thymian, Oregano): Stark antimikrobiell, aber potenziell hautreizend — erfordern besondere Vorsicht.
+**Phenole** (z.B. in Thymian, Oregano): Sehr intensiv und potenziell hautreizend — erfordern besondere Vorsicht und gute Verdünnung.
 
 ### Übung: Dein erster bewusster Duft
 
@@ -107,7 +110,7 @@ Die älteste und häufigste Methode. Das Prinzip ist seit über tausend Jahren b
 - Wasserqualität: Reines Quellwasser liefert die besten Ergebnisse
 
 **Hydrolate als Nebenprodukt:**
-Das Pflanzenwasser, das bei der Destillation entsteht, ist kein Abfall — es enthält wasserlösliche Pflanzenbestandteile und einen kleinen Anteil ätherischen Öls. Rosenhydrolat, Lavendelhydrolat und Kamillenhydrolat sind wertvolle eigenständige Produkte für Hautpflege und sanfte Aromatherapie.
+Das Pflanzenwasser, das bei der Destillation entsteht, ist kein Abfall — es enthält wasserlösliche Pflanzenbestandteile und einen kleinen Anteil ätherischen Öls. Rosenhydrolat, Lavendelhydrolat und Kamillenhydrolat sind wertvolle eigenständige Produkte für die Hautpflege und sanfte Duftanwendung.
 
 ### Kaltpressung (Expression)
 
@@ -134,8 +137,8 @@ Für empfindliche Blüten, deren Duftstoffe die Hitze der Destillation nicht üb
 
 **Wichtig zu wissen:**
 - Absolues sind technisch keine "ätherischen Öle" — sie enthalten minimale Lösungsmittelreste
-- In der strengen Aromatherapie werden sie nicht für die therapeutische Hautanwendung empfohlen
-- Für die Raumbeduftung und emotionale Arbeit sind sie hervorragend
+- Für die direkte Hautanwendung werden sie in der klassischen Aromakunde zurückhaltend beurteilt
+- Für die Raumbeduftung und emotionale Duftarbeit sind sie hervorragend
 
 ### CO₂-Extraktion
 
@@ -163,12 +166,12 @@ Diese vier Informationen sollten auf jedem seriösen Etikett stehen.`
 
 ### Warum Qualität entscheidend ist
 
-Ein minderwertiges oder verfälschtes ätherisches Öl ist nicht nur unwirksam — es kann schaden. Synthetische Duftstoffe, gestreckte Öle oder verunreinigte Produkte können Hautreizungen, allergische Reaktionen oder Kopfschmerzen verursachen. Die Fähigkeit, Qualität zu erkennen, ist keine optionale Zusatzkompetenz — sie ist Grundvoraussetzung für sichere Aromatherapie.
+Ein minderwertiges oder verfälschtes ätherisches Öl ist nicht nur schwach im Duft — es kann der Haut schaden. Synthetische Duftstoffe, gestreckte Öle oder verunreinigte Produkte können Hautreizungen, allergische Reaktionen oder Kopfschmerzen auslösen. Die Fähigkeit, Qualität zu erkennen, ist keine optionale Zusatzkompetenz — sie ist Grundvoraussetzung für den sicheren Umgang mit Düften.
 
 ### Die fünf Qualitätsmerkmale
 
 **1. Botanische Bezeichnung**
-Jedes seriöse Öl trägt den lateinischen Pflanzennamen auf dem Etikett. Das ist entscheidend, weil Volksnamen mehrdeutig sind: "Kamille" kann Matricaria chamomilla (Deutsche Kamille — blau, entzündungshemmend) oder Chamaemelum nobile (Römische Kamille — gelblich, beruhigend) sein. Zwei völlig verschiedene Öle.
+Jedes seriöse Öl trägt den lateinischen Pflanzennamen auf dem Etikett. Das ist entscheidend, weil Volksnamen mehrdeutig sind: "Kamille" kann Matricaria chamomilla (Deutsche Kamille — blau) oder Chamaemelum nobile (Römische Kamille — gelblich) sein. Zwei völlig verschiedene Öle.
 
 **2. Pflanzenteil und Herkunft**
 Der Pflanzenteil (Blüte, Blatt, Wurzel, Schale) und das Anbauland beeinflussen die Zusammensetzung. Lavendel aus 1.200 Metern Höhe in der Provence hat ein anderes Profil als Lavendel aus der Ebene. Teebaum aus Australien unterscheidet sich von Teebaum aus Südafrika.
@@ -233,8 +236,8 @@ Weniger als 4× Ja? Recherchiere den Anbieter oder erwäge einen Wechsel.`
     // ============================================================
     {
       id: 'N01-M2',
-      titel: 'Wie ätherische Öle wirken',
-      beschreibung: 'Die drei Wirkwege ätherischer Öle verstehen — über den Geruchssinn, über die Haut und auf die Psyche.',
+      titel: 'Wie ätherische Öle auf uns wirken',
+      beschreibung: 'Die Wege ätherischer Öle verstehen — über den Geruchssinn, über die Haut und auf die Stimmung.',
       lektionen: [
         {
           id: 'N01-M2-L4',
@@ -269,20 +272,22 @@ Verarbeitet emotionale Reaktionen — besonders Angst, aber auch Freude, Ekel un
 Das Gedächtniszentrum. Düfte werden hier mit Erinnerungen verknüpft — und diese Verknüpfungen sind außergewöhnlich stabil. Der Geruch von Vanille, der dich an die Küche deiner Großmutter erinnert, wird dich ein Leben lang begleiten.
 
 **Hypothalamus:**
-Steuert das autonome Nervensystem — Herzfrequenz, Blutdruck, Verdauung, Hormonausschüttung. Düfte können über diesen Weg messbare körperliche Reaktionen auslösen: Lavendel senkt den Cortisolspiegel, Pfefferminze erhöht die Aufmerksamkeit.
+Steht in Verbindung mit dem autonomen Nervensystem. Über diesen Weg lässt sich nachvollziehen, warum Düfte unsere Stimmung und unser Empfinden so unmittelbar beeinflussen können — der Duft von Lavendel wird von vielen als beruhigend erlebt, Pfefferminze von vielen als wach machend.
 
-### Wissenschaftlich messbare Wirkungen
+### Wahrnehmbare Wirkungen auf das Befinden
 
-Die Wirkung ätherischer Öle über den Geruchssinn ist keine Esoterik — sie ist messbar:
+Dass Düfte auf das Befinden wirken, ist gut nachvollziehbar und teils wissenschaftlich untersucht — wobei die Stärke der Wirkung individuell sehr unterschiedlich ist:
 
-- Lavendel-Inhalation reduziert nachweislich den Cortisolspiegel und senkt die Herzfrequenz
-- Pfefferminzduft verbessert die kognitive Leistung und Reaktionszeit
-- Zitrusdüfte erhöhen die Serotoninausschüttung — messbar stimmungsaufhellend
-- Rosmarin-Inhalation verbessert das Kurzzeitgedächtnis
+- Lavendelduft wird von vielen Menschen als beruhigend und entspannend erlebt
+- Pfefferminzduft empfinden viele als anregend und konzentrationsfördernd
+- Zitrusdüfte werden häufig als stimmungsaufhellend und erfrischend beschrieben
+- Rosmarinduft wird traditionell mit geistiger Wachheit in Verbindung gebracht
+
+Diese Beschreibungen sind Erfahrungswerte, keine garantierten Wirkungen — wie ein Duft auf dich wirkt, ist immer auch persönlich.
 
 ### Die Macht der Assoziation
 
-Neben der neurochemischen Wirkung haben Düfte eine starke assoziative Komponente: Ein Duft, den du in einem glücklichen Moment erlebt hast, wird dich glücklich stimmen — unabhängig von seiner chemischen Zusammensetzung. Das bedeutet: Die Wirkung ätherischer Öle ist teilweise individuell. Was den einen beruhigt, kann den anderen an eine negative Erfahrung erinnern.
+Neben der unmittelbaren Duftwirkung haben Düfte eine starke assoziative Komponente: Ein Duft, den du in einem glücklichen Moment erlebt hast, wird dich glücklich stimmen — unabhängig von seiner chemischen Zusammensetzung. Das bedeutet: Die Wirkung ätherischer Öle ist teilweise individuell. Was den einen entspannt, kann den anderen an eine negative Erfahrung erinnern.
 
 ### Übung: Dein Duft-Emotions-Profil
 
@@ -292,11 +297,11 @@ Rieche an drei verschiedenen ätherischen Ölen (oder Pflanzen/Gewürzen). Notie
 3. Körperreaktion (Entspannung? Anregung? Engegefühl?)
 4. Bewertung: Mag ich den Duft? (1–10)
 
-Vergleiche deine Reaktionen mit der "offiziellen" Wirkung des Öls — Übereinstimmungen und Abweichungen sind gleichermaßen informativ.`
+Vergleiche deine Reaktionen mit der "üblichen" Beschreibung des Öls — Übereinstimmungen und Abweichungen sind gleichermaßen informativ.`
         },
         {
           id: 'N01-M2-L5',
-          titel: 'Wirkung über die Haut — Aufnahme, Transport & Metabolismus',
+          titel: 'Wirkung über die Haut — Aufnahme, Trägeröle & Verdünnung',
           inhalt: `## Wirkung über die Haut
 
 ### Durch die Barriere
@@ -339,7 +344,7 @@ Die äußerste Schicht der Haut — das Stratum corneum — besteht aus abgestor
 
 *Mandelöl:* Mild, gut verträglich, leicht pflegend. Der Klassiker für Körpermassage.
 
-*Kokosöl:* Antimikrobiell, kühlend. Wird bei Raumtemperatur fest. Gut für tropische Klimazonen oder bei Hautinfektionen.
+*Kokosöl:* Kühlend im Gefühl. Wird bei Raumtemperatur fest. Gut für tropische Klimazonen.
 
 *Sesamöl:* Wärmend, nährend, traditionell in der ayurvedischen Massage verwendet. Etwas schwerer als Mandelöl.
 
@@ -352,15 +357,15 @@ Die Verdünnung schützt vor Hautreizungen und allergischen Reaktionen:
 - **Körpermassage (Erwachsene):** 2–3% → 6–9 Tropfen ätherisches Öl auf 15 ml Trägeröl
 - **Gesicht:** 1% → 3 Tropfen auf 15 ml Trägeröl
 - **Kinder (über 6 Jahre):** 1% → 3 Tropfen auf 15 ml Trägeröl
-- **Schwangere:** 1% → nur bestimmte Öle nach Rücksprache
-- **Akutanwendung (kleiner Bereich):** 5% → 15 Tropfen auf 15 ml Trägeröl
+- **Schwangere:** 1% → nur bestimmte Öle, und nur nach Rücksprache mit Ärztin oder Arzt
+- **Punktuelle, kurzzeitige Anwendung (kleiner Bereich):** bis 5% → 15 Tropfen auf 15 ml Trägeröl
 - **Babys und Kleinkinder (0–6):** Generell keine ätherischen Öle direkt auf die Haut
 
 **1 ml = ca. 20 Tropfen** ätherisches Öl (Faustregel, variiert je nach Öl und Tropfer).
 
 ### Übung: Verdünnung berechnen
 
-Du möchtest ein Massageöl herstellen:
+Du möchtest ein Pflegeöl herstellen:
 - 30 ml Mandelöl als Basis
 - 2% Verdünnung
 - Wie viele Tropfen ätherisches Öl brauchst du?
@@ -371,44 +376,46 @@ Lösung: 30 ml × 0,02 = 0,6 ml → 0,6 × 20 = 12 Tropfen.
         },
         {
           id: 'N01-M2-L6',
-          titel: 'Wirkung auf Psyche & Emotionen — Öle als Stimmungsregulatoren',
-          inhalt: `## Wirkung auf Psyche & Emotionen
+          titel: 'Wirkung auf Stimmung & Emotionen — Öle als Stimmungsbegleiter',
+          inhalt: `## Wirkung auf Stimmung & Emotionen
 
-### Düfte als emotionale Medizin
+### Düfte als Begleiter der Stimmung
 
-Die emotionale Wirkung ätherischer Öle ist kein Nebeneffekt — sie ist einer der wichtigsten therapeutischen Aspekte der Aromatherapie. Jedes ätherische Öl hat neben seiner physischen Wirkung ein emotionales Profil: eine Tendenz, bestimmte Stimmungen zu unterstützen, zu verändern oder auszugleichen.
+Die emotionale Wirkung ätherischer Öle ist einer der faszinierendsten Aspekte der Aromakunde. Jedes ätherische Öl hat neben seinem Duftcharakter ein emotionales Profil: eine Tendenz, bestimmte Stimmungen zu begleiten, zu unterstützen oder auszugleichen — wobei das Erleben immer individuell bleibt.
 
 ### Die vier emotionalen Grundrichtungen
 
-**Beruhigend / Sedierend:**
-Öle, die das parasympathische Nervensystem aktivieren — den "Ruhe-und-Verdauungs"-Modus. Sie verlangsamen Herzschlag und Atmung, senken den Blutdruck und reduzieren Cortisol.
+**Beruhigend / entspannend:**
+Öle, deren Duft von vielen als beruhigend erlebt wird und die mit Ruhe und Gelassenheit in Verbindung gebracht werden.
 Beispiele: Lavendel, Kamille, Ylang-Ylang, Sandelholz, Neroli, Vetiver, Bergamotte.
-Einsatz: Stress, Unruhe, Schlafstörungen, Angstzustände, Hyperaktivität.
+Stimmungskontext: Anspannung, Unruhe, das Bedürfnis nach Ruhe am Abend.
 
-**Aktivierend / Stimulierend:**
-Öle, die das sympathische Nervensystem anregen — den "Kampf-oder-Flucht"-Modus, aber in einer dosierten, konstruktiven Form. Sie erhöhen die Wachheit, verbessern die Konzentration und steigern die Energie.
+**Anregend / belebend:**
+Öle, deren Duft als frisch und wach machend empfunden wird.
 Beispiele: Pfefferminze, Rosmarin, Eukalyptus, Zitrone, Grapefruit, Schwarzer Pfeffer.
-Einsatz: Müdigkeit, Antriebslosigkeit, Konzentrationsschwäche, Morgenmüdigkeit.
+Stimmungskontext: Müdigkeit, das Bedürfnis nach Frische und Klarheit, ein Energietief am Nachmittag.
 
-**Stimmungsaufhellend / Euphorisierend:**
-Öle, die die Ausschüttung von Serotonin, Dopamin oder Endorphinen fördern — die körpereigenen "Glückshormone".
+**Stimmungsaufhellend:**
+Öle, deren Duft von vielen als heiter und aufhellend erlebt wird.
 Beispiele: Orange, Bergamotte, Jasmin, Rose, Ylang-Ylang, Grapefruit, Mandarine.
-Einsatz: Niedergeschlagenheit, saisonale Verstimmung, emotionale Schwere, Traurigkeit.
+Stimmungskontext: graue Tage, emotionale Schwere, das Bedürfnis nach Leichtigkeit.
 
-**Erdend / Zentrierend:**
-Öle, die ein Gefühl von Stabilität, Verwurzelung und innerem Halt vermitteln. Sie wirken weder stark beruhigend noch stimulierend — sie bringen ins Gleichgewicht.
+**Erdend / zentrierend:**
+Öle, die ein Gefühl von Stabilität, Verwurzelung und innerem Halt vermitteln.
 Beispiele: Vetiver, Weihrauch, Sandelholz, Zedernholz, Patchouli, Myrrhe.
-Einsatz: Grübeln, Gedankenkreisen, emotionale Instabilität, Rastlosigkeit, Dissoziation.
+Stimmungskontext: Gedankenkreisen, Rastlosigkeit, das Bedürfnis nach Bodenhaftung.
+
+Wichtig: Diese Einordnungen sind Erfahrungswerte und ersetzen keine fachliche Beratung. Bei anhaltender innerer Belastung, gedrückter Stimmung oder Schlafproblemen, die über normale Schwankungen hinausgehen, wende dich bitte an Ärztin, Arzt oder eine psychotherapeutische Fachperson — Düfte können das Wohlbefinden begleiten, aber keine fachliche Hilfe ersetzen.
 
 ### Duft und Erinnerung
 
-Ein einzigartiger Aspekt der Aromatherapie: Düfte können emotionale Zustände "ankern". Wenn du in einem Zustand tiefer Entspannung regelmäßig Lavendelöl einatmest, wird der Lavendelduft allein mit der Zeit ausreichen, um den Entspannungszustand auszulösen. Dieses Prinzip — bekannt als konditionierte Reaktion — macht ätherische Öle zu mächtigen Werkzeugen für emotionale Selbstregulation.
+Ein einzigartiger Aspekt der Duftarbeit: Düfte können Stimmungen "ankern". Wenn du in einem Zustand tiefer Entspannung regelmäßig Lavendelöl einatmest, wird der Lavendelduft allein mit der Zeit dazu beitragen, dich an diesen Entspannungszustand zu erinnern. Dieses Prinzip — bekannt als konditionierte Reaktion — macht ätherische Öle zu hilfreichen Werkzeugen für die emotionale Selbstfürsorge.
 
 **Praktische Anwendung des Ankerns:**
 1. Wähle einen Duft für den gewünschten Zustand (z.B. Lavendel für Ruhe)
 2. Rieche an dem Öl in Momenten, in denen du den Zustand bereits erlebst (z.B. nach Meditation)
 3. Wiederhole über 2–3 Wochen
-4. Der Duft allein löst nun die gewünschte Reaktion aus — auch in Stresssituationen
+4. Der Duft allein erinnert dich nun an den gewünschten Zustand — auch in anspruchsvollen Momenten
 
 ### Die Duftnote als emotionaler Fingerabdruck
 
@@ -420,9 +427,9 @@ Jedes ätherische Öl hat eine bestimmte Duftnote — eine Art zeitliche Signatu
 
 **Basisnote (Base Note):** Schwer, erdend, entwickelt sich langsam, hält 6–24 Stunden. Emotional: die Grundstimmung, die tragende Schicht. Beispiele: Sandelholz, Vetiver, Patchouli, Myrrhe, Weihrauch.
 
-### Übung: Emotionale Duft-Apotheke
+### Übung: Emotionale Duft-Sammlung
 
-Erstelle deine persönliche emotionale Duft-Apotheke. Notiere für jeden Bereich ein Öl (oder eine Pflanze), das bei dir wirkt:
+Erstelle deine persönliche Duft-Sammlung. Notiere für jeden Bereich ein Öl (oder eine Pflanze), das bei dir wirkt:
 1. Mein Beruhigungs-Duft: ___
 2. Mein Energie-Duft: ___
 3. Mein Stimmungsaufheller: ___
@@ -438,7 +445,7 @@ Erstelle deine persönliche emotionale Duft-Apotheke. Notiere für jeden Bereich
     {
       id: 'N01-M3',
       titel: 'Die 12 wichtigsten Öle',
-      beschreibung: 'Zwölf Schlüssel-Öle kennenlernen, die den Grundstock jeder Aromatherapie-Praxis bilden.',
+      beschreibung: 'Zwölf Schlüssel-Öle nach Duftcharakter und traditioneller Verwendung kennenlernen.',
       lektionen: [
         {
           id: 'N01-M3-L7',
@@ -447,7 +454,7 @@ Erstelle deine persönliche emotionale Duft-Apotheke. Notiere für jeden Bereich
 
 ### Die drei Öle, mit denen alles beginnt
 
-Wenn du nur drei ätherische Öle besitzen dürftest, wären es diese. Sie decken das breiteste Wirkspektrum ab und sind die Grundlage jeder Hausapotheke und jeder Praxis.
+Wenn du nur drei ätherische Öle besitzen dürftest, wären es diese. Sie decken das breiteste Duftspektrum ab und sind die Grundlage jeder Duftsammlung und jeder Praxis.
 
 ---
 
@@ -459,49 +466,38 @@ Wenn du nur drei ätherische Öle besitzen dürftest, wären es diese. Sie decke
 **Duftnote:** Herznote — blumig, krautig, leicht süß
 **Hauptinhaltsstoffe:** Linalool, Linalylacetat
 
-**Körperliche Wirkung:**
-- Hautregenerierend — bei kleinen Verbrennungen, Insektenstichen, Hautreizungen
-- Schmerzlindernd — bei Kopfschmerzen (Schläfen), Muskelschmerzen
-- Krampflösend — bei Menstruationsbeschwerden, Magenkrämpfen
+**Duftcharakter & Erleben:**
+- Wird von vielen als beruhigend und ausgleichend erlebt
+- Häufig genutzter Begleiter für entspannte Abende und erholsame Ruhe
+- Sanft und unaufdringlich — eines der mildesten Öle
 
-**Emotionale Wirkung:**
-- Stark beruhigend, angstlösend, schlaffördernd
-- Ausgleichend bei emotionaler Unruhe
-- Unterstützt die Selbstregulation des Nervensystems
-
-**Anwendung:**
-- Diffuser am Abend für besseren Schlaf
+**Anwendung (Wohlbefinden):**
+- Diffuser am Abend für eine entspannte Atmosphäre
 - 1–2 Tropfen auf das Kopfkissen
-- Verdünnt auf die Schläfen bei Kopfschmerzen
 - In der Badewanne (5 Tropfen mit etwas Sahne oder Salz emulgiert)
+- Verdünnt als Pflegeöl für die Haut
 
-**Besonderheit:** Lavendel ist eines der wenigen ätherischen Öle, das in kleinen Mengen pur auf die Haut aufgetragen werden kann — bei kleinen Verbrennungen oder Insektenstichen. Trotzdem: Verdünnung ist auch hier die beste Praxis.
+**Besonderheit:** Lavendel gilt als besonders mild und gut verträglich. Dennoch gilt auch hier: Verdünnung ist die beste Praxis.
 
 ---
 
 ### Teebaum (Melaleuca alternifolia)
 
-**Der Desinfizient.** Das stärkste antimikrobielle Öl der Aromatherapie — gegen Bakterien, Viren und Pilze gleichermaßen wirksam.
+**Der Klärende.** Ein traditionsreiches Öl mit frischem, markantem Duft.
 
 **Gewinnung:** Wasserdampfdestillation der Blätter
 **Duftnote:** Kopfnote — frisch, medizinisch, kampferartig
 **Hauptinhaltsstoffe:** Terpinen-4-ol, γ-Terpinen, α-Terpinen
 
-**Körperliche Wirkung:**
-- Stark antimikrobiell — Hautinfektionen, Akne, Nagelpilz
-- Antiviral — Erkältungsunterstützung, Lippenherpes
-- Immunstärkend — regt die körpereigene Abwehr an
+**Duftcharakter & Erleben:**
+- Frisch, klar, durchdringend
+- Wird traditionell für ein Gefühl von Sauberkeit und Frische geschätzt
+- Auf der Duftebene als reinigend und klärend empfunden
 
-**Emotionale Wirkung:**
-- Klärend, reinigend — auch auf energetischer Ebene
-- Stärkend bei dem Gefühl, "etwas ausbrüten" zu müssen
-- Unterstützt das Gefühl von Sauberkeit und frischem Anfang
-
-**Anwendung:**
-- Verdünnt auf Unreinheiten und Hautirritationen (2% in Jojobaöl)
-- Dampfinhalation bei Erkältung (3 Tropfen in heißes Wasser)
-- Im Diffuser zur Raumreinigung bei Erkältungswellen
-- Fußbad bei Fußpilz (5 Tropfen in warmes Wasser mit Salz)
+**Anwendung (Wohlbefinden & Pflege):**
+- Verdünnt in der Hautpflege (2% in Jojobaöl)
+- Im Diffuser zur frischen Raumatmosphäre
+- Als Zusatz in selbstgemachten Reinigungssprays für den Haushalt
 
 **Wichtig:** Teebaum oxidiert schnell — nach dem Öffnen innerhalb von 6–12 Monaten verbrauchen. Oxidiertes Teebaumöl ist hautreizend.
 
@@ -509,30 +505,23 @@ Wenn du nur drei ätherische Öle besitzen dürftest, wären es diese. Sie decke
 
 ### Pfefferminze (Mentha × piperita)
 
-**Der Wachmacher.** Kühlend, klärend und sofort spürbar — Pfefferminze ist das Öl für Kopf und Fokus.
+**Der Wachmacher.** Kühlend und sofort spürbar — Pfefferminze ist das Öl für einen klaren Kopf.
 
 **Gewinnung:** Wasserdampfdestillation der Blätter
 **Duftnote:** Kopfnote — scharf, kühlend, mentholig
 **Hauptinhaltsstoffe:** Menthol, Menthon
 
-**Körperliche Wirkung:**
-- Kühlend und schmerzlindernd — bei Kopfschmerzen (Schläfen und Nacken)
-- Verdauungsfördernd — bei Übelkeit, Blähungen, Reisekrankheit
-- Atemwegsöffnend — befreit die Nase sofort
-- Muskelentspannend — nach Sport oder bei Verspannungen
+**Duftcharakter & Erleben:**
+- Frisch und kühlend im Dufterleben
+- Wird von vielen als anregend und konzentrationsfördernd empfunden
+- Belebend, ohne aufzuputschen
 
-**Emotionale Wirkung:**
-- Stark konzentrationsfördernd und wachmachend
-- Bringt Klarheit bei Verwirrung oder Überforderung
-- Energetisierend ohne aufzuputschen
+**Anwendung (Wohlbefinden):**
+- Diffuser am Arbeitsplatz für eine frische Atmosphäre
+- Inhalation für ein Gefühl von Frische
+- Ein Tropfen auf die Handflächen, verreiben, inhalieren — ein frischer Moment
 
-**Anwendung:**
-- Verdünnt auf Schläfen und Nacken bei Kopfschmerzen
-- Inhalation bei verstopfter Nase
-- Diffuser am Arbeitsplatz für Fokus
-- Ein Tropfen auf die Handflächen, verreiben, inhalieren — sofortige Wachheit
-
-**Kontraindikationen:** Nicht bei Kindern unter 6 Jahren (Menthol kann Atemkrämpfe auslösen). Nicht in der Nähe der Augen. Nicht bei Epilepsie. Nicht abends verwenden — kann den Schlaf stören.
+**Kontraindikationen / Vorsicht:** Nicht bei Kindern unter 6 Jahren (Menthol kann Atemkrämpfe auslösen). Nicht in der Nähe der Augen. Nicht bei Epilepsie. Abends meiden — der Duft wird als wach machend erlebt. Bei Unsicherheit Rücksprache mit Ärztin, Arzt oder Apotheke.
 
 ### Übung: Die drei Allrounder vergleichen
 
@@ -549,42 +538,36 @@ Wenn du alle drei Öle hast, mache einen direkten Vergleich:
 
 ### Drei Öle für den Geist
 
-Diese drei Öle bilden das nächste Fundament: Weihrauch für die spirituelle Tiefe, Rosmarin für die mentale Schärfe, Eukalyptus für die physische Klarheit.
+Diese drei Öle bilden das nächste Fundament: Weihrauch für die meditative Tiefe, Rosmarin für die mentale Frische, Eukalyptus für das Gefühl von Klarheit.
 
 ---
 
 ### Weihrauch (Boswellia carterii / B. sacra)
 
-**Das sakrale Öl.** Seit über 5.000 Jahren in Ritualen, Zeremonien und der Heilkunde verwendet — eines der ältesten bekannten Aromatherapie-Mittel.
+**Das sakrale Öl.** Seit über 5.000 Jahren in Ritualen und Zeremonien verwendet — einer der ältesten bekannten Dufte der Menschheit.
 
 **Gewinnung:** Wasserdampfdestillation des Harzes (Olibanum)
 **Duftnote:** Basisnote — warm, harzig, leicht würzig, tiefgründig
 **Hauptinhaltsstoffe:** α-Pinen, Limonen, Incensol
 
-**Körperliche Wirkung:**
-- Entzündungshemmend — unterstützend bei Gelenk- und Atemwegsentzündungen
-- Hautpflegend — fördert die Zellregeneration, unterstützt reife Haut
-- Atemvertiefend — öffnet die Bronchien und fördert tiefes Atmen
+**Duftcharakter & Erleben:**
+- Tief, warm, getragen — ein klassischer Meditationsduft
+- Wird von vielen als beruhigend und sammelnd erlebt
+- Begleitet Momente der Stille und inneren Einkehr
+- Traditionell mit Andacht und Ritual verbunden
 
-**Emotionale Wirkung:**
-- Tiefgreifend beruhigend und meditationsfördernd
-- Löst Grübeln und Gedankenkreisen
-- Fördert innere Stille und Anbindung
-- Hilft bei der Verarbeitung von Trauer und Verlust
-
-**Anwendung:**
+**Anwendung (Wohlbefinden):**
 - Diffuser während Meditation oder stiller Praxis
-- Verdünnt auf die Brust für tiefere Atmung
-- Gesichtsöl (1% in Arganöl) für reife Haut
-- Ein Tropfen auf die Innenseite der Handgelenke — stündlich daran riechen für Erdung im stressigen Alltag
+- Gesichtspflegeöl (1% in Arganöl) für reife Haut
+- Ein Tropfen auf die Innenseite der Handgelenke — für Momente der Erdung im Alltag
 
-**Besonderheit:** Weihrauch wird oft als "das Öl für alles" bezeichnet — aber seine größte Stärke liegt in der emotionalen und spirituellen Wirkung. Es ist das Öl der Wahl für alle Formen meditativer und energetischer Arbeit.
+**Besonderheit:** Weihrauch gilt als das Öl der Wahl für alle Formen meditativer und kontemplativer Praxis.
 
 ---
 
 ### Rosmarin (Rosmarinus officinalis ct. 1,8-Cineol)
 
-**Der Gedächtniswächter.** Rosmarin ist seit der Antike mit Erinnerung und geistiger Klarheit assoziiert — und moderne Studien bestätigen diese Tradition.
+**Der Klare.** Rosmarin ist seit der Antike mit Erinnerung und geistiger Frische assoziiert.
 
 **Gewinnung:** Wasserdampfdestillation der blühenden Spitzen
 **Duftnote:** Herznote — krautig, frisch, leicht kampferig
@@ -592,33 +575,27 @@ Diese drei Öle bilden das nächste Fundament: Weihrauch für die spirituelle Ti
 
 **Chemotypen — wichtig!**
 Rosmarin gibt es in verschiedenen Chemotypen (gleiche Pflanze, aber je nach Standort unterschiedliche chemische Zusammensetzung):
-- *ct. 1,8-Cineol:* Am häufigsten. Atemwegsfreundlich, klärend. Standard für Aromatherapie.
-- *ct. Kampfer:* Stärker muskelwirksam, weniger für die Atemwege.
-- *ct. Verbenon:* Mildeste Variante, besonders hautfreundlich und leberschützend.
+- *ct. 1,8-Cineol:* Am häufigsten. Frisch, klar. Standard für die Aromakunde.
+- *ct. Kampfer:* Markanter, kräftiger im Duft.
+- *ct. Verbenon:* Mildeste Variante, besonders hautfreundlich.
 
-**Körperliche Wirkung:**
-- Durchblutungsfördernd — bei Muskelschmerzen und kalten Händen/Füßen
-- Atemwegsöffnend — schleimlösend bei Erkältung
-- Haarwuchsfördernd — regelmäßige Kopfhautmassage stärkt die Haarfollikel
+**Duftcharakter & Erleben:**
+- Frisch, krautig, klärend
+- Wird traditionell mit geistiger Wachheit und Konzentration verbunden
+- Von vielen als belebend und fokussierend erlebt
 
-**Emotionale Wirkung:**
-- Gedächtnis- und konzentrationsfördernd
-- Stärkt das Selbstvertrauen und die Entschlusskraft
-- Hilft bei geistiger Erschöpfung und Prüfungsangst
-
-**Anwendung:**
+**Anwendung (Wohlbefinden):**
 - Diffuser während der Arbeit oder beim Lernen
-- Kopfhautmassage (3 Tropfen in 15 ml Jojobaöl)
-- Morgendliche Inhalation für einen klaren Start
-- Fußbad bei kalten Füßen (3 Tropfen mit Salz emulgiert)
+- Kopfhautpflegeöl (3 Tropfen in 15 ml Jojobaöl)
+- Morgendliche Inhalation für einen frischen Start
 
-**Kontraindikationen:** Nicht bei Epilepsie (kampferhaltig). Nicht bei Bluthochdruck in hoher Dosierung. Nicht bei Schwangeren.
+**Kontraindikationen / Vorsicht:** Nicht bei Epilepsie (kampferhaltig). Nicht bei Bluthochdruck in hoher Dosierung. Nicht in der Schwangerschaft. Bei Unsicherheit Rücksprache mit Ärztin, Arzt oder Apotheke.
 
 ---
 
 ### Eukalyptus (Eucalyptus globulus / E. radiata)
 
-**Der Atembefreier.** Kein Öl öffnet die Atemwege so schnell und so gründlich wie Eukalyptus.
+**Der Frische.** Kein Öl duftet so klar, kühl und durchdringend wie Eukalyptus.
 
 **Gewinnung:** Wasserdampfdestillation der Blätter
 **Duftnote:** Kopfnote — kampferig, frisch, kühl, medizinisch
@@ -628,32 +605,25 @@ Rosmarin gibt es in verschiedenen Chemotypen (gleiche Pflanze, aber je nach Stan
 - *E. globulus:* Intensiver, stärker. Für Erwachsene. Das "klassische" Eukalyptusöl.
 - *E. radiata:* Milder, besser verträglich. Für Kinder ab 6 Jahren und empfindliche Erwachsene.
 
-**Körperliche Wirkung:**
-- Stark schleimlösend und atemwegsöffnend
-- Antimikrobiell — unterstützt bei Atemwegsinfekten
-- Kühlend und schmerzlindernd bei Muskelschmerzen
-- Fiebersenkend — äußerlich auf Stirn und Nacken (verdünnt)
+**Duftcharakter & Erleben:**
+- Klar, kühl, weit — vermittelt ein Gefühl von Frische und Weite
+- Wird von vielen als befreiend und klärend empfunden
+- Ein typischer Winterduft
 
-**Emotionale Wirkung:**
-- Klärend bei geistiger Trägheit
-- Fördert das Gefühl von Weite und Freiheit
-- Hilft bei emotionaler Enge und dem Gefühl, nicht durchatmen zu können
+**Anwendung (Wohlbefinden):**
+- Dufterlebnis im Diffuser für eine frische Raumatmosphäre
+- Als Zusatz im selbstgemachten Raumspray
+- Verdünnt als belebendes Pflegeöl
 
-**Anwendung:**
-- Dampfinhalation bei Erkältung (3–5 Tropfen in heißes Wasser, Handtuch über den Kopf)
-- Brustbalsam (3% in Kokosöl — auf Brust und Rücken einreiben)
-- Diffuser bei Erkältungswellen im Haushalt
-- Verdünnt auf Stirn und Schläfen bei Nebenhöhlenbeschwerden
-
-**Kontraindikationen:** E. globulus nicht bei Kindern unter 10 Jahren. Nicht bei Asthma (kann Bronchialspasmen verstärken). Nicht innerlich einnehmen.
+**Kontraindikationen / Vorsicht:** E. globulus nicht bei Kindern unter 10 Jahren. Vorsicht bei Asthma (kann die Atemwege reizen). Nicht innerlich einnehmen. Bei gesundheitlichen Fragen Rücksprache mit Ärztin, Arzt oder Apotheke.
 
 ### Übung: Steckbrief erstellen
 
 Wähle eines der drei Öle und erstelle einen persönlichen Steckbrief:
 - Mein erster Eindruck beim Riechen: ___
-- Wobei hilft mir dieses Öl am meisten: ___
+- In welcher Stimmung greife ich am liebsten danach: ___
 - Meine bevorzugte Anwendungsform: ___
-- In welcher Situation greife ich danach: ___`
+- In welcher Situation begleitet es mich: ___`
         },
         {
           id: 'N01-M3-L9',
@@ -662,7 +632,7 @@ Wähle eines der drei Öle und erstelle einen persönlichen Steckbrief:
 
 ### Sechs Öle für Freude und Herzöffnung
 
-Die verbleibenden sechs Schlüssel-Öle bilden die emotionale Palette deiner Aromapraxis: Düfte, die aufhellen, wärmen, öffnen und das Herz berühren.
+Die verbleibenden sechs Schlüssel-Öle bilden die emotionale Palette deiner Duftpraxis: Düfte, die aufhellen, wärmen, öffnen und das Herz berühren.
 
 ---
 
@@ -673,7 +643,7 @@ Die verbleibenden sechs Schlüssel-Öle bilden die emotionale Palette deiner Aro
 **Duftnote:** Kopfnote — süß, fruchtig, warm
 **Gewinnung:** Kaltpressung der Schale
 
-**Wirkung:** Stimmungsaufhellend, angstlösend, verdauungsfördernd, krampflösend. Orange ist das Öl der Wahl bei Winterblues, saisonaler Verstimmung und emotionaler Schwere. Es wirkt, ohne zu stimulieren — es hebt die Stimmung sanft, wie ein inneres Lächeln.
+**Duftcharakter & Erleben:** Wird von vielen als stimmungsaufhellend und wärmend erlebt — das Öl der Wahl für graue Tage und das Bedürfnis nach Leichtigkeit. Es hebt die Stimmung sanft, wie ein inneres Lächeln.
 
 **Besonderheit:** Leicht phototoxisch — nach Hautanwendung 12 Stunden keine direkte Sonne. Oxidiert schnell — kühl lagern, zügig verbrauchen.
 
@@ -686,20 +656,20 @@ Die verbleibenden sechs Schlüssel-Öle bilden die emotionale Palette deiner Aro
 **Duftnote:** Kopfnote — hell, scharf, frisch
 **Gewinnung:** Kaltpressung der Schale
 
-**Wirkung:** Konzentrationsfördernd, luftreinigend, immunstärkend, entgiftend. Zitrone verbessert die Aufmerksamkeit und reduziert Fehlerquoten — deshalb wird es in japanischen Büros über die Klimaanlage verteilt.
+**Duftcharakter & Erleben:** Wird als frisch, klar und konzentrationsfördernd empfunden. In Japan wird Zitrusduft traditionell in Büros eingesetzt, weil er als aufmerksamkeitssteigernd gilt.
 
-**Anwendung:** Diffuser im Arbeitsraum. Reinigungsspray (10 Tropfen in 100 ml Wasser mit etwas Alkohol). Morgens im Badezimmer diffusen für einen klaren Start.
+**Anwendung (Wohlbefinden):** Diffuser im Arbeitsraum. Selbstgemachtes Reinigungsspray (10 Tropfen in 100 ml Wasser mit etwas Alkohol). Morgens im Badezimmer für einen frischen Start.
 
 ---
 
 ### Bergamotte (Citrus bergamia)
 
-**Der Stimmungsstabilisator.** Bergamotte verbindet die Frische der Zitrusdüfte mit einer floralen Tiefe, die kein anderes Zitrusöl hat.
+**Der Stimmungsbegleiter.** Bergamotte verbindet die Frische der Zitrusdüfte mit einer floralen Tiefe, die kein anderes Zitrusöl hat.
 
 **Duftnote:** Kopf-/Herznote — zitrusartig, leicht blumig, komplex
 **Gewinnung:** Kaltpressung der Schale
 
-**Wirkung:** Angstlösend, antidepressiv, ausgleichend. Bergamotte ist das Zitrusöl für die Psyche — es wirkt gleichzeitig beruhigend und aufhellend, eine seltene Kombination. Studien zeigen messbare Reduktion von Angst und Cortisol nach Bergamotte-Inhalation.
+**Duftcharakter & Erleben:** Wird zugleich als beruhigend und aufhellend erlebt — eine seltene Kombination, die Bergamotte zu einem beliebten Begleiter für die emotionale Selbstfürsorge macht.
 
 **Wichtig:** Stark phototoxisch — unbedingt 12–24 Stunden keine Sonne nach Hautanwendung. Es gibt "bergaptenfreie" Bergamotte (FCF — Furanocumarin-frei), die nicht phototoxisch ist.
 
@@ -712,41 +682,41 @@ Die verbleibenden sechs Schlüssel-Öle bilden die emotionale Palette deiner Aro
 **Duftnote:** Herz-/Basisnote — intensiv blumig, süß, exotisch
 **Gewinnung:** Wasserdampfdestillation der Blüten (fraktioniert: Extra → I → II → III)
 
-**Wirkung:** Blutdrucksenkend, herzberuhigend, aphrodisierend, angstlösend. Ylang-Ylang reguliert den Herzschlag — sowohl physisch (senkt erhöhte Herzfrequenz) als auch emotional (beruhigt das "aufgeregte Herz").
+**Duftcharakter & Erleben:** Wird als sinnlich, herzöffnend und beruhigend erlebt. Ein Duft, der häufig mit Genuss und Entspannung verbunden wird.
 
-**Anwendung:** Sparsam dosieren — der intensive Duft kann in hoher Konzentration Kopfschmerzen verursachen. 1–2 Tropfen im Diffuser reichen. Hervorragend in sinnlichen Massagemischungen (1% mit Jojobaöl).
+**Anwendung (Wohlbefinden):** Sparsam dosieren — der intensive Duft kann in hoher Konzentration als kopfschwer empfunden werden. 1–2 Tropfen im Diffuser reichen. Hervorragend in sinnlichen Pflegemischungen (1% mit Jojobaöl).
 
 ---
 
 ### Geranium (Pelargonium graveolens)
 
-**Der Harmonisierer.** Geranium ist das Öl der Balance — es gleicht aus, was aus dem Gleichgewicht geraten ist.
+**Der Harmonisierer.** Geranium ist das Öl der Balance — duftlich ein Ausgleicher.
 
 **Duftnote:** Herznote — rosig, krautig, süß-herb
 **Gewinnung:** Wasserdampfdestillation der Blätter
 
-**Wirkung:** Hormonausgleichend, hautpflegend, stimmungsregulierend, insektenabweisend. Geranium wird oft "das arme Rosenöl" genannt — es hat ein ähnliches Duftprofil wie Rose, ist aber deutlich günstiger. In der Hautpflege ist es hervorragend für alle Hauttypen.
+**Duftcharakter & Erleben:** Wird als harmonisierend und ausgleichend erlebt. Geranium wird oft "das arme Rosenöl" genannt — es hat ein ähnliches Duftprofil wie Rose, ist aber deutlich günstiger. In der Hautpflege ist es für viele Hauttypen beliebt.
 
-**Besondere Stärke:** Hormonschwankungen — Geranium unterstützt bei PMS, Wechseljahresbeschwerden und emotionaler Dysbalance im Zusammenhang mit dem Zyklus.
+**Besonderheit:** Ein vielseitiger, gut harmonierender Duft, der sich in vielen Mischungen als Brücke zwischen Zitrus und Blüte einsetzen lässt.
 
 ---
 
 ### Rose (Rosa damascena)
 
-**Die Königin.** Das teuerste und emotionell tiefgreifendste aller ätherischen Öle — ein Tropfen Rose kann eine Sitzung verwandeln.
+**Die Königin.** Das teuerste und emotional tiefgreifendste aller ätherischen Öle — ein Tropfen Rose kann eine Atmosphäre verwandeln.
 
 **Duftnote:** Herz-/Basisnote — tief blumig, süß, komplex, vielschichtig
 **Gewinnung:** Wasserdampfdestillation der Blütenblätter (oder Absolue)
 
-**Wirkung:** Tiefgreifend herzöffnend, trauerlösend, selbstliebebfördernd, hautregenerierend. Rose ist das Öl des Herzchakras — es öffnet den Zugang zu Mitgefühl, Trauer, Zärtlichkeit und bedingungsloser Liebe.
+**Duftcharakter & Erleben:** Wird als tief herzöffnend erlebt — traditionell mit dem Herzchakra verbunden. Ein Duft, der für viele Mitgefühl, Zärtlichkeit und Wärme berührt.
 
-**Preis:** Echtes Rosenöl kostet 15–40 € für 2 ml. Ein Tropfen ist therapiewirksam — weniger ist mehr. Bereits der Duft eines geöffneten Fläschchens (ohne einen Tropfen zu verwenden) kann emotionale Prozesse in Gang setzen.
+**Preis:** Echtes Rosenöl kostet 15–40 € für 2 ml. Ein Tropfen genügt — weniger ist mehr. Bereits der Duft eines geöffneten Fläschchens (ohne einen Tropfen zu verwenden) kann berühren.
 
-**Anwendung:** Ein Tropfen auf dem Herzbereich (verdünnt). Im Diffuser bei Trauer, Liebeskummer, Selbstzweifel. In der Klientenarbeit: ein Tropfen auf ein Taschentuch, das der Klient während der Sitzung bei sich hat.
+**Anwendung (Wohlbefinden):** Ein Tropfen auf dem Herzbereich (verdünnt). Im Diffuser in Momenten, in denen du Trost und Wärme suchst. In der Duftbegleitung: ein Tropfen auf ein Taschentuch.
 
 ### Übung: Dein Herzöl finden
 
-Rieche an so vielen dieser sechs Öle wie möglich. Welches berührt dich am tiefsten? Welches erzeugt ein Gefühl von Öffnung, Wärme oder Rührung? Das ist dein persönliches Herzöl — das Öl, das du in emotionalen Momenten als Erstes greifen solltest.`
+Rieche an so vielen dieser sechs Öle wie möglich. Welches berührt dich am tiefsten? Welches erzeugt ein Gefühl von Öffnung, Wärme oder Rührung? Das ist dein persönliches Herzöl — das Öl, zu dem du in emotionalen Momenten als Erstes greifen magst.`
         }
       ]
     },
@@ -757,57 +727,55 @@ Rieche an so vielen dieser sechs Öle wie möglich. Welches berührt dich am tie
     {
       id: 'N01-M4',
       titel: 'Anwendungsmethoden',
-      beschreibung: 'Die drei Hauptwege der Anwendung beherrschen: Inhalation, Hautanwendung und traditionelle Methoden wie Bäder und Wickel.',
+      beschreibung: 'Die Hauptwege der Duftanwendung beherrschen: Diffusion, Hautanwendung und traditionelle Formen wie Bäder und Kompressen.',
       lektionen: [
         {
           id: 'N01-M4-L10',
-          titel: 'Diffusion & Inhalation — Raumbeduftung & Atemwege',
+          titel: 'Diffusion & Inhalation — Raumbeduftung & frische Atmosphäre',
           inhalt: `## Diffusion & Inhalation
 
 ### Der einfachste Zugang
 
-Inhalation ist die sicherste und zugänglichste Anwendungsform ätherischer Öle. Sie erfordert keine Verdünnung, kein Fachwissen über Hautverträglichkeit und wirkt innerhalb von Sekunden über den Geruchssinn.
+Die Diffusion über die Raumluft ist die sicherste und zugänglichste Anwendungsform ätherischer Öle. Sie erfordert keine Verdünnung, kein Fachwissen über Hautverträglichkeit und wirkt innerhalb von Sekunden über den Geruchssinn.
 
 ### Methoden der Raumbeduftung
 
 **Ultraschall-Diffuser:**
-Der Standard in der modernen Aromatherapie. Ultraschallvibrationen zerstäuben ein Wasser-Öl-Gemisch in feinste Tröpfchen, die als sichtbarer Nebel in den Raum abgegeben werden.
+Der Standard in der modernen Duftpraxis. Ultraschallvibrationen zerstäuben ein Wasser-Öl-Gemisch in feinste Tröpfchen, die als sichtbarer Nebel in den Raum abgegeben werden.
 
 Vorteile: Kein Erhitzen (schont die Inhaltsstoffe), befeuchtet gleichzeitig die Luft, einfach zu handhaben. Empfehlung: 3–5 Tropfen pro 100 ml Wasser. In einem 20-m²-Raum reichen 4–6 Tropfen für 1–2 Stunden.
 
-Praxis-Tipp: Diffuser nicht dauerbetrieben lassen — 30–60 Minuten an, dann Pause. Das Nervensystem gewöhnt sich sonst an den Duft und die Wirkung lässt nach. Intervall-Betrieb (30 Min an / 30 Min aus) ist wirksamer als Dauerbetrieb.
+Praxis-Tipp: Diffuser nicht dauerbetrieben lassen — 30–60 Minuten an, dann Pause. Das Nervensystem gewöhnt sich sonst an den Duft und nimmt ihn weniger wahr. Intervall-Betrieb (30 Min an / 30 Min aus) ist wirksamer als Dauerbetrieb.
 
 **Duftlampe (Aromalampe):**
 Klassisch: Eine Schale über einer Teelichtkerze. Wasser plus Öl wird durch die Kerzenwärme erwärmt und verdunstet.
 
-Vorteil: Atmosphärisch, kein Strom nötig. Nachteil: Die Hitze kann empfindliche Inhaltsstoffe zerstören und verändert das Duftprofil. Nur für Raumbeduftung geeignet, nicht für therapeutische Zwecke.
+Vorteil: Atmosphärisch, kein Strom nötig. Nachteil: Die Hitze kann empfindliche Inhaltsstoffe verändern und das Duftprofil beeinflussen.
 
 **Duftstein / Terrakotta-Stein:**
-1–3 Tropfen auf einen unglasserten Tonstein. Das Öl verdunstet langsam und sanft.
+1–3 Tropfen auf einen unglasierten Tonstein. Das Öl verdunstet langsam und sanft.
 
 Vorteil: Keine Hitze, keine Technik, kein Wasser. Ideal für den Nachttisch, den Schreibtisch oder im Auto. Nachteil: Geringe Reichweite — nur im unmittelbaren Umfeld wahrnehmbar.
 
 **Beduftetes Taschentuch / Duftstreifen:**
 1–2 Tropfen auf ein Taschentuch oder einen Duftstreifen aus Pappe. Bei Bedarf daran riechen.
 
-Vorteil: Portabel, sofort einsetzbar, ideal für unterwegs. In der Praxis: Klienten ein beduftetes Taschentuch für die Sitzung geben.
+Vorteil: Portabel, sofort einsetzbar, ideal für unterwegs.
 
 ### Direkte Inhalation
 
 **Die Handflächenmethode:**
-1 Tropfen auf die Handflächen geben, Hände verreiben, Hände schalenförmig vor Nase und Mund halten, 3–5 tiefe Atemzüge. Sofortige, intensive Wirkung.
+1 Tropfen auf die Handflächen geben, Hände verreiben, Hände schalenförmig vor Nase und Mund halten, 3–5 tiefe Atemzüge. Sofortiges, intensives Dufterlebnis.
 
 Achtung: Nicht mit hautreizenden Ölen (Pfefferminze, Eukalyptus, Zimt) — diese können die Augen reizen. Danach nicht ins Gesicht fassen.
 
 **Dampfinhalation:**
 3–5 Tropfen in eine Schüssel mit heißem (nicht kochendem) Wasser. Handtuch über den Kopf, Augen geschlossen, 5–10 Minuten durch die Nase einatmen.
 
-Indikation: Erkältung, Sinusitis, verstopfte Nase, Bronchitis. Beste Öle: Eukalyptus, Pfefferminze, Teebaum, Thymian, Ravintsara.
-
-Kontraindikation: Nicht bei Asthma (kann Spasmen auslösen). Nicht bei Kindern unter 6 Jahren. Nicht mit hautreizenden Ölen bei empfindlicher Gesichtshaut.
+Als wohltuendes Frische-Ritual beliebt. Beste Öle: Eukalyptus, Pfefferminze, Teebaum. Vorsicht: Nicht bei Asthma (der Dampf kann die Atemwege reizen). Nicht bei Kindern unter 6 Jahren. Bei gesundheitlichen Beschwerden Rücksprache mit Ärztin, Arzt oder Apotheke.
 
 **Riechstift (Inhaler):**
-Ein kleiner Plastikstift mit einem Baumwolldocht, auf den 10–15 Tropfen ätherisches Öl gegeben werden. Der Stift verschließt sich und kann jederzeit gezückt werden — ideal für Stress am Arbeitsplatz, Prüfungssituationen oder emotionale Notfälle.
+Ein kleiner Stift mit einem Baumwolldocht, auf den 10–15 Tropfen ätherisches Öl gegeben werden. Der Stift verschließt sich und kann jederzeit gezückt werden — ideal für unterwegs, für anspruchsvolle Momente oder als kleine Duftpause im Alltag.
 
 ### Sicherheit bei der Inhalation
 
@@ -820,20 +788,20 @@ Ein kleiner Plastikstift mit einem Baumwolldocht, auf den 10–15 Tropfen äther
 
 Erstelle drei Mischungen für deinen Diffuser (je 4–6 Tropfen gesamt):
 
-1. **Guter Schlaf:** ___ Tropfen ___ + ___ Tropfen ___
+1. **Entspannte Abende:** ___ Tropfen ___ + ___ Tropfen ___
 2. **Fokus & Arbeit:** ___ Tropfen ___ + ___ Tropfen ___
 3. **Gute Laune:** ___ Tropfen ___ + ___ Tropfen ___
 
-Teste jede Mischung an einem passenden Tag und bewerte die Wirkung.`
+Teste jede Mischung an einem passenden Tag und bewerte das Dufterlebnis.`
         },
         {
           id: 'N01-M4-L11',
-          titel: 'Topische Anwendung — Verdünnung, Trägeröle & Massageöle',
+          titel: 'Topische Anwendung — Verdünnung, Trägeröle & Pflegeöle',
           inhalt: `## Topische Anwendung
 
 ### Die Kraft der Berührung plus Duft
 
-Die topische Anwendung — das Auftragen auf die Haut — kombiniert zwei Wirkwege: Die Inhaltsstoffe werden über die Haut aufgenommen und gelangen in den Blutkreislauf, während gleichzeitig der Duft über die Nase das limbische System erreicht. Wenn die Anwendung als Massage erfolgt, kommt eine dritte Dimension hinzu: die heilende Wirkung der Berührung.
+Die topische Anwendung — das Auftragen auf die Haut — verbindet zwei Erlebnisebenen: die Pflege der Haut durch das Trägeröl und das Dufterlebnis über die Nase. Wenn die Anwendung als Massage erfolgt, kommt die wohltuende Qualität der achtsamen Berührung hinzu.
 
 ### Verdünnungstabelle — dein Referenzwerkzeug
 
@@ -841,14 +809,13 @@ Die topische Anwendung — das Auftragen auf die Haut — kombiniert zwei Wirkwe
 |------------|-------------------|-------------------|---------|
 | 0,5% | 1 | 3 | Gesicht (empfindlich), Kleinkinder |
 | 1% | 2 | 6 | Gesicht (normal), Kinder 6–12, Schwangere |
-| 2% | 4 | 12 | Standard Körpermassage |
-| 3% | 6 | 18 | Intensive Körpermassage |
-| 5% | 10 | 30 | Akute lokale Anwendung (kurzzeitig) |
-| 10% | 20 | 60 | Punktuelle Notfall-Anwendung (sehr kurzzeitig) |
+| 2% | 4 | 12 | Standard Körperpflegeöl |
+| 3% | 6 | 18 | Intensives Pflegeöl |
+| 5% | 10 | 30 | Punktuelle, kurzzeitige Anwendung |
 
 **Faustregel:** Im Zweifel weniger. Du kannst immer nachträglich verstärken — eine Hautreaktion lässt sich nicht rückgängig machen.
 
-### Massageöl herstellen — Schritt für Schritt
+### Pflegeöl herstellen — Schritt für Schritt
 
 1. **Trägeröl wählen** — passend zum Hauttyp und Zweck
 2. **Ätherische Öle auswählen** — maximal 3–4 verschiedene für eine ausgewogene Mischung
@@ -856,20 +823,22 @@ Die topische Anwendung — das Auftragen auf die Haut — kombiniert zwei Wirkwe
 4. **Mischen** — Ätherische Öle in die leere Flasche tropfen, dann Trägeröl dazu gießen. Sanft schwenken (nicht schütteln).
 5. **Beschriften** — Datum, Inhalt, Verdünnung auf die Flasche schreiben. Innerhalb von 3 Monaten verbrauchen.
 
-### Wichtige Anwendungsstellen
+### Beliebte Anwendungsstellen
 
-**Hohe Absorption (dünne Haut):**
+**Hohe Aufnahme (dünne Haut):**
 - Handgelenke (innen) — ideal für emotionale Öle
-- Fußsohlen — traditionell für systemische Wirkung, ideal vor dem Schlafengehen
+- Fußsohlen — angenehm vor dem Schlafengehen
 - Hinter den Ohren — diskrete Alltagsanwendung
-- Schläfen — bei Kopfschmerzen (Lavendel, Pfefferminze)
+- Schläfen — für ein frisches Gefühl (Lavendel, Pfefferminze)
 - Herzbereich — für herzöffnende Öle (Rose, Ylang-Ylang)
 
-**Spezifische Bereiche:**
-- Nacken/Schultern — bei Verspannungen (Lavendel, Rosmarin, Pfefferminze)
-- Bauch — bei Verdauungsbeschwerden (Pfefferminze, Fenchel, Ingwer) — im Uhrzeigersinn einmassieren
-- Unterer Rücken — bei Menstruationsbeschwerden (Lavendel, Muskatellersalbei)
-- Brust — bei Erkältung (Eukalyptus, Ravintsara)
+**Als Wohlfühl-Anwendung:**
+- Nacken/Schultern — ein wohltuendes Pflegeöl nach einem langen Tag (Lavendel, Rosmarin)
+- Eine sanfte Bauchmassage im Uhrzeigersinn als Entspannungsritual (Pfefferminze, Fenchel, Ingwer)
+- Eine wärmende Pflege für den unteren Rücken (Lavendel, Muskatellersalbei)
+- Eine pflegende Brustanwendung mit frischen Düften (Eukalyptus radiata)
+
+Hinweis: Diese Anwendungen dienen dem Wohlbefinden und der Pflege. Bei gesundheitlichen Beschwerden wende dich bitte an Ärztin, Arzt, Apotheke oder Heilpraktiker.
 
 ### Patch-Test — immer zuerst
 
@@ -881,19 +850,19 @@ Vor der erstmaligen Verwendung eines neuen Öls auf der Haut:
 
 ### Roll-on — die praktischste Alltagsform
 
-Ein Roll-on (10 ml Glasflasche mit Rollkugelaufsatz) ist die eleganteste Form der täglichen Aromatherapie:
+Ein Roll-on (10 ml Glasflasche mit Rollkugelaufsatz) ist die eleganteste Form der täglichen Duftpflege:
 - 10 ml Jojobaöl als Basis
 - 4–6 Tropfen ätherisches Öl (2–3%)
 - Mischen, verschließen, überallhin mitnehmen
 
 **Drei bewährte Roll-on-Rezepturen:**
-- **Anti-Stress:** 2 Tr. Lavendel + 2 Tr. Bergamotte + 1 Tr. Ylang-Ylang in 10 ml Jojoba
+- **Ruhe & Gelassenheit:** 2 Tr. Lavendel + 2 Tr. Bergamotte + 1 Tr. Ylang-Ylang in 10 ml Jojoba
 - **Fokus:** 2 Tr. Rosmarin + 2 Tr. Zitrone + 1 Tr. Pfefferminze in 10 ml Jojoba
-- **Kopfschmerz-SOS:** 2 Tr. Pfefferminze + 2 Tr. Lavendel + 1 Tr. Eukalyptus in 10 ml Jojoba
+- **Frische:** 2 Tr. Pfefferminze + 2 Tr. Lavendel + 1 Tr. Eukalyptus in 10 ml Jojoba
 
-### Übung: Dein erstes Massageöl
+### Übung: Dein erstes Pflegeöl
 
-Stelle ein Massageöl her:
+Stelle ein Pflegeöl her:
 - 30 ml Mandelöl
 - 2% Verdünnung = 12 Tropfen
 - Wähle 2–3 ätherische Öle nach deinem Bedürfnis
@@ -905,9 +874,9 @@ Stelle ein Massageöl her:
           titel: 'Bäder, Kompressen & Wickel — traditionelle Anwendungsformen',
           inhalt: `## Bäder, Kompressen & Wickel
 
-### Die vergessene Kraft des Wassers
+### Die Kraft des Wassers
 
-Bäder, Kompressen und Wickel gehören zu den ältesten Heilmethoden überhaupt. In Kombination mit ätherischen Ölen entsteht eine besonders wirkungsvolle Anwendungsform: Das warme Wasser öffnet die Poren, die Feuchtigkeit erleichtert die Aufnahme durch die Haut, und der aufsteigende Dampf sorgt gleichzeitig für Inhalation.
+Bäder, Kompressen und Wickel gehören zu den ältesten Wohlfühl-Ritualen überhaupt. In Kombination mit ätherischen Ölen entsteht eine besonders sinnliche Anwendungsform: Das warme Wasser öffnet die Poren, die Feuchtigkeit erleichtert die Aufnahme durch die Haut, und der aufsteigende Dampf sorgt gleichzeitig für ein Dufterlebnis.
 
 ### Das Aromabad
 
@@ -927,15 +896,15 @@ Bäder, Kompressen und Wickel gehören zu den ältesten Heilmethoden überhaupt.
 - Handbad: 2–3 Tropfen
 - Badedauer: 15–20 Minuten — nicht länger, sonst kann die Haut austrocknen
 
-**Rezepturen nach Anlass:**
+**Rezepturen nach Stimmung:**
 
 *Entspannungsbad:* 3 Tr. Lavendel + 2 Tr. Kamille + 1 Tr. Ylang-Ylang in 2 EL Sahne. Wassertemperatur: 37–38°C. Abends, 1 Stunde vor dem Schlafengehen.
 
-*Erkältungsbad:* 3 Tr. Eukalyptus + 2 Tr. Teebaum + 1 Tr. Pfefferminze in 3 EL Meersalz. Wassertemperatur: 38–39°C. Bei den ersten Erkältungsanzeichen. Danach warm einpacken.
+*Frische-Bad:* 3 Tr. Eukalyptus + 2 Tr. Teebaum + 1 Tr. Pfefferminze in 3 EL Meersalz. Wassertemperatur: 38–39°C. Für ein belebendes Dufterlebnis an kalten Tagen. Danach warm einpacken.
 
-*Muskelbad:* 3 Tr. Rosmarin + 2 Tr. Lavendel + 2 Tr. Schwarzer Pfeffer in 3 EL Bittersalz. Wassertemperatur: 38°C. Nach Sport oder bei Verspannungen.
+*Wohlfühlbad nach Aktivität:* 3 Tr. Rosmarin + 2 Tr. Lavendel + 2 Tr. Schwarzer Pfeffer in 3 EL Bittersalz. Wassertemperatur: 38°C. Ein wärmendes Ritual nach Sport oder einem langen Tag.
 
-*Stimmungsbad:* 3 Tr. Orange + 2 Tr. Bergamotte + 1 Tr. Geranium in 1 EL Honig. Wassertemperatur: 37°C. Bei Traurigkeit oder emotionaler Schwere.
+*Stimmungsbad:* 3 Tr. Orange + 2 Tr. Bergamotte + 1 Tr. Geranium in 1 EL Honig. Wassertemperatur: 37°C. Für graue Tage und das Bedürfnis nach Leichtigkeit.
 
 ### Kompressen
 
@@ -943,38 +912,34 @@ Bäder, Kompressen und Wickel gehören zu den ältesten Heilmethoden überhaupt.
 1. Schüssel mit heißem Wasser (nicht kochend)
 2. 3–4 Tropfen ätherisches Öl hinzufügen
 3. Waschlappen eintauchen, auswringen
-4. Auf den betroffenen Bereich legen
+4. Auf den gewünschten Bereich legen
 5. Mit einem trockenen Tuch abdecken, um die Wärme zu halten
 6. 15–20 Minuten einwirken lassen
 
-Einsatz: Muskelschmerzen, Menstruationskrämpfe (unterer Bauch/Rücken), chronische Schmerzen, Verspannungen.
+Als wohltuendes, wärmendes Ritual beliebt — etwa für den Nacken oder die Schultern nach einem langen Tag.
 
 **Kalte Kompresse:**
-Gleicher Ablauf, aber mit kaltem Wasser (optional mit Eiswürfeln).
-
-Einsatz: Kopfschmerzen (Stirn/Nacken), Prellungen, Schwellungen, Fieber (Wadenwickel), Insektenstiche.
+Gleicher Ablauf, aber mit kaltem Wasser (optional mit Eiswürfeln). Wird als erfrischend und kühlend erlebt.
 
 ### Wickel
 
-**Der Brustwickel bei Erkältung:**
+**Der wohltuende Brustwickel:**
 1. Warme Kompresse mit 3 Tr. Eukalyptus + 2 Tr. Teebaum auf die Brust
 2. Baumwolltuch darüber
 3. Wollschal als äußere Schicht
 4. 30–60 Minuten einwirken lassen, dabei ruhen
 
-**Der Wadenwickel bei Fieber:**
-1. Kalte Kompresse mit 2 Tr. Pfefferminze + 2 Tr. Lavendel
-2. Um die Waden wickeln
-3. Trockenes Tuch darüber
-4. Alle 15 Minuten erneuern, bis das Fieber sinkt
+Ein klassisches Wärme- und Frische-Ritual für gemütliche Winterabende.
 
 ### Sicherheit bei Wasseranwendungen
 
 - Immer emulgieren — Öle nie direkt ins Wasser
-- Bei Herz-Kreislauf-Problemen: Wassertemperatur unter 37°C halten
-- Schwangere: Nur milde Öle, kurze Bäder, moderaate Temperatur
-- Nach dem Baden: 30 Minuten ruhen — der Körper arbeitet weiter
+- Bei Herz-Kreislauf-Empfindlichkeit: Wassertemperatur unter 37°C halten und im Zweifel ärztlich abklären
+- Schwangere: Nur milde Öle, kurze Bäder, moderate Temperatur, nach Rücksprache
+- Nach dem Baden: 30 Minuten ruhen
 - Bei Hautreaktionen: Sofort raus, Haut mit Trägeröl (nicht mit Wasser) abreiben
+
+Hinweis: Bei Fieber, akuten Beschwerden oder Erkrankungen sind Wickel und Bäder kein Ersatz für ärztliche Behandlung — bitte ärztlichen Rat einholen.
 
 ### Übung: Dein erstes Aromabad
 
@@ -988,80 +953,81 @@ Wähle eine der Rezepturen und nimm ein bewusstes 20-minütiges Aromabad:
     },
 
     // ============================================================
-    // MODUL 5 — Aromatherapie in der Praxis
+    // MODUL 5 — Aromakunde in der Praxis
     // ============================================================
     {
       id: 'N01-M5',
-      titel: 'Aromatherapie in der Praxis',
-      beschreibung: 'Professionelle Duftanamnese, Mischungslehre und bewährte Protokolle für häufige Klientenanliegen.',
+      titel: 'Aromakunde in der Praxis',
+      beschreibung: 'Achtsame Duftberatung, Mischungslehre und bewährte Duftrituale für Wohlbefinden im Alltag.',
       lektionen: [
         {
           id: 'N01-M5-L13',
-          titel: 'Duftanamnese — den richtigen Duft für den Klienten finden',
-          inhalt: `## Duftanamnese
+          titel: 'Duftberatung — den richtigen Duft finden',
+          inhalt: `## Duftberatung
 
 ### Der Duft wählt den Menschen
 
-In der professionellen Aromatherapie verschreibst du nicht einfach "Lavendel bei Stress". Du findest den Duft, der zu diesem Menschen in dieser Situation passt. Die Duftanamnese ist der Prozess, der dich dorthin führt.
+In der achtsamen Duftberatung empfiehlst du nicht einfach pauschal "Lavendel". Du findest gemeinsam mit dem Menschen den Duft, der zu ihm in seiner aktuellen Situation passt. Die Duftberatung ist der Prozess, der dorthin führt — als Begleitung für mehr Wohlbefinden, nicht als Behandlung.
 
 ### Das Prinzip der Duftpräferenz
 
-Ein faszinierendes Phänomen der Aromatherapie: Menschen fühlen sich intuitiv zu den Düften hingezogen, die sie am meisten brauchen. Wer nach Lavendel greift, braucht oft Beruhigung. Wer Pfefferminze wählt, braucht Klarheit. Wer Rose ablehnt, hat möglicherweise einen verschlossenen Zugang zum Herzen.
+Ein faszinierendes Phänomen der Aromakunde: Menschen fühlen sich intuitiv zu den Düften hingezogen, die zu ihrer aktuellen Stimmung passen. Wer nach Lavendel greift, sucht oft Ruhe. Wer Pfefferminze wählt, sucht Frische. Die Duftpräferenz ist ein wertvoller Wegweiser.
 
-Auch Abneigungen sind diagnostisch wertvoll. Ein Duft, der Übelkeit, Unbehagen oder eine starke Abwehrreaktion auslöst, berührt oft ein unverarbeitetes Thema. Das bedeutet nicht, dass man diesen Duft erzwingen sollte — aber es lohnt sich, die Reaktion zu bemerken.
+Auch Abneigungen sind aufschlussreich. Ein Duft, der Unbehagen auslöst, berührt manchmal ein Thema, das gerade nicht im Vordergrund stehen mag. Das bedeutet nicht, dass man diesen Duft erzwingen sollte — aber es lohnt sich, die Reaktion zu bemerken.
 
-### Der Duftanamnese-Prozess
+### Der Duftberatungs-Prozess
 
 **Schritt 1 — Das Gespräch (10 Min):**
-Bevor ein einziges Fläschchen geöffnet wird, stellst du Fragen:
-- Was führt dich zu mir? (Hauptanliegen)
-- Wie geht es dir emotional? (Stimmungslage)
-- Wie schläfst du? (Nervensystem-Status)
-- Gibt es körperliche Beschwerden? (Begleitsymptome)
+Bevor ein einziges Fläschchen geöffnet wird, stellst du Fragen rund um Stimmung und Wohlbefinden:
+- Was wünschst du dir für dein Wohlbefinden? (Anliegen)
+- Wie ist deine Stimmung gerade? (Stimmungslage)
+- Wie sind deine Abende und dein Schlaf? (Alltagsrhythmus)
 - Hast du Erfahrung mit ätherischen Ölen? (Vorwissen)
 - Gibt es Düfte, die du liebst oder gar nicht magst? (Präferenzen)
-- Allergien, Medikamente, Schwangerschaft? (Kontraindikationen)
+- Allergien, Schwangerschaft, Hautempfindlichkeiten? (Sicherheit)
+
+Wichtig: Die Duftberatung ist keine gesundheitliche Anamnese. Treten gesundheitliche Beschwerden zur Sprache, verweise an Ärztin, Arzt, Apotheke oder Heilpraktiker — Düfte begleiten das Wohlbefinden, ersetzen aber keine fachliche Abklärung.
 
 **Schritt 2 — Die Duftvorstellung (10 Min):**
-Wähle 4–6 Öle vor, die zum Anliegen passen könnten. Lasse den Klienten an jedem riechen — ohne die Namen zu nennen.
+Wähle 4–6 Öle vor, die zum Wohlfühl-Anliegen passen könnten. Lasse die Person an jedem riechen — ohne die Namen zu nennen.
 
-Für jedes Öl fragt der Klient sich:
+Für jedes Öl fragt sie sich:
 - Mag ich diesen Duft? (1–10)
 - Welches Gefühl löst er aus?
 - Welche Farbe, welches Bild kommt?
 - Wo spüre ich den Duft im Körper?
 
 **Schritt 3 — Die Auswahl (5 Min):**
-Der Klient wählt 2–3 Favoriten. Diese bilden die Grundlage der individuellen Mischung. Du ergänzt — basierend auf deinem Fachwissen — mit Ölen, die das Wirkprofil abrunden.
+Die Person wählt 2–3 Favoriten. Diese bilden die Grundlage der individuellen Mischung. Du ergänzt — basierend auf deinem Duftwissen — mit Ölen, die das Duftprofil abrunden.
 
 ### Dokumentation
 
-Führe für jeden Klienten eine Duftkarte:
-- Name, Datum, Anliegen
+Führe eine Duftkarte:
+- Name, Datum, Wohlfühl-Anliegen
 - Vorgestellte Öle und Bewertung (1–10)
 - Gewählte Mischung (Öle, Verdünnung, Menge)
 - Anwendungsempfehlung
-- Reaktion/Feedback beim nächsten Termin
+- Rückmeldung beim nächsten Termin
 
 ### Typische Muster
 
-**Der "Ich-mag-alles"-Klient:**
-Riecht alles gern — hat oft Schwierigkeiten, sich zu entscheiden oder eigene Bedürfnisse wahrzunehmen. Grenze ein: "Wenn du nur eines mitnehmen dürftest — welches?"
+**Der "Ich-mag-alles"-Typ:**
+Riecht alles gern — hat manchmal Schwierigkeiten, sich zu entscheiden. Grenze ein: "Wenn du nur eines mitnehmen dürftest — welches?"
 
-**Der "Ich-rieche-nichts"-Klient:**
-Spürt wenig bei der Duftvorstellung. Kann auf emotionale Blockade, Erschöpfung oder tatsächliche Anosmie hinweisen. Beginne mit einfachen, starken Düften (Pfefferminze, Orange) und arbeite dich zu subtileren vor.
+**Der "Ich-rieche-nichts"-Typ:**
+Spürt wenig bei der Duftvorstellung. Beginne mit einfachen, klaren Düften (Pfefferminze, Orange) und arbeite dich zu subtileren vor. (Bei dauerhaft fehlendem Geruchssinn ist eine ärztliche Abklärung sinnvoll.)
 
 **Die starke Abwehr:**
-Ein Duft löst Unbehagen, Abneigung oder sogar Tränen aus. Das ist wertvoll — aber respektiere die Grenze. Notiere es, verwende den Duft nicht, und biete an, das Thema zu einem späteren Zeitpunkt aufzugreifen.
+Ein Duft löst Unbehagen oder Abneigung aus. Respektiere die Grenze. Notiere es, verwende den Duft nicht.
 
-### Übung: Selbst-Anamnese
+### Übung: Selbst-Duftberatung
 
-Führe die Duftanamnese mit dir selbst durch:
+Führe die Duftberatung mit dir selbst durch:
 1. Wähle 5 verschiedene Öle blind (lass jemanden die Fläschchen nummerieren)
 2. Bewerte jeden Duft auf der 1–10-Skala
 3. Notiere Gefühl, Bild, Körperreaktion
 4. Löse auf, welches Öl welche Nummer war
-5. Vergleiche: Deckt sich deine Reaktion mit dem bekannten Wirkprofil?`
+5. Vergleiche: Deckt sich deine Reaktion mit dem bekannten Duftprofil?`
         },
         {
           id: 'N01-M5-L14',
@@ -1070,7 +1036,7 @@ Führe die Duftanamnese mit dir selbst durch:
 
 ### Die Kunst des Blendings
 
-Eine gute Aromatherapie-Mischung ist mehr als die Summe ihrer Einzelöle. Sie ist eine komponierte Einheit — ein Zusammenspiel von Düften, die sich gegenseitig verstärken, ergänzen und abrunden. Die Grundlage dieser Komposition ist das System der Duftnoten.
+Eine gute Duftmischung ist mehr als die Summe ihrer Einzelöle. Sie ist eine komponierte Einheit — ein Zusammenspiel von Düften, die sich gegenseitig verstärken, ergänzen und abrunden. Die Grundlage dieser Komposition ist das System der Duftnoten.
 
 ### Das Drei-Noten-System
 
@@ -1110,7 +1076,7 @@ Bestimmte Duftkategorien harmonieren besonders gut miteinander:
 
 ### Mischungsverhältnisse in der Praxis
 
-Für eine 10-ml-Mischung (Massageöl, 2% = 4 Tropfen):
+Für eine 10-ml-Mischung (Pflegeöl, 2% = 4 Tropfen):
 - 1 Tropfen Kopfnote
 - 2 Tropfen Herznote
 - 1 Tropfen Basisnote
@@ -1122,10 +1088,10 @@ Für eine 30-ml-Mischung (2% = 12 Tropfen):
 
 ### Fünf bewährte Mischungen
 
-**"Tiefer Schlaf":** Bergamotte (2) + Lavendel (3) + Vetiver (1)
+**"Entspannte Abende":** Bergamotte (2) + Lavendel (3) + Vetiver (1)
 **"Klarer Kopf":** Zitrone (2) + Rosmarin (3) + Weihrauch (1)
 **"Herzöffner":** Orange (2) + Geranium (3) + Sandelholz (1)
-**"Immunschild":** Eukalyptus (2) + Teebaum (3) + Zitrone (1)
+**"Frische Atmosphäre":** Eukalyptus (2) + Teebaum (3) + Zitrone (1)
 **"Erdung":** Bergamotte (1) + Ylang-Ylang (2) + Zedernholz (2) + Vetiver (1)
 
 ### Übung: Deine erste Dreier-Mischung
@@ -1138,72 +1104,72 @@ Für eine 30-ml-Mischung (2% = 12 Tropfen):
         },
         {
           id: 'N01-M5-L15',
-          titel: 'Protokolle für häufige Anliegen — Stress, Schlaf, Energie, Fokus',
-          inhalt: `## Protokolle für häufige Anliegen
+          titel: 'Duftrituale für den Alltag — Ruhe, Schlaf, Energie, Fokus',
+          inhalt: `## Duftrituale für den Alltag
 
-### Bewährte Anwendungsprotokolle
+### Bewährte Duftrituale für mehr Wohlbefinden
 
-Die folgenden Protokolle sind Ausgangspunkte — keine starren Vorschriften. Passe sie an den individuellen Klienten an, basierend auf der Duftanamnese und der persönlichen Reaktion.
+Die folgenden Rituale sind Ausgangspunkte — keine starren Vorschriften. Passe sie an dich selbst oder an die Person an, die du begleitest, basierend auf der Duftberatung und der persönlichen Reaktion. Sie dienen dem Wohlbefinden und ersetzen keine ärztliche oder therapeutische Hilfe.
 
-### Protokoll 1: Stress & innere Unruhe
+### Ritual 1: Ruhe & Gelassenheit
 
 **Hauptöle:** Lavendel, Bergamotte, Ylang-Ylang, Kamille, Neroli
 **Unterstützend:** Weihrauch, Vetiver, Muskatellersalbei
 
-**Sofort-Intervention:**
+**Sofort-Moment:**
 - Handflächenmethode: 1 Tr. Lavendel + 1 Tr. Bergamotte auf die Handflächen, 5 tiefe Atemzüge
 - Alternativ: Roll-on auf Handgelenke und Schläfen
 
-**Tägliches Protokoll:**
+**Tagesritual:**
 - Morgens: 3 Tr. Bergamotte + 2 Tr. Geranium im Diffuser (30 Min)
-- Bei Bedarf tagsüber: Roll-on (Anti-Stress)
+- Bei Bedarf tagsüber: Roll-on (Ruhe & Gelassenheit)
 - Abends: Aromabad mit 3 Tr. Lavendel + 2 Tr. Kamille + 1 Tr. Ylang-Ylang in Sahne
 - Vor dem Schlaf: 1 Tr. Lavendel aufs Kopfkissen
 
-**Dauer:** 2–4 Wochen konsequent, dann evaluieren. Öle wechseln, wenn der Duft nicht mehr anspricht — das Nervensystem hat die Information aufgenommen.
+**Dauer:** 2–4 Wochen ausprobieren, dann beobachten. Öle wechseln, wenn der Duft nicht mehr anspricht.
 
-### Protokoll 2: Schlafstörungen
+### Ritual 2: Erholsame Abende
 
 **Hauptöle:** Lavendel, Kamille (römisch), Vetiver, Zedernholz, Muskatellersalbei
 **Unterstützend:** Mandarine, Bergamotte, Sandelholz
 
-**Abendliches Schlafprotokoll:**
+**Abendliches Wohlfühl-Ritual:**
 - 90 Min vor dem Schlafen: Diffuser mit 3 Tr. Lavendel + 2 Tr. Zedernholz + 1 Tr. Vetiver
-- Fußmassage: 2% Mischung in Mandelöl — die Fußsohlen sind ein direkter Zugang zum Nervensystem
+- Fußpflege: 2% Mischung in Mandelöl — ein angenehmes Ritual vor dem Schlafengehen
 - Kopfkissen: 1 Tr. Lavendel oder 1 Tr. Kamille
 - Optional: Roll-on auf Handgelenke
 
-**Wichtig:** Pfefferminze, Rosmarin, Eukalyptus und Zitrone am Abend vermeiden — sie aktivieren.
+**Wichtig:** Pfefferminze, Rosmarin, Eukalyptus und Zitrone am Abend meiden — ihr Duft wird als wach machend erlebt.
 
-**Bei nächtlichem Aufwachen:** Riechstift mit Lavendel + Kamille auf dem Nachttisch bereithalten. 3 tiefe Atemzüge, ohne das Licht einzuschalten.
+Hinweis: Bei anhaltenden Schlafproblemen wende dich bitte an Ärztin oder Arzt — ein Duftritual kann den Abend begleiten, aber keine medizinische Abklärung ersetzen.
 
-### Protokoll 3: Energielosigkeit & Müdigkeit
+### Ritual 3: Energie & Frische
 
 **Hauptöle:** Pfefferminze, Rosmarin, Zitrone, Orange, Grapefruit
 **Unterstützend:** Schwarzer Pfeffer, Ingwer, Eukalyptus
 
-**Morgenprotokoll:**
+**Morgenritual:**
 - Dusche: 2 Tr. Pfefferminze + 2 Tr. Rosmarin auf den Duschboden tropfen — der Dampf verteilt den Duft
 - Diffuser im Frühstücksraum: 3 Tr. Orange + 2 Tr. Pfefferminze
 - Roll-on für unterwegs: Zitrone + Rosmarin + Schwarzer Pfeffer
 
-**Nachmittagstief-SOS:**
+**Nachmittags-Frische:**
 - Handflächenmethode: 1 Tr. Pfefferminze
 - Oder: Riechstift mit Rosmarin + Grapefruit
 - Kaltes Fußbad mit 3 Tr. Pfefferminze (10 Minuten)
 
-### Protokoll 4: Konzentration & mentaler Fokus
+### Ritual 4: Konzentration & Fokus
 
 **Hauptöle:** Rosmarin, Zitrone, Pfefferminze, Weihrauch, Basilikum
 **Unterstützend:** Grapefruit, Eukalyptus radiata, Zedernholz
 
-**Arbeits-/Lernprotokoll:**
+**Arbeits-/Lernritual:**
 - Diffuser am Arbeitsplatz: 3 Tr. Rosmarin + 2 Tr. Zitrone + 1 Tr. Pfefferminze
 - Intervallbetrieb: 30 Min an / 30 Min aus (verhindert Gewöhnung)
 - Für Prüfungen: Gleichen Duft beim Lernen und in der Prüfung verwenden (Ankerprinzip)
-- Riechstift mit der Arbeitsmischung für Meetings oder Prüfungen
+- Riechstift mit der Arbeitsmischung für unterwegs
 
-### Protokoll 5: Emotionale Schwere & Traurigkeit
+### Ritual 5: Leichtigkeit & Wärme
 
 **Hauptöle:** Rose, Bergamotte, Orange, Neroli, Jasmin
 **Unterstützend:** Weihrauch, Ylang-Ylang, Geranium
@@ -1214,35 +1180,35 @@ Die folgenden Protokolle sind Ausgangspunkte — keine starren Vorschriften. Pas
 - Nachmittags: Duftpause — Handflächenmethode mit Neroli oder Jasmin
 - Abends: Warme Kompresse auf dem Herzbereich mit Lavendel + Geranium
 
-**Wichtig:** Bei anhaltender Traurigkeit, die über normale Stimmungsschwankungen hinausgeht, ist professionelle Unterstützung angeraten. Aromatherapie kann begleiten, aber nicht ersetzen.
+**Wichtig:** Bei anhaltender gedrückter Stimmung, die über normale Schwankungen hinausgeht, ist professionelle Unterstützung angeraten. Düfte können den Alltag begleiten, aber keine fachliche Hilfe ersetzen.
 
-### Übung: Dein erstes Klienten-Protokoll
+### Übung: Dein erstes Duftritual
 
-Erstelle ein individuelles 1-Wochen-Protokoll für ein selbstgewähltes Anliegen:
+Erstelle ein individuelles 1-Wochen-Duftritual für ein selbstgewähltes Wohlfühl-Thema:
 - Welche Öle? (Haupt + unterstützend)
 - Welche Anwendungsform? (Diffuser, topisch, Bad)
 - Welches Timing? (Morgens, mittags, abends)
-- Wie evaluierst du den Erfolg?`
+- Wie beobachtest du die Wirkung auf dein Wohlbefinden?`
         }
       ]
     },
 
     // ============================================================
-    // MODUL 6 — Deine Aromatherapie-Praxis
+    // MODUL 6 — Deine Aromakunde-Praxis
     // ============================================================
     {
       id: 'N01-M6',
-      titel: 'Deine Aromatherapie-Praxis',
-      beschreibung: 'Sicherheit und Kontraindikationen kennen, ätherische Öle in die energetische Arbeit integrieren und deinen persönlichen Aromakoffer zusammenstellen.',
+      titel: 'Deine Aromakunde-Praxis',
+      beschreibung: 'Sicherheit und Grenzen kennen, ätherische Öle in die achtsame Praxis integrieren und deinen persönlichen Aromakoffer zusammenstellen.',
       lektionen: [
         {
           id: 'N01-M6-L16',
-          titel: 'Sicherheit & Kontraindikationen — Grenzen der Aromatherapie',
-          inhalt: `## Sicherheit & Kontraindikationen
+          titel: 'Sicherheit & Grenzen — verantwortungsvoller Umgang',
+          inhalt: `## Sicherheit & Grenzen
 
 ### Respekt vor der Konzentration
 
-Ätherische Öle sind hochkonzentrierte Pflanzenextrakte. Ein Tropfen Pfefferminzöl entspricht etwa 28 Tassen Pfefferminztee. Diese Potenz macht sie wirksam — und potenziell gefährlich, wenn sie unsachgemäß verwendet werden. Sicherheitswissen ist keine Einschränkung deiner Praxis — es ist ihre Grundlage.
+Ätherische Öle sind hochkonzentrierte Pflanzenextrakte. Ein Tropfen Pfefferminzöl entspricht etwa 28 Tassen Pfefferminztee. Diese Potenz macht sie intensiv — und potenziell riskant, wenn sie unsachgemäß verwendet werden. Sicherheitswissen ist keine Einschränkung deiner Praxis — es ist ihre Grundlage.
 
 ### Allgemeine Sicherheitsregeln
 
@@ -1250,36 +1216,36 @@ Erstelle ein individuelles 1-Wochen-Protokoll für ein selbstgewähltes Anliegen
 Kein ätherisches Öl sollte routinemäßig pur auf die Haut aufgetragen werden. Auch bei Lavendel und Teebaum — die oft als "sicher pur" bezeichnet werden — ist Verdünnung die beste Praxis. Langfristige unverdünnte Anwendung kann Sensibilisierung verursachen.
 
 **Regel 2: Weniger ist mehr.**
-Ätherische Öle wirken in erstaunlich kleinen Mengen. 1–2 Tropfen im Diffuser können ausreichen. Eine höhere Dosis ist nicht automatisch wirksamer — aber potenziell reizender.
+Ätherische Öle wirken in erstaunlich kleinen Mengen. 1–2 Tropfen im Diffuser können ausreichen. Eine höhere Dosis ist nicht automatisch besser — aber potenziell reizender.
 
 **Regel 3: Nicht innerlich einnehmen.**
-Die orale Einnahme ätherischer Öle ist ohne ärztliche Aufsicht nicht empfohlen. Einige Öle sind oral toxisch (Wintergreen, Kampfer, Thujon-haltige Öle), und auch "sichere" Öle können die Schleimhäute des Verdauungstrakts schädigen.
+Die orale Einnahme ätherischer Öle gehört ausschließlich in fachkundige Hände und ist ohne ärztliche oder apothekerliche Begleitung nicht zu empfehlen. Einige Öle sind oral giftig (Wintergreen, Kampfer, thujonhaltige Öle), und auch "sichere" Öle können die Schleimhäute schädigen.
 
 **Regel 4: Kontakt mit Augen und Schleimhäuten vermeiden.**
 Bei versehentlichem Augenkontakt: Mit Trägeröl (nicht mit Wasser) ausspülen. Wasser verteilt das Öl, Fettöl bindet es.
 
 **Regel 5: Außerhalb der Reichweite von Kindern aufbewahren.**
-Verschlucken ätherischer Öle kann für Kinder lebensgefährlich sein. Bereits 5 ml Eukalyptusöl können bei einem Kleinkind tödlich sein.
+Das Verschlucken ätherischer Öle kann für Kinder sehr gefährlich sein. Bereits kleine Mengen mancher Öle (z.B. Eukalyptusöl) können für ein Kleinkind bedrohlich sein. Im Notfall sofort den Giftnotruf bzw. ärztliche Hilfe kontaktieren.
 
-### Spezielle Risikogruppen
+### Spezielle Hinweis-Gruppen
 
 **Schwangere:**
-Viele Öle sind in der Schwangerschaft kontraindiziert — besonders im ersten Trimester. Sichere Optionen (nach dem 1. Trimester, in niedriger Dosierung): Lavendel, Mandarine, Orange, Zitrone, Kamille (römisch).
-Vermeiden: Rosmarin, Pfefferminze, Salbei, Muskatellersalbei, Nelke, Zimt, Kampfer, Wacholder, alle stark hormonwirksamen Öle.
+Viele Öle werden in der Schwangerschaft nicht empfohlen — besonders im ersten Trimester. Häufig als unkritisch geltende Optionen (nach dem 1. Trimester, niedrig dosiert): Lavendel, Mandarine, Orange, Zitrone, Kamille (römisch). Im Zweifel immer mit Ärztin, Arzt, Hebamme oder Apotheke abklären.
+Eher meiden: Rosmarin, Pfefferminze, Salbei, Muskatellersalbei, Nelke, Zimt, Kampfer, Wacholder.
 
 **Kinder:**
 - 0–2 Jahre: Nur Raumbeduftung mit milden Ölen (Lavendel, Mandarine), minimale Dosierung
-- 2–6 Jahre: Verdünnt auf der Haut erlaubt (0,5%), nur sanfte Öle. Kein Eukalyptus globulus, kein Pfefferminze, kein Rosmarin (Menthol/Kampfer-Risiko)
+- 2–6 Jahre: Verdünnt auf der Haut (0,5%), nur sanfte Öle. Kein Eukalyptus globulus, keine Pfefferminze, kein Rosmarin
 - 6–12 Jahre: 1% Verdünnung, breiteres Spektrum möglich. E. radiata statt E. globulus
 
 **Epilepsie:**
-Rosmarin, Kampfer, Fenchel, Ysop und Salbei können die Krampfschwelle senken. Kontraindiziert.
+Rosmarin, Kampfer, Fenchel, Ysop und Salbei gelten als ungeeignet. Bitte ärztlich abklären.
 
-**Asthma:**
-Ätherische Öle können bei Asthmatikern Bronchialspasmen auslösen — besonders stark riechende oder kampferhaltige Öle. Vorsichtig beginnen, beobachten, im Zweifel weglassen.
+**Asthma / empfindliche Atemwege:**
+Stark riechende oder kampferhaltige Öle können die Atemwege reizen. Vorsichtig beginnen, beobachten, im Zweifel weglassen und ärztlich abklären.
 
 **Medikamenteneinnahme:**
-Einige Öle können die Wirkung von Medikamenten beeinflussen. Pfefferminze kann die Aufnahme bestimmter Medikamente verändern. Grapefruit interagiert mit Statinen und anderen Arzneimitteln. Bei medikamentöser Behandlung: Rücksprache mit dem Arzt.
+Einige Öle können mit Medikamenten in Wechselwirkung treten. Bei regelmäßiger Medikamenteneinnahme: vor der Anwendung Rücksprache mit Ärztin, Arzt oder Apotheke.
 
 ### Sensibilisierung
 
@@ -1289,51 +1255,55 @@ Einmal sensibilisiert, reagiert die Haut bei jedem zukünftigen Kontakt — oft 
 
 Vorbeugung: Immer verdünnen. Öle rotieren (nicht monatelang dasselbe Öl verwenden). Bei Hautreaktionen: sofort absetzen.
 
+### Die wichtigste Grenze
+
+Aromakunde ist Pflanzen- und Duftkunde für Wohlbefinden und Selbstfürsorge. Sie ist keine Heilkunde. Bei Krankheiten, anhaltenden Beschwerden, unklaren Symptomen oder vor Behandlungen gilt immer: Erst zu Ärztin, Arzt, Apotheke oder Heilpraktiker. Düfte können den Alltag bereichern und begleiten — die Verantwortung für gesundheitliche Fragen liegt bei den dafür qualifizierten Fachpersonen.
+
 ### Übung: Sicherheits-Checkliste erstellen
 
 Erstelle eine Sicherheits-Checkliste für deine Praxis:
-- Welche Öle habe ich, die kontraindiziert sein können? ___
-- Frage ich Klienten nach Schwangerschaft, Allergien, Medikamenten? □
+- Welche Öle habe ich, die mit Vorsicht zu verwenden sind? ___
+- Frage ich nach Schwangerschaft, Allergien, Medikamenten? □
 - Habe ich Trägeröl für Notfälle griffbereit? □
 - Sind meine Öle kindersicher gelagert? □
 - Rotiere ich meine Öle regelmäßig? □`
         },
         {
           id: 'N01-M6-L17',
-          titel: 'Ätherische Öle in der energetischen Arbeit — Chakren, Meditation & Rituale',
-          inhalt: `## Ätherische Öle in der energetischen Arbeit
+          titel: 'Ätherische Öle in der achtsamen Praxis — Chakren, Meditation & Rituale',
+          inhalt: `## Ätherische Öle in der achtsamen Praxis
 
-### Wo Pflanzenkraft und Energiearbeit sich treffen
+### Wo Pflanzenkraft und Achtsamkeit sich treffen
 
-Ätherische Öle sind nicht nur biochemische Substanzen — sie tragen die energetische Signatur der Pflanze in sich. In vielen Heiltraditionen werden Pflanzen als Bewusstseinswesen verstanden, deren Essenz eine bestimmte Frequenz, eine bestimmte Botschaft trägt. Die Integration ätherischer Öle in die energetische Praxis verbindet zwei kraftvolle Heilwege.
+Ätherische Öle sind nicht nur biochemische Substanzen — viele Menschen erleben sie auch als Träger einer bestimmten Stimmung oder Qualität. In vielen spirituellen Traditionen werden Pflanzen als Wesen mit einer eigenen Essenz verstanden. Die Integration ätherischer Öle in die achtsame und meditative Praxis verbindet sinnliches Dufterleben mit innerer Sammlung.
 
 ### Ätherische Öle und die Chakren
 
-Jedes Chakra hat eine energetische Qualität — und bestimmte ätherische Öle resonieren mit dieser Qualität:
+In der Chakren-Lehre wird jedem Energiezentrum eine Qualität zugeordnet — und bestimmte ätherische Öle werden traditionell mit diesen Qualitäten in Verbindung gebracht:
 
 **Wurzelchakra (Muladhara) — Erdung, Sicherheit:**
 Vetiver, Patchouli, Zedernholz, Schwarzer Pfeffer, Ingwer
-Anwendung: Fußsohlen, unterer Rücken, Steißbein
+Anwendung: Fußsohlen, unterer Rücken (verdünnt)
 
 **Sakralchakra (Svadhisthana) — Kreativität, Sinnlichkeit:**
 Ylang-Ylang, Orange, Sandelholz, Jasmin, Mandarine
-Anwendung: Unterbauch, Hüften
+Anwendung: Unterbauch, Hüften (verdünnt)
 
 **Solarplexus (Manipura) — Willenskraft, Selbstvertrauen:**
 Zitrone, Rosmarin, Grapefruit, Ingwer, Pfefferminze
-Anwendung: Oberbauch, Solarplexus-Bereich
+Anwendung: Oberbauch (verdünnt)
 
 **Herzchakra (Anahata) — Liebe, Mitgefühl:**
 Rose, Geranium, Bergamotte, Neroli, Ylang-Ylang
-Anwendung: Brustbein, zwischen den Schulterblättern
+Anwendung: Brustbein, zwischen den Schulterblättern (verdünnt)
 
 **Halschakra (Vishuddha) — Ausdruck, Kommunikation:**
 Kamille (blau), Eukalyptus, Pfefferminze, Teebaum
-Anwendung: Hals, Nacken
+Anwendung: Hals, Nacken (verdünnt)
 
 **Stirnchakra (Ajna) — Intuition, Klarheit:**
 Lavendel, Weihrauch, Muskatellersalbei, Rosmarin
-Anwendung: Stirn, Schläfen
+Anwendung: Stirn, Schläfen (verdünnt)
 
 **Kronenchakra (Sahasrara) — Anbindung, Spiritualität:**
 Weihrauch, Myrrhe, Sandelholz, Lavendel, Lotus
@@ -1348,23 +1318,23 @@ Anwendung: Scheitel, Diffuser während Meditation
 Den Duft selbst zum Meditationsobjekt machen. Augen schließen, riechen, dem Duft innerlich folgen: Wo nimmst du ihn wahr? Wie verändert er sich? Was passiert, wenn du tiefer einatmest? Der Duft wird zum Anker — wie der Atem in der Atemmeditation.
 
 **Chakra-Meditation:**
-Während einer Chakra-Meditation das entsprechende Öl am jeweiligen Energiezentrum auftragen (verdünnt!) oder auf einem Duftstein neben dir platzieren. Der Duft verstärkt die Visualisierung und die energetische Öffnung.
+Während einer Chakra-Meditation das entsprechende Öl am jeweiligen Energiezentrum auftragen (verdünnt!) oder auf einem Duftstein neben dir platzieren. Der Duft verstärkt die Visualisierung und das innere Erleben.
 
-### Integration in Heilsitzungen
+### Integration in achtsame Sitzungen
 
 **Raum vorbereiten:**
-10 Minuten vor der Sitzung: Diffuser mit einem erdenden, reinigenden Öl (Weihrauch, Zedernholz). Das schafft eine energetisch klare Atmosphäre und signalisiert dem Klienten: Hier ist ein besonderer Raum.
+10 Minuten vor der Sitzung: Diffuser mit einem erdenden Öl (Weihrauch, Zedernholz). Das schafft eine ruhige, klare Atmosphäre und signalisiert: Hier ist ein besonderer Raum.
 
 **Während der Sitzung:**
-- Energiearbeit mit Duft: Bevor du ein Chakra behandelst, einen Tropfen des zugehörigen Öls (verdünnt) auf deine Handflächen geben. Deine Hände tragen dann sowohl die Energie als auch den Duft.
-- Emotionale Öffnung: Wenn ein Klient Schwierigkeiten hat, emotional in Kontakt zu kommen — ein Tropfen Rose auf ein Taschentuch kann den Zugang öffnen.
+- Achtsame Duftbegleitung: einen Tropfen des gewählten Öls (verdünnt) auf die Handflächen geben — die Hände tragen dann den Duft.
+- Emotionale Öffnung: Wenn jemand Schwierigkeiten hat, in Kontakt mit dem eigenen Empfinden zu kommen — ein Tropfen Rose auf ein Taschentuch kann einen sanften Zugang schaffen.
 
 **Nach der Sitzung:**
-Klienten ein beduftetes Tuch oder einen Roll-on mitgeben — als "Erinnerung" an den Heilungszustand. Der Duft wird zum Anker, der die Wirkung der Sitzung im Alltag verlängert.
+Ein beduftetes Tuch oder einen Roll-on mitgeben — als "Erinnerung" an die entspannte Atmosphäre. Der Duft wird zum Anker, der das Wohlgefühl der Sitzung in den Alltag verlängert.
 
 ### Rituale mit Düften
 
-Ätherische Öle verstärken Rituale — Räucherungen, Segnungen, Übergänge. Ein Tropfen Weihrauch auf eine Kerze (nicht in die Flamme — auf den Rand), ein beduftetes Tuch auf dem Altar, ein Raumspray vor einem wichtigen Gespräch.
+Ätherische Öle verstärken Rituale — Segnungen, Übergänge, bewusste Momente. Ein Tropfen Weihrauch auf den Rand einer Kerze (nicht in die Flamme), ein beduftetes Tuch auf dem Altar, ein Raumspray vor einem wichtigen Gespräch.
 
 ### Übung: Chakra-Duftreise
 
@@ -1379,28 +1349,28 @@ Wähle für jedes Chakra ein Öl und führe eine aufsteigende Meditation durch:
           titel: 'Dein Aromakoffer — Grundausstattung & Weiterentwicklung',
           inhalt: `## Dein Aromakoffer
 
-### Der Werkzeugkasten des Aromatherapeuten
+### Der Werkzeugkasten der Aromakunde
 
-So wie ein Handwerker seinen Werkzeugkoffer pflegt, baust du dir als Aromatherapeut einen Aromakoffer auf — deine persönliche Sammlung von Ölen, Trägerölen und Zubehör, die dich in Praxis und Alltag begleitet.
+So wie ein Handwerker seinen Werkzeugkoffer pflegt, baust du dir in der Aromakunde einen Aromakoffer auf — deine persönliche Sammlung von Ölen, Trägerölen und Zubehör, die dich in Praxis und Alltag begleitet.
 
 ### Die Grundausstattung — 12 Öle für den Start
 
 **Die "unverzichtbaren Vier":**
 1. Lavendel (Lavandula angustifolia) — der Allrounder
-2. Teebaum (Melaleuca alternifolia) — der Desinfizierer
-3. Pfefferminze (Mentha × piperita) — der Klarheit-Geber
+2. Teebaum (Melaleuca alternifolia) — der Klärende
+3. Pfefferminze (Mentha × piperita) — der Frische-Geber
 4. Zitrone (Citrus limon) — der Frischekick
 
 **Die "emotionale Vier":**
 5. Orange (Citrus sinensis) — der Stimmungsaufheller
-6. Bergamotte (Citrus bergamia) — der Angstlöser
+6. Bergamotte (Citrus bergamia) — der Ausgleicher
 7. Ylang-Ylang (Cananga odorata) — der Herzöffner
 8. Geranium (Pelargonium graveolens) — der Harmonisierer
 
-**Die "Tiefe Vier":**
+**Die "tiefe Vier":**
 9. Weihrauch (Boswellia carterii) — der Meditationsbegleiter
-10. Eukalyptus (Eucalyptus radiata) — der Atembefreier
-11. Rosmarin (Rosmarinus off. ct. Cineol) — der Gedächtniswächter
+10. Eukalyptus (Eucalyptus radiata) — der Frische-Bringer
+11. Rosmarin (Rosmarinus off. ct. Cineol) — der Klare
 12. Vetiver (Vetiveria zizanioides) — der Erder
 
 **Budget:** Diese 12 Öle kosten in guter Qualität zusammen ca. 80–120 €. Es ist die Investition, die deine gesamte Praxis fundiert.
@@ -1409,7 +1379,7 @@ So wie ein Handwerker seinen Werkzeugkoffer pflegt, baust du dir als Aromatherap
 
 **Für den Start reichen drei:**
 - Jojobaöl (Gesicht, universell) — ca. 8–12 €/100 ml
-- Mandelöl (Körpermassage) — ca. 5–8 €/100 ml
+- Mandelöl (Körperpflege) — ca. 5–8 €/100 ml
 - Kokosöl (Haare, Sommer) — ca. 6–10 €/250 ml
 
 ### Zubehör
@@ -1424,29 +1394,29 @@ So wie ein Handwerker seinen Werkzeugkoffer pflegt, baust du dir als Aromatherap
 - Etiketten und wasserfester Stift zum Beschriften
 
 **Für die Praxis:**
-- Zweiter Diffuser für den Behandlungsraum
+- Zweiter Diffuser für den Praxisraum
 - Aufbewahrungsbox für ätherische Öle (dunkel, gepolstert)
 - Riechstifte (Inhaler) zum Befüllen
-- Kompressenstoff oder Waschlappen für Wickel
-- Dufttagebuch / Klienten-Duftkarten
+- Kompressenstoff oder Waschlappen
+- Dufttagebuch / Duftkarten
 
 ### Dein Aromakoffer erweitern
 
 **Phase 2 — Nach 3–6 Monaten:**
 Ergänze nach Bedarf und Erfahrung:
-- Kamille (römisch) — für tiefe Beruhigung und Kindertauglichkeit
-- Muskatellersalbei — für hormonelle Themen
-- Schwarzer Pfeffer — für Durchblutung und Wärme
-- Ingwer — für Verdauung und Antrieb
+- Kamille (römisch) — für sanfte, milde Düfte
+- Muskatellersalbei — warm und krautig
+- Schwarzer Pfeffer — würzig, wärmend im Duft
+- Ingwer — würzig, belebend
 - Sandelholz — für tiefe Meditation und Hautpflege
 
 **Phase 3 — Nach 1 Jahr:**
 Die Luxusöle und Spezialisten:
 - Rose (auch als 5%-Verdünnung in Jojoba erhältlich — günstiger Einstieg)
-- Neroli — für emotionale Traumata und Hauterneuerung
-- Jasmin Absolue — für Sinnlichkeit und Selbstvertrauen
-- Ravintsara — für Immunsystem und Atemwege
-- Helichrysum (Immortelle) — für Hautverletzungen und emotionale Wunden
+- Neroli — für feine, blumige Kompositionen und Hautpflege
+- Jasmin Absolue — für sinnliche, tiefe Düfte
+- Ravintsara — frisch und klar im Duft
+- Helichrysum (Immortelle) — für anspruchsvolle Hautpflege-Mischungen
 
 ### Pflege und Organisation
 
@@ -1456,21 +1426,21 @@ Die Luxusöle und Spezialisten:
 - Oxidierte Öle (veränderter Geruch, zähflüssig) nicht mehr auf der Haut verwenden
 - Bestand regelmäßig prüfen — leere Flaschen ersetzen, kaum genutzte Öle verschenken
 
-### Dein Aromatherapie-Profil
+### Dein Aromakunde-Profil
 
-Die wichtigste Frage zum Schluss: Welcher Aromatherapeut bist du?
+Die wichtigste Frage zum Schluss: Welcher Aromakunde-Typ bist du?
 
-**Der Praktiker:** Du integrierst Öle in eine bestehende Praxis (Massage, Energiearbeit, Coaching). Dein Aromakoffer ist ein Werkzeug neben anderen.
+**Der Praktiker:** Du integrierst Düfte in eine bestehende Praxis (Massage, Energiearbeit, Coaching). Dein Aromakoffer ist ein Werkzeug neben anderen.
 
-**Der Spezialist:** Du baust eine eigenständige Aromatherapie-Praxis auf. Dein Wissen wird tiefer, dein Koffer größer, deine Mischungen differenzierter.
+**Der Spezialist:** Du baust eine eigenständige, duftorientierte Praxis auf. Dein Wissen wird tiefer, dein Koffer größer, deine Mischungen differenzierter.
 
 **Der Alltagsanwender:** Du nutzt Öle primär für dich selbst und deine Familie. Dein Koffer bleibt kompakt, aber gezielt.
 
-Alle drei Wege sind richtig. Aromatherapie skaliert — von einem einzigen Fläschchen Lavendel bis zur Praxis mit 100 Ölen.
+Alle drei Wege sind richtig. Aromakunde skaliert — von einem einzigen Fläschchen Lavendel bis zur Sammlung mit 100 Ölen.
 
 ---
 
-*Herzlichen Glückwunsch zum Abschluss dieses Kurses. Du hast jetzt das Wissen, ätherische Öle sicher, wirksam und kreativ einzusetzen — ob für dich selbst, für deine Liebsten oder für deine Klienten. Dein Aromakoffer wartet darauf, gefüllt zu werden.*`
+*Herzlichen Glückwunsch zum Abschluss dieses Kurses. Du hast jetzt das Wissen, ätherische Öle sicher und kreativ für dein Wohlbefinden einzusetzen — ob für dich selbst, für deine Liebsten oder als Begleitung für die Menschen, mit denen du arbeitest. Denke immer daran: Aromakunde dient dem Wohlbefinden und ersetzt keine ärztliche, pharmazeutische oder heilkundliche Beratung. Dein Aromakoffer wartet darauf, gefüllt zu werden.*`
         }
       ]
     }

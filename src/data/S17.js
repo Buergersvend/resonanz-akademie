@@ -12,7 +12,7 @@ const S17 = {
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Grundkenntnisse Chakrenlehre empfohlen',
   beschreibung: `Kundalini ist die schlafende Urkraft im menschlichen Energiesystem — eine gewaltige Energie, die am unteren Ende der Wirbelsäule ruht und darauf wartet, geweckt zu werden. Wenn sie aufsteigt, durchströmt sie die Chakren und kann tiefgreifende Transformation auf allen Ebenen auslösen — körperlich, emotional, mental und spirituell. In diesem Kurs lernst du, was Kundalini wirklich ist, wie Erweckungsprozesse ablaufen, welche Praktiken den Aufstieg unterstützen und — entscheidend — wie du diesen Prozess sicher, geerdet und integriert durchlebst.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

@@ -12,7 +12,7 @@ const P06 = {
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
   beschreibung: `NLP ist die Kunst, die Sprache des Geistes gezielt zu nutzen — um innere Muster zu erkennen, Blockaden aufzulösen und Veränderungsprozesse wirksam zu begleiten. In diesem Kurs lernst du die Grundprinzipien des Neurolinguistischen Programmierens, die wichtigsten Techniken von Ankern über Reframing bis zu Belief-Arbeit und wie du NLP professionell in Coaching, Beratung und energetische Praxis integrierst. Kein Manipulationswerkzeug — sondern ein respektvoller Schlüssel zu den Strukturen menschlicher Erfahrung.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

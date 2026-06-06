@@ -3,7 +3,7 @@ const C03 = {
   titel: 'Spiritueller Coach',
   bereich: 'coaching',
   beschreibung: 'Werde ein professioneller spiritueller Coach — lerne, Menschen auf ihrem spirituellen Weg authentisch zu begleiten, ohne zu missionieren. Diese Ausbildung verbindet Coaching-Kompetenz mit spirituellem Tiefgang und gibt dir Werkzeuge für die Arbeit mit Sinnfragen, Lebenskrisen, spirituellen Erwachungsprozessen und der Integration von Spiritualität in den Alltag.',
-  status: 'live',
+  status: 'coming',
   module: [
     {
       id: 'C03-M1',

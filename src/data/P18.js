@@ -12,7 +12,7 @@ const P18 = {
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
   beschreibung: `Stress ist kein Gedanke — er ist ein Körperzustand. Dein Nervensystem entscheidet in jeder Sekunde, ob du sicher bist oder in Gefahr — und diese Entscheidung bestimmt, wie du fühlst, denkst und handelst. In diesem Kurs lernst du, wie dein Nervensystem funktioniert, warum es bei vielen Menschen im Dauerstress feststeckt und wie du es gezielt regulieren kannst. Von der Polyvagal-Theorie über Vagusnerv-Aktivierung bis zu körperbasierten Methoden der Stressauflösung — du bekommst ein Werkzeugset, das Stress an der Wurzel anpackt.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

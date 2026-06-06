@@ -3,7 +3,7 @@ const S15 = {
   titel: 'Träume & Schamanisches Träumen',
   bereich: 'spiritualitaet',
   beschreibung: 'Entdecke die tiefe Weisheit deiner Träume und erlerne die Kunst des schamanischen Träumens. Diese Ausbildung verbindet moderne Traumforschung mit alten schamanischen Traditionen und befähigt dich, Träume als therapeutisches Werkzeug für Selbsterkenntnis, Heilung und spirituelle Entwicklung zu nutzen.',
-  status: 'live',
+  status: 'coming',
   module: [
     {
       id: 'S15-M1',

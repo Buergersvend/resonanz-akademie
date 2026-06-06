@@ -12,7 +12,7 @@ const C01 = {
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine formalen Voraussetzungen · Interesse an Persönlichkeitsentwicklung und Arbeit mit Menschen',
   beschreibung: `Lifecoaching ist die Kunst, Menschen dabei zu begleiten, ihr eigenes Potenzial zu erkennen und zu entfalten — ohne ihnen Ratschläge zu geben, ohne ihre Probleme zu lösen, sondern indem du den Raum schaffst, in dem sie ihre eigenen Antworten finden. In dieser Grundausbildung lernst du die professionellen Fundamente des Coachings: Von der inneren Haltung über bewährte Gesprächstechniken bis hin zu konkreten Werkzeugen, die du sofort in der Praxis einsetzen kannst.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

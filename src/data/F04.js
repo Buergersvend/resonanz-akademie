@@ -3,7 +3,7 @@ const F04 = {
   titel: 'Psychogenealogie & Familienerbe',
   bereich: 'frauen',
   beschreibung: 'Erforsche die unsichtbaren Fäden, die dein Leben mit dem deiner Vorfahren verbinden. Diese Ausbildung lehrt dich, transgenerationale Muster zu erkennen, das psychische Erbe deiner Familie zu entschlüsseln und Klienten bei der Befreiung aus vererbten Lebensmustern zu begleiten.',
-  status: 'live',
+  status: 'coming',
   module: [
     {
       id: 'F04-M1',

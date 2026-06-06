@@ -12,7 +12,7 @@ const P04 = {
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine — Bereitschaft zur ehrlichen Selbstbegegnung',
   beschreibung: `In jedem Erwachsenen lebt ein Kind — mit seinen Freuden, seinen Ängsten und seinen ungeheilten Wunden. Die Arbeit mit dem Inneren Kind ist einer der wirkungsvollsten Wege, um tief sitzende Muster zu erkennen, emotionale Blockaden zu lösen und eine liebevolle Beziehung zu dir selbst aufzubauen. In diesem Kurs lernst du, Kontakt zu deinem Inneren Kind aufzunehmen, seine Wunden zu verstehen und durch Re-Parenting eine innere Heilung zu ermöglichen, die dein gesamtes Leben verändert.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

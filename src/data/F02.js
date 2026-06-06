@@ -3,7 +3,7 @@ const F02 = {
   titel: 'Familienaufstellungen energetisch',
   bereich: 'frauen',
   beschreibung: 'Lerne die Kunst der energetischen Familienaufstellung — von den systemischen Grundprinzipien über die Wahrnehmung von Familienfeldern bis zur eigenständigen Durchführung. Diese Ausbildung verbindet systemische Aufstellungsarbeit mit feinstofflicher Wahrnehmung und energetischen Interventionstechniken.',
-  status: 'live',
+  status: 'coming',
   module: [
     {
       id: 'F02-M1',

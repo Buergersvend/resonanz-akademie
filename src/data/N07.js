@@ -5,13 +5,13 @@
 const N07 = {
   id: 'N07',
   titel: 'Ayurveda Grundlagen',
-  untertitel: 'Doshas · Konstitutionstypen · Ernährung · Tagesrhythmus · Lebensführung',
+  untertitel: 'Doshas · Konstitutionstypen · Ernährung · Tagesrhythmus · Lebensführung · Bildungs- und Selbsterfahrungswissen',
   bereich: 'naturheilkunde',
   format: 'standard',
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
-  beschreibung: `Ayurveda — das "Wissen vom Leben" — ist das älteste dokumentierte Gesundheitssystem der Menschheit. Seit über 5000 Jahren lehrt es, wie du deinen einzigartigen Konstitutionstyp erkennst, Ungleichgewichte frühzeitig wahrnimmst und durch Ernährung, Tagesrhythmus, Kräuter und Lebensführung in deine natürliche Balance zurückfindest. In diesem Kurs lernst du die Grundprinzipien des Ayurveda kennen, bestimmst deine persönliche Konstitution und bekommst praktische Werkzeuge für ein ayurvedisches Leben — alltagstauglich, tiefgründig und sofort anwendbar.`,
+  beschreibung: `Ayurveda — das "Wissen vom Leben" — ist eine der ältesten Lebens- und Gesundheitslehren der Menschheit. Seit über 5000 Jahren beschreibt es, wie du deinen einzigartigen Konstitutionstyp verstehst und durch Ernährung, Tagesrhythmus und bewusste Lebensführung deine persönliche Balance pflegst. In diesem Kurs lernst du die Philosophie und die Grundprinzipien des Ayurveda kennen, bestimmst spielerisch deine persönliche Konstitution und bekommst alltagstaugliche Anregungen für deine eigene Lebensführung. Hinweis: Dieser Kurs vermittelt Ayurveda als Kultur-, Philosophie- und Selbsterfahrungswissen für die eigene Lebensgestaltung. Er ist keine medizinische oder heilkundliche Ausbildung, stellt keine Diagnosen, empfiehlt keine Heilmittel oder Dosierungen zur Behandlung von Beschwerden und ersetzt keine ärztliche, heilpraktische oder ernährungsfachliche Versorgung. Bei gesundheitlichen Beschwerden ist immer die Ärztin, der Arzt oder eine entsprechende Fachperson zuständig.`,
   status: 'live',
 
   module: [
@@ -28,17 +28,17 @@ const N07 = {
           titel: 'Was Ayurveda ist — 5000 Jahre Lebensweisheit',
           inhalt: `## Was Ayurveda ist
 
-### Das älteste Gesundheitssystem der Welt
+### Eine der ältesten Lebenslehren der Welt
 
-Ayurveda (Sanskrit: "Ayus" = Leben, "Veda" = Wissen) entstand vor über 5000 Jahren auf dem indischen Subkontinent. Es ist kein bloßes Medizinsystem — es ist eine umfassende Wissenschaft des Lebens, die Körper, Geist, Seele und Umwelt als untrennbare Einheit betrachtet.
+Ayurveda (Sanskrit: "Ayus" = Leben, "Veda" = Wissen) entstand vor über 5000 Jahren auf dem indischen Subkontinent. In diesem Kurs betrachten wir es nicht als Medizinsystem, sondern als umfassende Lebensphilosophie, die Körper, Geist, Seele und Umwelt als untrennbare Einheit versteht.
 
 Die ältesten ayurvedischen Texte — die Charaka Samhita und die Sushruta Samhita, entstanden zwischen 1000 und 500 v. Chr. — beschreiben mit erstaunlicher Präzision Anatomie, Chirurgie, Pharmakologie, Ernährungslehre, Psychologie und Prävention. Sushruta beschrieb über 300 chirurgische Verfahren, darunter Nasenrekonstruktionen und Staroperationen — Techniken, die in Europa erst 2000 Jahre später entwickelt wurden.
 
 ### Die Grundidee — Individualität statt Einheitsmedizin
 
-Die revolutionärste Idee des Ayurveda — auch nach 5000 Jahren — ist: Es gibt keine Universalbehandlung. Was für einen Menschen Medizin ist, kann für einen anderen Gift sein. Jeder Mensch hat eine einzigartige Konstitution (Prakriti), und Gesundheit bedeutet, im Einklang mit dieser Konstitution zu leben.
+Die revolutionärste Idee des Ayurveda — auch nach 5000 Jahren — ist: Es gibt keinen Universal-Lebensstil. Was dem einen Menschen guttut, kann für einen anderen ungünstig sein. Jeder Mensch hat eine einzigartige Konstitution (Prakriti), und Wohlbefinden bedeutet, im Einklang mit dieser Konstitution zu leben.
 
-Die moderne Medizin beginnt gerade erst, diesen Gedanken unter dem Begriff "personalisierte Medizin" zu entdecken. Ayurveda praktiziert ihn seit Jahrtausenden.
+Auch in der modernen Wissenschaft gewinnt der Gedanke der Individualität unter dem Begriff "personalisierte Ansätze" an Bedeutung. Ayurveda denkt in dieser Richtung seit Jahrtausenden.
 
 ### Die fünf Elemente — Bausteine des Universums
 
@@ -102,7 +102,7 @@ Die drei Doshas — Vata, Pitta und Kapha — sind die Grundpfeiler des Ayurveda
 
 Jeder Mensch hat alle drei Doshas — aber in einem einzigartigen Verhältnis. Deine Grundkonstitution (Prakriti) wird bei der Zeugung festgelegt und verändert sich im Kern nicht. Was sich verändert, ist dein aktueller Zustand (Vikriti) — die momentane Dosha-Verteilung, die durch Ernährung, Lebensstil, Jahreszeit, Alter und Stress beeinflusst wird.
 
-Gesundheit im Ayurveda bedeutet: Vikriti ist nah an Prakriti. Dein aktueller Zustand stimmt mit deiner Grundkonstitution überein. Krankheit entsteht, wenn ein Dosha sich über sein natürliches Maß hinaus erhöht — dann spricht man von einem "erhöhten" oder "gestörten" Dosha.`
+Balance im Ayurveda bedeutet: Vikriti ist nah an Prakriti. Dein aktueller Zustand stimmt mit deiner Grundkonstitution überein. Ein Ungleichgewicht im ayurvedischen Sinne entsteht, wenn ein Dosha sich über sein natürliches Maß hinaus erhöht — dann spricht man von einem "erhöhten" Dosha. Das ist ein Modellbegriff der ayurvedischen Lehre, keine medizinische Diagnose.`
         },
         {
           id: 'N07-M1-L3',
@@ -111,7 +111,7 @@ Gesundheit im Ayurveda bedeutet: Vikriti ist nah an Prakriti. Dein aktueller Zus
 
 ### Wer bist du von Natur aus?
 
-Die Bestimmung deiner Prakriti (Grundkonstitution) ist der wichtigste Schritt im Ayurveda — denn alle Empfehlungen für Ernährung, Lebensstil und Therapie basieren darauf.
+Die Bestimmung deiner Prakriti (Grundkonstitution) ist der wichtigste Schritt im Ayurveda — denn alle Anregungen für Ernährung und Lebensstil bauen darauf auf. Verstehe sie als spielerische Selbsteinschätzung deines Typs, nicht als gesundheitliche Beurteilung.
 
 ### Körperliche Merkmale
 
@@ -139,7 +139,7 @@ Zähle: Wie oft V, wie oft P, wie oft K? Dein Haupt-Dosha ist das mit den meiste
 
 ### Wichtig
 
-Dieser Selbsttest gibt eine Orientierung. Für eine präzise Prakriti-Bestimmung empfiehlt sich die Pulsdiagnose (Nadi Pariksha) durch einen erfahrenen Ayurveda-Praktizierenden — eine Kunst, die Jahrzehnte der Übung erfordert.`
+Dieser Selbsttest gibt eine spielerische Orientierung über deinen Typ — nicht mehr und nicht weniger. Er ist keine gesundheitliche Einschätzung. In der traditionellen ayurvedischen Praxis gibt es darüber hinaus eigene Methoden der Konstitutionsbestimmung, die langjährige Ausbildung erfordern.`
         }
       ]
     },
@@ -154,12 +154,12 @@ Dieser Selbsttest gibt eine Orientierung. Für eine präzise Prakriti-Bestimmung
       lektionen: [
         {
           id: 'N07-M2-L1',
-          titel: 'Agni — Das Verdauungsfeuer als Zentrum der Gesundheit',
+          titel: 'Agni — Das Verdauungsfeuer im Ayurveda',
           inhalt: `## Agni — Das Verdauungsfeuer
 
 ### Verdauung ist alles
 
-Im Ayurveda gibt es einen Satz, der das gesamte System zusammenfasst: "Wenn dein Agni stark ist, bist du gesund. Wenn dein Agni schwach ist, bist du krank. Wenn dein Agni erlischt, stirbst du."
+Im Ayurveda gibt es einen überlieferten Satz, der die zentrale Bedeutung der Verdauung zusammenfasst: "Wenn dein Agni stark ist, fühlst du dich wohl und voller Energie." Dieses Bild verdeutlicht, welch hohen Stellenwert die ayurvedische Lehre einer guten Verdauung beimisst.
 
 Agni (Sanskrit: Feuer) ist dein Verdauungsfeuer — die Kraft, die Nahrung in Nährstoffe verwandelt, Giftstoffe verbrennt und Lebensenergie erzeugt. Agni ist nicht nur der physische Verdauungsprozess — es ist auch deine Fähigkeit, Eindrücke, Emotionen und Erfahrungen zu "verdauen".
 
@@ -190,9 +190,9 @@ Weitere Agni-Stärker: Ingwerwasser vor dem Essen (stimuliert das Verdauungsfeue
           titel: 'Die sechs Geschmacksrichtungen (Rasa)',
           inhalt: `## Die sechs Geschmacksrichtungen
 
-### Jeder Geschmack ist Medizin
+### Jeder Geschmack hat seine Qualität
 
-Im Ayurveda gibt es sechs Geschmacksrichtungen (Rasas) — und jede hat eine spezifische Wirkung auf die Doshas. Eine ausgewogene Mahlzeit enthält idealerweise alle sechs Geschmacksrichtungen — das stellt sicher, dass alle Doshas genährt und balanciert werden.
+Im Ayurveda gibt es sechs Geschmacksrichtungen (Rasas) — und jeder wird mit einer bestimmten Wirkung auf die Doshas in Verbindung gebracht. Eine ausgewogene Mahlzeit enthält idealerweise alle sechs Geschmacksrichtungen — so fühlt sich das Essen rund und befriedigend an.
 
 ### 1. Süß (Madhura)
 
@@ -228,7 +228,7 @@ Im Ayurveda gibt es sechs Geschmacksrichtungen (Rasas) — und jede hat eine spe
 
 ### 5. Bitter (Tikta)
 
-**Elemente:** Luft + Äther. **Wirkung:** Reinigend, entgiftend, entzündungshemmend, fiebersenkend. **Erhöht:** Vata. **Senkt:** Pitta, Kapha.
+**Elemente:** Luft + Äther. **Wirkung (nach ayurvedischer Lehre):** klärend, leicht, kühlend. **Erhöht:** Vata. **Senkt:** Pitta, Kapha.
 
 **Nahrungsmittel:** Kurkuma, Bittermelone, grünes Blattgemüse (Löwenzahn, Radicchio, Rucola), Kaffee, dunkle Schokolade.
 
@@ -236,7 +236,7 @@ Im Ayurveda gibt es sechs Geschmacksrichtungen (Rasas) — und jede hat eine spe
 
 ### 6. Zusammenziehend/Herb (Kashaya)
 
-**Elemente:** Luft + Erde. **Wirkung:** Trocknend, zusammenziehend, blutstillend, wundheilend. **Erhöht:** Vata. **Senkt:** Pitta, Kapha.
+**Elemente:** Luft + Erde. **Wirkung (nach ayurvedischer Lehre):** trocknend, zusammenziehend, festigend. **Erhöht:** Vata. **Senkt:** Pitta, Kapha.
 
 **Nahrungsmittel:** Hülsenfrüchte, grüner Tee, unreife Bananen, Granatapfel, Cranberries, Aubergine.
 
@@ -281,7 +281,7 @@ Das fundamentale Prinzip der ayurvedischen Ernährung: Gleiche Qualitäten erhö
 
 ### Der wichtigste Tipp
 
-Iss nicht nach einer Liste — iss nach deinem Körpergefühl. Die Listen oben sind Orientierungshilfen, keine Gesetze. Beobachte, wie du dich nach dem Essen fühlst. Leicht und energievoll? Gut — mehr davon. Schwer und müde? Zu viel, zu schwer, falscher Geschmack. Dein Körper ist der beste Ayurveda-Arzt, den du hast — wenn du ihm zuhörst.`
+Iss nicht nach einer Liste — iss nach deinem Körpergefühl. Die Listen oben sind Orientierungshilfen, keine Gesetze. Beobachte, wie du dich nach dem Essen fühlst. Leicht und energievoll? Gut — mehr davon. Schwer und müde? Zu viel, zu schwer, falscher Geschmack. Dein eigenes Körpergefühl ist dein bester Ratgeber — wenn du ihm zuhörst.`
         }
       ]
     },
@@ -419,129 +419,129 @@ Lebe mit der Natur, nicht gegen sie. Die Natur verändert sich in Zyklen — und
     },
 
     // ============================================================
-    // MODUL 4 — Ayurvedische Heilmittel & Kräuter
+    // MODUL 4 — Ayurvedische Gewürze & Kräuter in der Küche
     // ============================================================
     {
       id: 'N07-M4',
-      titel: 'Ayurvedische Heilmittel & Kräuter',
-      beschreibung: 'Die wichtigsten ayurvedischen Heilkräuter, Gewürze und Hausmittel kennenlernen und für verschiedene Beschwerden einsetzen.',
+      titel: 'Ayurvedische Gewürze & Kräuter in der Küche',
+      beschreibung: 'Die wichtigsten Gewürze und Kräuter der ayurvedischen Kochtradition kulturell kennenlernen — als Teil einer bewussten, genussvollen Küche.',
       lektionen: [
         {
           id: 'N07-M4-L1',
-          titel: 'Die Küche als Apotheke — Heilende Gewürze',
-          inhalt: `## Heilende Gewürze
+          titel: 'Die ayurvedische Gewürzküche',
+          inhalt: `## Die ayurvedische Gewürzküche
 
-### Im Ayurveda ist jedes Essen Medizin
+### Gewürze als Herz der ayurvedischen Küche
 
-Die ayurvedische Gewürzküche ist keine exotische Spielerei — sie ist ein präzises therapeutisches System. Jedes Gewürz hat definierte Wirkungen auf die Doshas, auf Agni und auf spezifische Organe.
+Die ayurvedische Gewürzküche ist eine reiche kulinarische Tradition. In der ayurvedischen Lehre wird jedem Gewürz eine bestimmte Qualität und eine Wirkung auf die Doshas zugeschrieben. Hinweis: Die folgenden Beschreibungen sind kulturelles Küchenwissen — keine Heilanwendungen und keine Empfehlungen zur Behandlung von Beschwerden.
 
 ### Kurkuma (Haridra) — Das Gold des Ayurveda
 
-Kurkuma ist das vielseitigste ayurvedische Gewürz. Der Wirkstoff Curcumin wirkt stark entzündungshemmend (vergleichbar mit Ibuprofen in manchen Studien), antioxidativ, leberschützend, antimikrobiell und wundheilend.
+Kurkuma ist eines der bekanntesten und vielseitigsten Gewürze der ayurvedischen Küche und gibt vielen Gerichten ihre goldene Farbe.
 
-**Dosha-Wirkung:** Reduziert alle drei Doshas — ein seltener Allrounder. **Anwendung:** Täglich in Speisen. Goldene Milch (Kurkuma + Pfeffer + Milch/Pflanzenmilch + Ghee + Zimt — der Pfeffer erhöht die Bioverfügbarkeit von Curcumin um das 2000-Fache). Als Paste auf Wunden und Entzündungen.
+**Dosha-Wirkung (nach ayurvedischer Lehre):** wird allen drei Doshas zugeordnet — ein seltener Allrounder. **In der Küche:** täglich in Speisen. Klassisch in der "Goldenen Milch" (Kurkuma + eine Prise Pfeffer + Milch oder Pflanzenmilch + Ghee + Zimt) — ein wärmendes Wohlfühlgetränk.
 
-### Ingwer (Shunthi/Ardraka) — Die universelle Medizin
+### Ingwer (Shunthi/Ardraka) — Das vielseitige Gewürz
 
-Im Ayurveda als "Vishwabheshaja" bezeichnet — "die universelle Medizin". Frischer Ingwer (Ardraka) wirkt anders als getrockneter (Shunthi): Frisch ist feuchter und milder, getrocknet ist heißer und durchdringender.
+Im Ayurveda traditionell hoch geschätzt. Frischer Ingwer (Ardraka) schmeckt anders als getrockneter (Shunthi): Frisch ist er feuchter und milder, getrocknet wärmer und durchdringender.
 
-**Dosha-Wirkung:** Reduziert Vata und Kapha, kann Pitta bei Übermaß erhöhen. **Anwendung:** Frischer Ingwertee bei Erkältung, Übelkeit, Verdauungsschwäche. Ingwerwasser vor dem Essen (dünne Scheiben in heißem Wasser). Frischer Ingwer mit Zitrone und Salz als Appetitanreger.
+**Dosha-Wirkung (nach ayurvedischer Lehre):** wird Vata und Kapha zugeordnet, kann Pitta im Übermaß erhöhen. **In der Küche:** frischer Ingwertee als wärmendes Getränk, Ingwerwasser vor dem Essen (dünne Scheiben in heißem Wasser), frischer Ingwer mit Zitrone und Salz als appetitanregende Vorspeise.
 
-### Kreuzkümmel (Jiraka) — Der Verdauungskönig
+### Kreuzkümmel (Jiraka) — Das Küchengewürz schlechthin
 
-Kreuzkümmel ist das wichtigste Gewürz für die Verdauung. Er stärkt Agni, ohne Pitta übermäßig zu erhöhen — eine seltene Kombination. Er reduziert Blähungen, verbessert die Nährstoffaufnahme und hilft bei Durchfall und Krämpfen.
+Kreuzkümmel gilt in der ayurvedischen Küche als eines der wichtigsten Gewürze und wird traditionell mit einer guten Verdauung in Verbindung gebracht.
 
-**Dosha-Wirkung:** Reduziert Vata und Kapha, neutral für Pitta. **Anwendung:** In fast jeder ayurvedischen Kochung. Kreuzkümmelwasser (1 TL Samen in 500 ml Wasser 10 Min. köcheln) — das "Verdauungselixier" des Ayurveda.
+**Dosha-Wirkung (nach ayurvedischer Lehre):** wird Vata und Kapha zugeordnet, neutral für Pitta. **In der Küche:** in fast jedem ayurvedischen Gericht. Kreuzkümmelwasser (etwas Samen in Wasser kurz köcheln) ist ein beliebtes, mildes Alltagsgetränk.
 
 ### Weitere Schlüsselgewürze
 
-**Koriander** — Kühlend, verdauungsfördernd, entgiftend. Reduziert Pitta. Samen und frisches Kraut. Koriandertee bei Sodbrennen und Harnwegsinfekten.
+**Koriander** — kühlend und frisch im Geschmack, in der ayurvedischen Lehre Pitta zugeordnet. Samen und frisches Kraut. Beliebt als Tee und in Currys.
 
-**Fenchel** — Süß, kühlend, krampflösend. Ideal für Pitta und Vata. Bei Blähungen, Verdauungskrämpfen, als Verdauungstee nach dem Essen.
+**Fenchel** — süß und kühlend, Pitta und Vata zugeordnet. Klassischer Fencheltee nach dem Essen.
 
-**Zimt** — Wärmend, blutzuckerregulierend, durchblutungsfördernd. Reduziert Vata und Kapha. In Tee, Porridge, goldener Milch.
+**Zimt** — wärmend, Vata und Kapha zugeordnet. In Tee, Porridge, goldener Milch.
 
-**Kardamom** — Der "König der Gewürze". Verdauungsfördernd, atemerfrischend, stimmungsaufhellend. Reduziert alle drei Doshas. In Tee (Chai), Desserts, als Mundwasser.
+**Kardamom** — der "König der Gewürze", angenehm aromatisch, allen drei Doshas zugeordnet. In Chai-Tee, Desserts und Gebäck.
 
-**Schwarzer Pfeffer** — Erhitzend, durchdringend, bioavailability-steigernd. Reduziert Kapha. Macht Nährstoffe und Wirkstoffe besser aufnehmbar.`
+**Schwarzer Pfeffer** — erhitzend und durchdringend, Kapha zugeordnet. Verbindet sich in der Küche gut mit Kurkuma.`
         },
         {
           id: 'N07-M4-L2',
-          titel: 'Die großen ayurvedischen Heilpflanzen',
-          inhalt: `## Ayurvedische Heilpflanzen
+          titel: 'Bekannte Pflanzen der ayurvedischen Tradition',
+          inhalt: `## Bekannte Pflanzen der ayurvedischen Tradition
 
-### Rasayana — Die Verjüngungsmittel
+### Rasayana — Die Stärkungspflanzen
 
-Im Ayurveda gibt es eine eigene Kategorie von Heilmitteln: Rasayanas — Substanzen, die den gesamten Organismus regenerieren, verjüngen und stärken. Sie sind die "Superfoods" der ayurvedischen Tradition.
+Im Ayurveda gibt es eine eigene Kategorie traditioneller Pflanzen: die Rasayanas — sie gelten in der ayurvedischen Lehre als stärkend und vitalisierend und werden gern als die "Superfoods" der ayurvedischen Tradition bezeichnet. Wichtiger Hinweis: Die folgenden Pflanzen werden hier rein kulturell und informativ vorgestellt. Dies sind keine Einnahmeempfehlungen. Nahrungsergänzungen und pflanzliche Präparate solltest du nur nach Rücksprache mit Ärztin, Arzt oder Apotheke verwenden — besonders in Schwangerschaft, Stillzeit, bei Erkrankungen oder Medikamenteneinnahme.
 
 ### Ashwagandha (Withania somnifera) — Die Kraftwurzel
 
-Das wichtigste Rasayana für Vata-Typen. Ashwagandha stärkt, nährt, beruhigt und vitalisiert gleichzeitig — eine paradoxe Kombination, die es einzigartig macht. Wissenschaftlich belegt: Senkung von Cortisol, Verbesserung der Schlafqualität, Reduktion von Angst, Steigerung der Ausdauer und der Schilddrüsenfunktion.
+In der ayurvedischen Tradition eines der bekanntesten Rasayanas, das vor allem Vata-Typen zugeordnet wird und als stärkend und zugleich beruhigend gilt.
 
-**Dosha-Wirkung:** Reduziert Vata und Kapha, kann Pitta bei Übermaß leicht erhöhen. **Anwendung:** 3–6 g Pulver in warmer Milch (traditionelles "Ashwagandha-Ksheera-Paka"), abends. Oder als standardisierter Extrakt.
+**Dosha-Wirkung (nach ayurvedischer Lehre):** wird Vata und Kapha zugeordnet, kann Pitta im Übermaß leicht erhöhen. Traditionell wurde es in warmer Milch zubereitet. Ob und wie ein solches Präparat für dich infrage kommt, klärst du mit Ärztin, Arzt oder Apotheke.
 
-### Shatavari (Asparagus racemosus) — Die weibliche Kraft
+### Shatavari (Asparagus racemosus) — Die weibliche Pflanze
 
-Shatavari bedeutet "die hundert Ehemänner hat" — ein Hinweis auf die Vitalität, die diese Pflanze verleiht. Es ist das zentrale Frauenheilmittel des Ayurveda: bei PMS, Menstruationsbeschwerden, Fruchtbarkeit, Menopause und Stillzeit.
+Shatavari bedeutet sinngemäß "die hundert Ehemänner hat" — ein poetischer Hinweis auf die Vitalität, die dieser Pflanze in der Tradition zugeschrieben wird. Im Ayurveda wird sie traditionell mit den Lebensphasen der Frau in Verbindung gebracht.
 
-**Dosha-Wirkung:** Reduziert Vata und Pitta, kann Kapha bei Übermaß erhöhen. **Anwendung:** Pulver in warmer Milch oder als Nahrungsergänzung. In Kombination mit Ashwagandha ein kraftvolles Paar für hormonelle Balance.
+**Dosha-Wirkung (nach ayurvedischer Lehre):** wird Vata und Pitta zugeordnet, kann Kapha im Übermaß erhöhen. Eine Anwendung als Präparat — gerade in Schwangerschaft, Stillzeit oder bei Beschwerden — gehört in ärztliche oder apothekerliche Beratung.
 
 ### Triphala — Die drei Früchte
 
-Triphala ist die berühmteste Kräutermischung des Ayurveda — eine Kombination aus drei Früchten: Amalaki (Amla, Emblica officinalis — reich an Vitamin C, kühlend, nährend), Bibhitaki (Terminalia bellirica — adstringierend, reinigend) und Haritaki (Terminalia chebula — "König der Medizin" im Ayurveda, verdauungsfördernd, entgiftend).
+Triphala ist die berühmteste Kräutermischung der ayurvedischen Tradition — eine Kombination aus drei Früchten: Amalaki (Amla, reich an Vitamin C), Bibhitaki und Haritaki, die im Ayurveda als "König" der Pflanzen gilt.
 
-Zusammen reinigen die drei Früchte den gesamten Verdauungstrakt, fördern die Entgiftung und balancieren alle drei Doshas.
+In der ayurvedischen Lehre wird die Mischung allen drei Doshas zugeordnet und traditionell sehr geschätzt. Ob ein solches Präparat für dich passt, klärst du mit Ärztin, Arzt oder Apotheke.
 
-**Anwendung:** 1/2 bis 1 TL Triphala-Pulver in warmem Wasser, abends vor dem Schlafengehen. Wirkt sanft regulierend auf den Stuhlgang — nicht als Abführmittel, sondern als Tonikum für den Darm.
+### Brahmi (Bacopa monnieri) — Die Pflanze des Geistes
 
-### Brahmi (Bacopa monnieri) — Das Gehirntonikum
+Brahmi wird in der ayurvedischen Tradition mit geistiger Klarheit, Gedächtnis und Konzentration in Verbindung gebracht.
 
-Brahmi ist die wichtigste Pflanze für den Geist — Gedächtnis, Konzentration, Lernfähigkeit, Klarheit. Wissenschaftliche Studien bestätigen: Brahmi verbessert die kognitive Funktion, besonders bei älteren Menschen, und hat anxiolytische (angstlösende) Wirkung.
-
-**Dosha-Wirkung:** Reduziert alle drei Doshas — besonders Pitta und Vata im Geist. **Anwendung:** Als Tee, als Pulver in Ghee, als standardisierter Extrakt. Traditionell mit Ghee eingenommen, da die fettlöslichen Wirkstoffe so besser aufgenommen werden.
+**Dosha-Wirkung (nach ayurvedischer Lehre):** wird allen drei Doshas zugeordnet, besonders Pitta und Vata. Traditionell wurde Brahmi als Tee oder mit Ghee zubereitet. Eine Anwendung als Präparat klärst du mit Ärztin, Arzt oder Apotheke.
 
 ### Tulsi (Ocimum tenuiflorum) — Das heilige Basilikum
 
-Tulsi gilt in Indien als heilige Pflanze — in fast jedem hinduistischen Haushalt wächst eine Tulsi-Pflanze. Als Adaptogen stärkt es die Stressresistenz, als Immunmodulator die Abwehrkräfte, als Atemwegsmittel die Bronchien.
+Tulsi gilt in Indien als heilige Pflanze — in fast jedem traditionellen Haushalt wächst eine Tulsi-Pflanze, und sie hat eine tiefe spirituelle Bedeutung.
 
-**Dosha-Wirkung:** Reduziert Vata und Kapha, kann Pitta leicht erhöhen. **Anwendung:** Als Tee — 2 bis 3 Tassen täglich. Unkompliziert, wohlschmeckend, täglich trinkbar.`
+**Dosha-Wirkung (nach ayurvedischer Lehre):** wird Vata und Kapha zugeordnet, kann Pitta leicht erhöhen. **In der Küche:** als wohlschmeckender Tee — unkompliziert und im Alltag beliebt.`
         },
         {
           id: 'N07-M4-L3',
-          titel: 'Ghee, Honig & Hausmittel — Die Hausapotheke des Ayurveda',
-          inhalt: `## Ghee, Honig & Hausmittel
+          titel: 'Ghee, Honig & traditionelle Küchenklassiker',
+          inhalt: `## Ghee, Honig & traditionelle Küchenklassiker
 
 ### Ghee — Flüssiges Gold
 
-Ghee (geklärte Butter) ist im Ayurveda weit mehr als ein Kochfett — es ist ein Heilmittel ersten Ranges. Durch das Klären (langsames Erhitzen und Entfernen der Milchfeststoffe) wird die Butter haltbar, laktosefrei und therapeutisch wirksam.
+Ghee (geklärte Butter) ist in der ayurvedischen Küche weit mehr als ein Kochfett — es hat einen besonderen kulturellen Stellenwert. Durch das Klären (langsames Erhitzen und Entfernen der Milchfeststoffe) wird die Butter haltbar und weitgehend laktosefrei.
 
-**Wirkung:** Stärkt Agni (Verdauungsfeuer), ohne Pitta zu erhöhen — einzigartig. Nährt alle Gewebe (Dhatus). Verbessert die Aufnahme fettlöslicher Nährstoffe und Kräuter. Fördert die Intelligenz und das Gedächtnis. Schmiert die Gelenke. Beruhigt das Nervensystem.
+**Stellenwert in der ayurvedischen Lehre:** wird mit einem guten Verdauungsfeuer (Agni) in Verbindung gebracht und gilt als nährend und wohltuend.
 
-**Dosha-Wirkung:** Reduziert Vata und Pitta. Kapha in Maßen.
+**Dosha-Wirkung (nach ayurvedischer Lehre):** wird Vata und Pitta zugeordnet, Kapha in Maßen.
 
-**Anwendung:** Zum Kochen und Braten (hoher Rauchpunkt). 1 TL in warmer Milch abends (beruhigend). Als Trägerstoff für Kräuter (Ghee + Kurkuma, Ghee + Ashwagandha). Äußerlich auf trockene Haut, rissige Lippen, Verbrennungen.
+**In der Küche:** zum Kochen und Braten (hoher Rauchpunkt), ein Teelöffel in warmer Milch am Abend als Wohlfühlgetränk, als Trägerstoff für Gewürze (Ghee + Kurkuma).
 
-### Honig — Der Reiniger
+### Honig — Der besondere Süßstoff
 
-Im Ayurveda hat Honig eine besondere Stellung: Er ist das einzige süße Nahrungsmittel, das Kapha reduziert. Er wirkt reinigend, schleimlösend und "kratzend" (Lekhana) — er schabt Ama von den Geweben ab.
+Im Ayurveda hat Honig eine besondere Stellung: Er gilt als der eine süße Geschmack, der Kapha zugeordnet ist (anders als andere Süßungsmittel) und wird in der Lehre als leicht und fein beschrieben.
 
-**Kritische Regel:** Honig darf niemals über 40°C erhitzt werden. Nach ayurvedischer Lehre wird erhitzter Honig toxisch (Ama-bildend). Deshalb: Honig nie in kochendes Wasser oder heiße Speisen rühren — erst abkühlen lassen, dann hinzufügen.
+**Traditionelle Regel:** Honig wird im Ayurveda nicht stark erhitzt — deshalb rührt man ihn klassisch erst in lauwarme (nicht heiße) Getränke. So bleibt sein feiner Charakter erhalten.
 
-**Anwendung:** In lauwarmem Wasser mit Zitrone morgens (Entgiftung). Als Trägerstoff für Kräuter (Honig + Kurkuma = "Goldener Honig" bei Erkältung). Äußerlich auf Wunden (antibakteriell).
+**In der Küche:** in lauwarmem Wasser mit Zitrone am Morgen, zusammen mit Kurkuma als "Goldener Honig" — beliebte, wärmende Klassiker der ayurvedischen Küche.
 
-### Bewährte Hausmittel
+### Beliebte Wohlfühl-Klassiker der ayurvedischen Küche
 
-**Bei Erkältung:** Frischer Ingwertee + Honig + Zitrone. Kurkuma-Milch abends. Dampfinhalation mit Eukalyptus. Nasenspülung (Jala Neti) mit Salzwasser.
+Die ayurvedische Hausküche kennt viele wohltuende Klassiker für den Alltag — hier als kulturelle Anregung, nicht als Anwendung gegen Beschwerden:
 
-**Bei Verdauungsstörung:** Kreuzkümmelwasser. Frischer Ingwer mit Salz und Zitrone vor dem Essen. Fencheltee nach dem Essen. Bei Durchfall: Granatapfelsaft oder Reisschleim.
+**Wärmende Getränke:** Frischer Ingwertee mit Honig und Zitrone. Goldene Kurkuma-Milch am Abend.
 
-**Bei Schlafstörung:** Warme Milch mit Muskatnuss (1 Prise) und Ghee. Fußmassage mit warmem Sesamöl. Ashwagandha in warmer Milch.
+**Verdauungsfreundliche Klassiker:** Kreuzkümmelwasser. Frischer Ingwer mit Salz und Zitrone als Vorspeise. Fencheltee nach dem Essen.
 
-**Bei Stress:** Brahmi-Tee. Abhyanga (Ganzkörper-Ölmassage). Nasya (Nasenölung). Shirodhara (warmer Ölstrahl auf die Stirn — bei einem Therapeuten).
+**Zum Entspannen am Abend:** Warme Milch mit einer Prise Muskatnuss und Ghee. Eine sanfte Fußmassage mit warmem Sesamöl.
 
-**Bei Hautproblemen:** Kurkuma-Paste (Kurkuma + Honig + Milch) als Gesichtsmaske. Neemöl auf entzündete Stellen. Aloe-Vera-Gel bei Verbrennungen.
+**Wohltuende Rituale:** Abhyanga (Ganzkörper-Ölmassage) als Selbstfürsorge-Ritual. Shirodhara (warmer Ölstrahl auf die Stirn) wird traditionell von ausgebildeten Fachleuten angeboten.
 
-**Bei Gelenkschmerzen:** Warme Sesamöl-Massage auf die betroffenen Gelenke. Ingwer-Wickel. Guggulu-Präparate (ayurvedisches Harz mit stark entzündungshemmender Wirkung — in Kapselform erhältlich).`
+**Für die Haut als Pflege:** Kurkuma-Honig-Maske als kosmetisches Gesichtsritual. Aloe-Vera-Gel als pflegende Hautauflage.
+
+Wichtig: Das sind kulinarische und kosmetische Wohlfühl-Anregungen aus der Tradition. Bei gesundheitlichen Beschwerden ist immer die Ärztin, der Arzt oder die Apotheke die richtige Anlaufstelle.`
         }
       ]
     },
@@ -567,23 +567,23 @@ Marma-Punkte ähneln den Akupunkturpunkten der chinesischen Medizin — und tats
 
 ### Die wichtigsten Marma-Punkte für die Praxis
 
-**Sthapani Marma** — Zwischen den Augenbrauen (drittes Auge). Beruhigt den Geist, reduziert Kopfschmerzen, stärkt die Intuition. Sanfter kreisender Druck mit dem Mittelfinger für 1 bis 2 Minuten.
+**Sthapani Marma** — Zwischen den Augenbrauen (drittes Auge). Wird in der Tradition mit innerer Ruhe und Intuition verbunden. Sanfter kreisender Druck mit dem Mittelfinger für 1 bis 2 Minuten wirkt entspannend.
 
-**Hridaya Marma** — Brustbein-Mitte (Herzpunkt). Öffnet das Herz, beruhigt emotionale Turbulenzen, reguliert den Blutdruck. Flache Hand auf das Brustbein legen, mit sanftem Druck und bewusstem Atmen.
+**Hridaya Marma** — Brustbein-Mitte (Herzpunkt). Wird mit Herzöffnung und emotionaler Ruhe assoziiert. Flache Hand auf das Brustbein legen, mit sanftem Druck und bewusstem Atmen — ein schönes Ankommens-Ritual.
 
-**Nabhi Marma** — Nabel-Zentrum. Stärkt Agni, reguliert die Verdauung, zentriert die Energie. Im Uhrzeigersinn um den Nabel massieren — das stimuliert gleichzeitig den Solar Plexus und das Verdauungssystem.
+**Nabhi Marma** — Nabel-Zentrum. Wird mit der Mitte und dem Zentrieren der Energie verbunden. Sanftes Massieren im Uhrzeigersinn um den Nabel fühlt sich wohltuend und zentrierend an.
 
-**Talahridaya Marma** — Zentrum der Handflächen. Die Handchakren. Aktivierung durch Reiben der Handflächen oder kreisenden Druck mit dem Daumen der Gegenhand. Öffnet die Hände für Energiearbeit.
+**Talahridaya Marma** — Zentrum der Handflächen. Die Handchakren. Aktivierung durch Reiben der Handflächen oder kreisenden Druck mit dem Daumen der Gegenhand. Öffnet die Hände für die Energiearbeit.
 
-**Kshipra Marma** — Zwischen Daumen und Zeigefinger (an der Hand) und zwischen großer und zweiter Zehe (am Fuß). Starker immunstimulierender Punkt. Regelmäßiger Druck stärkt die Abwehrkraft.
+**Kshipra Marma** — Zwischen Daumen und Zeigefinger (an der Hand) und zwischen großer und zweiter Zehe (am Fuß). Wird in der Tradition als belebender Punkt beschrieben.
 
 **Adhipati Marma** — Scheitel des Kopfes (Kronenchakra). Der höchste Marma-Punkt. Verbindet das individuelle Bewusstsein mit dem kosmischen. Sanfte kreisende Massage mit Öl — traditionell mit Brahmi-Öl.
 
-### Marma-Therapie in der Praxis
+### Marma-Selbstmassage als Wohlfühl-Ritual
 
-Marma-Massage kann als eigenständige Therapieform oder als Ergänzung zur energetischen Arbeit eingesetzt werden. Die Kombination von physischem Druck auf den Marma-Punkt mit energetischer Absicht (Prana-Lenkung) erzeugt eine besonders tiefgreifende Wirkung — der physische Stimulus öffnet das Tor, die energetische Absicht sendet Heilung hindurch.
+Eine sanfte Marma-Selbstmassage lässt sich schön mit der energetischen Wahrnehmung verbinden. Die Verbindung von achtsamem Druck auf den Marma-Punkt mit ruhiger Aufmerksamkeit erzeugt ein wohltuendes, entspannendes Erleben.
 
-Für die Selbstpraxis: Massiere täglich 3 bis 5 der wichtigsten Marma-Punkte — jeweils 1 bis 2 Minuten, mit warmem Öl und bewusstem Atmen. Das ist eine Form der ayurvedischen Selbstheilung, die in 10 Minuten das gesamte Energiesystem stimuliert.`
+Für die Selbstpraxis: Massiere dir täglich 3 bis 5 der Marma-Punkte — jeweils 1 bis 2 Minuten, mit warmem Öl und bewusstem Atmen. Das ist ein schönes, entspannendes Selbstfürsorge-Ritual von rund 10 Minuten — als Wohlfühl-Praxis, nicht als Heilanwendung.`
         },
         {
           id: 'N07-M5-L2',
@@ -608,13 +608,13 @@ Ein Pitta-Ungleichgewicht zeigt sich als: überaktiver Solarplexus (Kontrollzwan
 
 Ein Kapha-Ungleichgewicht zeigt sich als: übergeerdetes Wurzelchakra (materielles Festhalten), blockiertes Sakralchakra (emotionale Stagnation) oder übersentimentales Herz (Anhaftung, Codependenz).
 
-### Praktische Integration
+### Praktische Integration für dich selbst
 
-Wenn du mit einem Klienten arbeitest, dessen Chakren du wahrnimmst und dessen Dosha-Konstitution du kennst, hast du ein doppeltes Navigationssystem. Beispiel: Ein Klient mit Vata-Konstitution und einem blockierten Wurzelchakra — du weißt nicht nur, dass das Wurzelchakra Aufmerksamkeit braucht, sondern auch, dass Vata-reduzierende Maßnahmen (Wärme, Öl, Erdung, Regelmäßigkeit) die Arbeit unterstützen.
+Wenn du deine eigene Dosha-Konstitution kennst und gleichzeitig deine Chakren wahrnimmst, hast du ein doppeltes Selbst-Navigationssystem. Beispiel: Spürst du als Vata-Typ ein unruhiges Wurzelchakra, weißt du nicht nur, dass dir Erdung guttut, sondern auch, dass Vata-ausgleichende Anregungen (Wärme, Öl, Erdung, Regelmäßigkeit) dich unterstützen.
 
-Ein Pitta-Klient mit einem überaktiven Solarplexus — du arbeitest energetisch am Solarplexus und empfiehlst gleichzeitig kühlende Ernährung, Reduktion von Scharfem und mehr Natur-Kontakt.
+Oder als Pitta-Typ mit einem überaktiven Solarplexus: Du richtest deine Aufmerksamkeit auf den Solarplexus und greifst gleichzeitig zu kühlenden, milderen Speisen und mehr Natur-Kontakt.
 
-Die Integration von Ayurveda und Energiearbeit erzeugt eine Tiefe und Präzision, die keines der beiden Systeme allein erreicht.`
+Die Verbindung von ayurvedischem Selbstverständnis und energetischer Wahrnehmung gibt dir eine schöne Tiefe für die eigene Selbstfürsorge.`
         },
         {
           id: 'N07-M5-L3',
@@ -659,7 +659,7 @@ Jeder Dosha-Typ hat eine Tendenz zu bestimmten Guna-Ungleichgewichten:
 
 ### Das Ziel — Sattva kultivieren
 
-Das Ziel der ayurvedischen Psychologie ist die Kultivierung von Sattva — nicht als Unterdrückung von Rajas und Tamas, sondern als Transformation. Rajas wird zu fokussierter Tatkraft (statt blindem Aktionismus). Tamas wird zu tiefer Regeneration (statt dumpfer Trägheit). Und Sattva wird zum Grundzustand — dem Zustand, in dem Heilung geschieht, Einsicht möglich ist und der Mensch in seiner natürlichen Weisheit ruht.`
+Das Ziel der ayurvedischen Psychologie ist die Kultivierung von Sattva — nicht als Unterdrückung von Rajas und Tamas, sondern als Transformation. Rajas wird zu fokussierter Tatkraft (statt blindem Aktionismus). Tamas wird zu tiefer Regeneration (statt dumpfer Trägheit). Und Sattva wird zum Grundzustand — dem Zustand, in dem innere Klarheit wächst, Einsicht möglich ist und der Mensch in seiner natürlichen Weisheit ruht.`
         }
       ]
     },
@@ -683,7 +683,7 @@ Die ayurvedische Lebensweise umfasst Ernährung, Tagesrhythmus, Morgenroutine, J
 
 ### Die drei Einstiegs-Veränderungen
 
-**1. Warmes Wasser am Morgen.** Ein Glas warmes Wasser, nüchtern, vor allem anderen. Das dauert 30 Sekunden und wirkt sofort: Agni wird aktiviert, die Verdauung kommt in Gang, Ama wird ausgespült. Die einfachste und wirksamste ayurvedische Gewohnheit.
+**1. Warmes Wasser am Morgen.** Ein Glas warmes Wasser, nüchtern, vor allem anderen. Das dauert 30 Sekunden und fühlt sich angenehm wärmend an — in der ayurvedischen Lehre wird damit das Verdauungsfeuer (Agni) sanft geweckt. Eine der einfachsten und beliebtesten ayurvedischen Morgengewohnheiten.
 
 **2. Hauptmahlzeit mittags.** Verlagere die größte Mahlzeit des Tages auf die Mittagszeit — wenn Agni am stärksten ist. Abends leicht essen. Diese eine Umstellung kann Schlafqualität, Energielevel und Verdauung dramatisch verbessern.
 
@@ -703,32 +703,32 @@ Du musst nicht perfekt sein. 80 Prozent Dosha-gerechte Ernährung und Lebensfüh
         },
         {
           id: 'N07-M6-L2',
-          titel: 'Ayurveda in der energetischen Praxis',
-          inhalt: `## Ayurveda in der Praxis
+          titel: 'Ayurveda in der eigenen energetischen Praxis',
+          inhalt: `## Ayurveda in der eigenen Praxis
 
-### Der Mehrwert für deine Klientenarbeit
+### Der Mehrwert für deine eigene Selbstpraxis
 
-Ayurveda-Wissen macht dich als energetischen Praktizierenden präziser, individueller und ganzheitlicher. Du arbeitest nicht mehr nur auf der feinstofflichen Ebene — du verstehst die physische Konstitution, die Ernährung, den Rhythmus und die psychische Disposition deines Klienten.
+Ayurveda-Wissen macht deine eigene energetische Selbstpraxis reicher, individueller und ganzheitlicher. Du arbeitest nicht mehr nur auf der feinstofflichen Ebene — du verstehst deine physische Konstitution, deine Ernährung, deinen Rhythmus und deine psychische Disposition besser.
 
-### Dosha-basierte Sitzungsgestaltung
+### Dosha-bewusste Gestaltung deiner Selbstpraxis
 
-**Vata-Klient:** Braucht Wärme, Erdung, Ruhe, Regelmäßigkeit. Deine Sitzung: Langsam, geerdet, vorhersehbar. Warmer Raum. Decke anbieten. Keine überraschenden Interventionen. Erdung und Wurzelchakra-Arbeit priorisieren. Warmen Tee nach der Sitzung.
+**Als Vata-Typ:** Du brauchst Wärme, Erdung, Ruhe, Regelmäßigkeit. Deine Praxis: langsam, geerdet, vorhersehbar. Warmer Raum. Eine Decke. Keine überraschenden Wechsel. Erdung und Wurzelchakra-Arbeit priorisieren. Warmer Tee danach.
 
-**Pitta-Klient:** Braucht Kühlung, Sanftheit, Loslassen von Kontrolle. Deine Sitzung: Kühlende, beruhigende Energie. Nicht konfrontativ. Herzchakra-Arbeit. Pitta-Klienten neigen dazu, die Sitzung kontrollieren zu wollen — sanft, aber bestimmt die Führung behalten. Pfefferminztee.
+**Als Pitta-Typ:** Du brauchst Kühlung, Sanftheit, Loslassen von Kontrolle. Deine Praxis: kühlende, beruhigende Energie. Nicht zu fordernd. Herzchakra-Arbeit. Pitta-Typen wollen oft alles kontrollieren — übe dich sanft im Loslassen. Pfefferminztee.
 
-**Kapha-Klient:** Braucht Stimulation, Bewegung, Leichtigkeit. Deine Sitzung: Etwas aktivierender als bei Vata oder Pitta. Blockaden klar benennen. Stagnation ansprechen. Kapha-Klienten brauchen manchmal einen sanften Schubs — nicht aggressiv, aber bestimmt. Ingwertee.
+**Als Kapha-Typ:** Du brauchst Anregung, Bewegung, Leichtigkeit. Deine Praxis: etwas aktivierender. Eigene Blockaden klar wahrnehmen, Trägheit liebevoll ansprechen. Kapha-Typen tut manchmal ein sanfter Anstoß gut. Ingwertee.
 
-### Ayurvedische Empfehlungen als Hausaufgabe
+### Kleine ayurvedische Vorsätze für dich selbst
 
-Nach einer energetischen Sitzung kannst du ayurvedische Empfehlungen als "Hausaufgabe" mitgeben — abgestimmt auf die Dosha-Konstitution und das aktuelle Thema:
+Nach einer eigenen energetischen Praxis kannst du dir kleine ayurvedische Alltags-Vorsätze setzen — abgestimmt auf deine Dosha-Konstitution und dein momentanes Thema:
 
-Bei einem Vata-Klienten mit Angstzuständen: "Probiere diese Woche jeden Abend eine Tasse warme Milch mit einer Prise Muskatnuss und einem Teelöffel Ghee."
+Als Vata-Typ in unruhigen Zeiten: "Diese Woche gönne ich mir jeden Abend eine Tasse warme Milch mit einer Prise Muskatnuss und einem Teelöffel Ghee."
 
-Bei einem Pitta-Klienten mit Wutthematik: "Reduziere diese Woche Scharfes und Saures in deiner Ernährung und ersetze es durch kühlende Lebensmittel."
+Als Pitta-Typ in hitzigen Phasen: "Diese Woche reduziere ich Scharfes und Saures und greife mehr zu kühlenden Lebensmitteln."
 
-Bei einem Kapha-Klienten mit Antriebslosigkeit: "Beginne morgens mit einem Glas warmem Ingwerwasser und einem 15-minütigen zügigen Spaziergang."
+Als Kapha-Typ in trägen Phasen: "Ich beginne morgens mit einem Glas warmem Ingwerwasser und einem 15-minütigen zügigen Spaziergang."
 
-Solche konkreten, alltagstauglichen Empfehlungen verankern die energetische Arbeit im physischen Alltag — und beschleunigen den Veränderungsprozess.`
+Solche konkreten, alltagstauglichen Vorsätze verankern deine energetische Praxis im physischen Alltag — als Selbstfürsorge, ganz ohne Druck.`
         },
         {
           id: 'N07-M6-L3',
@@ -739,15 +739,15 @@ Solche konkreten, alltagstauglichen Empfehlungen verankern die energetische Arbe
 
 Ayurveda ist ein mächtiges System — aber es hat Grenzen. In seiner traditionellen Form ist es ein vollständiges Medizinsystem mit chirurgischen, pharmakologischen und therapeutischen Komponenten. Was du in diesem Kurs gelernt hast, ist die Gesundheits- und Präventionsebene — nicht die klinische Medizin.
 
-**Was du empfehlen darfst:** Ernährungsanpassungen, Gewürze, allgemeine Lebensstilveränderungen, Morgenroutine, Tagesrhythmus, allgemein zugängliche Hausmittel, Selbstmassage. All das ist Gesundheitsförderung und Prävention — keine medizinische Behandlung.
+**Womit du dir selbst etwas Gutes tun kannst:** ausgewogene Ernährung, Gewürze in der Küche, eine ruhige Morgenroutine, ein bewusster Tagesrhythmus, allgemein bekannte Küchen-Klassiker, Selbstmassage. All das ist allgemeine Lebensführung und Selbstfürsorge — keine medizinische Behandlung.
 
-**Was du NICHT tun solltest:** Krankheitsdiagnosen stellen (auch keine ayurvedischen). Medikamente empfehlen oder absetzen lassen. Komplexe ayurvedische Therapien (Panchakarma, Kshar Sutra) ohne entsprechende Ausbildung durchführen. Ayurveda als Ersatz für schulmedizinische Behandlung bei ernsthaften Erkrankungen anbieten.
+**Was dieser Kurs ausdrücklich NICHT ist und NICHT vermittelt:** das Stellen von Diagnosen (auch keinen ayurvedischen). Empfehlungen zu Medikamenten oder deren Absetzen. Komplexe ayurvedische Therapien (Panchakarma, Kshar Sutra), die in ausgebildete Fachhände gehören. Ayurveda als Ersatz für ärztliche Behandlung bei Beschwerden oder Erkrankungen. Bei gesundheitlichen Fragen wende dich immer an Ärztin, Arzt oder Apotheke.
 
 ### Der Weg weiter
 
 Ayurveda ist ein Ozean — dieser Kurs hat dir gezeigt, wo das Ufer ist und wie du ins Wasser gehst. Die Vertiefungsmöglichkeiten sind enorm:
 
-Ayurvedische Ernährungsberatung — eine professionelle Ausbildung, die 6 bis 12 Monate dauert. Panchakarma — die ayurvedische Reinigungs- und Verjüngungskur — als Klient erleben und später möglicherweise als Therapeut anbieten. Ayurvedische Kräuterkunde (Dravyaguna) — das Studium der Heilpflanzen und ihrer Dosha-Wirkungen. Nadi Pariksha — die Pulsdiagnose — eine Kunst, die Jahre der Übung erfordert.
+Wenn dich Ayurveda tiefer fasziniert, gibt es viele Wege, dein Wissen für dich selbst zu vertiefen: das Studium der klassischen ayurvedischen Texte, das Kennenlernen der ayurvedischen Kochkunst, oder eine ayurvedische Wohlfühl-Anwendung (etwa eine Abhyanga-Massage) einmal selbst zu erleben. Wer Ayurveda beruflich und heilkundlich ausüben möchte, braucht dafür eine fundierte, anerkannte Fachausbildung — dieser Kurs ist eine erste Annäherung und Bildungsgrundlage, kein Berufsabschluss.
 
 ### Das Geschenk des Ayurveda
 

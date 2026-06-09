@@ -1,0 +1,763 @@
+﻿// N07.js â€” Ayurveda Grundlagen
+// Standard â—ˆâ—ˆ Â· 6 Module Â· 18 Lektionen
+// Human Resonanz Akademie Â· Mai 2026
+
+const N07 = {
+  id: 'N07',
+  titel: 'Ayurveda Grundlagen',
+  untertitel: 'Doshas Â· Konstitutionstypen Â· ErnÃ¤hrung Â· Tagesrhythmus Â· LebensfÃ¼hrung',
+  bereich: 'naturheilkunde',
+  format: 'standard',
+  dauer: '4â€“6 Stunden',
+  level: 'Einsteiger bis Fortgeschrittene',
+  voraussetzungen: 'Keine',
+  beschreibung: `Ayurveda â€” das "Wissen vom Leben" â€” ist das Ã¤lteste dokumentierte Gesundheitssystem der Menschheit. Seit Ã¼ber 5000 Jahren lehrt es, wie du deinen einzigartigen Konstitutionstyp erkennst, Ungleichgewichte frÃ¼hzeitig wahrnimmst und durch ErnÃ¤hrung, Tagesrhythmus, KrÃ¤uter und LebensfÃ¼hrung in deine natÃ¼rliche Balance zurÃ¼ckfindest. In diesem Kurs lernst du die Grundprinzipien des Ayurveda kennen, bestimmst deine persÃ¶nliche Konstitution und bekommst praktische Werkzeuge fÃ¼r ein ayurvedisches Leben â€” alltagstauglich, tiefgrÃ¼ndig und sofort anwendbar.`,
+  status: 'live',
+
+  module: [
+    // ============================================================
+    // MODUL 1 â€” Die Grundlagen des Ayurveda
+    // ============================================================
+    {
+      id: 'N07-M1',
+      titel: 'Die Grundlagen des Ayurveda',
+      beschreibung: 'Die Philosophie, die Geschichte und die Grundprinzipien des Ayurveda verstehen â€” die fÃ¼nf Elemente, die drei Doshas und das Konzept der individuellen Konstitution.',
+      lektionen: [
+        {
+          id: 'N07-M1-L1',
+          titel: 'Was Ayurveda ist â€” 5000 Jahre Lebensweisheit',
+          inhalt: `## Was Ayurveda ist
+
+### Das Ã¤lteste Gesundheitssystem der Welt
+
+Ayurveda (Sanskrit: "Ayus" = Leben, "Veda" = Wissen) entstand vor Ã¼ber 5000 Jahren auf dem indischen Subkontinent. Es ist kein bloÃŸes Medizinsystem â€” es ist eine umfassende Wissenschaft des Lebens, die KÃ¶rper, Geist, Seele und Umwelt als untrennbare Einheit betrachtet.
+
+Die Ã¤ltesten ayurvedischen Texte â€” die Charaka Samhita und die Sushruta Samhita, entstanden zwischen 1000 und 500 v. Chr. â€” beschreiben mit erstaunlicher PrÃ¤zision Anatomie, Chirurgie, Pharmakologie, ErnÃ¤hrungslehre, Psychologie und PrÃ¤vention. Sushruta beschrieb Ã¼ber 300 chirurgische Verfahren, darunter Nasenrekonstruktionen und Staroperationen â€” Techniken, die in Europa erst 2000 Jahre spÃ¤ter entwickelt wurden.
+
+### Die Grundidee â€” IndividualitÃ¤t statt Einheitsmedizin
+
+Die revolutionÃ¤rste Idee des Ayurveda â€” auch nach 5000 Jahren â€” ist: Es gibt keine Universalbehandlung. Was fÃ¼r einen Menschen Medizin ist, kann fÃ¼r einen anderen Gift sein. Jeder Mensch hat eine einzigartige Konstitution (Prakriti), und Gesundheit bedeutet, im Einklang mit dieser Konstitution zu leben.
+
+Die moderne Medizin beginnt gerade erst, diesen Gedanken unter dem Begriff "personalisierte Medizin" zu entdecken. Ayurveda praktiziert ihn seit Jahrtausenden.
+
+### Die fÃ¼nf Elemente â€” Bausteine des Universums
+
+Alles im Universum â€” jeder Mensch, jedes Tier, jede Pflanze, jeder Stein â€” besteht aus fÃ¼nf Grundelementen (Pancha Mahabhutas):
+
+**Ã„ther (Akasha)** â€” Raum, Leere, das Feld, in dem alles existiert. QualitÃ¤ten: leicht, subtil, durchlÃ¤ssig, unendlich. Im KÃ¶rper: alle HohlrÃ¤ume â€” Mund, Nase, Magen, Darm, Zellen.
+
+**Luft (Vayu)** â€” Bewegung, Antrieb, VerÃ¤nderung. QualitÃ¤ten: leicht, trocken, kalt, beweglich, rau. Im KÃ¶rper: Atmung, Nervenimpulse, Muskelkontraktionen, Kreislauf.
+
+**Feuer (Tejas)** â€” Transformation, Verdauung, Intelligenz. QualitÃ¤ten: heiÃŸ, scharf, leicht, trocken, durchdringend. Im KÃ¶rper: Verdauungsfeuer (Agni), Stoffwechsel, KÃ¶rpertemperatur, Sehkraft.
+
+**Wasser (Jala)** â€” KohÃ¤sion, Fluss, NÃ¤hrung. QualitÃ¤ten: kalt, feucht, schwer, weich, flieÃŸend. Im KÃ¶rper: Blut, Lymphe, Speichel, GelenkflÃ¼ssigkeit, Schleim.
+
+**Erde (Prithvi)** â€” Struktur, StabilitÃ¤t, Festigkeit. QualitÃ¤ten: schwer, fest, dicht, stabil, rau. Im KÃ¶rper: Knochen, ZÃ¤hne, NÃ¤gel, Haare, Muskeln.
+
+Diese fÃ¼nf Elemente kombinieren sich zu den drei Doshas â€” den fundamentalen KrÃ¤ften, die jeden Aspekt deiner kÃ¶rperlichen und psychischen Konstitution bestimmen.`
+        },
+        {
+          id: 'N07-M1-L2',
+          titel: 'Die drei Doshas â€” Vata, Pitta, Kapha',
+          inhalt: `## Die drei Doshas
+
+### Drei KrÃ¤fte, die alles steuern
+
+Die drei Doshas â€” Vata, Pitta und Kapha â€” sind die Grundpfeiler des Ayurveda. Sie sind keine Substanzen, sondern Funktionsprinzipien â€” KrÃ¤fte, die alle biologischen, psychologischen und physiologischen Prozesse steuern.
+
+### Vata â€” Das Prinzip der Bewegung
+
+**Elemente:** Ã„ther + Luft
+**Sitz im KÃ¶rper:** Dickdarm, Becken, unterer RÃ¼cken, Oberschenkel, Ohren, Knochen, Haut.
+**Funktion:** Alles, was sich bewegt â€” Atmung, Herzschlag, Nervenimpulse, Muskelkontraktionen, Kreislauf, Ausscheidung, Gedankenfluss, KreativitÃ¤t.
+
+**QualitÃ¤ten:** Leicht, trocken, kalt, beweglich, rau, subtil, klar.
+
+**Bei Balance:** KreativitÃ¤t, Begeisterung, FlexibilitÃ¤t, schnelles Verstehen, Lebendigkeit, SpontaneitÃ¤t.
+**Bei Ungleichgewicht:** Angst, NervositÃ¤t, Schlaflosigkeit, Verstopfung, trockene Haut, Gelenkschmerzen, Zerstreuung, Unruhe, Gewichtsverlust.
+
+### Pitta â€” Das Prinzip der Transformation
+
+**Elemente:** Feuer + Wasser
+**Sitz im KÃ¶rper:** DÃ¼nndarm, Magen, Leber, Milz, Blut, Augen, Haut, SchweiÃŸ.
+**Funktion:** Alles, was transformiert â€” Verdauung, Stoffwechsel, Hormonproduktion, Sehkraft, Intelligenz, EntscheidungsfÃ¤higkeit.
+
+**QualitÃ¤ten:** HeiÃŸ, scharf, leicht, feucht, sauer, durchdringend, Ã¶lig.
+
+**Bei Balance:** Scharfer Intellekt, Durchsetzungskraft, Mut, gute Verdauung, strahlende Haut, FÃ¼hrungsqualitÃ¤t, Klarheit.
+**Bei Ungleichgewicht:** Wut, Reizbarkeit, Sodbrennen, EntzÃ¼ndungen, HautausschlÃ¤ge, Durchfall, Perfektionismus, Kontrollzwang, Ã¼bermÃ¤ÃŸiges Schwitzen.
+
+### Kapha â€” Das Prinzip der Struktur
+
+**Elemente:** Wasser + Erde
+**Sitz im KÃ¶rper:** Brust, Lunge, Hals, Kopf, Gelenke, Magen (oberer Teil), Fett, Lymphe.
+**Funktion:** Alles, was stabilisiert â€” KÃ¶rperstruktur, Immunsystem, Gelenkschmierung, SchleimhÃ¤ute, emotionale StabilitÃ¤t, GedÃ¤chtnis.
+
+**QualitÃ¤ten:** Schwer, langsam, kalt, Ã¶lig, feucht, dicht, weich, stabil, glatt.
+
+**Bei Balance:** Ausdauer, Geduld, MitgefÃ¼hl, emotionale StabilitÃ¤t, starkes Immunsystem, gutes LangzeitgedÃ¤chtnis, Treue, Gelassenheit.
+**Bei Ungleichgewicht:** TrÃ¤gheit, Ãœbergewicht, Depression, Ã¼bermÃ¤ÃŸiger Schlaf, Verschleimung, Antriebslosigkeit, Besitzdenken, Anhaftung, Wassereinlagerungen.
+
+### Das individuelle Dosha-VerhÃ¤ltnis
+
+Jeder Mensch hat alle drei Doshas â€” aber in einem einzigartigen VerhÃ¤ltnis. Deine Grundkonstitution (Prakriti) wird bei der Zeugung festgelegt und verÃ¤ndert sich im Kern nicht. Was sich verÃ¤ndert, ist dein aktueller Zustand (Vikriti) â€” die momentane Dosha-Verteilung, die durch ErnÃ¤hrung, Lebensstil, Jahreszeit, Alter und Stress beeinflusst wird.
+
+Gesundheit im Ayurveda bedeutet: Vikriti ist nah an Prakriti. Dein aktueller Zustand stimmt mit deiner Grundkonstitution Ã¼berein. Krankheit entsteht, wenn ein Dosha sich Ã¼ber sein natÃ¼rliches MaÃŸ hinaus erhÃ¶ht â€” dann spricht man von einem "erhÃ¶hten" oder "gestÃ¶rten" Dosha.`
+        },
+        {
+          id: 'N07-M1-L3',
+          titel: 'Deine Konstitution bestimmen â€” Prakriti-Analyse',
+          inhalt: `## Deine Konstitution bestimmen
+
+### Wer bist du von Natur aus?
+
+Die Bestimmung deiner Prakriti (Grundkonstitution) ist der wichtigste Schritt im Ayurveda â€” denn alle Empfehlungen fÃ¼r ErnÃ¤hrung, Lebensstil und Therapie basieren darauf.
+
+### KÃ¶rperliche Merkmale
+
+**Vata-Konstitution:** Schlanker, leichter KÃ¶rperbau, schwer zuzunehmen. Trockene Haut und Haare. Kalte HÃ¤nde und FÃ¼ÃŸe. UnregelmÃ¤ÃŸige Verdauung (BlÃ¤hungen, Verstopfung). Leichter Schlaf, hÃ¤ufiges Aufwachen. Schnelle Bewegungen, schnelles Sprechen. Knackende Gelenke. Schmale GesichtszÃ¼ge.
+
+**Pitta-Konstitution:** Mittlerer, athletischer KÃ¶rperbau. Warme Haut, neigt zu RÃ¶tungen und Sommersprossen. Starker Appetit ("Ich werde Ã¤rgerlich, wenn ich nicht esse"). Gute, schnelle Verdauung. Neigung zu Durchfall eher als Verstopfung. MÃ¤ÃŸiger Schlaf, aber erholsam. Weiches, feines Haar, frÃ¼h ergrauend oder lichtend. Durchdringender Blick.
+
+**Kapha-Konstitution:** KrÃ¤ftiger, stabiler KÃ¶rperbau, neigt zu Gewichtszunahme. Glatte, feuchte, kÃ¼hle Haut. Dickes, volles Haar. Langsame Verdauung, aber stabil. Tiefer, langer Schlaf. Langsame, bedÃ¤chtige Bewegungen. GroÃŸe, sanfte Augen. Stabile Gelenke.
+
+### Psychische Merkmale
+
+**Vata-Geist:** Schnell, kreativ, begeisterungsfÃ¤hig, flexibel, neugierig. Lernt schnell, vergisst schnell. Vielseitige Interessen, schwer zu fokussieren. Neigt zu Sorgen und Ã„ngsten unter Stress.
+
+**Pitta-Geist:** Scharf, analytisch, zielgerichtet, organisiert, entschlossen. Gutes GedÃ¤chtnis. Starker Wille. Neigt zu Perfektionismus, Wut und Kritik unter Stress.
+
+**Kapha-Geist:** Ruhig, geduldig, loyal, mitfÃ¼hlend, bestÃ¤ndig. Lernt langsam, behÃ¤lt dauerhaft. Neigt zu TrÃ¤gheit, Anhaftung und Depression unter Stress.
+
+### Der Dosha-Test
+
+Gehe die folgenden Kategorien durch und ordne dich ehrlich zu â€” nicht wie du gerne wÃ¤rst, sondern wie du tatsÃ¤chlich bist, seit du dich erinnern kannst:
+
+KÃ¶rperbau: schlank (V) / mittel (P) / krÃ¤ftig (K). Haut: trocken (V) / warm, rÃ¶tlich (P) / glatt, Ã¶lig (K). Haare: trocken, dÃ¼nn (V) / fein, frÃ¼h grau (P) / dick, voll (K). Appetit: unregelmÃ¤ÃŸig (V) / stark, regelmÃ¤ÃŸig (P) / mÃ¤ÃŸig, kann ausfallen lassen (K). Verdauung: BlÃ¤hungen, unregelmÃ¤ÃŸig (V) / schnell, Sodbrennen (P) / langsam, schwer (K). Schlaf: leicht, unterbrochen (V) / mÃ¤ÃŸig, ausreichend (P) / tief, lang, schwer aufzuwachen (K). Temperament: Ã¤ngstlich, nervÃ¶s (V) / reizbar, wÃ¼tend (P) / ruhig, schwer motivierbar (K). Lernstil: schnell, vergisst schnell (V) / fokussiert, systematisch (P) / langsam, behÃ¤lt dauerhaft (K).
+
+ZÃ¤hle: Wie oft V, wie oft P, wie oft K? Dein Haupt-Dosha ist das mit den meisten Nennungen. Die meisten Menschen sind Doppel-Typen (z.B. Vata-Pitta, Pitta-Kapha) â€” reine Einzel-Typen sind selten.
+
+### Wichtig
+
+Dieser Selbsttest gibt eine Orientierung. FÃ¼r eine prÃ¤zise Prakriti-Bestimmung empfiehlt sich die Pulsdiagnose (Nadi Pariksha) durch einen erfahrenen Ayurveda-Praktizierenden â€” eine Kunst, die Jahrzehnte der Ãœbung erfordert.`
+        }
+      ]
+    },
+
+    // ============================================================
+    // MODUL 2 â€” Ayurvedische ErnÃ¤hrung
+    // ============================================================
+    {
+      id: 'N07-M2',
+      titel: 'Ayurvedische ErnÃ¤hrung',
+      beschreibung: 'Die Prinzipien der ayurvedischen ErnÃ¤hrung verstehen, die sechs Geschmacksrichtungen kennenlernen und Dosha-gerechte ErnÃ¤hrungsempfehlungen umsetzen.',
+      lektionen: [
+        {
+          id: 'N07-M2-L1',
+          titel: 'Agni â€” Das Verdauungsfeuer als Zentrum der Gesundheit',
+          inhalt: `## Agni â€” Das Verdauungsfeuer
+
+### Verdauung ist alles
+
+Im Ayurveda gibt es einen Satz, der das gesamte System zusammenfasst: "Wenn dein Agni stark ist, bist du gesund. Wenn dein Agni schwach ist, bist du krank. Wenn dein Agni erlischt, stirbst du."
+
+Agni (Sanskrit: Feuer) ist dein Verdauungsfeuer â€” die Kraft, die Nahrung in NÃ¤hrstoffe verwandelt, Giftstoffe verbrennt und Lebensenergie erzeugt. Agni ist nicht nur der physische Verdauungsprozess â€” es ist auch deine FÃ¤higkeit, EindrÃ¼cke, Emotionen und Erfahrungen zu "verdauen".
+
+### Die vier Agni-Typen
+
+**Sama Agni (Ausgeglichenes Feuer)** â€” Die ideale Verdauung. RegelmÃ¤ÃŸiger Appetit, vollstÃ¤ndige Verdauung, geformter Stuhl, keine Beschwerden. Typisch fÃ¼r ausgeglichene Prakriti.
+
+**Vishama Agni (UnregelmÃ¤ÃŸiges Feuer)** â€” Mal starker Hunger, mal gar keiner. BlÃ¤hungen, Verstopfung, wechselnde Stuhlkonsistenz. Typisch fÃ¼r Vata-StÃ¶rung. Das Feuer flackert wie eine Kerze im Wind.
+
+**Tikshna Agni (Ãœberhitztes Feuer)** â€” Riesiger Appetit, schnelle Verdauung, Sodbrennen, Durchfall, Reizbarkeit wenn nicht sofort gegessen wird. Typisch fÃ¼r Pitta-StÃ¶rung. Das Feuer lodert zu stark.
+
+**Manda Agni (Schwaches Feuer)** â€” Wenig Appetit, langsame Verdauung, Schwere nach dem Essen, MÃ¼digkeit, Gewichtszunahme. Typisch fÃ¼r Kapha-StÃ¶rung. Das Feuer glimmt nur schwach.
+
+### Ama â€” Das Produkt schlechter Verdauung
+
+Wenn Agni nicht optimal arbeitet, entsteht Ama â€” unverdaute Stoffwechselreste, die sich im KÃ¶rper ablagern. Ama wird als klebrige, schwere, trÃ¼be Substanz beschrieben â€” physisch (Schleim, Ablagerungen, Zungenbelag) und energetisch (TrÃ¤gheit, Dumpfheit, Blockade).
+
+Zeichen von Ama: Dicker, weiÃŸer Belag auf der Zunge (besonders morgens). TrÃ¼ber Urin. Ãœbelriechender Stuhl oder SchweiÃŸ. MÃ¼digkeit nach dem Essen. Steifigkeit morgens. Gehirnnebel. SchweregefÃ¼hl im KÃ¶rper.
+
+### Agni stÃ¤rken â€” Die goldene Regel
+
+Die goldene Regel der ayurvedischen ErnÃ¤hrung: Iss nur, wenn du hungrig bist. Nicht nach Uhrzeit, nicht aus Langeweile, nicht aus Gewohnheit â€” nur wenn dein KÃ¶rper tatsÃ¤chlich Hunger signalisiert. Hunger bedeutet: Agni ist bereit, Nahrung zu empfangen und zu transformieren. Essen ohne Hunger bedeutet: Nahrung auf ein kaltes Feuer werfen â€” sie wird nicht verdaut, sondern zu Ama.
+
+Weitere Agni-StÃ¤rker: Ingwerwasser vor dem Essen (stimuliert das Verdauungsfeuer). Warme Mahlzeiten bevorzugen (kaltes Essen dÃ¤mpft Agni). Nicht zu viel Wasser wÃ¤hrend des Essens (verdÃ¼nnt die VerdauungssÃ¤fte). Hauptmahlzeit mittags (Agni ist am stÃ¤rksten, wenn die Sonne am hÃ¶chsten steht). Abends leicht essen (Agni wird schwÃ¤cher gegen Abend).`
+        },
+        {
+          id: 'N07-M2-L2',
+          titel: 'Die sechs Geschmacksrichtungen (Rasa)',
+          inhalt: `## Die sechs Geschmacksrichtungen
+
+### Jeder Geschmack ist Medizin
+
+Im Ayurveda gibt es sechs Geschmacksrichtungen (Rasas) â€” und jede hat eine spezifische Wirkung auf die Doshas. Eine ausgewogene Mahlzeit enthÃ¤lt idealerweise alle sechs Geschmacksrichtungen â€” das stellt sicher, dass alle Doshas genÃ¤hrt und balanciert werden.
+
+### 1. SÃ¼ÃŸ (Madhura)
+
+**Elemente:** Erde + Wasser. **Wirkung:** NÃ¤hrend, aufbauend, befriedigend, beruhigend. **ErhÃ¶ht:** Kapha. **Senkt:** Vata, Pitta.
+
+**Nahrungsmittel:** Getreide, Reis, Weizen, Milch, Ghee, sÃ¼ÃŸe FrÃ¼chte, Datteln, Honig, WurzelgemÃ¼se. Fleisch und Fisch gelten im Ayurveda ebenfalls als "sÃ¼ÃŸ".
+
+**Psychische Wirkung:** Zufriedenheit, Liebe, MitgefÃ¼hl. Im ÃœbermaÃŸ: TrÃ¤gheit, Anhaftung, Gier.
+
+### 2. Sauer (Amla)
+
+**Elemente:** Erde + Feuer. **Wirkung:** Appetitanregend, verdauungsfÃ¶rdernd, erfrischend. **ErhÃ¶ht:** Pitta, Kapha. **Senkt:** Vata.
+
+**Nahrungsmittel:** ZitrusfrÃ¼chte, Joghurt, Essig, fermentierte Lebensmittel, Tomaten, Tamarinde, saure Beeren.
+
+**Psychische Wirkung:** Wachheit, UnterscheidungsfÃ¤higkeit. Im ÃœbermaÃŸ: Neid, Eifersucht, Kritiksucht.
+
+### 3. Salzig (Lavana)
+
+**Elemente:** Wasser + Feuer. **Wirkung:** Befeuchtend, verdauungsfÃ¶rdernd, mineralisierend, erdend. **ErhÃ¶ht:** Pitta, Kapha. **Senkt:** Vata.
+
+**Nahrungsmittel:** Meersalz, Steinsalz, Algen, Sojasauce, Oliven.
+
+**Psychische Wirkung:** Lebensfreude, Enthusiasmus. Im ÃœbermaÃŸ: Sucht, Starrheit, Habgier.
+
+### 4. Scharf (Katu)
+
+**Elemente:** Feuer + Luft. **Wirkung:** Erhitzend, stoffwechselanregend, schleimlÃ¶send, schweiÃŸtreibend. **ErhÃ¶ht:** Vata, Pitta. **Senkt:** Kapha.
+
+**Nahrungsmittel:** Chili, Ingwer, Pfeffer, Knoblauch, Zwiebeln, Senf, Meerrettich, Radieschen.
+
+**Psychische Wirkung:** Mut, Klarheit, Durchsetzungskraft. Im ÃœbermaÃŸ: Wut, Aggression, Ungeduld.
+
+### 5. Bitter (Tikta)
+
+**Elemente:** Luft + Ã„ther. **Wirkung:** Reinigend, entgiftend, entzÃ¼ndungshemmend, fiebersenkend. **ErhÃ¶ht:** Vata. **Senkt:** Pitta, Kapha.
+
+**Nahrungsmittel:** Kurkuma, Bittermelone, grÃ¼nes BlattgemÃ¼se (LÃ¶wenzahn, Radicchio, Rucola), Kaffee, dunkle Schokolade.
+
+**Psychische Wirkung:** Klarheit, NÃ¼chternheit, ErnÃ¼chterung. Im ÃœbermaÃŸ: Einsamkeit, Isolation, Trauer.
+
+### 6. Zusammenziehend/Herb (Kashaya)
+
+**Elemente:** Luft + Erde. **Wirkung:** Trocknend, zusammenziehend, blutstillend, wundheilend. **ErhÃ¶ht:** Vata. **Senkt:** Pitta, Kapha.
+
+**Nahrungsmittel:** HÃ¼lsenfrÃ¼chte, grÃ¼ner Tee, unreife Bananen, Granatapfel, Cranberries, Aubergine.
+
+**Psychische Wirkung:** Introversion, Sammlung, Konzentration. Im ÃœbermaÃŸ: Angst, Erstarrung, emotionale Verschlossenheit.
+
+### Die Praxis â€” Alle sechs auf dem Teller
+
+Eine ideale ayurvedische Mahlzeit enthÃ¤lt alle sechs Rasas â€” oft in Form eines Thali (indische Mahlzeit mit verschiedenen kleinen SchÃ¤lchen): Reis (sÃ¼ÃŸ), Dal mit Zitrone (sauer/salzig), Chutney (scharf), GemÃ¼securry mit Kurkuma (bitter), Linsen (herb). Jede Geschmacksrichtung nÃ¤hrt einen Aspekt deines Systems â€” und zusammen erzeugen sie Sattigung auf allen Ebenen.`
+        },
+        {
+          id: 'N07-M2-L3',
+          titel: 'Dosha-gerechte ErnÃ¤hrung â€” Was dein Typ braucht',
+          inhalt: `## Dosha-gerechte ErnÃ¤hrung
+
+### Die Grundregel â€” GegensÃ¤tze balancieren
+
+Das fundamentale Prinzip der ayurvedischen ErnÃ¤hrung: Gleiche QualitÃ¤ten erhÃ¶hen ein Dosha, gegensÃ¤tzliche QualitÃ¤ten senken es. Vata ist kalt und trocken â€” also braucht es warme, feuchte Nahrung. Pitta ist heiÃŸ und scharf â€” also braucht es kÃ¼hlende, milde Nahrung. Kapha ist schwer und feucht â€” also braucht es leichte, trockene, wÃ¤rmende Nahrung.
+
+### ErnÃ¤hrung fÃ¼r Vata
+
+**Bevorzuge:** Warme, gekochte Mahlzeiten. Suppen, EintÃ¶pfe, Porridge. Ã–lige, nÃ¤hrende Fette (Ghee, SesamÃ¶l, OlivenÃ¶l). SÃ¼ÃŸe, saure, salzige Geschmacksrichtungen. WurzelgemÃ¼se (Karotten, Kartoffeln, RÃ¼ben). Warme GewÃ¼rze (Ingwer, Zimt, KreuzkÃ¼mmel, Kardamom). NÃ¼sse und Samen. Reifes, sÃ¼ÃŸes Obst.
+
+**Reduziere:** Rohkost und Salate (zu kalt, zu trocken). Kalte GetrÃ¤nke und Eiswasser. HÃ¼lsenfrÃ¼chte in groÃŸen Mengen (blÃ¤hend). Koffein (verstÃ¤rkt NervositÃ¤t). Trockene, knusprige Snacks (Cracker, Chips). Bittere und herbe Lebensmittel.
+
+**Mahlzeitenrhythmus:** RegelmÃ¤ÃŸig â€” feste Zeiten. Vata-Typen profitieren von 3 warmen Hauptmahlzeiten und kleinen Snacks dazwischen. UnregelmÃ¤ÃŸiges Essen ist Gift fÃ¼r Vata.
+
+### ErnÃ¤hrung fÃ¼r Pitta
+
+**Bevorzuge:** KÃ¼hlende, nicht zu scharfe Nahrung. SÃ¼ÃŸe, bittere, herbe Geschmacksrichtungen. KokosÃ¶l, Ghee (kÃ¼hlend). KÃ¼hlende GewÃ¼rze (Koriander, Fenchel, Kardamom, Kurkuma). GrÃ¼nes BlattgemÃ¼se. SÃ¼ÃŸe FrÃ¼chte (Melone, Birne, Mango, Trauben). Basmati-Reis. Milchprodukte (wenn vertragen).
+
+**Reduziere:** Scharfe GewÃ¼rze (Chili, Cayenne, Senf). Saure Lebensmittel (Essig, ZitrusfrÃ¼chte in groÃŸen Mengen, Tomaten). Rotes Fleisch. Alkohol. Kaffee. Frittiertes. Fermentiertes. Sehr salziges Essen.
+
+**Mahlzeitenrhythmus:** Pitta-Typen sollten nie Mahlzeiten auslassen â€” ihr starkes Verdauungsfeuer erzeugt bei leerem Magen Reizbarkeit und AggressivitÃ¤t ("Hangry" ist ein Pitta-PhÃ¤nomen). Hauptmahlzeit mittags, wenn Agni am stÃ¤rksten ist.
+
+### ErnÃ¤hrung fÃ¼r Kapha
+
+**Bevorzuge:** Leichte, warme, trockene Nahrung. Scharfe, bittere, herbe Geschmacksrichtungen. WÃ¤rmende GewÃ¼rze (Ingwer, Pfeffer, Chili, Kurkuma, Zimt). HÃ¼lsenfrÃ¼chte (leicht und trocknend). GrÃ¼nes GemÃ¼se, KreuzblÃ¼tler (Brokkoli, Blumenkohl). Leichte Getreide (Hirse, Buchweizen, Gerste). Honig (einziger SÃ¼ÃŸstoff, der Kapha reduziert â€” nie erhitzt).
+
+**Reduziere:** Schwere, Ã¶lige, fette Nahrung. Milchprodukte (verschleimend). Weizen (schwer). SÃ¼ÃŸigkeiten und Zucker. Kalte GetrÃ¤nke. ÃœbermÃ¤ÃŸiges Essen. Rotes Fleisch. NÃ¼sse in groÃŸen Mengen (zu schwer, zu Ã¶lig).
+
+**Mahlzeitenrhythmus:** 2 bis 3 Mahlzeiten am Tag â€” keine Snacks. Kapha-Typen profitieren vom intermittierenden Fasten: spÃ¤tes FrÃ¼hstÃ¼ck (10 Uhr), leichtes Abendessen (18 Uhr), dazwischen nichts. Die Pausen zwischen den Mahlzeiten ermÃ¶glichen es Agni, Ama zu verbrennen.
+
+### Der wichtigste Tipp
+
+Iss nicht nach einer Liste â€” iss nach deinem KÃ¶rpergefÃ¼hl. Die Listen oben sind Orientierungshilfen, keine Gesetze. Beobachte, wie du dich nach dem Essen fÃ¼hlst. Leicht und energievoll? Gut â€” mehr davon. Schwer und mÃ¼de? Zu viel, zu schwer, falscher Geschmack. Dein KÃ¶rper ist der beste Ayurveda-Arzt, den du hast â€” wenn du ihm zuhÃ¶rst.`
+        }
+      ]
+    },
+
+    // ============================================================
+    // MODUL 3 â€” Dinacharya â€” Der ayurvedische Tagesrhythmus
+    // ============================================================
+    {
+      id: 'N07-M3',
+      titel: 'Dinacharya â€” Der ayurvedische Tagesrhythmus',
+      beschreibung: 'Den tÃ¤glichen Rhythmus des Ayurveda kennenlernen und verstehen, wie die Tageszeiten die Doshas beeinflussen und wie du deinen Tag optimal strukturierst.',
+      lektionen: [
+        {
+          id: 'N07-M3-L1',
+          titel: 'Die Dosha-Uhr â€” Wie die Tageszeiten deine Energie steuern',
+          inhalt: `## Die Dosha-Uhr
+
+### Dein Tag hat sechs Phasen
+
+Die Doshas herrschen nicht nur Ã¼ber Konstitutionstypen â€” sie herrschen auch Ã¼ber die Tageszeiten. Jede 4-Stunden-Phase des Tages wird von einem Dosha dominiert:
+
+**6:00â€“10:00 â€” Kapha-Zeit (morgens)**
+Die QualitÃ¤ten: Schwer, langsam, stabil, feucht. Die Natur erwacht langsam, die Luft ist noch kÃ¼hl und feucht. Wenn du in dieser Phase aufwachst, hast du die Kapha-TrÃ¤gheit zu Ã¼berwinden â€” deshalb fÃ¼hlt sich Aufstehen um 8 Uhr schwerer an als Aufstehen um 5:30.
+
+Empfehlung: Vor 6 Uhr aufstehen (in der Vata-Phase, wenn der Geist klar und leicht ist). Morgenhygiene, Bewegung, leichtes FrÃ¼hstÃ¼ck.
+
+**10:00â€“14:00 â€” Pitta-Zeit (mittags)**
+Das Verdauungsfeuer ist am stÃ¤rksten. Die Sonne steht hoch, Pitta regiert. Das ist die Zeit fÃ¼r die Hauptmahlzeit â€” dein KÃ¶rper kann jetzt am besten verdauen, transformieren und assimilieren.
+
+Empfehlung: GrÃ¶ÃŸte Mahlzeit des Tages. Konzentrierte geistige Arbeit. Wichtige Entscheidungen. Die SchÃ¤rfe des Pitta-Intellekts nutzen.
+
+**14:00â€“18:00 â€” Vata-Zeit (nachmittags)**
+Die QualitÃ¤ten: Leicht, beweglich, kreativ. Der Geist wird agiler, die KreativitÃ¤t steigt. Gleichzeitig kann Unruhe aufkommen â€” das Nachmittagstief, das viele Menschen kennen, ist ein Vata-PhÃ¤nomen.
+
+Empfehlung: Kreative Arbeit, Kommunikation, Brainstorming. Leichter Snack gegen das Tief. Kein Koffein (verstÃ¤rkt Vata-Unruhe).
+
+**18:00â€“22:00 â€” Kapha-Zeit (abends)**
+Wieder Kapha â€” Schwere, Ruhe, Verlangsamung. Der KÃ¶rper bereitet sich auf den Schlaf vor. Agni wird schwÃ¤cher.
+
+Empfehlung: Leichtes Abendessen vor 19 Uhr. Entspannung. Keine stimulierende AktivitÃ¤t. Zu Bett gehen vor 22 Uhr â€” bevor die nÃ¤chste Pitta-Phase beginnt.
+
+**22:00â€“2:00 â€” Pitta-Zeit (nachts)**
+Pitta arbeitet nachts auf der inneren Ebene: Leber-Entgiftung, Zellreparatur, Verarbeitung der TageseindrÃ¼cke, TraumaktivitÃ¤t. Deshalb sollst du um diese Zeit schlafen â€” damit Pitta seine Arbeit ungestÃ¶rt tun kann.
+
+Wenn du nach 22 Uhr wach bist, erlebst du oft den "Second Wind" â€” plÃ¶tzliche Wachheit und Hunger. Das ist Pitta, das fÃ¼r die Nachtarbeit Energie mobilisiert. Wenn du dieses Pitta stattdessen mit Snacks und Netflix fÃ¼tterst, fehlt es fÃ¼r die nÃ¤chtliche Regeneration.
+
+**2:00â€“6:00 â€” Vata-Zeit (frÃ¼her Morgen)**
+Die subtilste Phase. Der Schleier zwischen Wach- und Traumzustand ist am dÃ¼nnsten. Die Luft ist klar, der Geist still, die Meditation am tiefsten. In der yogischen Tradition heiÃŸt diese Phase "Brahma Muhurta" â€” die "Stunde Gottes".
+
+Empfehlung: Aufwachen zwischen 4:30 und 6:00 (je nach Konstitution und Jahreszeit). Meditation, Pranayama, stille Praxis. Das Bewusstsein ist in dieser Phase am empfÃ¤nglichsten.`
+        },
+        {
+          id: 'N07-M3-L2',
+          titel: 'Die Morgenroutine â€” Dinacharya praktisch',
+          inhalt: `## Die Morgenroutine
+
+### Der ayurvedische Morgen â€” Schritt fÃ¼r Schritt
+
+Die ayurvedische Morgenroutine (Dinacharya) ist eine Abfolge von Reinigungspraktiken, die den KÃ¶rper von den Ablagerungen der Nacht befreien und das System fÃ¼r den Tag vorbereiten. Du musst nicht alles auf einmal umsetzen â€” beginne mit 2 bis 3 Elementen und erweitere schrittweise.
+
+### 1. Aufstehen vor Sonnenaufgang
+
+Idealerweise zwischen 5:00 und 6:00 â€” in der Vata-Phase, wenn der Geist klar und leicht ist. Nimm dir einen Moment der Stille, bevor der Tag beginnt.
+
+### 2. Zungenreinigung
+
+Bevor du etwas trinkst oder isst: Schabe deine Zunge mit einem Zungenschaber (Kupfer ist traditionell) von hinten nach vorne, 7 bis 14 Mal. Das entfernt den Ama-Belag, der sich Ã¼ber Nacht auf der Zunge gesammelt hat, regt die Verdauungsorgane reflexartig an und verbessert den Geschmackssinn.
+
+### 3. Warmes Wasser trinken
+
+Ein Glas warmes (nicht heiÃŸes) Wasser auf nÃ¼chternen Magen. WÃ¤rmt Agni auf, spÃ¼lt die VerdauungskanÃ¤le, unterstÃ¼tzt die morgendliche Ausscheidung. Optional: Ein Spritzer Zitrone und ein TeelÃ¶ffel Honig (nicht im kochenden Wasser â€” Honig wird durch starke Hitze nach ayurvedischer Lehre toxisch).
+
+### 4. Ã–lziehen (Gandusha)
+
+Einen EsslÃ¶ffel SesamÃ¶l (Vata/Kapha) oder KokosÃ¶l (Pitta) fÃ¼r 10 bis 20 Minuten im Mund bewegen â€” durch die ZÃ¤hne ziehen, hin und her spÃ¼len. Dann ausspucken (nicht schlucken â€” das Ã–l hat Toxine gebunden). Ã–lziehen reinigt die MundhÃ¶hle, stÃ¤rkt Zahnfleisch und ZÃ¤hne, reduziert Bakterien und entgiftet Ã¼ber die Mundschleimhaut.
+
+### 5. Nasya â€” NasenÃ¶lung
+
+1 bis 2 Tropfen SesamÃ¶l oder spezielles Nasya-Ã–l in jedes Nasenloch. Leicht einschnupfen. Die Nase ist das "Tor zum Gehirn" â€” die Ã–lung hÃ¤lt die NasenschleimhÃ¤ute feucht, schÃ¼tzt vor Keimen und Allergenen und klÃ¤rt den Geist.
+
+### 6. Abhyanga â€” Selbstmassage mit warmem Ã–l
+
+Die KrÃ¶nung der ayurvedischen Morgenroutine: GanzkÃ¶rper-Selbstmassage mit warmem Ã–l. SesamÃ¶l fÃ¼r Vata, KokosÃ¶l fÃ¼r Pitta, SenfÃ¶l oder leichtes Ã–l fÃ¼r Kapha.
+
+Beginne am Kopf (Scheitel, Stirn, SchlÃ¤fen). Massiere Gesicht, Ohren, Hals. Dann Schultern, Arme (lange Striche auf den Geraden, kreisende Bewegungen auf den Gelenken). Brust, Bauch (im Uhrzeigersinn â€” folgt dem Verdauungstrakt). RÃ¼cken, so weit du reichst. HÃ¼ften, Beine, FÃ¼ÃŸe. 10 bis 15 Minuten insgesamt.
+
+Abhyanga ist nicht nur Hautpflege â€” es ist Nervensystem-Beruhigung. Die warmen, gleichmÃ¤ÃŸigen BerÃ¼hrungen stimulieren den Parasympathikus, reduzieren Cortisol und erzeugen ein tiefes GefÃ¼hl von GenÃ¤hrtheit und Sicherheit. Das Sanskrit-Wort "Sneha" bedeutet sowohl "Ã–l" als auch "Liebe" â€” Abhyanga ist ein Akt der Selbstliebe.
+
+### 7. Warme Dusche
+
+Nach der Ã–lmassage: warm duschen. Das Ã–l zieht in die Haut ein, Ã¼berschÃ¼ssiges Ã–l wird abgewaschen. Kein aggressives Seife-Schrubben â€” das Ã–l schÃ¼tzt die Haut.
+
+### 8. Meditation und Bewegung
+
+10 bis 20 Minuten Meditation. Gefolgt von leichter Bewegung â€” Yoga, Qigong, Spaziergang. Angepasst an den Dosha-Typ: Vata profitiert von sanftem Yoga und Erdung. Pitta von moderater, kÃ¼hlender Bewegung. Kapha von aktivierender, schweiÃŸtreibender Bewegung.`
+        },
+        {
+          id: 'N07-M3-L3',
+          titel: 'Ritucharya â€” Leben im Einklang mit den Jahreszeiten',
+          inhalt: `## Ritucharya â€” Jahreszeitliche Anpassung
+
+### Die Natur verÃ¤ndert sich â€” und du mit ihr
+
+So wie die Doshas den Tag beherrschen, herrschen sie auch Ã¼ber die Jahreszeiten. Ein ayurvedischer Lebensstil passt sich dem Jahreszeitenwechsel an â€” ErnÃ¤hrung, Schlaf, Bewegung und Kleidung verÃ¤ndern sich mit der Natur.
+
+### FrÃ¼hling â€” Kapha-Zeit
+
+Im FrÃ¼hling schmilzt der Kapha-Ãœberschuss des Winters â€” wie Schnee, der taut. Die angesammelte Schwere, Verschleimung und TrÃ¤gheit lÃ¶st sich. Deshalb ist der FrÃ¼hling die klassische ErkÃ¤ltungssaison: Der schmelzende Kapha manifestiert sich als Schnupfen, Husten und MÃ¼digkeit.
+
+**Empfehlung:** Leichte, warme Nahrung. Scharfe, bittere GewÃ¼rze (Ingwer, Pfeffer, Kurkuma). Reduziere Milchprodukte, SÃ¼ÃŸes und Schweres. Aktiviere den KÃ¶rper â€” jetzt ist die Zeit fÃ¼r intensivere Bewegung. FrÃ¼hjahrskur: 1 bis 2 Wochen leichtere ErnÃ¤hrung, Entschlackungstees (Brennnessel, LÃ¶wenzahn).
+
+### Sommer â€” Pitta-Zeit
+
+Hitze. Die Sonne ist stark, Pitta steigt. Das Verdauungsfeuer wird paradoxerweise schwÃ¤cher â€” der KÃ¶rper muss Energie fÃ¼r die KÃ¼hlung aufwenden.
+
+**Empfehlung:** KÃ¼hlende Nahrung â€” Gurke, Melone, Kokos, Joghurt (Lassi), Minze. Reduziere Scharfes, Saures, Salziges. Vermeide Mittagssonne. Leichtere Mahlzeiten. KÃ¼hlende GetrÃ¤nke (Pfefferminztee, Kokoswasser). MondlichtbÃ¤der. Schwimmen.
+
+### Herbst â€” Vata-Zeit
+
+Wind, Trockenheit, KÃ¤lte nehmen zu. Vata steigt. Die Natur zieht sich zurÃ¼ck â€” die BlÃ¤tter fallen, die Energie geht nach innen.
+
+**Empfehlung:** Warme, nÃ¤hrende, Ã¶lige Nahrung. Suppen, EintÃ¶pfe, Ghee. RegelmÃ¤ÃŸige Ã–lmassage (Abhyanga wird jetzt besonders wichtig). Warme GetrÃ¤nke. RegelmÃ¤ÃŸige Routinen (Vata braucht Struktur). Reduziere Rohkost, kalte Speisen und Ã¼bermÃ¤ÃŸige AktivitÃ¤t.
+
+### Winter â€” Kapha-Zeit (mit Vata-Einfluss)
+
+Der Winter ist kalt (Vata/Kapha) und feucht (Kapha). Paradoxerweise ist Agni im Winter am stÃ¤rksten â€” der KÃ¶rper braucht mehr Energie, um die KÃ¶rpertemperatur zu halten, und das Verdauungsfeuer wird angefacht.
+
+**Empfehlung:** NÃ¤hrende, schwere, aufbauende Nahrung â€” jetzt ist die Zeit fÃ¼r reichhaltiges Essen. Warme GewÃ¼rze. NÃ¼sse, Samen, Ã–le. Warme Milch mit GewÃ¼rzen. Weniger Fasten (der KÃ¶rper braucht Brennstoff). MÃ¤ÃŸige Bewegung. Viel Schlaf. WÃ¤rme in jeder Form.
+
+### Das Ã¼bergeordnete Prinzip
+
+Lebe mit der Natur, nicht gegen sie. Die Natur verÃ¤ndert sich in Zyklen â€” und dein KÃ¶rper ist Teil dieser Zyklen. Wenn du dich dem Rhythmus der Jahreszeiten anpasst, statt das ganze Jahr gleich zu leben, flieÃŸt du mit dem Strom statt dagegen â€” und das spart Energie, stÃ¤rkt die Gesundheit und harmonisiert die Doshas auf natÃ¼rliche Weise.`
+        }
+      ]
+    },
+
+    // ============================================================
+    // MODUL 4 â€” Ayurvedische Heilmittel & KrÃ¤uter
+    // ============================================================
+    {
+      id: 'N07-M4',
+      titel: 'Ayurvedische Heilmittel & KrÃ¤uter',
+      beschreibung: 'Die wichtigsten ayurvedischen HeilkrÃ¤uter, GewÃ¼rze und Hausmittel kennenlernen und fÃ¼r verschiedene Beschwerden einsetzen.',
+      lektionen: [
+        {
+          id: 'N07-M4-L1',
+          titel: 'Die KÃ¼che als Apotheke â€” Heilende GewÃ¼rze',
+          inhalt: `## Heilende GewÃ¼rze
+
+### Im Ayurveda ist jedes Essen Medizin
+
+Die ayurvedische GewÃ¼rzkÃ¼che ist keine exotische Spielerei â€” sie ist ein prÃ¤zises therapeutisches System. Jedes GewÃ¼rz hat definierte Wirkungen auf die Doshas, auf Agni und auf spezifische Organe.
+
+### Kurkuma (Haridra) â€” Das Gold des Ayurveda
+
+Kurkuma ist das vielseitigste ayurvedische GewÃ¼rz. Der Wirkstoff Curcumin wirkt stark entzÃ¼ndungshemmend (vergleichbar mit Ibuprofen in manchen Studien), antioxidativ, leberschÃ¼tzend, antimikrobiell und wundheilend.
+
+**Dosha-Wirkung:** Reduziert alle drei Doshas â€” ein seltener Allrounder. **Anwendung:** TÃ¤glich in Speisen. Goldene Milch (Kurkuma + Pfeffer + Milch/Pflanzenmilch + Ghee + Zimt â€” der Pfeffer erhÃ¶ht die BioverfÃ¼gbarkeit von Curcumin um das 2000-Fache). Als Paste auf Wunden und EntzÃ¼ndungen.
+
+### Ingwer (Shunthi/Ardraka) â€” Die universelle Medizin
+
+Im Ayurveda als "Vishwabheshaja" bezeichnet â€” "die universelle Medizin". Frischer Ingwer (Ardraka) wirkt anders als getrockneter (Shunthi): Frisch ist feuchter und milder, getrocknet ist heiÃŸer und durchdringender.
+
+**Dosha-Wirkung:** Reduziert Vata und Kapha, kann Pitta bei ÃœbermaÃŸ erhÃ¶hen. **Anwendung:** Frischer Ingwertee bei ErkÃ¤ltung, Ãœbelkeit, VerdauungsschwÃ¤che. Ingwerwasser vor dem Essen (dÃ¼nne Scheiben in heiÃŸem Wasser). Frischer Ingwer mit Zitrone und Salz als Appetitanreger.
+
+### KreuzkÃ¼mmel (Jiraka) â€” Der VerdauungskÃ¶nig
+
+KreuzkÃ¼mmel ist das wichtigste GewÃ¼rz fÃ¼r die Verdauung. Er stÃ¤rkt Agni, ohne Pitta Ã¼bermÃ¤ÃŸig zu erhÃ¶hen â€” eine seltene Kombination. Er reduziert BlÃ¤hungen, verbessert die NÃ¤hrstoffaufnahme und hilft bei Durchfall und KrÃ¤mpfen.
+
+**Dosha-Wirkung:** Reduziert Vata und Kapha, neutral fÃ¼r Pitta. **Anwendung:** In fast jeder ayurvedischen Kochung. KreuzkÃ¼mmelwasser (1 TL Samen in 500 ml Wasser 10 Min. kÃ¶cheln) â€” das "Verdauungselixier" des Ayurveda.
+
+### Weitere SchlÃ¼sselgewÃ¼rze
+
+**Koriander** â€” KÃ¼hlend, verdauungsfÃ¶rdernd, entgiftend. Reduziert Pitta. Samen und frisches Kraut. Koriandertee bei Sodbrennen und Harnwegsinfekten.
+
+**Fenchel** â€” SÃ¼ÃŸ, kÃ¼hlend, krampflÃ¶send. Ideal fÃ¼r Pitta und Vata. Bei BlÃ¤hungen, VerdauungskrÃ¤mpfen, als Verdauungstee nach dem Essen.
+
+**Zimt** â€” WÃ¤rmend, blutzuckerregulierend, durchblutungsfÃ¶rdernd. Reduziert Vata und Kapha. In Tee, Porridge, goldener Milch.
+
+**Kardamom** â€” Der "KÃ¶nig der GewÃ¼rze". VerdauungsfÃ¶rdernd, atemerfrischend, stimmungsaufhellend. Reduziert alle drei Doshas. In Tee (Chai), Desserts, als Mundwasser.
+
+**Schwarzer Pfeffer** â€” Erhitzend, durchdringend, bioavailability-steigernd. Reduziert Kapha. Macht NÃ¤hrstoffe und Wirkstoffe besser aufnehmbar.`
+        },
+        {
+          id: 'N07-M4-L2',
+          titel: 'Die groÃŸen ayurvedischen Heilpflanzen',
+          inhalt: `## Ayurvedische Heilpflanzen
+
+### Rasayana â€” Die VerjÃ¼ngungsmittel
+
+Im Ayurveda gibt es eine eigene Kategorie von Heilmitteln: Rasayanas â€” Substanzen, die den gesamten Organismus regenerieren, verjÃ¼ngen und stÃ¤rken. Sie sind die "Superfoods" der ayurvedischen Tradition.
+
+### Ashwagandha (Withania somnifera) â€” Die Kraftwurzel
+
+Das wichtigste Rasayana fÃ¼r Vata-Typen. Ashwagandha stÃ¤rkt, nÃ¤hrt, beruhigt und vitalisiert gleichzeitig â€” eine paradoxe Kombination, die es einzigartig macht. Wissenschaftlich belegt: Senkung von Cortisol, Verbesserung der SchlafqualitÃ¤t, Reduktion von Angst, Steigerung der Ausdauer und der SchilddrÃ¼senfunktion.
+
+**Dosha-Wirkung:** Reduziert Vata und Kapha, kann Pitta bei ÃœbermaÃŸ leicht erhÃ¶hen. **Anwendung:** 3â€“6 g Pulver in warmer Milch (traditionelles "Ashwagandha-Ksheera-Paka"), abends. Oder als standardisierter Extrakt.
+
+### Shatavari (Asparagus racemosus) â€” Die weibliche Kraft
+
+Shatavari bedeutet "die hundert EhemÃ¤nner hat" â€” ein Hinweis auf die VitalitÃ¤t, die diese Pflanze verleiht. Es ist das zentrale Frauenheilmittel des Ayurveda: bei PMS, Menstruationsbeschwerden, Fruchtbarkeit, Menopause und Stillzeit.
+
+**Dosha-Wirkung:** Reduziert Vata und Pitta, kann Kapha bei ÃœbermaÃŸ erhÃ¶hen. **Anwendung:** Pulver in warmer Milch oder als NahrungsergÃ¤nzung. In Kombination mit Ashwagandha ein kraftvolles Paar fÃ¼r hormonelle Balance.
+
+### Triphala â€” Die drei FrÃ¼chte
+
+Triphala ist die berÃ¼hmteste KrÃ¤utermischung des Ayurveda â€” eine Kombination aus drei FrÃ¼chten: Amalaki (Amla, Emblica officinalis â€” reich an Vitamin C, kÃ¼hlend, nÃ¤hrend), Bibhitaki (Terminalia bellirica â€” adstringierend, reinigend) und Haritaki (Terminalia chebula â€” "KÃ¶nig der Medizin" im Ayurveda, verdauungsfÃ¶rdernd, entgiftend).
+
+Zusammen reinigen die drei FrÃ¼chte den gesamten Verdauungstrakt, fÃ¶rdern die Entgiftung und balancieren alle drei Doshas.
+
+**Anwendung:** 1/2 bis 1 TL Triphala-Pulver in warmem Wasser, abends vor dem Schlafengehen. Wirkt sanft regulierend auf den Stuhlgang â€” nicht als AbfÃ¼hrmittel, sondern als Tonikum fÃ¼r den Darm.
+
+### Brahmi (Bacopa monnieri) â€” Das Gehirntonikum
+
+Brahmi ist die wichtigste Pflanze fÃ¼r den Geist â€” GedÃ¤chtnis, Konzentration, LernfÃ¤higkeit, Klarheit. Wissenschaftliche Studien bestÃ¤tigen: Brahmi verbessert die kognitive Funktion, besonders bei Ã¤lteren Menschen, und hat anxiolytische (angstlÃ¶sende) Wirkung.
+
+**Dosha-Wirkung:** Reduziert alle drei Doshas â€” besonders Pitta und Vata im Geist. **Anwendung:** Als Tee, als Pulver in Ghee, als standardisierter Extrakt. Traditionell mit Ghee eingenommen, da die fettlÃ¶slichen Wirkstoffe so besser aufgenommen werden.
+
+### Tulsi (Ocimum tenuiflorum) â€” Das heilige Basilikum
+
+Tulsi gilt in Indien als heilige Pflanze â€” in fast jedem hinduistischen Haushalt wÃ¤chst eine Tulsi-Pflanze. Als Adaptogen stÃ¤rkt es die Stressresistenz, als Immunmodulator die AbwehrkrÃ¤fte, als Atemwegsmittel die Bronchien.
+
+**Dosha-Wirkung:** Reduziert Vata und Kapha, kann Pitta leicht erhÃ¶hen. **Anwendung:** Als Tee â€” 2 bis 3 Tassen tÃ¤glich. Unkompliziert, wohlschmeckend, tÃ¤glich trinkbar.`
+        },
+        {
+          id: 'N07-M4-L3',
+          titel: 'Ghee, Honig & Hausmittel â€” Die Hausapotheke des Ayurveda',
+          inhalt: `## Ghee, Honig & Hausmittel
+
+### Ghee â€” FlÃ¼ssiges Gold
+
+Ghee (geklÃ¤rte Butter) ist im Ayurveda weit mehr als ein Kochfett â€” es ist ein Heilmittel ersten Ranges. Durch das KlÃ¤ren (langsames Erhitzen und Entfernen der Milchfeststoffe) wird die Butter haltbar, laktosefrei und therapeutisch wirksam.
+
+**Wirkung:** StÃ¤rkt Agni (Verdauungsfeuer), ohne Pitta zu erhÃ¶hen â€” einzigartig. NÃ¤hrt alle Gewebe (Dhatus). Verbessert die Aufnahme fettlÃ¶slicher NÃ¤hrstoffe und KrÃ¤uter. FÃ¶rdert die Intelligenz und das GedÃ¤chtnis. Schmiert die Gelenke. Beruhigt das Nervensystem.
+
+**Dosha-Wirkung:** Reduziert Vata und Pitta. Kapha in MaÃŸen.
+
+**Anwendung:** Zum Kochen und Braten (hoher Rauchpunkt). 1 TL in warmer Milch abends (beruhigend). Als TrÃ¤gerstoff fÃ¼r KrÃ¤uter (Ghee + Kurkuma, Ghee + Ashwagandha). Ã„uÃŸerlich auf trockene Haut, rissige Lippen, Verbrennungen.
+
+### Honig â€” Der Reiniger
+
+Im Ayurveda hat Honig eine besondere Stellung: Er ist das einzige sÃ¼ÃŸe Nahrungsmittel, das Kapha reduziert. Er wirkt reinigend, schleimlÃ¶send und "kratzend" (Lekhana) â€” er schabt Ama von den Geweben ab.
+
+**Kritische Regel:** Honig darf niemals Ã¼ber 40Â°C erhitzt werden. Nach ayurvedischer Lehre wird erhitzter Honig toxisch (Ama-bildend). Deshalb: Honig nie in kochendes Wasser oder heiÃŸe Speisen rÃ¼hren â€” erst abkÃ¼hlen lassen, dann hinzufÃ¼gen.
+
+**Anwendung:** In lauwarmem Wasser mit Zitrone morgens (Entgiftung). Als TrÃ¤gerstoff fÃ¼r KrÃ¤uter (Honig + Kurkuma = "Goldener Honig" bei ErkÃ¤ltung). Ã„uÃŸerlich auf Wunden (antibakteriell).
+
+### BewÃ¤hrte Hausmittel
+
+**Bei ErkÃ¤ltung:** Frischer Ingwertee + Honig + Zitrone. Kurkuma-Milch abends. Dampfinhalation mit Eukalyptus. NasenspÃ¼lung (Jala Neti) mit Salzwasser.
+
+**Bei VerdauungsstÃ¶rung:** KreuzkÃ¼mmelwasser. Frischer Ingwer mit Salz und Zitrone vor dem Essen. Fencheltee nach dem Essen. Bei Durchfall: Granatapfelsaft oder Reisschleim.
+
+**Bei SchlafstÃ¶rung:** Warme Milch mit Muskatnuss (1 Prise) und Ghee. FuÃŸmassage mit warmem SesamÃ¶l. Ashwagandha in warmer Milch.
+
+**Bei Stress:** Brahmi-Tee. Abhyanga (GanzkÃ¶rper-Ã–lmassage). Nasya (NasenÃ¶lung). Shirodhara (warmer Ã–lstrahl auf die Stirn â€” bei einem Therapeuten).
+
+**Bei Hautproblemen:** Kurkuma-Paste (Kurkuma + Honig + Milch) als Gesichtsmaske. NeemÃ¶l auf entzÃ¼ndete Stellen. Aloe-Vera-Gel bei Verbrennungen.
+
+**Bei Gelenkschmerzen:** Warme SesamÃ¶l-Massage auf die betroffenen Gelenke. Ingwer-Wickel. Guggulu-PrÃ¤parate (ayurvedisches Harz mit stark entzÃ¼ndungshemmender Wirkung â€” in Kapselform erhÃ¤ltlich).`
+        }
+      ]
+    },
+
+    // ============================================================
+    // MODUL 5 â€” Ayurveda & Energiearbeit
+    // ============================================================
+    {
+      id: 'N07-M5',
+      titel: 'Ayurveda & Energiearbeit',
+      beschreibung: 'Die Verbindung zwischen Ayurveda und feinstofflicher Energiearbeit verstehen â€” Marma-Punkte, Pranic Healing und die Integration in die energetische Praxis.',
+      lektionen: [
+        {
+          id: 'N07-M5-L1',
+          titel: 'Marma-Punkte â€” Energietore des KÃ¶rpers',
+          inhalt: `## Marma-Punkte
+
+### Die ayurvedischen Akupunkturpunkte
+
+Marma-Punkte (Sanskrit: "verletzlich" oder "lebenswichtig") sind spezifische Punkte auf dem KÃ¶rper, an denen Prana (Lebensenergie) besonders konzentriert und zugÃ¤nglich ist. In der ayurvedischen Anatomie werden 107 Marma-Punkte beschrieben â€” Schnittstellen zwischen physischem KÃ¶rper und feinstofflichem Energiesystem.
+
+Marma-Punkte Ã¤hneln den Akupunkturpunkten der chinesischen Medizin â€” und tatsÃ¤chlich gibt es erhebliche Ãœberschneidungen. Aber Marma-Punkte sind typischerweise grÃ¶ÃŸer (von der GrÃ¶ÃŸe einer Fingerkuppe bis zur FlÃ¤che einer HandflÃ¤che) und werden nicht mit Nadeln, sondern mit Druck, Massage, Ã–l oder energetischer Absicht stimuliert.
+
+### Die wichtigsten Marma-Punkte fÃ¼r die Praxis
+
+**Sthapani Marma** â€” Zwischen den Augenbrauen (drittes Auge). Beruhigt den Geist, reduziert Kopfschmerzen, stÃ¤rkt die Intuition. Sanfter kreisender Druck mit dem Mittelfinger fÃ¼r 1 bis 2 Minuten.
+
+**Hridaya Marma** â€” Brustbein-Mitte (Herzpunkt). Ã–ffnet das Herz, beruhigt emotionale Turbulenzen, reguliert den Blutdruck. Flache Hand auf das Brustbein legen, mit sanftem Druck und bewusstem Atmen.
+
+**Nabhi Marma** â€” Nabel-Zentrum. StÃ¤rkt Agni, reguliert die Verdauung, zentriert die Energie. Im Uhrzeigersinn um den Nabel massieren â€” das stimuliert gleichzeitig den Solar Plexus und das Verdauungssystem.
+
+**Talahridaya Marma** â€” Zentrum der HandflÃ¤chen. Die Handchakren. Aktivierung durch Reiben der HandflÃ¤chen oder kreisenden Druck mit dem Daumen der Gegenhand. Ã–ffnet die HÃ¤nde fÃ¼r Energiearbeit.
+
+**Kshipra Marma** â€” Zwischen Daumen und Zeigefinger (an der Hand) und zwischen groÃŸer und zweiter Zehe (am FuÃŸ). Starker immunstimulierender Punkt. RegelmÃ¤ÃŸiger Druck stÃ¤rkt die Abwehrkraft.
+
+**Adhipati Marma** â€” Scheitel des Kopfes (Kronenchakra). Der hÃ¶chste Marma-Punkt. Verbindet das individuelle Bewusstsein mit dem kosmischen. Sanfte kreisende Massage mit Ã–l â€” traditionell mit Brahmi-Ã–l.
+
+### Marma-Therapie in der Praxis
+
+Marma-Massage kann als eigenstÃ¤ndige Therapieform oder als ErgÃ¤nzung zur energetischen Arbeit eingesetzt werden. Die Kombination von physischem Druck auf den Marma-Punkt mit energetischer Absicht (Prana-Lenkung) erzeugt eine besonders tiefgreifende Wirkung â€” der physische Stimulus Ã¶ffnet das Tor, die energetische Absicht sendet Heilung hindurch.
+
+FÃ¼r die Selbstpraxis: Massiere tÃ¤glich 3 bis 5 der wichtigsten Marma-Punkte â€” jeweils 1 bis 2 Minuten, mit warmem Ã–l und bewusstem Atmen. Das ist eine Form der ayurvedischen Selbstheilung, die in 10 Minuten das gesamte Energiesystem stimuliert.`
+        },
+        {
+          id: 'N07-M5-L2',
+          titel: 'Doshas & Chakren â€” Die BrÃ¼cke zwischen den Systemen',
+          inhalt: `## Doshas & Chakren
+
+### Zwei Sprachen, ein KÃ¶rper
+
+Ayurveda und Yoga â€” obwohl aus derselben vedischen Tradition stammend â€” betonen unterschiedliche Aspekte des menschlichen Systems. Ayurveda fokussiert auf die physische Gesundheit Ã¼ber die Doshas. Yoga fokussiert auf die spirituelle Entwicklung Ã¼ber die Chakren. Aber beide beschreiben denselben KÃ¶rper â€” und die Verbindungen sind direkt.
+
+### Dosha-Chakra-Zuordnungen
+
+**Vata â€” Untere und obere Chakren:** Vata regiert die Bewegung â€” und Bewegung geschieht besonders an den Extremen: Wurzelchakra (Ausscheidung, Nervenimpulse), Sakralchakra (KreativitÃ¤t, Fluss), Halschakra (Ausdruck, Kommunikation) und Kronenchakra (subtilste Bewegung des Bewusstseins).
+
+Ein Vata-Ungleichgewicht zeigt sich energetisch als: instabiles Wurzelchakra (Existenzangst), Ã¼beraktives Halschakra (unkontrolliertes Reden) oder hypersensibles Kronenchakra (Ãœberreizung, Dissoziation).
+
+**Pitta â€” Mittlere Chakren:** Pitta regiert die Transformation â€” und Transformation geschieht im Zentrum: Solarplexus (Verdauung, persÃ¶nliche Macht), Herzchakra (emotionale Transformation) und Stirnchakra (Intelligenz, innere Schau).
+
+Ein Pitta-Ungleichgewicht zeigt sich als: Ã¼beraktiver Solarplexus (Kontrollzwang, Machthunger), verschlossenes Herz (Bitterkeit, Kritik) oder Ã¼berintellektualisiertes Stirnchakra (zu viel Analyse, zu wenig Intuition).
+
+**Kapha â€” Untere und mittlere Chakren:** Kapha regiert die Struktur â€” und Struktur manifestiert sich in: Wurzelchakra (Knochen, StabilitÃ¤t), Sakralchakra (Fortpflanzung, NÃ¤hrung) und Herzchakra (Thymus/Immunsystem, MitgefÃ¼hl).
+
+Ein Kapha-Ungleichgewicht zeigt sich als: Ã¼bergeerdetes Wurzelchakra (materielles Festhalten), blockiertes Sakralchakra (emotionale Stagnation) oder Ã¼bersentimentales Herz (Anhaftung, Codependenz).
+
+### Praktische Integration
+
+Wenn du mit einem Klienten arbeitest, dessen Chakren du wahrnimmst und dessen Dosha-Konstitution du kennst, hast du ein doppeltes Navigationssystem. Beispiel: Ein Klient mit Vata-Konstitution und einem blockierten Wurzelchakra â€” du weiÃŸt nicht nur, dass das Wurzelchakra Aufmerksamkeit braucht, sondern auch, dass Vata-reduzierende MaÃŸnahmen (WÃ¤rme, Ã–l, Erdung, RegelmÃ¤ÃŸigkeit) die Arbeit unterstÃ¼tzen.
+
+Ein Pitta-Klient mit einem Ã¼beraktiven Solarplexus â€” du arbeitest energetisch am Solarplexus und empfiehlst gleichzeitig kÃ¼hlende ErnÃ¤hrung, Reduktion von Scharfem und mehr Natur-Kontakt.
+
+Die Integration von Ayurveda und Energiearbeit erzeugt eine Tiefe und PrÃ¤zision, die keines der beiden Systeme allein erreicht.`
+        },
+        {
+          id: 'N07-M5-L3',
+          titel: 'Ayurvedische Psychologie â€” Sattva, Rajas, Tamas',
+          inhalt: `## Ayurvedische Psychologie
+
+### Die drei Gunas des Geistes
+
+WÃ¤hrend die Doshas die physische Konstitution beschreiben, beschreiben die drei Gunas die psychische Konstitution â€” die QualitÃ¤ten des Geistes.
+
+**Sattva** â€” Reinheit, Klarheit, Harmonie, Wahrheit, Licht, Weisheit. Ein sattvischer Geist ist wach, klar, friedlich, mitfÃ¼hlend, kreativ und verbunden. Sattva ist der natÃ¼rliche Zustand des Geistes, wenn er frei von StÃ¶rungen ist.
+
+**Rajas** â€” AktivitÃ¤t, Leidenschaft, Unruhe, Verlangen, Rastlosigkeit. Ein rajasischer Geist ist getrieben, ehrgeizig, rastlos, verlangt, strebt, kann nicht stillsitzen. Rajas ist notwendig fÃ¼r Handlung â€” aber im ÃœbermaÃŸ erzeugt es Stress, Sucht und ErschÃ¶pfung.
+
+**Tamas** â€” TrÃ¤gheit, Dunkelheit, Stumpfheit, Unwissenheit, Schwere. Ein tamasischer Geist ist dumpf, trÃ¤ge, apathisch, destruktiv oder depressiv. Tamas ist notwendig fÃ¼r Schlaf und Ruhe â€” aber im ÃœbermaÃŸ erzeugt es Depression, Sucht und Lethargie.
+
+### Die Gunas im Alltag
+
+Alles, was du tust, isst, siehst und erlebst, beeinflusst das Guna-Gleichgewicht:
+
+**Sattvische EinflÃ¼sse:** Frische, natÃ¼rliche Nahrung. Natur. Meditation. Lesen inspirierender Texte. Ehrliche Kommunikation. Kreative Arbeit. Dankbarkeit.
+
+**Rajasische EinflÃ¼sse:** Koffein. Scharfes Essen. Intensive Musik. Soziale Medien. Wettkampf. Ãœberarbeitung. Exzessiver Sport.
+
+**Tamasische EinflÃ¼sse:** Fertignahrung. Alkohol. Drogen. ÃœbermÃ¤ÃŸiger Schlaf. Gewaltsame Medien. LÃ¼gen. Isolation.
+
+### Die psychische Dosha-Guna-Matrix
+
+Jeder Dosha-Typ hat eine Tendenz zu bestimmten Guna-Ungleichgewichten:
+
+**Vata + Rajas:** Angst, Sorgen, Gedankenrasen, Schlaflosigkeit. Der Geist dreht durch.
+
+**Vata + Tamas:** Dissoziation, Verwirrung, Entfremdung. Der Geist verliert den Kontakt zur RealitÃ¤t.
+
+**Pitta + Rajas:** Wut, Kontrollzwang, Perfektionismus, Burn-on. Das Feuer brennt unkontrolliert.
+
+**Pitta + Tamas:** Zynismus, Hass, DestruktivitÃ¤t, Manipulation. Das Feuer wird toxisch.
+
+**Kapha + Rajas:** Besitzdenken, Eifersucht, materielles Streben. Die StabilitÃ¤t wird zur Gier.
+
+**Kapha + Tamas:** Depression, Apathie, Sucht, emotionales Essen. Die Ruhe wird zur Erstarrung.
+
+### Das Ziel â€” Sattva kultivieren
+
+Das Ziel der ayurvedischen Psychologie ist die Kultivierung von Sattva â€” nicht als UnterdrÃ¼ckung von Rajas und Tamas, sondern als Transformation. Rajas wird zu fokussierter Tatkraft (statt blindem Aktionismus). Tamas wird zu tiefer Regeneration (statt dumpfer TrÃ¤gheit). Und Sattva wird zum Grundzustand â€” dem Zustand, in dem Heilung geschieht, Einsicht mÃ¶glich ist und der Mensch in seiner natÃ¼rlichen Weisheit ruht.`
+        }
+      ]
+    },
+
+    // ============================================================
+    // MODUL 6 â€” Ayurveda leben
+    // ============================================================
+    {
+      id: 'N07-M6',
+      titel: 'Ayurveda leben',
+      beschreibung: 'Ayurveda alltagstauglich umsetzen, in die eigene Praxis integrieren und die ethischen GrundsÃ¤tze verinnerlichen.',
+      lektionen: [
+        {
+          id: 'N07-M6-L1',
+          titel: 'Ayurveda im Alltag â€” Schritt fÃ¼r Schritt umsetzen',
+          inhalt: `## Ayurveda im Alltag
+
+### Nicht alles auf einmal â€” Schritt fÃ¼r Schritt
+
+Die ayurvedische Lebensweise umfasst ErnÃ¤hrung, Tagesrhythmus, Morgenroutine, Jahreszeitenrhythmus, KrÃ¤uterkunde, Psychohygiene und spirituelle Praxis. Das auf einmal umzusetzen, ist fÃ¼r die meisten Menschen Ã¼berwÃ¤ltigend â€” und unnÃ¶tig. Ayurveda ist ein lebenslanges Studium. Beginne mit dem Einfachsten.
+
+### Die drei Einstiegs-VerÃ¤nderungen
+
+**1. Warmes Wasser am Morgen.** Ein Glas warmes Wasser, nÃ¼chtern, vor allem anderen. Das dauert 30 Sekunden und wirkt sofort: Agni wird aktiviert, die Verdauung kommt in Gang, Ama wird ausgespÃ¼lt. Die einfachste und wirksamste ayurvedische Gewohnheit.
+
+**2. Hauptmahlzeit mittags.** Verlagere die grÃ¶ÃŸte Mahlzeit des Tages auf die Mittagszeit â€” wenn Agni am stÃ¤rksten ist. Abends leicht essen. Diese eine Umstellung kann SchlafqualitÃ¤t, Energielevel und Verdauung dramatisch verbessern.
+
+**3. Zungenreinigung.** Investiere 3 Euro in einen Zungenschaber und benutze ihn jeden Morgen. 30 Sekunden. Die sichtbare Entfernung des Ama-Belags ist ein sofortiges, greifbares Ergebnis â€” und motiviert zu weiteren Schritten.
+
+### Wenn du diese drei Gewohnheiten 30 Tage durchhÃ¤ltst, erweitere:
+
+**Monat 2:** Abhyanga (Selbstmassage) â€” 2 bis 3 Mal pro Woche, 10 Minuten vor der Dusche. Und: Beginne, deine Konstitution in der ErnÃ¤hrung zu berÃ¼cksichtigen â€” nicht perfekt, sondern tendenziell.
+
+**Monat 3:** Dosha-gerechte GewÃ¼rze in die tÃ¤gliche KÃ¼che integrieren. Und: RegelmÃ¤ÃŸige Schlafenszeit vor 22 Uhr â€” zumindest an 5 von 7 Tagen.
+
+**Monat 4 und fortlaufend:** Vertiefen, verfeinern, individualisieren. Jahreszeitliche Anpassungen. KrÃ¤uter und Hausmittel. Meditation und Pranayama als Teil der Morgenroutine. Ayurveda wird kein "Programm" â€” es wird eine Lebensweise.
+
+### Die 80/20-Regel
+
+Du musst nicht perfekt sein. 80 Prozent Dosha-gerechte ErnÃ¤hrung und LebensfÃ¼hrung erzeugen 95 Prozent der Wirkung. Die letzten 20 Prozent erfordern extreme Disziplin und liefern minimalen Zusatznutzen. Liebe das Leben â€” und iss gelegentlich ein StÃ¼ck Kuchen. Das ist auch Ayurveda.`
+        },
+        {
+          id: 'N07-M6-L2',
+          titel: 'Ayurveda in der energetischen Praxis',
+          inhalt: `## Ayurveda in der Praxis
+
+### Der Mehrwert fÃ¼r deine Klientenarbeit
+
+Ayurveda-Wissen macht dich als energetischen Praktizierenden prÃ¤ziser, individueller und ganzheitlicher. Du arbeitest nicht mehr nur auf der feinstofflichen Ebene â€” du verstehst die physische Konstitution, die ErnÃ¤hrung, den Rhythmus und die psychische Disposition deines Klienten.
+
+### Dosha-basierte Sitzungsgestaltung
+
+**Vata-Klient:** Braucht WÃ¤rme, Erdung, Ruhe, RegelmÃ¤ÃŸigkeit. Deine Sitzung: Langsam, geerdet, vorhersehbar. Warmer Raum. Decke anbieten. Keine Ã¼berraschenden Interventionen. Erdung und Wurzelchakra-Arbeit priorisieren. Warmen Tee nach der Sitzung.
+
+**Pitta-Klient:** Braucht KÃ¼hlung, Sanftheit, Loslassen von Kontrolle. Deine Sitzung: KÃ¼hlende, beruhigende Energie. Nicht konfrontativ. Herzchakra-Arbeit. Pitta-Klienten neigen dazu, die Sitzung kontrollieren zu wollen â€” sanft, aber bestimmt die FÃ¼hrung behalten. Pfefferminztee.
+
+**Kapha-Klient:** Braucht Stimulation, Bewegung, Leichtigkeit. Deine Sitzung: Etwas aktivierender als bei Vata oder Pitta. Blockaden klar benennen. Stagnation ansprechen. Kapha-Klienten brauchen manchmal einen sanften Schubs â€” nicht aggressiv, aber bestimmt. Ingwertee.
+
+### Ayurvedische Empfehlungen als Hausaufgabe
+
+Nach einer energetischen Sitzung kannst du ayurvedische Empfehlungen als "Hausaufgabe" mitgeben â€” abgestimmt auf die Dosha-Konstitution und das aktuelle Thema:
+
+Bei einem Vata-Klienten mit AngstzustÃ¤nden: "Probiere diese Woche jeden Abend eine Tasse warme Milch mit einer Prise Muskatnuss und einem TeelÃ¶ffel Ghee."
+
+Bei einem Pitta-Klienten mit Wutthematik: "Reduziere diese Woche Scharfes und Saures in deiner ErnÃ¤hrung und ersetze es durch kÃ¼hlende Lebensmittel."
+
+Bei einem Kapha-Klienten mit Antriebslosigkeit: "Beginne morgens mit einem Glas warmem Ingwerwasser und einem 15-minÃ¼tigen zÃ¼gigen Spaziergang."
+
+Solche konkreten, alltagstauglichen Empfehlungen verankern die energetische Arbeit im physischen Alltag â€” und beschleunigen den VerÃ¤nderungsprozess.`
+        },
+        {
+          id: 'N07-M6-L3',
+          titel: 'Ethik, Grenzen & Weiterentwicklung',
+          inhalt: `## Ethik, Grenzen & Weiterentwicklung
+
+### Was Ayurveda kann â€” und was es nicht kann
+
+Ayurveda ist ein mÃ¤chtiges System â€” aber es hat Grenzen. In seiner traditionellen Form ist es ein vollstÃ¤ndiges Medizinsystem mit chirurgischen, pharmakologischen und therapeutischen Komponenten. Was du in diesem Kurs gelernt hast, ist die Gesundheits- und PrÃ¤ventionsebene â€” nicht die klinische Medizin.
+
+**Was du empfehlen darfst:** ErnÃ¤hrungsanpassungen, GewÃ¼rze, allgemeine LebensstilverÃ¤nderungen, Morgenroutine, Tagesrhythmus, allgemein zugÃ¤ngliche Hausmittel, Selbstmassage. All das ist GesundheitsfÃ¶rderung und PrÃ¤vention â€” keine medizinische Behandlung.
+
+**Was du NICHT tun solltest:** Krankheitsdiagnosen stellen (auch keine ayurvedischen). Medikamente empfehlen oder absetzen lassen. Komplexe ayurvedische Therapien (Panchakarma, Kshar Sutra) ohne entsprechende Ausbildung durchfÃ¼hren. Ayurveda als Ersatz fÃ¼r schulmedizinische Behandlung bei ernsthaften Erkrankungen anbieten.
+
+### Der Weg weiter
+
+Ayurveda ist ein Ozean â€” dieser Kurs hat dir gezeigt, wo das Ufer ist und wie du ins Wasser gehst. Die VertiefungsmÃ¶glichkeiten sind enorm:
+
+Ayurvedische ErnÃ¤hrungsberatung â€” eine professionelle Ausbildung, die 6 bis 12 Monate dauert. Panchakarma â€” die ayurvedische Reinigungs- und VerjÃ¼ngungskur â€” als Klient erleben und spÃ¤ter mÃ¶glicherweise als Therapeut anbieten. Ayurvedische KrÃ¤uterkunde (Dravyaguna) â€” das Studium der Heilpflanzen und ihrer Dosha-Wirkungen. Nadi Pariksha â€” die Pulsdiagnose â€” eine Kunst, die Jahre der Ãœbung erfordert.
+
+### Das Geschenk des Ayurveda
+
+Ayurveda schenkt dir etwas, das in der modernen Welt selten geworden ist: die FÃ¤higkeit, deinen eigenen KÃ¶rper zu verstehen. Nicht Ã¼ber Bluttests und Laborwerte â€” Ã¼ber direktes SpÃ¼ren, Beobachten und Anpassen. Du lernst, die Sprache deines KÃ¶rpers zu lesen â€” und ihm zu antworten. Nicht mit Pillen, sondern mit Nahrung, Rhythmus, KrÃ¤utern und bewusster LebensfÃ¼hrung.
+
+In einer Welt, die die Gesundheitsverantwortung an Ã„rzte, Versicherungen und Pharmaunternehmen delegiert hat, ist dieses Wissen revolutionÃ¤r. Dein KÃ¶rper gehÃ¶rt dir. Deine Gesundheit gehÃ¶rt dir. Und das Wissen, wie du beides pflegst, gehÃ¶rt dir â€” seit 5000 Jahren.`
+        }
+      ]
+    }
+  ]
+};
+
+export default N07;

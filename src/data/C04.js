@@ -1,29 +1,29 @@
 const C04 = {
   id: 'C04',
-  titel: 'Ernährungscoach',
+  titel: 'Ernährung verstehen und leben',
   bereich: 'coaching',
-  beschreibung: 'Werde ein ganzheitlicher Ernährungscoach — lerne, Menschen individuell und nachhaltig auf dem Weg zu einer gesünderen Ernährung zu begleiten. Diese Ausbildung verbindet moderne Ernährungswissenschaft mit holistischen Prinzipien und gibt dir praktische Coaching-Werkzeuge für die Arbeit mit Essverhalten, Gewohnheitsänderung und Ernährungsumstellung.',
+  beschreibung: 'Verstehe deine eigene Ernährung tiefer und gestalte sie bewusster und nachhaltiger. Dieser Kurs verbindet modernes Ernährungswissen mit einem ganzheitlichen Blick und gibt dir alltagstaugliche Werkzeuge für die eigene Ernährung, das eigene Essverhalten und die eigene Gewohnheitsänderung. Hinweis: Dieser Kurs dient der eigenen Bildung, Selbstreflexion und persönlichen Entwicklung. Er vermittelt allgemeines Ernährungswissen und ist keine Ernährungsberatung oder -therapie im medizinischen Sinne. Er ersetzt keine ärztliche, diätetische oder psychotherapeutische Behandlung und ist nicht zur Diagnose oder Behandlung von Krankheiten oder Essstörungen geeignet. Bei gesundheitlichen Fragen oder belastendem Essverhalten wende dich an Ärztin, Arzt, eine Ernährungsfachkraft oder eine psychotherapeutische Fachperson.',
   status: 'live',
   module: [
     {
       id: 'C04-M1',
-      titel: 'Grundlagen des Ernährungscoachings',
+      titel: 'Grundlagen der eigenen Ernährung',
       lektionen: [
         {
           id: 'C04-M1-L1',
-          titel: 'Ernährungscoaching vs. Ernährungsberatung',
-          inhalt: `Ernährungscoaching ist mehr als Ernährungsberatung — und das Verständnis dieses Unterschieds bestimmt deine gesamte Arbeitsweise. Ernährungsberatung liefert Wissen: Was soll ich essen? Wie viel? Wann? Ernährungscoaching geht tiefer: Warum esse ich, wie ich esse? Was hindert mich an der Veränderung? Wie kann ich nachhaltig neue Gewohnheiten aufbauen? Der Berater ist der Experte für Ernährung — der Coach ist der Experte für Veränderung.
+          titel: 'Wissen allein reicht nicht',
+          inhalt: `Über Ernährung Bescheid zu wissen ist eine Sache — die eigene Ernährung tatsächlich zu verändern eine ganz andere. Reines Ernährungswissen beantwortet: Was soll ich essen? Wie viel? Wann? Doch nachhaltige Veränderung geht tiefer: Warum esse ich, wie ich esse? Was hindert mich an der Veränderung? Wie baue ich dauerhaft neue Gewohnheiten auf? Dieser Kurs verbindet beides — das Wissen über gute Ernährung und das Verständnis dafür, wie Veränderung wirklich gelingt.
 
-Die meisten Menschen, die zu dir kommen, wissen bereits, was sie essen sollten. Gemüse ist gesund, Zucker ist ungesund, Wasser ist besser als Cola — das weiß jedes Kind. Das Problem ist nicht das Wissen, sondern die Umsetzung. Der Graben zwischen „Ich weiß, dass ich mehr Gemüse essen sollte" und „Ich esse tatsächlich jeden Tag mehr Gemüse" ist riesig — und dieser Graben ist dein Arbeitsfeld als Coach.
+Die meisten von uns wissen längst, was wir essen sollten. Gemüse ist gesund, Zucker ist ungesund, Wasser ist besser als Cola — das weiß jedes Kind. Das Problem ist nicht das Wissen, sondern die Umsetzung. Der Graben zwischen „Ich weiß, dass ich mehr Gemüse essen sollte" und „Ich esse tatsächlich jeden Tag mehr Gemüse" ist riesig — und genau dieser Graben ist das Thema dieses Kurses.
 
 Die Ursachen des Grabens sind vielfältig: Gewohnheiten, die seit Jahrzehnten eingeschliffen sind. Emotionales Essen — Essen als Trost, Belohnung, Stressventil oder Langeweile-Killer. Soziale Dynamiken — die Familie isst ungesund, der Partner kocht Fertiggerichte, die Kollegen bestellen Pizza. Zeitmangel — oder die Wahrnehmung von Zeitmangel. Fehlende Selbstwirksamkeit — „Ich schaffe das sowieso nicht, ich habe schon hundert Diäten hinter mir." Und tieferliegende psychologische Muster — die Beziehung zum eigenen Körper, zum Genuss, zur Kontrolle.
 
-Dein Ansatz als holistischer Ernährungscoach berücksichtigt all diese Ebenen. Du gibst Wissen — aber dosiert und individualisiert. Du arbeitest mit Motivation — nicht durch Druck, sondern durch Verbindung mit den Werten des Klienten. Du baust Gewohnheiten auf — systematisch, in kleinen Schritten. Du adressierst emotionale Muster — Essen ist selten nur Essen. Und du respektierst die Individualität — es gibt keine eine richtige Ernährung für alle.
+Ein ganzheitlicher Blick auf die eigene Ernährung berücksichtigt all diese Ebenen. Du nutzt Wissen — aber passend zu deinem Leben. Du arbeitest mit deiner Motivation — nicht durch Druck, sondern durch Verbindung mit deinen eigenen Werten. Du baust Gewohnheiten auf — systematisch, in kleinen Schritten. Du schaust auf emotionale Muster — Essen ist selten nur Essen. Und du respektierst deine Individualität — es gibt keine eine richtige Ernährung für alle.
 
-Die Abgrenzung: Du bist keine Diätassistentin und keine Ernährungswissenschaftlerin — es sei denn, du hast diese Qualifikation separat erworben. Du behandelst keine Essstörungen — Anorexie, Bulimie, Binge Eating — diese erfordern spezialisierte therapeutische Betreuung. Du erstellst keine klinischen Ernährungspläne für Diabetes, Niereninsuffizienz oder andere schwere Erkrankungen. Du arbeitest im Bereich der Gesundheitsförderung und Prävention — und du verweist, wenn die Grenzen deiner Kompetenz erreicht sind.`,
+Eine wichtige Einordnung: Dieser Kurs vermittelt allgemeines Ernährungswissen für die eigene, gesunde Ernährung. Er ist keine Ernährungstherapie und ersetzt keine fachliche Betreuung. Bei einem belastenden Verhältnis zum Essen oder Anzeichen einer Essstörung — etwa Anorexie, Bulimie oder Binge Eating — ist eine spezialisierte ärztliche und psychotherapeutische Begleitung der richtige Weg. Auch bei Erkrankungen wie Diabetes oder Nierenproblemen gehört die Ernährung in ärztliche und diätetische Hände. Dieser Kurs bewegt sich im Bereich der allgemeinen Gesundheitsförderung für dich selbst.`,
           uebung: {
             titel: 'Selbstreflexion Essverhalten',
-            anleitung: `Bevor du andere coachst, coache dich selbst. Beantworte ehrlich:
+            anleitung: `Schau ehrlich auf dein eigenes Essverhalten. Beantworte für dich:
 
 1. Meine Beziehung zum Essen ist: (liebevoll / funktional / kompliziert / belastet) ___
 
@@ -33,18 +33,18 @@ Die Abgrenzung: Du bist keine Diätassistentin und keine Ernährungswissenschaft
 
 4. Was hindert mich konkret daran? ___
 
-5. Wenn ich mir vorstelle, dass ein Coach mich bei dieser Veränderung begleitet — was bräuchte ich von ihm? ___
+5. Wenn mich jemand bei dieser Veränderung begleiten würde — was bräuchte ich, um dranzubleiben? ___
 
-6. Was dürfte er auf keinen Fall tun? ___
+6. Was würde mich eher blockieren als unterstützen? ___
 
-Die Antworten auf Frage 5 und 6 zeigen dir, was deine Klienten brauchen — und was sie nicht brauchen. Deine eigene Erfahrung mit dem Graben zwischen Wissen und Umsetzung ist dein wertvollstes Lehrmaterial.`,
+Die Antworten auf Frage 5 und 6 zeigen dir, was du dir selbst auf deinem Weg geben kannst — und was dir nicht guttut. Deine eigene Erfahrung mit dem Graben zwischen Wissen und Umsetzung ist dein wertvollster Lernstoff.`,
             dauer: '10 Min',
           },
         },
         {
           id: 'C04-M1-L2',
           titel: 'Die Psychologie des Essverhaltens',
-          inhalt: `Essen ist niemals nur Nahrungsaufnahme — es ist ein komplexes Verhalten, das von biologischen, psychologischen, sozialen und kulturellen Faktoren gleichzeitig gesteuert wird. Das Verständnis dieser Faktoren ist die Grundlage für wirksames Ernährungscoaching — denn ohne dieses Verständnis behandelst du nur Symptome.
+          inhalt: `Essen ist niemals nur Nahrungsaufnahme — es ist ein komplexes Verhalten, das von biologischen, psychologischen, sozialen und kulturellen Faktoren gleichzeitig gesteuert wird. Das Verständnis dieser Faktoren ist die Grundlage für jede nachhaltige Veränderung — denn ohne dieses Verständnis kuriert man nur an der Oberfläche.
 
 Die biologischen Treiber: Hunger und Sättigung werden durch ein komplexes Zusammenspiel von Hormonen reguliert — Ghrelin steigert den Hunger, Leptin signalisiert Sättigung, Insulin reguliert den Blutzucker. Schlafmangel erhöht Ghrelin und senkt Leptin — deshalb haben Kurzschläfer mehr Hunger. Stress erhöht den Cortisolspiegel, der wiederum Heißhunger auf zucker- und fettreiche Nahrung auslöst — der biologische Grund für Stressessen. Und das Darmmikrobiom beeinflusst, worauf wir Appetit haben — bestimmte Bakterien erzeugen Verlangen nach den Substraten, die sie zum Wachstum brauchen.
 
@@ -52,9 +52,9 @@ Die psychologischen Treiber: Emotionales Essen ist der häufigste nicht-biologis
 
 Restriktives Denken — die Einteilung in erlaubte und verbotene Lebensmittel — ist paradoxerweise einer der stärksten Treiber für Überessen. Je mehr du dir etwas verbietest, desto stärker wird das Verlangen danach. Die Forschung zeigt konsistent: Restriktive Diäten führen langfristig zu mehr Gewichtszunahme als zu weniger. Das Gegenmittel: Intuitive Ernährung — die Wiederentdeckung der natürlichen Hunger- und Sättigungssignale, ohne Verbote und ohne Kalorienzählen.
 
-Die sozialen Treiber: Wir essen mehr in Gesellschaft als allein. Wir passen unsere Portionsgrößen an die unserer Tischgenossen an. Wir essen, was unsere Familie isst, was unsere Kultur vorgibt, was die Werbung empfiehlt. Diese sozialen Einflüsse sind so stark, dass individuelle Willenskraft allein sie selten überwinden kann — die Umgestaltung des sozialen Umfelds ist deshalb ein wichtiger Coaching-Ansatz.
+Die sozialen Treiber: Wir essen mehr in Gesellschaft als allein. Wir passen unsere Portionsgrößen an die unserer Tischgenossen an. Wir essen, was unsere Familie isst, was unsere Kultur vorgibt, was die Werbung empfiehlt. Diese sozialen Einflüsse sind so stark, dass Willenskraft allein sie selten überwinden kann — die bewusste Gestaltung des eigenen Umfelds ist deshalb ein wichtiger Ansatz.
 
-Gewohnheiten — die mächtigsten Treiber überhaupt — steuern geschätzt vierzig bis fünfzig Prozent unseres täglichen Verhaltens. Ein Essverhalten zu ändern bedeutet, Gewohnheiten zu ändern — und dafür gibt es wissenschaftlich fundierte Strategien, die du im nächsten Modul lernst.`,
+Gewohnheiten — die mächtigsten Treiber überhaupt — steuern geschätzt vierzig bis fünfzig Prozent unseres täglichen Verhaltens. Das eigene Essverhalten zu ändern bedeutet, Gewohnheiten zu ändern — und dafür gibt es wissenschaftlich fundierte Strategien, die du im nächsten Modul kennenlernst.`,
           uebung: {
             titel: 'Ess-Treiber-Analyse',
             anleitung: `Führe drei Tage ein Ess-Treiber-Protokoll:
@@ -80,7 +80,7 @@ Nach drei Tagen: Wie oft hast du aus echtem Hunger gegessen? Wie oft aus anderen
         {
           id: 'C04-M1-L3',
           titel: 'Grundprinzipien gesunder Ernährung',
-          inhalt: `Bevor du andere coachst, brauchst du ein solides — und gleichzeitig flexibles — Grundverständnis gesunder Ernährung. Kein Dogma, keine Ideologie, keine Verbote — sondern Prinzipien, die für die meisten Menschen in den meisten Situationen gelten und die durch solide Evidenz gestützt sind.
+          inhalt: `Für die eigene Ernährung hilft ein solides — und gleichzeitig flexibles — Grundverständnis. Kein Dogma, keine Ideologie, keine Verbote — sondern Prinzipien, die für die meisten Menschen in den meisten Situationen gelten und die durch solide Evidenz gestützt sind.
 
 Prinzip eins — Echte Lebensmittel bevorzugen: Je weniger ein Lebensmittel verarbeitet wurde, desto mehr Nährstoffe enthält es und desto weniger problematische Zusätze. Gemüse, Obst, Hülsenfrüchte, Nüsse, Samen, Vollkorngetreide, Eier, Fisch — das sind echte Lebensmittel. Fertigpizzen, Softdrinks, Chips und verpackte Snacks mit zwanzig Zutaten auf der Packung sind industrielle Produkte. Die Grundregel: Kaufe Lebensmittel, die keine Zutatenliste brauchen — oder eine mit weniger als fünf Zutaten.
 
@@ -167,13 +167,13 @@ Starte morgen. Halte drei Wochen durch — so lange braucht eine neue Gewohnheit
         {
           id: 'C04-M2-L2',
           titel: 'Motivation und Rückfallprävention',
-          inhalt: `Motivation ist der Treibstoff der Veränderung — aber sie ist auch flüchtig. Die Motivation am ersten Tag einer Ernährungsumstellung ist hoch — am vierzehnten Tag, wenn die Euphorie verflogen ist und die Pizza lockt, ist sie oft verschwunden. Nachhaltiges Ernährungscoaching baut nicht auf Motivation — es baut auf Systeme, Umgebung und Identität.
+          inhalt: `Motivation ist der Treibstoff der Veränderung — aber sie ist auch flüchtig. Die Motivation am ersten Tag einer Ernährungsumstellung ist hoch — am vierzehnten Tag, wenn die Euphorie verflogen ist und die Pizza lockt, ist sie oft verschwunden. Nachhaltige Veränderung baut nicht auf Motivation — sie baut auf Systeme, Umgebung und Identität.
 
-Die drei Ebenen der Veränderung: Ergebnis — „Ich will fünf Kilo abnehmen." Prozess — „Ich esse jeden Tag Gemüse." Identität — „Ich bin ein Mensch, der sich gesund ernährt." Die meisten Diäten arbeiten auf der Ergebnisebene — und scheitern, weil das Ergebnis temporär motiviert. Wirksames Coaching arbeitet auf der Identitätsebene — wenn du dich als gesund essender Mensch identifizierst, folgen die Handlungen natürlich. Jede gesunde Mahlzeit wird zu einem Beweis für deine neue Identität: „Ich bin jemand, der Gemüse wählt."
+Die drei Ebenen der Veränderung: Ergebnis — „Ich will fünf Kilo abnehmen." Prozess — „Ich esse jeden Tag Gemüse." Identität — „Ich bin ein Mensch, der sich gesund ernährt." Die meisten Diäten arbeiten auf der Ergebnisebene — und scheitern, weil das Ergebnis nur vorübergehend motiviert. Nachhaltige Veränderung arbeitet auf der Identitätsebene — wenn du dich als gesund essender Mensch verstehst, folgen die Handlungen natürlich. Jede gesunde Mahlzeit wird zu einem Beweis für deine neue Identität: „Ich bin jemand, der Gemüse wählt."
 
-Intrinsische vs. extrinsische Motivation: Extrinsische Motivation — abnehmen für den Strandurlaub, gesund essen weil der Arzt es gesagt hat — funktioniert kurzfristig, hält aber selten. Intrinsische Motivation — sich vital fühlen, für die eigenen Kinder gesund bleiben, den eigenen Körper als Tempel behandeln — ist nachhaltiger, weil sie an tiefe Werte anknüpft. Im Coaching fragst du: „Warum willst du deine Ernährung verändern? Und warum ist das wichtig? Und warum ist DAS wichtig?" Drei Warum-Ebenen tief — dort findest du den wahren Antrieb.
+Intrinsische vs. extrinsische Motivation: Extrinsische Motivation — abnehmen für den Strandurlaub, gesund essen weil der Arzt es gesagt hat — funktioniert kurzfristig, hält aber selten. Intrinsische Motivation — sich vital fühlen, für die eigenen Kinder gesund bleiben, den eigenen Körper als Tempel behandeln — ist nachhaltiger, weil sie an tiefe Werte anknüpft. Frag dich selbst: „Warum will ich meine Ernährung verändern? Und warum ist das wichtig? Und warum ist DAS wichtig?" Drei Warum-Ebenen tief — dort findest du deinen wahren Antrieb.
 
-Rückfälle sind keine Katastrophen — sie sind Teil des Prozesses. Jede Veränderung verläuft nicht linear, sondern in Schleifen: Fortschritt, Rückfall, neuer Fortschritt, neuer Rückfall — mit einer insgesamt aufsteigenden Tendenz. Der Rückfall wird nur dann zum Problem, wenn der Klient ihn als Beweis für sein Versagen interpretiert: „Siehst du, ich kann es nicht. Ich bin undiszipliniert. Ich gebe auf." Deine Aufgabe als Coach: Rückfälle normalisieren, aus ihnen lernen und den Blick auf den Gesamttrend richten.
+Rückfälle sind keine Katastrophen — sie sind Teil des Prozesses. Jede Veränderung verläuft nicht linear, sondern in Schleifen: Fortschritt, Rückfall, neuer Fortschritt, neuer Rückfall — mit einer insgesamt aufsteigenden Tendenz. Ein Rückfall wird nur dann zum Problem, wenn du ihn als Beweis für dein Versagen deutest: „Siehst du, ich kann es nicht. Ich bin undiszipliniert. Ich gebe auf." Die hilfreichere Haltung: Rückfälle als normal annehmen, aus ihnen lernen und den Blick auf den Gesamttrend richten.
 
 Die Wenn-Dann-Planung ist das wirksamste Werkzeug der Rückfallprävention: „Wenn ich Heißhunger auf Schokolade habe, dann esse ich zuerst einen Apfel und trinke ein Glas Wasser." „Wenn ich auf der Feier bin und Kuchen angeboten bekomme, dann nehme ich ein kleines Stück und genieße es bewusst." Diese Wenn-Dann-Pläne automatisieren die gesunde Entscheidung in Risikosituationen — du brauchst im Moment keine Willenskraft, weil die Entscheidung bereits vorher getroffen wurde.`,
           uebung: {
@@ -204,7 +204,7 @@ Schreibe das Identitäts-Statement auf eine Karte und lege sie in dein Portemonn
         {
           id: 'C04-M2-L3',
           titel: 'Emotionales Essen transformieren',
-          inhalt: `Emotionales Essen — der Griff zum Essen als Reaktion auf Gefühle statt auf Hunger — ist eines der häufigsten Themen im Ernährungscoaching und eines der am schwierigsten zu verändernden Muster. Es ist tief verwurzelt, oft seit der Kindheit konditioniert und biologisch durch das Belohnungssystem des Gehirns verstärkt.
+          inhalt: `Emotionales Essen — der Griff zum Essen als Reaktion auf Gefühle statt auf Hunger — ist eines der häufigsten und zugleich am schwersten zu verändernden Ess-Muster. Es ist tief verwurzelt, oft seit der Kindheit konditioniert und biologisch durch das Belohnungssystem des Gehirns verstärkt. Wichtig: Wenn dein Verhältnis zum Essen dich stark belastet, ist eine psychotherapeutische Begleitung der richtige Weg — dieser Kurs ersetzt sie nicht.
 
 Die Mechanik des emotionalen Essens: Eine unangenehme Emotion entsteht — Stress, Einsamkeit, Langeweile, Angst, Trauer. Das Gehirn sucht nach einer schnellen Lösung. Zucker- und fettreiche Nahrung aktiviert das Dopamin-System — sofortige Belohnung, sofortige Erleichterung. Das Problem: Die Erleichterung dauert Minuten, die Emotion kehrt zurück — oft verstärkt durch Schuldgefühle. Ein Teufelskreis entsteht.
 
@@ -248,17 +248,17 @@ Erstelle eine persönliche Alternativ-Liste — drei Dinge, die du beim nächste
         {
           id: 'C04-M3-L1',
           titel: 'Makronährstoffe verstehen und erklären',
-          inhalt: `Als Ernährungscoach brauchst du ein solides Grundverständnis der Makronährstoffe — nicht auf dem Niveau einer Ernährungswissenschaftlerin, aber genug, um fundierte Empfehlungen zu geben und die Fragen deiner Klienten kompetent zu beantworten.
+          inhalt: `Für die eigene Ernährung hilft ein solides Grundverständnis der Makronährstoffe — nicht auf dem Niveau einer Ernährungswissenschaftlerin, aber genug, um die eigenen Entscheidungen fundiert zu treffen und gängige Fragen für dich einordnen zu können.
 
 Kohlenhydrate sind die primäre Energiequelle des Körpers. Das Gehirn allein verbraucht etwa hundertfünfzig Gramm Glukose pro Tag. Die entscheidende Unterscheidung: Komplexe Kohlenhydrate — Vollkorngetreide, Hülsenfrüchte, Gemüse — werden langsam verdaut, halten den Blutzucker stabil und liefern nachhaltige Energie. Einfache Kohlenhydrate — Zucker, Weißmehl, Softdrinks — werden schnell absorbiert, treiben den Blutzucker hoch und lassen ihn ebenso schnell wieder fallen — das Nachmittagstief, der Heißhunger, die Energieschwankungen.
 
-Der glykämische Index beschreibt, wie schnell ein Lebensmittel den Blutzucker ansteigen lässt. Niedrig-glykämische Lebensmittel — Linsen, Haferflocken, die meisten Gemüse — sorgen für stabile Energie. Hoch-glykämische — Weißbrot, Kartoffelpüree, Cornflakes — sorgen für Achterbahn. Für die Coaching-Praxis reicht die Faustregel: Vollkorn statt Weißmehl, Hülsenfrüchte statt Kartoffeln, Obst statt Saft, und immer Protein oder Fett zu Kohlenhydraten kombinieren, um den Blutzuckeranstieg zu bremsen.
+Der glykämische Index beschreibt, wie schnell ein Lebensmittel den Blutzucker ansteigen lässt. Niedrig-glykämische Lebensmittel — Linsen, Haferflocken, die meisten Gemüse — sorgen für stabile Energie. Hoch-glykämische — Weißbrot, Kartoffelpüree, Cornflakes — sorgen für Achterbahn. Für den Alltag reicht die Faustregel: Vollkorn statt Weißmehl, Hülsenfrüchte statt Kartoffeln, Obst statt Saft, und immer Protein oder Fett zu Kohlenhydraten kombinieren, um den Blutzuckeranstieg zu bremsen.
 
 Proteine sind die Bausteine des Körpers — Muskeln, Organe, Enzyme, Hormone, Immunzellen, alles wird aus Aminosäuren gebaut. Protein sättigt besser als jeder andere Makronährstoff und hat den höchsten thermischen Effekt — der Körper verbraucht mehr Energie, um Protein zu verdauen, als für Kohlenhydrate oder Fett. Für die meisten Menschen ist die Empfehlung: zu jeder Mahlzeit eine Proteinquelle — Ei, Hülsenfrüchte, Nüsse, Fisch, Fleisch, Milchprodukte, Tofu.
 
 Fette sind essenziell — ohne sie keine Hormonproduktion, keine Zellmembranen, keine Aufnahme fettlöslicher Vitamine. Die Unterscheidung: Gesättigte Fette — Butter, Kokosöl, tierisches Fett — in Maßen. Einfach ungesättigte — Olivenöl, Avocado, Nüsse — reichlich. Mehrfach ungesättigte — Omega-3 aus fettem Fisch, Leinsamen, Walnüssen — gezielt integrieren. Transfette — aus Frittiertem und industrieller Verarbeitung — konsequent meiden.
 
-Für die Coaching-Kommunikation: Erkläre Makronährstoffe in einfacher, bildhafter Sprache. „Kohlenhydrate sind dein Benzin — wähle das Premium." „Protein ist das Baumaterial — dein Körper braucht es, um sich jeden Tag zu erneuern." „Fett ist wie Öl im Motor — ohne es läuft nichts rund, aber es muss das richtige sein."`,
+Ein paar Bilder, die das Ganze greifbar machen: „Kohlenhydrate sind dein Benzin — wähle das Premium." „Protein ist das Baumaterial — dein Körper braucht es, um sich jeden Tag zu erneuern." „Fett ist wie Öl im Motor — ohne es läuft nichts rund, aber es muss das richtige sein."`,
           uebung: {
             titel: 'Teller-Check',
             anleitung: `Analysiere drei deiner gestrigen Mahlzeiten nach dem Teller-Prinzip:
@@ -280,25 +280,25 @@ Muster: Was fällt auf? Zu wenig Gemüse? Zu wenig Protein? Zu viele einfache Ko
 
 Eine konkrete Anpassung für morgen: ___
 
-Der Teller-Check ist ein einfaches Werkzeug, das du jedem Klienten sofort mitgeben kannst.`,
+Der Teller-Check ist ein einfaches Werkzeug, das du jederzeit für dich selbst nutzen kannst.`,
             dauer: '10 Min',
           },
         },
         {
           id: 'C04-M3-L2',
-          titel: 'Spezialthemen: Darmgesundheit, Entzündung, Blutzucker',
-          inhalt: `Als ganzheitlicher Ernährungscoach begegnen dir drei Themen, die in fast jeder Beratung relevant sind — Darmgesundheit, stille Entzündung und Blutzuckerregulation. Das Verständnis dieser Zusammenhänge hebt dein Coaching auf eine Ebene, die über allgemeine Ernährungstipps hinausgeht.
+          titel: 'Vertiefung: Darm, Wohlbefinden, Blutzucker',
+          inhalt: `Drei Themen tauchen rund um Ernährung immer wieder auf — Darmgesundheit, Blutzuckerbalance und der Zusammenhang von Ernährung und allgemeinem Wohlbefinden. Ein Grundverständnis dieser Zusammenhänge hilft dir, deine eigene Ernährung bewusster zu gestalten. Wichtig vorab: Die folgenden Zusammenhänge sind allgemeines Bildungswissen über gesunde Ernährung — keine Aussagen über die Behandlung oder Vorbeugung von Krankheiten. Bei gesundheitlichen Fragen ist die ärztliche oder diätetische Fachstelle die richtige Adresse.
 
-Darmgesundheit und Ernährung: Das Mikrobiom ist das zentrale Bindeglied zwischen Ernährung und Gesundheit. Jedes Lebensmittel, das du isst, füttert bestimmte Bakteriengruppen und hungert andere aus. Ballaststoffe und fermentierte Lebensmittel fördern die nützlichen Stämme, Zucker und ultraverarbeitete Lebensmittel fördern die schädlichen. Die einfachsten Coaching-Empfehlungen für die Darmgesundheit: dreißig verschiedene Pflanzen pro Woche, täglich eine Portion fermentiertes Lebensmittel, und ausreichend Ballaststoffe — mindestens dreißig Gramm pro Tag.
+Darmgesundheit und Ernährung: Das Mikrobiom ist das zentrale Bindeglied zwischen Ernährung und Gesundheit. Jedes Lebensmittel, das du isst, füttert bestimmte Bakteriengruppen und hungert andere aus. Ballaststoffe und fermentierte Lebensmittel fördern die nützlichen Stämme, Zucker und ultraverarbeitete Lebensmittel fördern die schädlichen. Eine einfache, alltagstaugliche Orientierung für eine pflanzenreiche Ernährung: Vielfalt auf dem Teller (das Leitbild der dreißig verschiedenen Pflanzen pro Woche), regelmäßig fermentierte Lebensmittel und reichlich ballaststoffreiche Kost.
 
-Stille Entzündung — chronische, niedriggradige Entzündung im gesamten Körper — ist der gemeinsame Nenner der meisten chronischen Erkrankungen: Herz-Kreislauf, Diabetes, Krebs, Autoimmunerkrankungen, Depression, Alzheimer. Die Ernährung ist einer der stärksten Einflussfaktoren: Pro-entzündlich wirken Zucker, Transfette, verarbeitetes Fleisch, Alkohol und ultraverarbeitete Lebensmittel. Anti-entzündlich wirken Gemüse, Beeren, Omega-3-Fettsäuren, Kurkuma, Ingwer, grüner Tee und Olivenöl. Die Verschiebung der Ernährung von pro-entzündlich zu anti-entzündlich ist eine der wirkungsvollsten Maßnahmen, die du empfehlen kannst.
+Ernährung und Wohlbefinden: In der Ernährungsforschung wird viel über die Qualität der Lebensmittel und ihren Einfluss auf das allgemeine Wohlbefinden gesprochen. Als eher ungünstig für den Körper gelten Zucker, Transfette, verarbeitetes Fleisch, Alkohol und stark verarbeitete Lebensmittel. Als förderlich gelten Gemüse, Beeren, Omega-3-Fettsäuren, Kurkuma, Ingwer, grüner Tee und Olivenöl. Eine Ernährung, die mehr auf die zweite Gruppe setzt, gilt allgemein als eine der wohltuendsten Veränderungen für das eigene Wohlbefinden — Aussagen über konkrete Krankheiten gehören dagegen in ärztliche Hände.
 
-Blutzuckerregulation: Stabile Blutzuckerwerte sind der Schlüssel zu stabiler Energie, stabiler Stimmung und nachhaltigem Gewichtsmanagement. Die Blutzuckerachterbahn — hohe Spitzen nach zuckerhaltigen Mahlzeiten, tiefe Täler danach — erzeugt Heißhunger, Müdigkeit, Reizbarkeit und fördert langfristig Insulinresistenz. Einfache Strategien für stabile Blutzuckerwerte: Proteine und Fette zu jeder Mahlzeit, komplexe statt einfacher Kohlenhydrate, Essig oder Zitrone zum Essen, Bewegung nach den Mahlzeiten, und die Reihenfolge des Essens beachten — Gemüse und Protein zuerst, Kohlenhydrate zuletzt.
+Blutzuckerbalance: Möglichst gleichmäßige Blutzuckerwerte werden mit stabiler Energie und ausgeglichener Stimmung in Verbindung gebracht. Die „Blutzuckerachterbahn" — hohe Spitzen nach zuckerhaltigen Mahlzeiten, tiefe Täler danach — kann Heißhunger, Müdigkeit und Reizbarkeit begünstigen. Einfache Alltagsstrategien für eine ruhigere Blutzuckerkurve: Proteine und Fette zu jeder Mahlzeit, komplexe statt einfacher Kohlenhydrate, Essig oder Zitrone zum Essen, Bewegung nach den Mahlzeiten, und die Reihenfolge beachten — Gemüse und Protein zuerst, Kohlenhydrate zuletzt.
 
-Diese drei Themen — Darm, Entzündung, Blutzucker — sind miteinander verflochten: Ein gesunder Darm reguliert die Entzündung, stabile Blutzuckerwerte schonen den Darm, und niedrige Entzündung verbessert die Insulinsensitivität. Wer eines verbessert, verbessert oft alle drei.`,
+Diese drei Themen — Darm, Wohlbefinden, Blutzucker — hängen zusammen: Eine pflanzenreiche, ballaststoffstarke Ernährung tut dem Darm gut, eine ruhige Blutzuckerkurve unterstützt gleichmäßige Energie, und beides trägt zum allgemeinen Wohlgefühl bei. Wer an einer Stelle ansetzt, tut sich oft an mehreren gleichzeitig etwas Gutes.`,
           uebung: {
             titel: 'Anti-entzündlicher Tagesplan',
-            anleitung: `Erstelle einen anti-entzündlichen Tagesplan — eine Version, die du auch Klienten empfehlen kannst:
+            anleitung: `Erstelle einen anti-entzündlichen Tagesplan für dich selbst:
 
 Morgens:
 Getränk: ___
@@ -330,7 +330,7 @@ Setze den Plan morgen um und beobachte: Wie ist dein Energielevel? Dein Hunger? 
         {
           id: 'C04-M3-L3',
           titel: 'Ernährungsmythen aufklären',
-          inhalt: `Als Ernährungscoach begegnest du täglich Ernährungsmythen — hartnäckige Überzeugungen, die von Medien, Social Media und gut meinenden Laien verbreitet werden und die das Ernährungsverhalten deiner Klienten blockieren. Deine Aufgabe: aufklären, ohne zu belehren.
+          inhalt: `Rund um Ernährung kursieren viele hartnäckige Mythen — verbreitet von Medien, Social Media und gut meinenden Bekannten. Sie können auch das eigene Essverhalten unnötig blockieren. Hier räumen wir mit den häufigsten auf.
 
 Mythos: Fett macht fett. Realität: Fett hat mehr Kalorien pro Gramm als Kohlenhydrate, aber die Gleichung „gegessenes Fett = Körperfett" ist stark vereinfacht. Gesunde Fette sättigen, regulieren Hormone und verlangsamen die Kohlenhydrataufnahme. Die fettarme Ernährung der achtziger und neunziger Jahre wurde durch zugesetzten Zucker kompensiert — und die Adipositasrate stieg.
 
@@ -342,25 +342,25 @@ Mythos: Superfoods heilen alles. Realität: Kein einzelnes Lebensmittel heilt od
 
 Mythos: Frühstück ist die wichtigste Mahlzeit. Realität: Für manche Menschen ja, für andere nicht. Intervallfasten — das Überspringen des Frühstücks — kann für viele Menschen vorteilhaft sein. Die beste Mahlzeit ist die, die dir gut tut — egal zu welcher Uhrzeit.
 
-Die Coaching-Haltung bei Mythen: Nicht belehren, nicht beschämen, nicht aggressiv widerlegen. Stattdessen: Neugier wecken. „Das ist eine verbreitete Annahme — ich habe eine etwas andere Perspektive. Soll ich sie teilen?" Dann die Information geben — ruhig, sachlich, ohne den Klienten für seinen bisherigen Glauben zu kritisieren. Menschen verändern Überzeugungen leichter, wenn sie sich dabei nicht dumm fühlen.`,
+Eine hilfreiche Haltung gegenüber Mythen — auch den eigenen: nicht hart mit sich ins Gericht gehen, sondern neugierig bleiben. „Das habe ich lange geglaubt — vielleicht stimmt es so nicht ganz." Dann die Information sacken lassen — ruhig und sachlich. Überzeugungen verändern sich leichter, wenn man sich dabei nicht schlecht fühlt.`,
           uebung: {
             titel: 'Mythen-Kommunikation üben',
-            anleitung: `Übe, drei Ernährungsmythen aufzuklären — ohne zu belehren:
+            anleitung: `Prüfe für dich selbst drei verbreitete Mythen — welche hast du vielleicht selbst geglaubt?
 
-Szenario 1: Ein Klient sagt: „Ich esse kein Fett mehr — das macht ja dick."
-Deine Antwort (empathisch, informativ, kurz): ___
+Mythos 1: „Fett macht dick, deshalb meide ich es."
+Was weißt du jetzt darüber? ___
 
-Szenario 2: Eine Klientin sagt: „Ich mache gerade eine Detox-Kur mit Säften. Mein Körper ist total vergiftet."
-Deine Antwort: ___
+Mythos 2: „Eine Detox-Kur mit Säften entgiftet meinen Körper."
+Was weißt du jetzt darüber? ___
 
-Szenario 3: Ein Klient sagt: „Kohlenhydrate sind Gift. Seit ich Keto esse, geht es mir viel besser."
-Deine Antwort: ___
+Mythos 3: „Kohlenhydrate sind grundsätzlich schlecht."
+Was weißt du jetzt darüber? ___
 
-Prüfe jede Antwort:
-□ Respektiert sie die Erfahrung des Klienten?
-□ Informiert sie ohne zu belehren?
-□ Bietet sie eine nuanciertere Perspektive statt eines Gegenarguments?
-□ Ist sie kurz genug, um nicht als Vortrag zu wirken?`,
+Reflektiere:
+□ Welchen dieser Mythen habe ich selbst geglaubt?
+□ Hat er mein Essverhalten beeinflusst?
+□ Was ist die nuanciertere Sichtweise?
+□ Was nehme ich für meine eigene Ernährung mit?`,
             dauer: '10 Min',
           },
         },
@@ -368,110 +368,107 @@ Prüfe jede Antwort:
     },
     {
       id: 'C04-M4',
-      titel: 'Das Coaching-Gespräch',
+      titel: 'Den eigenen Veränderungsweg gestalten',
       lektionen: [
         {
           id: 'C04-M4-L1',
-          titel: 'Das Erstgespräch im Ernährungscoaching',
-          inhalt: `Das Erstgespräch legt das Fundament für die gesamte Coaching-Beziehung — hier entscheidet sich, ob der Klient Vertrauen fasst, sich verstanden fühlt und motiviert ist, den Prozess zu beginnen. Das Erstgespräch im Ernährungscoaching hat eine andere Qualität als ein ärztliches Anamnesegespräch — es ist weniger diagnostisch und mehr beziehungsorientiert.
+          titel: 'Die eigene Standortbestimmung',
+          inhalt: `Bevor du etwas veränderst, lohnt sich eine ehrliche Standortbestimmung — sie legt das Fundament für deinen ganzen Weg. Es geht nicht um eine medizinische Bestandsaufnahme, sondern um ein freundliches, ehrliches Hinschauen: Wo stehe ich gerade mit meiner Ernährung, und wohin möchte ich?
 
-Die Eröffnung: Schaffe eine warme, einladende Atmosphäre. Kein Klemmbrett, kein Fragebogen als erstes — sondern echtes Interesse. „Was bringt dich zu mir? Erzähl mir." Lass den Klienten seine Geschichte erzählen — seine Ernährungsgeschichte, seine Diätversuche, seine Frustrationen, seine Hoffnungen. Diese Geschichte gibt dir mehr Information als jeder Fragebogen, weil sie die emotionale Landschaft zeigt, in der du arbeitest.
+Der Einstieg: Nimm dir in Ruhe Zeit für dich — kein Fragebogen, kein Bewerten, sondern echtes Interesse an dir selbst. Lass deine eigene Ernährungsgeschichte Revue passieren: deine bisherigen Versuche, deine Frustrationen, deine Hoffnungen. Diese Geschichte sagt mehr aus als jede Tabelle, weil sie die emotionale Landschaft zeigt, in der du dich bewegst.
 
-Die Ernährungsanamnese: Nach dem freien Erzählen stellst du gezielte Fragen. Der typische Esstag — von morgens bis abends, inklusive Getränken und Snacks. Essgewohnheiten — wann, wo, wie (in Ruhe oder nebenbei). Unverträglichkeiten und Allergien. Bisherige Diäterfahrungen — was hat funktioniert, was nicht, warum. Medikamenteneinnahme. Stresslevel und Schlafqualität. Bewegungsgewohnheiten. Und die entscheidende Frage: „Was ist dein Ziel — und warum?"
+Die Bestandsaufnahme: Schau dir deinen typischen Esstag an — von morgens bis abends, inklusive Getränken und Snacks. Deine Essgewohnheiten — wann, wo, wie (in Ruhe oder nebenbei). Bekannte Unverträglichkeiten. Deine bisherigen Erfahrungen — was hat funktioniert, was nicht, warum. Dein Stresslevel und deine Schlafqualität. Deine Bewegung. Und die entscheidende Frage an dich selbst: „Was ist mein Ziel — und warum?"
 
-Die Zielklärung: Viele Klienten kommen mit vagen Zielen — „gesünder essen", „abnehmen", „mehr Energie." Deine Aufgabe: Konkretisieren, ohne einzuengen. „Was genau bedeutet gesünder für dich?" „Wie viel möchtest du abnehmen — und in welchem Zeitrahmen?" „Woran würdest du merken, dass du mehr Energie hast?" Ein konkretes, messbares, realistisches Ziel ist die Grundlage für einen wirksamen Coaching-Prozess.
+Die Zielklärung: Oft sind die ersten Ziele vage — „gesünder essen", „mehr Energie". Werde für dich konkreter, ohne dich einzuengen: „Was genau bedeutet gesünder für mich?" „Woran würde ich merken, dass ich mehr Energie habe?" Ein konkretes, realistisches Ziel, das sich an deinem Wohlbefinden orientiert (nicht an der Waage), ist die Grundlage für einen tragfähigen Veränderungsweg.
 
-Die Erwartungsklärung: Was kann der Klient von dir erwarten — und was nicht? Du bist Coach, nicht Arzt. Du gibst keine medizinischen Diagnosen und keine Medikationsempfehlungen. Du arbeitest im Bereich der Gesundheitsförderung und Prävention. Und du erwartest aktive Mitarbeit — der Klient ist verantwortlich für seine Umsetzung, du unterstützt.
+Die Erwartungsklärung an dich selbst: Sei realistisch und geduldig mit dir. Dieser Kurs ist allgemeine Bildung zur Gesundheitsförderung, kein Ersatz für ärztliche oder diätetische Beratung. Bei gesundheitlichen Fragen bleibt die Fachstelle die richtige Adresse. Und: Veränderung braucht deine aktive Beteiligung — du gestaltest deinen Weg, in deinem Tempo.
 
-Der Abschluss des Erstgesprächs: Eine erste, kleine Empfehlung — der kleinste wirksame Schritt. Nicht zehn Veränderungen, sondern eine. „Bis zu unserem nächsten Treffen: Trinke jeden Morgen als Erstes ein Glas Wasser." Oder: „Versuche, diese Woche jeden Tag ein Stück Obst zum Nachmittagssnack zu essen." Klein genug, um sicher zu gelingen. Der Erfolg im ersten Schritt schafft Momentum für den nächsten.`,
+Der erste Schritt: Wähle eine einzige, kleine Veränderung — den kleinsten wirksamen Schritt. Nicht zehn Dinge, sondern eines. Zum Beispiel: „Diese Woche trinke ich jeden Morgen als Erstes ein Glas Wasser." Oder: „Ich esse jeden Tag ein Stück Obst zum Nachmittag." Klein genug, um sicher zu gelingen. Der Erfolg im ersten Schritt schafft Schwung für den nächsten.`,
           uebung: {
-            titel: 'Erstgespräch simulieren',
-            anleitung: `Simuliere ein Erstgespräch mit einem Übungspartner:
+            titel: 'Eigene Standortbestimmung machen',
+            anleitung: `Mach deine eigene Standortbestimmung — nimm dir dafür 20 ruhige Minuten:
 
-Der Partner spielt einen fiktiven Klienten:
-Mann, 48, Büroangestellter, 15 kg Übergewicht, isst viel Brot und Nudeln, trinkt wenig Wasser, abends Bier und Chips. Sagt: „Mein Arzt hat gesagt, ich muss abnehmen."
+1. Meine Ernährungsgeschichte: Was prägt mein Essen heute? (5 Min)
 
-Dein Ablauf (20 Min):
-1. Eröffnung — Wie begrüßt du ihn? (2 Min)
-2. Geschichte — Lass ihn erzählen. (5 Min)
-3. Anamnese — Stelle drei gezielte Fragen. (5 Min)
-4. Zielklärung — Konkretisiere sein Ziel. (3 Min)
-5. Empfehlung — Gib einen ersten kleinen Schritt. (3 Min)
-6. Abschluss — Wie verabschiedest du dich? (2 Min)
+2. Mein typischer Esstag: morgens bis abends, ehrlich aufgeschrieben. (5 Min)
 
-Feedback danach: Hat der Partner sich gehört gefühlt? War die Empfehlung realistisch? Was hat gut funktioniert?`,
+3. Mein Ziel — und mein Warum: Was möchte ich verändern, und warum ist mir das wichtig? (Orientiere dich am Wohlbefinden, nicht an der Waage.) (3 Min)
+
+4. Mein erster kleiner Schritt: Eine einzige Veränderung für diese Woche. (3 Min)
+
+5. Mein Rückblick: Was fällt mir beim Hinschauen auf? Was überrascht mich? (4 Min)
+
+Halte alles schriftlich fest — du kommst im Lauf des Kurses darauf zurück.`,
             dauer: '25 Min',
           },
         },
         {
           id: 'C04-M4-L2',
-          titel: 'Motivierende Gesprächsführung',
-          inhalt: `Motivierende Gesprächsführung — Motivational Interviewing — ist die wirksamste Gesprächstechnik für Verhaltensänderung und damit das Kernwerkzeug des Ernährungscoachings. Sie wurde ursprünglich für die Suchtbehandlung entwickelt und hat sich in der Ernährungsberatung als überlegene Methode erwiesen — wirksamer als Ratgeben, Belehren oder Konfrontieren.
+          titel: 'Der innere Dialog: dich selbst motivieren',
+          inhalt: `Motivierende Gesprächsführung — Motivational Interviewing — ist eine der wirksamsten Methoden für Verhaltensänderung. Das Schöne: Ihre Grundhaltung lässt sich auch im inneren Dialog mit dir selbst nutzen. Statt dich zu belehren oder unter Druck zu setzen, lädst du deine eigene Motivation freundlich hervor — das wirkt nachhaltiger als jeder strenge Vorsatz.
 
-Das Grundprinzip: Veränderung kommt von innen — nicht von außen. Deine Aufgabe ist es nicht, den Klienten zu überzeugen, dass er sich ändern muss — deine Aufgabe ist es, seine eigene Motivation für Veränderung zu wecken und zu stärken. Nicht du sagst ihm, warum er sich ändern soll — er entdeckt es selbst.
+Das Grundprinzip: Veränderung kommt von innen. Du musst dich nicht zwingen oder dir Vorwürfe machen — viel hilfreicher ist es, deine eigene, ehrliche Motivation zu wecken und zu stärken. Nicht ein strenges „Du musst!", sondern ein neugieriges „Warum möchte ich das eigentlich?"
 
-Die vier Kernprozesse: Engagieren — eine vertrauensvolle Beziehung aufbauen, echtes Interesse zeigen, den Klienten dort abholen, wo er steht. Fokussieren — gemeinsam eine Richtung finden, ohne sie aufzuzwingen. Evozieren — die eigene Motivation des Klienten hervorlocken durch geschicktes Fragen. Planen — konkrete Schritte vereinbaren, die vom Klienten kommen, nicht von dir.
+Die vier Kernprozesse — auf dich selbst angewendet: Ankommen — ehrlich und wohlwollend bei dir selbst sein, dich dort abholen, wo du stehst. Fokussieren — eine Richtung finden, ohne dich zu zwingen. Hervorlocken — deine eigene Motivation durch gute Fragen an dich selbst wecken. Planen — konkrete Schritte festlegen, die wirklich von dir kommen.
 
-Die Kernfähigkeiten: Offene Fragen stellen — „Was möchtest du an deiner Ernährung verändern?" statt „Isst du genug Gemüse?" Affirmation — die Stärken und bisherigen Erfolge des Klienten anerkennen: „Du hast schon einmal erfolgreich deine Ernährung umgestellt — das zeigt, dass du es kannst." Reflektives Zuhören — das Gehörte in eigenen Worten zurückgeben: „Wenn ich dich richtig verstehe, geht es dir nicht nur ums Abnehmen, sondern darum, dich wieder lebendig zu fühlen." Zusammenfassen — das Wesentliche des Gesprächs bündeln und dem Klienten spiegeln.
+Die Kernfähigkeiten im Selbstgespräch: Offene Fragen an dich — „Was möchte ich an meiner Ernährung verändern?" statt eines knappen Ja/Nein. Anerkennung — deine Stärken und bisherigen Erfolge würdigen: „Ich habe schon einmal etwas erfolgreich umgestellt — das zeigt, dass ich es kann." Ehrliches Hinhören — dir selbst zugestehen, was wirklich dahintersteckt: „Es geht mir nicht nur ums Essen, sondern darum, mich wieder lebendig zu fühlen." Bündeln — ab und zu innehalten und für dich zusammenfassen, wo du stehst.
 
-Der Change Talk — die Aussagen des Klienten, die auf Veränderungsmotivation hindeuten — ist dein Kompass: „Ich müsste eigentlich..." „Ich wünsche mir..." „Ich könnte mir vorstellen..." Wenn du Change Talk hörst, verstärke ihn: „Du hast gesagt, du wünschst dir mehr Energie — erzähl mir mehr darüber." Der Klient überzeugt sich selbst — du bist nur der Spiegel.
+Der „Change Talk" — deine eigenen Sätze, die auf Veränderungswunsch hindeuten — ist dein Kompass: „Ich müsste eigentlich..." „Ich wünsche mir..." „Ich könnte mir vorstellen..." Wenn du solche Gedanken bei dir bemerkst, geh ihnen nach: „Ich wünsche mir mehr Energie — was genau bedeutet das für mich?" So überzeugst du dich selbst — von innen heraus.
 
-Die häufigste Falle im Ernährungscoaching: Der Righting Reflex — der Impuls, sofort zu korrigieren, zu beraten, zu belehren. Der Klient sagt „Ich esse jeden Abend eine Tafel Schokolade" und du willst sofort sagen „Das ist zu viel Zucker." Stattdessen: „Wie ist das für dich?" „Was gibt dir die Schokolade abends?" „Wie fühlst du dich danach?" Der Klient findet selbst die Erkenntnis — und sie ist hundertmal wirksamer als dein Rat.`,
+Eine häufige Falle — auch bei sich selbst: der Reflex, sofort zu urteilen und zu schimpfen. Du denkst „Ich esse jeden Abend eine Tafel Schokolade" und sofort kommt „Das ist viel zu viel Zucker." Versuch es stattdessen mit Neugier: „Wie ist das für mich?" „Was gibt mir die Schokolade abends?" „Wie fühle ich mich danach?" Die Erkenntnis, die du selbst findest, wirkt hundertmal stärker als ein strenger Vorwurf.`,
           uebung: {
-            titel: 'Motivierende Fragen üben',
-            anleitung: `Formuliere für die folgenden Klienten-Aussagen je eine motivierende Frage (statt eines Ratschlags):
+            titel: 'Motivierende Fragen an dich selbst',
+            anleitung: `Wandle die folgenden typischen Gedanken in eine motivierende Frage an dich selbst um (statt eines Vorwurfs):
 
-1. Klient: „Ich weiß, ich sollte weniger Zucker essen, aber ich schaffe es nicht."
-Statt Ratschlag: Deine motivierende Frage: ___
+1. „Ich weiß, ich sollte weniger Zucker essen, aber ich schaffe es nicht."
+Meine motivierende Frage an mich: ___
 
-2. Klientin: „Ich habe keine Zeit, jeden Tag zu kochen."
-Deine motivierende Frage: ___
+2. „Ich habe keine Zeit, jeden Tag zu kochen."
+Meine motivierende Frage: ___
 
-3. Klient: „Meine Frau kocht immer ungesund, da kann ich nichts machen."
-Deine motivierende Frage: ___
+3. „Zu Hause wird oft ungesund gekocht, da kann ich nichts machen."
+Meine motivierende Frage: ___
 
-4. Klientin: „Gesundes Essen schmeckt einfach nicht."
-Deine motivierende Frage: ___
+4. „Gesundes Essen schmeckt mir einfach nicht."
+Meine motivierende Frage: ___
 
-5. Klient: „Ich habe schon zehn Diäten gemacht — nichts funktioniert."
-Deine motivierende Frage: ___
+5. „Ich habe schon so vieles probiert — nichts funktioniert."
+Meine motivierende Frage: ___
 
-Prüfe: Ist die Frage offen? Evoziert sie die eigene Motivation? Vermeidet sie den Righting Reflex?`,
+Prüfe: Ist die Frage offen? Weckt sie meine eigene Motivation? Vermeidet sie den vorschnellen Selbstvorwurf?`,
             dauer: '10 Min',
           },
         },
         {
           id: 'C04-M4-L3',
-          titel: 'Der Coaching-Prozess über mehrere Sitzungen',
-          inhalt: `Ein Ernährungscoaching-Prozess erstreckt sich typischerweise über acht bis zwölf Sitzungen über drei bis sechs Monate. Die Intervalle sind anfangs kürzer — wöchentlich oder zweiwöchentlich — und werden dann gestreckt, wenn die Gewohnheiten sich festigen und der Klient mehr Autonomie gewinnt.
+          titel: 'Dein Veränderungsweg über mehrere Wochen',
+          inhalt: `Ein eigener Veränderungsweg erstreckt sich sinnvollerweise über mehrere Monate — gib dir Zeit. Am Anfang lohnt es sich, häufiger innezuhalten und zu reflektieren (etwa wöchentlich), später in größeren Abständen, wenn die neuen Gewohnheiten sich festigen und sich selbstverständlicher anfühlen.
 
-Phase eins — Bestandsaufnahme und Zielklärung (Sitzung eins bis zwei): Ernährungsanamnese, Essverhalten verstehen, Ziel konkretisieren, erste kleine Schritte vereinbaren. Der Fokus liegt auf Verständnis und Beziehungsaufbau — nicht auf Veränderung.
+Phase eins — Bestandsaufnahme und Zielklärung (Woche eins bis zwei): Dein Essverhalten verstehen, dein Ziel konkretisieren, erste kleine Schritte festlegen. Der Fokus liegt auf Verständnis — noch nicht auf großer Veränderung.
 
-Phase zwei — Gewohnheitsaufbau (Sitzung drei bis sechs): Schrittweise Einführung neuer Gewohnheiten. Eine Gewohnheit pro Woche oder alle zwei Wochen. Fortschritte feiern, Hindernisse besprechen, Rückfälle normalisieren. Der Fokus liegt auf dem Tun — nicht auf dem Wissen. Wissen kommt dosiert, wenn es gebraucht wird.
+Phase zwei — Gewohnheitsaufbau (Woche drei bis sechs): Schrittweise neue Gewohnheiten einführen. Eine Gewohnheit pro Woche oder alle zwei Wochen. Fortschritte feiern, Hindernisse anschauen, Rückfälle als normal annehmen. Der Fokus liegt auf dem Tun — Wissen kommt nach und nach, wenn du es brauchst.
 
-Phase drei — Vertiefung und Individualisierung (Sitzung sieben bis neun): Die Grundgewohnheiten sitzen — jetzt wird vertieft. Individuelle Themen adressieren: emotionales Essen, soziale Herausforderungen, Stressmanagement, spezifische Gesundheitsziele. Die Arbeit wird persönlicher und geht tiefer.
+Phase drei — Vertiefung (Woche sieben bis neun): Die Grundgewohnheiten sitzen — jetzt darfst du vertiefen. Schau dir persönliche Themen an: emotionales Essen, soziale Situationen, Stress. Dein Weg wird persönlicher und geht tiefer.
 
-Phase vier — Autonomie und Abschluss (Sitzung zehn bis zwölf): Der Klient wird zum eigenen Coach. Du besprichst Strategien für Rückfallsituationen, verfestigst die Identitätsveränderung und ziehst Bilanz: Was hat sich verändert? Was funktioniert? Was braucht noch Aufmerksamkeit? Du vereinbarst den Abschluss — und bietest gegebenenfalls einen Check-in nach drei Monaten an.
+Phase vier — Festigung und Rückblick (Woche zehn bis zwölf): Du bist dein eigener Begleiter geworden. Lege dir Strategien für Rückfallsituationen zurecht, festige deine neue Identität und zieh Bilanz: Was hat sich verändert? Was funktioniert? Was braucht noch Aufmerksamkeit? Plane dir einen ehrlichen Check-in in drei Monaten ein.
 
-Die Zwischen-Sitzungs-Arbeit: Gib dem Klienten konkrete, machbare Aufgaben zwischen den Sitzungen. Ein Ernährungs-Tagebuch führen. Eine neue Zutat pro Woche ausprobieren. Einen Meal-Prep-Tag einführen. Die Hunger-Skala anwenden. Die Aufgaben müssen klein genug sein, um sicher zu gelingen — Erfolg erzeugt Motivation, nicht umgekehrt.
+Die Arbeit dazwischen: Gib dir konkrete, machbare kleine Aufgaben für die Zeit zwischen den Reflexionen. Ein Ernährungs-Tagebuch führen. Eine neue Zutat pro Woche ausprobieren. Einen Meal-Prep-Tag einführen. Die Hunger-Skala anwenden. Die Aufgaben sollten klein genug sein, um sicher zu gelingen — Erfolg erzeugt Motivation, nicht umgekehrt.
 
-Die Dokumentation: Führe für jeden Klienten eine Akte: Ausgangslage, Ziele, vereinbarte Schritte, Fortschritte, Rückfälle, Erkenntnisse. Diese Akte gibt dir den Überblick und ermöglicht eine individualisierte Begleitung über den gesamten Prozess.`,
+Dein Tagebuch: Halte deinen Weg schriftlich fest — Ausgangslage, Ziele, Schritte, Fortschritte, Rückfälle, Erkenntnisse. Das gibt dir den Überblick und macht deine Entwicklung über die Zeit sichtbar.`,
           uebung: {
-            titel: 'Coaching-Prozess planen',
-            anleitung: `Plane einen Achter-Prozess für eine fiktive Klientin:
+            titel: 'Deinen eigenen Weg planen',
+            anleitung: `Plane deinen eigenen Acht-Wochen-Weg. Geh von deiner Standortbestimmung aus und orientiere dich an deinem Wohlbefinden — nicht an Zahlen auf der Waage.
 
-Klientin: 35 Jahre, Mutter von zwei Kindern, Teilzeit-Bürojob, sagt: „Ich esse nur noch das, was die Kinder übrig lassen. Für mich selbst koche ich nie. Abends falle ich müde auf die Couch und esse Chips. Ich will mehr Energie und fünf Kilo weniger."
+Woche 1: Mein Thema und erster kleiner Schritt: ___
+Woche 2: ___
+Woche 3: ___
+Woche 4: ___
+Woche 5: ___
+Woche 6: ___
+Woche 7: ___
+Woche 8: Rückblick — was hat sich verändert?: ___
 
-Sitzung 1: Thema und erster Schritt: ___
-Sitzung 2: ___
-Sitzung 3: ___
-Sitzung 4: ___
-Sitzung 5: ___
-Sitzung 6: ___
-Sitzung 7: ___
-Sitzung 8: Abschluss — wie?: ___
-
-Zwischen jeder Sitzung: eine konkrete Aufgabe, die der Klientin Erfolg ermöglicht.`,
+Für jede Woche: eine konkrete kleine Aufgabe, die dir sicher gelingt und dir Erfolgserlebnisse schenkt.`,
             dauer: '15 Min',
           },
         },
@@ -479,22 +476,22 @@ Zwischen jeder Sitzung: eine konkrete Aufgabe, die der Klientin Erfolg ermöglic
     },
     {
       id: 'C04-M5',
-      titel: 'Spezialgebiete des Ernährungscoachings',
+      titel: 'Vertiefungsthemen für deine Ernährung',
       lektionen: [
         {
           id: 'C04-M5-L1',
           titel: 'Gewichtsmanagement — nachhaltig statt radikal',
-          inhalt: `Gewichtsmanagement ist das häufigste Anliegen im Ernährungscoaching — und gleichzeitig das am meisten mit Frustration, Scham und Misserfolg beladene. Die meisten Klienten haben bereits mehrere Diäten hinter sich, die kurzfristig funktioniert und langfristig versagt haben. Dein Ansatz muss sich fundamental von dem unterscheiden, was sie bisher erlebt haben.
+          inhalt: `Das Thema Gewicht ist für viele das emotionalste rund um Ernährung — oft beladen mit Frustration, Scham und Misserfolg. Vielleicht hast du selbst schon Diäten hinter dir, die kurzfristig funktioniert und langfristig versagt haben. Der Ansatz hier unterscheidet sich grundlegend davon — und ist deutlich freundlicher zu dir.
 
 Das Problem mit Diäten: Studien zeigen konsistent, dass Diäten — definiert als restriktive Ernährungspläne mit Kalorienlimits — langfristig in achtzig bis fünfundneunzig Prozent der Fälle scheitern. Nicht weil die Menschen schwach oder undiszipliniert sind, sondern weil der Körper biologisch gegen die Restriktion arbeitet: Der Stoffwechsel fährt herunter, der Hunger steigt, die Hormone rebellieren. Der Jojo-Effekt ist kein Versagen des Menschen — er ist der Erfolg der Biologie.
 
-Der Coaching-Ansatz: Statt Restriktion arbeitest du mit Addition. Nicht „Was muss ich weglassen?" sondern „Was füge ich hinzu?" Mehr Gemüse, mehr Protein, mehr Wasser, mehr Bewegung, mehr Schlaf, mehr bewusstes Essen. Wenn der Klient genug Gutes isst, verdrängt das automatisch einen Teil des Ungünstigen — ohne Verbote, ohne Hunger, ohne Kampf.
+Der freundliche Ansatz: Statt Restriktion arbeitest du mit Addition. Nicht „Was muss ich weglassen?" sondern „Was füge ich hinzu?" Mehr Gemüse, mehr Protein, mehr Wasser, mehr Bewegung, mehr Schlaf, mehr bewusstes Essen. Wenn du genug Gutes isst, verdrängt das ganz von selbst einen Teil des Ungünstigen — ohne Verbote, ohne Hunger, ohne Kampf.
 
-Die Bedeutung der Sättigungssignale: Viele übergewichtige Menschen haben den Kontakt zu ihren natürlichen Sättigungssignalen verloren — durch jahrelanges Diäthalten, durch Ablenkungsessen, durch Portionsgrößen, die von außen bestimmt werden statt vom Körper. Die Wiederentdeckung der Sättigung — langsam essen, Pausen machen, den Körper fragen „Reicht es?" — ist einer der nachhaltigsten Ansätze für Gewichtsregulation.
+Die Bedeutung der Sättigungssignale: Viele Menschen haben den Kontakt zu ihren natürlichen Sättigungssignalen verloren — durch jahrelanges Diäthalten, durch Ablenkungsessen, durch Portionsgrößen, die von außen bestimmt werden statt vom eigenen Körper. Die Wiederentdeckung der Sättigung — langsam essen, Pausen machen, den Körper fragen „Reicht es?" — ist einer der nachhaltigsten und sanftesten Ansätze.
 
 Die Reframing-Arbeit: Von der Waage zur Lebensqualität. Der Fokus verschiebt sich: Nicht „Wie viel wiege ich?" sondern „Wie fühle ich mich? Wie viel Energie habe ich? Wie gut schlafe ich? Wie beweglich bin ich? Wie gesund sind meine Blutwerte?" Gewichtsverlust ist ein mögliches Nebenprodukt einer gesünderen Lebensweise — nicht das Ziel, das alles bestimmt.
 
-Die Realität der Zeitrahmen: Nachhaltiger Gewichtsverlust geschieht langsam — ein halbes bis ein Kilogramm pro Woche ist ein gesundes Tempo. Schnellerer Verlust bedeutet fast immer Muskelmasse statt Fettmasse — und damit langfristig einen niedrigeren Stoffwechsel. Kommuniziere diese Realität ehrlich — und feiere die nicht-skalierenden Erfolge: Besserer Schlaf, mehr Energie, bessere Stimmung, lockere Hosen, normalisierte Blutwerte.`,
+Die Realität der Zeitrahmen: Falls sich dein Gewicht verändert, geschieht das nachhaltig nur langsam — ganz allmählich, in einem ruhigen Tempo. Schnelle Veränderungen gehen fast immer zu Lasten der Muskelmasse. Sei ehrlich und geduldig mit dir — und feiere vor allem die Erfolge jenseits der Waage: besserer Schlaf, mehr Energie, bessere Stimmung, mehr Wohlgefühl im eigenen Körper.`,
           uebung: {
             titel: 'Nicht-skalierender Erfolgs-Check',
             anleitung: `Erstelle eine Liste von Erfolgsmarkern, die nicht die Waage betreffen:
@@ -510,53 +507,53 @@ Selbstbild: Fühle ich mich wohler in meinem Körper? ___
 Kleidung: Sitzt meine Kleidung anders? ___
 Heißhunger: Habe ich weniger Heißhunger? ___
 
-Diese Liste kannst du jedem Klienten geben — als Ergänzung oder Ersatz für die Waage. Monatlich überprüfen und Veränderungen feiern.`,
+Diese Liste ist eine schöne Alternative zur Waage. Schau sie dir monatlich an und feiere deine Veränderungen.`,
             dauer: '10 Min',
           },
         },
         {
           id: 'C04-M5-L2',
-          titel: 'Ernährungscoaching für verschiedene Lebensphasen',
-          inhalt: `Ernährungsbedürfnisse verändern sich mit den Lebensphasen — was für eine dreißigjährige Sportlerin optimal ist, kann für eine sechzigjährige mit Gelenkproblemen ungeeignet sein. Als ganzheitlicher Ernährungscoach passt du deine Empfehlungen an die spezifische Lebensphase deines Klienten an.
+          titel: 'Ernährung in verschiedenen Lebensphasen',
+          inhalt: `Ernährungsbedürfnisse verändern sich mit den Lebensphasen — was mit dreißig passt, kann mit sechzig ganz anders aussehen. Es lohnt sich, die eigene Ernährung immer wieder an die aktuelle Lebensphase anzupassen. Die folgenden Punkte sind allgemeine Orientierung — bei gesundheitlichen Fragen ist die ärztliche oder diätetische Beratung die richtige Adresse.
 
 Junge Erwachsene stehen oft am Anfang ihrer Ernährungsautonomie — zum ersten Mal kochen sie für sich selbst, zum ersten Mal bestimmen sie selbst, was auf den Teller kommt. Typische Themen: Kochen lernen, Budget-freundliche gesunde Ernährung, Meal Prep für die Arbeitswoche, Umgang mit sozialem Druck und der Ernährungskultur der Peer Group.
 
 Eltern mit kleinen Kindern kämpfen mit Zeitmangel, Familienessen-Logistik und dem Spannungsfeld zwischen kindgerechter und gesunder Ernährung. Typische Themen: Schnelle, gesunde Familiengerichte, Kinder ans Gemüse gewöhnen, die eigene Ernährung nicht dem Kinderschema zu opfern, und die Erkenntnis, dass Ernährungserziehung durch Vorbild funktioniert — nicht durch Zwang.
 
-Die Lebensmitte bringt hormonelle Veränderungen, verlangsamten Stoffwechsel und oft die erste ernsthafte Konfrontation mit gesundheitlichen Konsequenzen langjähriger Ernährungsgewohnheiten. Typische Themen: Gewichtsmanagement bei sinkendem Stoffwechsel, Hormonsupport durch Ernährung, Prävention von Herz-Kreislauf-Erkrankungen und Diabetes, und die Sinnfrage — „Ich will nicht nur abnehmen, ich will mich lebendig fühlen."
+Die Lebensmitte bringt oft hormonelle Veränderungen und einen ruhigeren Stoffwechsel mit sich. Typische Themen: ein bewusster Umgang mit dem Essen bei verändertem Energiebedarf, eine ausgewogene, gemüse- und proteinreiche Kost, und die Sinnfrage — „Ich will mich vor allem wieder lebendig fühlen." Bei konkreten gesundheitlichen Anliegen ist die ärztliche Begleitung wichtig.
 
-Die Wechseljahre bei Frauen bringen spezifische Ernährungsthemen: Calciumversorgung für die Knochen, Phytoöstrogene aus Soja und Leinsamen, entzündungshemmende Ernährung gegen Gelenkbeschwerden, und die Akzeptanz, dass der Körper sich verändert — mit Würde, nicht mit Kampf.
+Die Wechseljahre bringen eigene Ernährungsthemen mit sich: eine gute Calciumversorgung für die Knochen, pflanzliche Lebensmittel wie Soja und Leinsamen, eine gemüsereiche, ausgewogene Kost, und vor allem die liebevolle Akzeptanz, dass der Körper sich verändert — mit Würde, nicht mit Kampf.
 
 Das höhere Alter bringt veränderte Nährstoffbedürfnisse: mehr Protein für den Muskelerhalt, mehr Vitamin D und B12, ausreichend Flüssigkeit bei nachlassendem Durstgefühl, leicht verdauliche Kost bei schwächerer Verdauung, und die soziale Dimension — Kochen für eine Person, Essen allein, der Verlust gemeinsamer Mahlzeiten.`,
           uebung: {
             titel: 'Lebensphasen-Empfehlung',
-            anleitung: `Erstelle eine Top-3-Ernährungsempfehlung für drei verschiedene Lebensphasen:
+            anleitung: `Überlege dir je drei alltagstaugliche Ernährungs-Ideen für verschiedene Lebensphasen — beginne mit deiner eigenen aktuellen Phase:
 
-Phase: Junger Erwachsener, Berufseinsteiger
+Meine aktuelle Lebensphase:
 1. ___
 2. ___
 3. ___
 
-Phase: Mutter mit Kleinkind, wenig Zeit
+Eine frühere oder kommende Phase, die mich interessiert:
 1. ___
 2. ___
 3. ___
 
-Phase: Mann, 60+, Vordiabetes, alleinlebend
+Eine Phase eines Menschen, der mir nahesteht (zum besseren Verständnis):
 1. ___
 2. ___
 3. ___
 
-Für jede Empfehlung: Ist sie realistisch für die Lebenssituation? Ist sie spezifisch genug? Ist sie der kleinste wirksame Schritt?`,
+Für jede Idee: Ist sie realistisch für die Lebenssituation? Ist sie konkret genug? Ist es der kleinste wirksame Schritt?`,
             dauer: '10 Min',
           },
         },
         {
           id: 'C04-M5-L3',
           titel: 'Meal Prep und Alltagsstrategien',
-          inhalt: `Die beste Ernährungsstrategie scheitert, wenn sie im Alltag nicht umsetzbar ist. Deine Aufgabe als Coach ist es, den Klienten nicht mit Idealernährung zu überfordern, sondern mit ihm alltagstaugliche Strategien zu entwickeln, die in sein reales Leben passen — mit seinen Zeitbeschränkungen, seinem Budget, seinen Kochfähigkeiten und seinen Vorlieben.
+          inhalt: `Die beste Ernährungsstrategie nützt nichts, wenn sie im Alltag nicht umsetzbar ist. Überfordere dich also nicht mit Idealernährung, sondern entwickle alltagstaugliche Strategien, die in dein reales Leben passen — mit deinen Zeitfenstern, deinem Budget, deinen Kochfähigkeiten und deinen Vorlieben.
 
-Meal Prep — die Vorbereitung von Mahlzeiten im Voraus — ist eine der wirkungsvollsten Alltagsstrategien. Das Prinzip: Ein bis zwei Mal pro Woche kochst du größere Mengen vor und portionierst sie für die kommenden Tage. An den Arbeitstagen greifst du ins Fertige — statt in die Fertigpizza. Meal Prep spart unter der Woche Zeit, reduziert Stress-Entscheidungen und macht gesundes Essen zum Weg des geringsten Widerstands.
+Meal Prep — die Vorbereitung von Mahlzeiten im Voraus — ist eine der wirkungsvollsten Alltagsstrategien. Das Prinzip: Ein bis zwei Mal pro Woche kochst du größere Mengen vor und portionierst sie für die kommenden Tage. An den Arbeitstagen greifst du ins Vorbereitete — statt in die Fertigpizza. Das spart unter der Woche Zeit, nimmt Stress aus den Essensentscheidungen und macht gesundes Essen zum Weg des geringsten Widerstands.
 
 Der Batch-Cooking-Ansatz: Am Sonntag kochst du drei Basiskomponenten: ein Getreide (Reis, Quinoa, Hirse), eine Proteinquelle (Hülsenfrüchte, Hähnchen, Tofu) und geröstetes Gemüse. Aus diesen drei Komponenten kombinierst du unter der Woche verschiedene Mahlzeiten — mit wechselnden Saucen, Toppings und Beilagen. Montag: Bowl. Dienstag: Wrap. Mittwoch: Salat. Donnerstag: Suppe. Freitag: frisch kochen als Belohnung.
 
@@ -567,7 +564,7 @@ Die Einkaufsstrategie: Einmal pro Woche einkaufen — mit Liste, nicht spontan. 
 Die Notfall-Box: Gesunde Optionen für den Notfall — immer verfügbar. Nüsse, Trockenfrüchte, Vollkorncracker, Dosenthunfisch, Nussmus, tiefgefrorenes Gemüse. Diese Notfall-Box verhindert den Griff zur Pizza, wenn der Kühlschrank leer ist und der Hunger groß.`,
           uebung: {
             titel: 'Wochenplan erstellen',
-            anleitung: `Erstelle einen realistischen Wochenplan für einen berufstätigen Klienten:
+            anleitung: `Erstelle einen realistischen Wochenplan für deine eigene Woche:
 
 Sonntag (Meal Prep, 90 Min):
 Was koche ich vor? ___
@@ -590,7 +587,7 @@ ___
 
 Zeitaufwand pro Tag (außer Sonntag): maximal ___ Minuten
 
-Teste den Plan selbst eine Woche lang — ist er realistisch? Was funktioniert? Was muss angepasst werden?`,
+Teste den Plan eine Woche lang — ist er realistisch? Was funktioniert? Was musst du anpassen?`,
             dauer: '15 Min',
           },
         },
@@ -598,47 +595,44 @@ Teste den Plan selbst eine Woche lang — ist er realistisch? Was funktioniert? 
     },
     {
       id: 'C04-M6',
-      titel: 'Praxisaufbau und Professionalisierung',
+      titel: 'Vertiefung und dein eigener Weg',
       lektionen: [
         {
           id: 'C04-M6-L1',
-          titel: 'Ernährungscoaching positionieren',
-          inhalt: `Ernährungscoaching ist ein wachsender Markt — und gleichzeitig ein überfüllter. Die Positionierung entscheidet, ob du wahrgenommen wirst oder in der Masse untergehst. Dein Vorteil als holistische Beraterin: Du bietest nicht nur Ernährungswissen — du bietest Veränderungsbegleitung auf allen Ebenen.
+          titel: 'Ernährung als Teil eines ganzheitlichen Lebensstils',
+          inhalt: `Ernährung ist nur ein Teil eines gesunden, erfüllten Lebens — und entfaltet ihre Kraft erst im Zusammenspiel mit den anderen Bereichen. Dein Vorteil, wenn du ganzheitlich auf dich schaust: Du betrachtest nicht nur den Teller, sondern dein ganzes Leben.
 
-Deine Nische definieren: „Ernährungscoach" ist zu allgemein. „Ganzheitlicher Ernährungscoach für berufstätige Mütter, die zwischen Familienlogistik und Karriere ihre eigene Gesundheit wiederfinden wollen" ist eine Nische. „Ernährungscoach für Frauen in den Wechseljahren mit Fokus auf Hormonbalance durch Ernährung" ist eine Nische. Die Nische schränkt nicht ein — sie macht dich findbar und unverwechselbar.
+Deinen eigenen Schwerpunkt finden: „Gesünder essen" ist sehr allgemein. Konkreter wird es, wenn du auf deine Lebenssituation schaust — etwa „eine alltagstaugliche Ernährung zwischen Familie und Beruf" oder „eine ausgewogene Ernährung, die mir in meiner aktuellen Lebensphase guttut". Ein klarer eigener Schwerpunkt macht es leichter, dranzubleiben.
 
-Dein holistischer Ansatz als Alleinstellungsmerkmal: Du arbeitest nicht nur mit dem Teller — du arbeitest mit dem ganzen Menschen. Emotionales Essen, Stressmanagement, Schlafqualität, Körperbild, Lebenssinn — all das fließt in dein Coaching ein. Dieser ganzheitliche Ansatz unterscheidet dich von reinen Ernährungsberatern und Diätpläne-Anbietern.
+Dein ganzheitlicher Blick: Es geht nicht nur um den Teller, sondern um dich als ganzen Menschen. Emotionales Essen, Stress, Schlafqualität, Körperbild, Lebenssinn — all das hängt mit deiner Ernährung zusammen. Dieser ganzheitliche Blick bringt dir mehr als jeder isolierte Diätplan.
 
-Die Integration in dein Gesamtangebot: Ernährungscoaching kann ein eigenständiges Angebot sein oder Teil deines holistischen Pakets. Viele Klienten kommen wegen eines anderen Themas — Stress, Erschöpfung, emotionale Blockaden — und die Ernährung zeigt sich als relevanter Faktor. Die Fähigkeit, nahtlos zwischen Coaching, Energiearbeit und Ernährungsberatung zu wechseln, macht dich besonders wertvoll.
+Die Verbindung zu anderen Lebensbereichen: Oft beginnt es mit einem ganz anderen Thema — Stress, Erschöpfung, innere Unruhe — und die Ernährung zeigt sich als ein wichtiger Faktor darin. Wenn du Ernährung, Bewegung, Ruhe und innere Themen zusammen denkst, entsteht ein rundes Bild deines Wohlbefindens.
 
-Dein Format: Einzelcoaching als Kern — acht bis zwölf Sitzungen als Paket. Ergänzend: Gruppenangebote — Kochkurse, Ernährungs-Workshops, gemeinsames Meal Prep. Online-Formate — Videocoaching, E-Mail-Begleitung, eine App oder Gruppe für die Zwischen-Sitzungs-Unterstützung. Und Selbsthilfe-Materialien — Rezepte, Einkaufslisten, Wochenpläne — die du deinen Klienten mitgibst.
+Hilfreiche Strukturen für dich: ein eigener Wochen-Rhythmus mit festen Reflexionsmomenten. Austausch mit anderen — gemeinsames Kochen, ein Koch- oder Ernährungs-Workshop, eine Gruppe Gleichgesinnter. Und eigene Hilfsmittel — Rezeptsammlung, Einkaufslisten, Wochenpläne —, die dir den Alltag erleichtern.
 
-Die rechtliche Abgrenzung: Informiere dich über die rechtlichen Rahmenbedingungen in deinem Land. In Deutschland ist die Bezeichnung „Ernährungsberater" nicht geschützt — jeder darf sich so nennen. Die Bezeichnung „Diätassistent" und „Ökotrophologe" ist dagegen geschützt. Als Coach arbeitest du im Bereich der Gesundheitsförderung und Prävention — nicht in der medizinischen Ernährungstherapie. Kommuniziere diese Abgrenzung klar gegenüber deinen Klienten.`,
+Eine wichtige Einordnung: Dieser Kurs vermittelt allgemeines Ernährungswissen für die eigene Lebensgestaltung. Er ist keine Ernährungstherapie und ersetzt keine medizinische oder diätetische Beratung. Bei gesundheitlichen Fragen oder bei einem belastenden Verhältnis zum Essen ist die ärztliche, diätetische oder psychotherapeutische Fachstelle die richtige Adresse — diese Grenze schützt dich und deine Gesundheit.`,
           uebung: {
-            titel: 'Angebots-Konzept erstellen',
-            anleitung: `Erstelle dein Ernährungscoaching-Angebot:
+            titel: 'Mein ganzheitliches Ernährungs-Bild',
+            anleitung: `Entwirf dein eigenes ganzheitliches Ernährungs-Bild:
 
-Meine Nische: ___
+Mein Schwerpunkt für die nächste Zeit: ___
 
-Mein Alleinstellungsmerkmal: ___
+Was mir an meiner Ernährung besonders wichtig ist: ___
 
-Mein Kernangebot:
-Format: ___
-Anzahl Sitzungen: ___
-Preis: ___
-Inklusive: ___
+Mein eigener Rhythmus:
+Feste Reflexionsmomente (z. B. wöchentlich): ___
+Mein Meal-Prep-Tag: ___
 
-Mein Ergänzungsangebot:
-___
+Meine Verbindung zu anderen Lebensbereichen (Bewegung, Schlaf, Ruhe): ___
 
-Meine Materialien für Klienten:
+Meine hilfreichen Hilfsmittel:
 □ Rezeptsammlung
 □ Einkaufslisten
 □ Wochenplan-Vorlage
 □ Ernährungs-Tagebuch
 □ Sonstiges: ___
 
-Mein erster Schritt zur Umsetzung: ___
+Mein erster Schritt: ___
 Mein Starttermin: ___`,
             dauer: '15 Min',
           },
@@ -646,15 +640,15 @@ Mein Starttermin: ___`,
         {
           id: 'C04-M6-L2',
           titel: 'Eigene Ernährung als Fundament',
-          inhalt: `Die überzeugendste Werbung für dein Ernährungscoaching bist du selbst — deine Vitalität, deine Energie, dein Strahlen. Ein Ernährungscoach, der selbst ungesund isst, chronisch müde ist und Energieeinbrüche hat, ist so überzeugend wie ein Fitnesstrainer, der nicht Sport treibt. Deine eigene Ernährung ist nicht nur deine Gesundheitsgrundlage — sie ist dein professionelles Aushängeschild.
+          inhalt: `Das Fundament für alles ist deine eigene gelebte Ernährung — deine Vitalität, deine Energie, dein Wohlbefinden. Theoretisches Wissen allein verändert wenig; spürbar wird es erst, wenn du es lebst. Deine eigene Ernährung ist die Grundlage, auf der alles andere aufbaut.
 
-Das bedeutet nicht Perfektion. Es bedeutet Authentizität und Prozess. Du musst nicht jeden Tag perfekt essen — aber du musst bewusst essen und deine eigenen Prinzipien leben. Ein Coach, der offen sagt „Ich habe auch manchmal Heißhunger auf Schokolade, und so gehe ich damit um" ist authentischer und hilfreicher als einer, der behauptet, nie Lust auf Ungesundes zu haben.
+Das bedeutet nicht Perfektion. Es bedeutet Ehrlichkeit und Prozess. Du musst nicht jeden Tag perfekt essen — aber bewusst, und im Einklang mit deinen eigenen Prinzipien. „Ich habe auch manchmal Heißhunger auf Schokolade, und so gehe ich damit um" ist eine viel gesündere Haltung als der Anspruch, nie Lust auf Ungesundes zu haben.
 
-Deine eigene Ernährungs-Praxis: Wende alles an dir selbst an, was du Klienten empfiehlst. Führe dein eigenes Ernährungs-Tagebuch. Praktiziere Meal Prep. Experimentiere mit neuen Lebensmitteln und Rezepten. Beobachte deine eigenen Trigger und Muster. Diese Erfahrung ist dein wertvollstes Lehrmaterial — weil du aus eigener Erfahrung weißt, was funktioniert und was nicht, wo die Stolpersteine liegen und wie sich nachhaltige Veränderung anfühlt.
+Deine eigene Ernährungs-Praxis: Wende alles, was du in diesem Kurs lernst, zuerst an dir selbst an. Führe dein eigenes Ernährungs-Tagebuch. Praktiziere Meal Prep. Experimentiere mit neuen Lebensmitteln und Rezepten. Beobachte deine eigenen Trigger und Muster. Diese eigene Erfahrung ist dein wertvollster Lernstoff — weil du am eigenen Leib spürst, was funktioniert, wo die Stolpersteine liegen und wie sich nachhaltige Veränderung anfühlt.
 
-Die Koch-Kompetenz: Du musst kein Sternekoch sein — aber du solltest in der Lage sein, einfache, schmackhafte, gesunde Mahlzeiten zuzubereiten und das auch Klienten beizubringen, die nicht kochen können. Investiere in deine Koch-Fähigkeiten — nicht als Hobby, sondern als professionelle Kompetenz.
+Die Koch-Kompetenz: Du musst kein Sternekoch sein — aber es lohnt sich, einfache, schmackhafte, gesunde Mahlzeiten zubereiten zu können. Investiere ein wenig in deine Koch-Fähigkeiten — es ist eine der praktischsten Grundlagen für eine gute eigene Ernährung.
 
-Die eigene Weiterbildung: Die Ernährungswissenschaft entwickelt sich ständig. Bleibe auf dem aktuellen Stand — lies Studien, besuche Fortbildungen, folge evidenzbasierten Quellen. Sei kritisch gegenüber Trends und Hypes — und gleichzeitig offen für neue Erkenntnisse, die dein Wissen erweitern.`,
+Neugierig bleiben: Die Ernährungswissenschaft entwickelt sich ständig weiter. Bleib interessiert — lies fundierte Quellen, sei kritisch gegenüber Trends und Hypes und gleichzeitig offen für neue, gut belegte Erkenntnisse, die dein Bild erweitern.`,
           uebung: {
             titel: 'Eigene Ernährungs-Bilanz',
             anleitung: `Ziehe eine ehrliche Bilanz deiner eigenen Ernährung:
@@ -668,31 +662,31 @@ Was könnte besser sein? (Die zwei wichtigsten Punkte)
 1. ___
 2. ___
 
-Was empfehle ich Klienten, aber tue selbst nicht konsequent?
+Was weiß ich eigentlich besser, tue es aber selbst noch nicht konsequent?
 ___
 
-Mein Ernährungs-Commitment als Coach:
-„Ich verpflichte mich, ___"
+Mein Ernährungs-Commitment an mich selbst:
+„Ich nehme mir vor, ___"
 
 Einen konkreten Schritt, den ich diese Woche umsetze:
 ___
 
-Deine Glaubwürdigkeit beginnt auf deinem eigenen Teller.`,
+Deine Veränderung beginnt auf deinem eigenen Teller.`,
             dauer: '10 Min',
           },
         },
         {
           id: 'C04-M6-L3',
-          titel: 'Dein Weg als Ernährungscoach',
-          inhalt: `Du hast die Grundlagen des ganzheitlichen Ernährungscoachings gelernt — die Psychologie des Essverhaltens, die Wissenschaft der Gewohnheitsänderung, die Grundprinzipien gesunder Ernährung, die motivierende Gesprächsführung, die Arbeit mit emotionalem Essen und die Strategien für den Alltag. Du hast ein Werkzeug in der Hand, das einen der grundlegendsten Aspekte des Menschseins adressiert — wie wir uns nähren.
+          titel: 'Dein eigener Weg mit der Ernährung',
+          inhalt: `Du hast die Grundlagen einer bewussten Ernährung kennengelernt — die Psychologie des Essverhaltens, die Wissenschaft der Gewohnheitsänderung, die Grundprinzipien gesunder Ernährung, den motivierenden inneren Dialog, den Umgang mit emotionalem Essen und alltagstaugliche Strategien. Du hast damit einen der grundlegendsten Aspekte des Menschseins in der Hand — wie du dich nährst.
 
-Das Wichtigste, was du mitnimmst: Ernährungscoaching ist nicht Wissensvermittlung — es ist Veränderungsbegleitung. Die Menschen, die zu dir kommen, brauchen keinen weiteren Ernährungsplan — sie brauchen jemanden, der sie auf dem Weg der Veränderung begleitet. Jemanden, der versteht, warum sie essen, wie sie essen. Jemanden, der die kleinen Schritte feiert und die Rückfälle normalisiert. Jemanden, der an sie glaubt, auch wenn sie nicht an sich selbst glauben.
+Das Wichtigste, was du mitnimmst: Nachhaltige Ernährung ist nicht eine Frage des Wissens — sie ist ein Weg der Veränderung. Du brauchst keinen weiteren strengen Ernährungsplan — du brauchst Verständnis für dich selbst: warum du isst, wie du isst. Eine Haltung, die die kleinen Schritte feiert und Rückfälle als normal annimmt. Und das Vertrauen in dich, auch an den Tagen, an denen es schwerfällt.
 
-Die Integration in deine holistische Praxis: Ernährung ist kein isoliertes Thema — sie durchdringt alles. Energie, Stimmung, Schlaf, Immunsystem, Hautbild, Gewicht, chronische Beschwerden — bei all diesen Themen spielt Ernährung eine Rolle. Als ganzheitliche Beraterin, die sowohl energetisch als auch ernährungsbezogen arbeiten kann, bietest du eine Tiefe und Breite, die reine Ernährungsberater nicht haben.
+Ernährung als Teil des Ganzen: Ernährung ist kein isoliertes Thema — sie durchdringt vieles. Energie, Stimmung, Schlaf, allgemeines Wohlbefinden — bei all dem spielt Ernährung eine Rolle. Wenn du Ernährung im Zusammenhang mit deinem ganzen Lebensstil betrachtest, entsteht ein tieferes, stimmigeres Bild deiner Gesundheit.
 
-Dein nächster Schritt: Wende das Gelernte an — bei dir selbst und bei deinen ersten Klienten. Jede Erfahrung lehrt dich etwas, das kein Kurs vermitteln kann: den Umgang mit dem echten Menschen, mit seinen echten Herausforderungen, in seinem echten Leben. Dokumentiere deine Erfahrungen, reflektiere deine Arbeit und wachse mit jedem Klienten.
+Dein nächster Schritt: Wende das Gelernte bei dir selbst an. Jede Erfahrung lehrt dich etwas, das kein Kurs vermitteln kann: den Umgang mit deinen echten Herausforderungen, in deinem echten Leben. Halte deine Erfahrungen fest, reflektiere immer wieder und wachse mit jeder Woche.
 
-Ernährung ist ein Akt der Liebe — zum eigenen Körper, zur eigenen Gesundheit, zum eigenen Leben. Als Ernährungscoach hilfst du Menschen, diese Liebe wiederzuentdecken — eine Mahlzeit, eine Gewohnheit, einen bewussten Bissen nach dem anderen.
+Ernährung ist ein Akt der Liebe — zum eigenen Körper, zur eigenen Gesundheit, zum eigenen Leben. In diesem Kurs hast du begonnen, diese Liebe (wieder) zu entdecken — eine Mahlzeit, eine Gewohnheit, einen bewussten Bissen nach dem anderen.
 
 Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
           uebung: {
@@ -701,14 +695,14 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
 
 1. Was war die wichtigste Erkenntnis dieses Kurses für dich? ___
 
-2. Welche Coaching-Technik hat dich am meisten überzeugt? ___
+2. Welche Technik oder Idee hat dich am meisten überzeugt? ___
 
 3. Was hat sich an deiner eigenen Ernährung seit Kursbeginn verändert? ___
 
-4. Für welche drei Klienten-Anliegen fühlst du dich jetzt kompetent? ___
+4. In welchen drei Bereichen deiner Ernährung fühlst du dich jetzt sicherer? ___
 
-5. Was ist dein persönliches Commitment als Ernährungscoach?
-   „Ich verpflichte mich, ___"
+5. Was ist dein persönliches Commitment an dich selbst?
+   „Ich nehme mir vor, ___"
 
 Bewahre diese Reflexion auf und lies sie in drei Monaten.
 

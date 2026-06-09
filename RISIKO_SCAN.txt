@@ -1,0 +1,207 @@
+# RISIKO-SCAN — 71 Kurse — 2026-06-06
+
+Score = HEAVY×5 + MED×2 + DRITTE×4 - DISCLAIMER×4 (LIGHT/Eso-Vokabular NICHT gezaehlt)
+Schwellen: >=30 rot dringend | 12-29 gelb pruefen | <12 gruen | OFFLINE/FEHLT separat
+
+ZUSAMMENFASSUNG: 60 live (rot 52 / gelb 4 / gruen 4) | offline/fehlt 11
+
+[COMING] P22.js   Score 1486 | Traumatherapie energetisch
+[COMING] B02.js   Score  859 | META-Healing Level 2
+[COMING] B01.js   Score  821 | META-Healing Level 1
+[COMING] P07.js   Score  801 | Hypnose & Hypnotherapie
+[COMING] P23.js   Score  752 | Somatic Experiencing — Körperorientierte Traumaarbeit
+[COMING] C07.js   Score  626 | Psychoenergetik — Die Sven Donath Methode
+ROT  C01.js   Score  592 | Lifecoach — Grundausbildung
+     HEAVY: diagnose×1, therapie×7, therapeut×8, heilen×1, depression×1, trauma×3, dissoziat×1, suizid×2
+     DRITTE: dein klient×6, den klienten×21, sitzung mit×1, der klient×35
+     (Disclaimer-Kontext: 1× erkannt)
+[COMING] N02.js   Score  558 | Heilpflanzen-Lexikon
+ROT  S15.js   Score  530 | Träume & Schamanisches Träumen
+     HEAVY: heilung×15, heilt×3, diagnose×3, therapie×2, therapeut×13, heilen×3, trauma×41
+     DRITTE: den klienten×7, der klient×6
+     (Disclaimer-Kontext: 1× erkannt)
+[FEHLT] G08.js   Score  508 | Klangheilung & Frequenzarbeit
+[COMING] B08.js   Score  473 | Theta-Healing
+ROT  C10.js   Score  430 | Epigenetik Coach
+     HEAVY: heilung×7, heilt×1, heilwirkung×1, heilkunde×1, diagnose×2, krankheit×17, therapie×1, therapeut×1, heilen×4, krebs×4, depression×6, trauma×17
+     DRITTE: den klienten×2, der klient×6
+     (Disclaimer-Kontext: 2× erkannt)
+ROT  K04.js   Score  415 | Akupressur
+     HEAVY: heilung×2, heilt×2, diagnose×5, krankheit×3, therapie×2, therapeut×9, heilen×1, fiebersenk×1, krebs×1, depression×1
+     DRITTE: den klienten×4, behandle×1, sitzung mit×1, der klient×4
+     (Disclaimer-Kontext: 4× erkannt)
+ROT  P01.js   Score  388 | EFT — Emotional Freedom Techniques
+     HEAVY: heilung×3, diagnose×1, krankheit×1, therapie×3, therapeut×5, heilen×1, depression×1, trauma×39, dissoziat×3, suizid×1
+     DRITTE: dein klient×1, den klienten×5, der klient×3
+     (Disclaimer-Kontext: 3× erkannt)
+ROT  C03.js   Score  370 | Spiritueller Coach
+     HEAVY: heilung×1, heilt×1, heilmittel×1, heilkunde×2, diagnose×1, therapie×4, therapeut×6, depression×2, trauma×3, dissoziat×1, suizid×2
+     DRITTE: den klienten×10, sitzung mit×1, der klient×12
+ROT  F02.js   Score  370 | Familienaufstellungen energetisch
+     HEAVY: heilung×5, krankheit×1, therapie×6, therapeut×4, heilen×1, trauma×10, dissoziat×1, suizid×2
+     DRITTE: den klienten×5, der klient×16
+ROT  P06.js   Score  366 | NLP — Neurolinguistisches Programmieren
+     HEAVY: heilung×3, therapie×8, therapeut×8, depression×1, trauma×8, dissoziat×1, suizid×1
+     DRITTE: dein klient×1, den klienten×8, der klient×16
+ROT  F04.js   Score  334 | Psychogenealogie & Familienerbe
+     HEAVY: heilung×1, heilt×2, diagnose×1, krankheit×3, therapie×3, therapeut×7, krebs×1, depression×1, trauma×16, suizid×3
+     DRITTE: den klienten×3, der klient×10
+     (Disclaimer-Kontext: 1× erkannt)
+[COMING] G07.js   Score  307 | Ka-Huna Heilweisen
+ROT  P04.js   Score  306 | Arbeit mit dem Inneren Kind
+     HEAVY: heilung×14, heilt×6, heilmittel×1, therapie×4, therapeut×3, heilen×3, depression×1, trauma×9, dissoziat×3, suizid×2
+     DRITTE: den klienten×1, der klient×5
+     (Disclaimer-Kontext: 1× erkannt)
+ROT  B14.js   Score  295 | Zellenergie & innere Resilienz — Bewusstsein, Körper & Lebensstil
+     HEAVY: heilung×5, heilt×1, heilwirkung×1, krankheit×22, therapie×1, therapeut×2, heilen×3
+     DRITTE: den klienten×5, der klient×4
+     (Disclaimer-Kontext: 2× erkannt)
+ROT  E01.js   Score  287 | Einführung Energiearbeit
+     HEAVY: heilung×14, diagnose×5, krankheit×1, therapeut×1, heilen×6, trauma×2
+     DRITTE: den klienten×5, sitzung mit×2, der klient×9
+     (Disclaimer-Kontext: 3× erkannt)
+[COMING] K02.js   Score  273 | Organsprache — Der Körper als Spiegel der Seele
+ROT  Z03.js   Score  273 | Digitale Praxis aufbauen
+     HEAVY: therapeut×1
+     DRITTE: dein klient×1, den klienten×7, sitzung mit×1, der klient×11
+ROT  N08.js   Score  268 | Das Denkmodell der TCM verstehen
+     HEAVY: heilung×3, heilwirkung×2, heilkunde×10, diagnose×16, krankheit×5, therapie×6, therapeut×2
+     (Disclaimer-Kontext: 5× erkannt)
+ROT  P18.js   Score  262 | Stressauflösung & Nervensystem-Regulation
+     HEAVY: heilung×1, krankheit×2, therapie×4, therapeut×7, heilen×1, depression×8, trauma×12, dissoziat×6, suizid×1
+     DRITTE: der klient×2
+ROT  C04.js   Score  248 | Ernährungscoach
+     HEAVY: heilt×1, diagnose×1, krankheit×1, therapie×1, therapeut×1, heilen×1, krebs×1, depression×1
+     DRITTE: den klienten×7, der klient×11
+     (Disclaimer-Kontext: 1× erkannt)
+ROT  T02.js   Score  248 | Tierkommunikation — Vertiefung
+     HEAVY: heilung×14, diagnose×1, krankheit×6, heilen×5, krebs×1, trauma×20, dissoziat×1
+     (Disclaimer-Kontext: 2× erkannt)
+ROT  C06.js   Score  235 | Business-Energetik & Geldblockaden
+     HEAVY: heilung×1, therapie×2, therapeut×3, heilen×3
+     DRITTE: dein klient×1, den klienten×1, der klient×4
+ROT  N07.js   Score  233 | Ayurveda Grundlagen
+     HEAVY: heilung×3, heilmittel×5, heilkunde×1, diagnose×3, krankheit×2, therapie×4, therapeut×5, heilen×4, fiebersenk×1, depression×4, trauma×1, dissoziat×2
+     (Disclaimer-Kontext: 1× erkannt)
+ROT  C02.js   Score  228 | Gesundheits- & Wellnesscoach
+     HEAVY: heile×1, diagnose×3, krankheit×6, therapie×1, therapeut×5, heilen×1, antidepress×1, krebs×1, depression×3
+     DRITTE: den klienten×4, der klient×4, patient×1
+     (Disclaimer-Kontext: 4× erkannt)
+ROT  N16.js   Score  226 | Symbolische Arbeit & symbolische Zeichen
+     HEAVY: heilung×5, heilt×1, heilmittel×2, heilkraft×1, heilkunde×4, diagnose×2, krankheit×6, therapie×10, therapeut×7, heilen×4, trauma×1, suizid×1
+     (Disclaimer-Kontext: 6× erkannt)
+ROT  G04.js   Score  221 | Atemtechniken Komplett
+     HEAVY: heilung×3, heilt×2, krankheit×4, therapie×1, therapeut×5, heilen×4, trauma×6
+     DRITTE: den klienten×3, der klient×3
+ROT  K03.js   Score  221 | Meridiane & Akupressur
+     HEAVY: heilt×1, diagnose×4, krankheit×4, therapeut×1, krebs×1
+     DRITTE: den klienten×3, sitzung mit×1, der klient×3
+     (Disclaimer-Kontext: 4× erkannt)
+ROT  F01.js   Score  217 | Frauengesundheit energetisch
+     HEAVY: heilung×3, heilt×2, heilkunde×1, diagnose×1, krankheit×1, therapeut×2, heilen×1, depression×1, trauma×10, suizid×1
+     DRITTE: behandle×1, der klient×5, die klientin×5
+     (Disclaimer-Kontext: 3× erkannt)
+ROT  N10.js   Score  208 | Nähr- & Vitalstoffe verstehen
+     HEAVY: heilung×1, heilt×2, heilkunde×9, diagnose×7, krankheit×4, therapeut×2, heilen×3
+     DRITTE: behandle×1
+     (Disclaimer-Kontext: 2× erkannt)
+ROT  C08.js   Score  207 | Affirmationen & Manifestation
+     HEAVY: heilkraft×2, krankheit×2, therapie×3, therapeut×4, heilen×1, krebs×1, depression×3, trauma×1
+     DRITTE: den klienten×2, der klient×8
+     (Disclaimer-Kontext: 2× erkannt)
+ROT  N09.js   Score  186 | Darmgesundheit ganzheitlich verstehen
+     HEAVY: heilung×1, heilwirkung×1, heilkunde×4, diagnose×12, therapie×5, heilen×1
+     (Disclaimer-Kontext: 5× erkannt)
+ROT  N14.js   Score  181 | Schilddrüsengesundheit ganzheitlich
+     HEAVY: heilung×1, heilmittel×1, heilwirkung×1, heilkunde×3, diagnose×17, krankheit×2, therapie×4
+     (Disclaimer-Kontext: 5× erkannt)
+ROT  N04.js   Score  170 | Heilpflanzen verstehen: Wirkprinzipien & Sicherheit
+     HEAVY: heilung×1, heilkunde×7, krankheit×2, therapie×1, heilen×1
+ROT  S17.js   Score  160 | Kundalini Activation
+     HEAVY: heilt×1, diagnose×3, krankheit×1, therapie×2, therapeut×3, depression×2, trauma×1, dissoziat×4, suizid×1
+     DRITTE: den klienten×1, der klient×2
+     (Disclaimer-Kontext: 1× erkannt)
+ROT  N12.js   Score  155 | Nahrungsergänzung mit Verstand
+     HEAVY: heilung×1, heilt×1, heilmittel×1, heilkunde×4, krankheit×5, heilen×3
+ROT  B09.js   Score  153 | Bewusstseinsbildung & Steuerung
+     HEAVY: therapeut×18, depression×1
+     DRITTE: den klienten×2, der klient×2
+     (Disclaimer-Kontext: 1× erkannt)
+ROT  P12.js   Score  152 | Emotionale Intelligenz
+     HEAVY: therapie×1, therapeut×14, trauma×1
+     DRITTE: den klienten×2, der klient×2
+ROT  N15.js   Score  147 | Natürliche Substanzen & Pflanzen verstehen
+     HEAVY: heilung×1, heilt×1, heilmittel×2, heilkunde×4, diagnose×1, krankheit×4
+     (Disclaimer-Kontext: 3× erkannt)
+ROT  Y03.js   Score  141 | Numerologie
+     HEAVY: heilung×3, heilt×1, heilmittel×1, heilkraft×1, diagnose×2, therapeut×1
+     DRITTE: den klienten×5, der klient×5
+ROT  N11.js   Score  127 | Nährstoff-Überblick kompakt
+     HEAVY: heilung×1, heilt×2, heilkunde×1, diagnose×16, krankheit×1
+     (Disclaimer-Kontext: 2× erkannt)
+ROT  G02.js   Score  123 | Meditation anleiten: Didaktik & Praxis
+     HEAVY: heilwirkung×1, heilkunde×5, diagnose×1, therapie×9, therapeut×8, trauma×1
+     (Disclaimer-Kontext: 2× erkannt)
+ROT  Y02.js   Score  115 | Human Design Vertiefung
+     HEAVY: heilung×1, heilkraft×1, therapie×1
+     DRITTE: den klienten×3, der klient×5
+ROT  S01.js   Score  114 | Schamanismus — Grundlagen & Praxis
+     HEAVY: heilung×10, heilkraft×1, krankheit×1, therapie×1, heilen×1, trauma×2
+     DRITTE: behandle×1, der klient×2
+     (Disclaimer-Kontext: 1× erkannt)
+ROT  Y05.js   Score  105 | Human Design × Numerologie — Die Synthese
+     HEAVY: heilen×1
+     DRITTE: den klienten×5, der klient×5
+ROT  C09.js   Score   97 | Stressmanagement für Führungskräfte
+     HEAVY: heilung×1, krankheit×2, therapie×3, therapeut×2, depression×1
+     DRITTE: dein klient×1, den klienten×2, der klient×1
+ROT  T07.js   Score   91 | Hausreinigung & Raumenergetik
+     HEAVY: heilung×3, therapeut×3, depression×1
+     DRITTE: den klienten×2
+ROT  P05.js   Score   85 | Persönlichkeitstraining energetisch
+     HEAVY: heilung×2, diagnose×1, krankheit×1, therapie×1, therapeut×1, depression×2, trauma×2, suizid×1
+     DRITTE: der klient×1
+     (Disclaimer-Kontext: 1× erkannt)
+ROT  G09.js   Score   78 | Meditation Komplett
+     HEAVY: heilung×1, heilmittel×1, therapeut×3, antidepress×1, depression×3, trauma×4, dissoziat×1
+     DRITTE: sitzung mit×1
+     (Disclaimer-Kontext: 2× erkannt)
+ROT  G05.js   Score   75 | Reiki — Arbeit mit universeller Lebensenergie
+     HEAVY: heilung×3, heilkunde×1, diagnose×1, therapie×2, therapeut×6
+     (Disclaimer-Kontext: 4× erkannt)
+ROT  F03.js   Score   63 | Erziehungscoach — Familien ganzheitlich begleiten
+     HEAVY: diagnose×1, krankheit×1, therapie×2, therapeut×5, trauma×2
+ROT  N13.js   Score   59 | Hautgesundheit ganzheitlich
+     HEAVY: heilwirkung×2, heilkunde×2, diagnose×4, krankheit×1, heilen×2
+     (Disclaimer-Kontext: 6× erkannt)
+ROT  G06.js   Score   50 | Yogalehrer-Grundausbildung
+     HEAVY: heilung×1, krankheit×1, therapeut×4, trauma×2
+ROT  T01.js   Score   49 | Tierkommunikation — Einstieg
+     HEAVY: heilmittel×1, diagnose×3, krankheit×1, therapie×1, trauma×3
+     (Disclaimer-Kontext: 3× erkannt)
+ROT  G12.js   Score   47 | Waldbaden & Naturachtsamkeit
+     HEAVY: heilung×1, diagnose×1, krankheit×4, therapie×2, heilen×1
+     (Disclaimer-Kontext: 3× erkannt)
+ROT  P02.js   Score   44 | Emotionscode — Grundlagen
+     HEAVY: heilung×1, heilt×1, krankheit×1, therapeut×2, depression×1, trauma×2
+ROT  G11.js   Score   34 | Schutzarbeit & Energiehygiene
+     HEAVY: krankheit×2, therapie×1, therapeut×3
+GELB K01.js   Score   24 | Aura- & Chakraarbeit — Einstieg
+     HEAVY: krankheit×1, therapeut×3
+     (Disclaimer-Kontext: 3× erkannt)
+GELB N01.js   Score   24 | Aromakunde
+     HEAVY: heilkunde×2, krankheit×2, therapeut×4
+     (Disclaimer-Kontext: 16× erkannt)
+GELB Z01.js   Score   23 | Einführung Numerologie
+     HEAVY: heilung×1, heilen×2
+     DRITTE: den klienten×1
+     (Disclaimer-Kontext: 1× erkannt)
+GELB G01.js   Score   14 | Meditation — Grundlagen & Praxis
+     HEAVY: krankheit×1, depression×1
+GRUE G03.js   Score   11 | Atemarbeit — Verbundener Atem & Breathwork
+     HEAVY: heilt×1
+GRUE H01.js   Score   10 | Einführung Human Design
+GRUE B10.js   Score    5 | Herzkohärenz & innere Balance — Einstieg
+     HEAVY: therapeut×1
+     (Disclaimer-Kontext: 1× erkannt)
+GRUE P03.js   Score    4 | Affirmationstraining — Worte als Werkzeug

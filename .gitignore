@@ -22,3 +22,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Sanierungs-Pruefdateien (nie committen)
+*_pruef.txt

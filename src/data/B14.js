@@ -1,6 +1,6 @@
 const B14 = {
   id: 'B14',
-  titel: 'Zellenergie & innere Resilienz — Bewusstsein, Körper & Lebensstil',
+  titel: 'Vitalität & Resilienz — Bewusstsein, Lebensstil & Wohlbefinden',
   bereich: 'bewusstsein',
   beschreibung: 'Eine fundierte Einführung in den Zusammenhang von Bewusstsein, Lebensstil und körperlichem Wohlbefinden. Du lernst, das Zusammenspiel von innerer Haltung, Stress, Lebensweise und Körper redlich zu verstehen, die Grundgedanken der Epigenetik als allgemein zugängliches Wissen einzuordnen und Menschen dabei zu begleiten, durch innere Arbeit und einen förderlichen Lebensstil ihre Vitalität und Resilienz zu stärken. Der Kurs verbindet ein ehrliches, wissenschaftlich aufgeklärtes Verständnis mit konkreten Methoden — und mit klarer Abgrenzung zu medizinischen Heilversprechen.',
   status: 'live',
@@ -284,7 +284,7 @@ Die klare Wahrung der Kompetenzgrenzen ist kein Mangel, sondern Ausdruck von Pro
 
 Halte dir die roten Fäden des Kurses vor Augen. Inneres Erleben, Stress und Lebensstil beeinflussen das körperliche und seelische Wohlbefinden — ein realer, belegter Zusammenhang, den wir redlich als wichtigen Faktor unter mehreren verstehen, nicht als allmächtige Kraft. Die Grundgedanken der Epigenetik geben dem die ermutigende Botschaft, dass wir nicht starr durch unsere Anlagen festgelegt sind — maßvoll und redlich verstanden, ohne Überdehnung. Die Arbeit verbindet innere Arbeit und förderlichen Lebensstil zu einer ganzheitlichen Förderung von Vitalität und Resilienz. Und über allem stehen die Redlichkeit, die klare Grenze zur Medizin und der würdevolle, nicht beschuldigende Umgang mit Krankheit.
 
-Diese Grundausbildung ist ein Anfang. Du hast nun das Fundament, um Menschen ermutigend, ganzheitlich und redlich dabei zu begleiten, ihre Vitalität und Resilienz zu stärken. Der weitere Weg führt durch die beständige Praxis, durch die Vertiefung deines fundierten Verständnisses, durch deine eigene Beschäftigung mit Vitalität und Wohlbefinden und durch die fortwährende Wahrung der redlichen, ermutigenden Haltung. Gehe diesen Weg mit Freude an der Förderung von Lebendigkeit und Wohlbefinden und mit der Redlichkeit, die diese Arbeit verlangt.
+Diese Einführung ist ein Anfang. Du hast nun das Fundament, um Menschen ermutigend, ganzheitlich und redlich dabei zu begleiten, ihre Vitalität und Resilienz zu stärken. Der weitere Weg führt durch die beständige Praxis, durch die Vertiefung deines fundierten Verständnisses, durch deine eigene Beschäftigung mit Vitalität und Wohlbefinden und durch die fortwährende Wahrung der redlichen, ermutigenden Haltung. Gehe diesen Weg mit Freude an der Förderung von Lebendigkeit und Wohlbefinden und mit der Redlichkeit, die diese Arbeit verlangt.
 
 Nimm dir zum Abschluss Zeit für eine persönliche Reflexion. Was war für dich die wichtigste Erkenntnis dieses Kurses? Wie hat sich dein Verständnis des Zusammenhangs von Bewusstsein, Lebensstil und Körper entwickelt? Welchen Aspekt deiner eigenen Vitalität und deines Lebensstils möchtest du als Erstes stärken? Und welche konkreten Schritte gehst du in den kommenden Wochen, um sowohl dein eigenes Wohlbefinden als auch deine Kompetenz in dieser Arbeit zu fördern? Halte deine Antworten schriftlich fest.
 

@@ -1,20 +1,20 @@
-// N08 — Das Denkmodell der Traditionellen Chinesischen Medizin verstehen
-// Bereich: naturheilkunde · Niveau: ★★★ · Format: ◈◈ Standard-Kurs · Status: live
-// Gebaut nach KURS_UMFANG_STANDARD (03.06.2026): 6 Module / 18 Lektionen / je 250+ Wörter.
+// N08 â€” Das Denkmodell der Traditionellen Chinesischen Medizin verstehen
+// Bereich: naturheilkunde Â· Niveau: â˜…â˜…â˜… Â· Format: â—ˆâ—ˆ Standard-Kurs Â· Status: live
+// Gebaut nach KURS_UMFANG_STANDARD (03.06.2026): 6 Module / 18 Lektionen / je 250+ WÃ¶rter.
 // Zuschnitt-Standard: TCM als altes DENK-, ORDNUNGS- und KULTURMODELL dargestellt,
-// NICHT als medizinisches Wirksystem. Yin/Yang & Fünf Wandlungsphasen als Konzepte/Metaphern.
-// KEINE Diagnostik (Puls/Zunge etc. nur erwähnt als Phänomen, nicht angeleitet),
-// KEINE Behandlung, KEINE Akupunktur-Anleitung, KEINE Kräuterrezepturen, keine Heilversprechen.
-// "TCM" ist Sammelbegriff (kein geschützter Eigenname). Durchgängige Heilkunde-Grenze (HeilprG/HWG).
-// Quellenschutz-Audit bestanden — markenfrei, keine Autoren/Schulen/Werke/Lehrer namentlich.
+// NICHT als medizinisches Wirksystem. Yin/Yang & FÃ¼nf Wandlungsphasen als Konzepte/Metaphern.
+// KEINE Diagnostik (Puls/Zunge etc. nur erwÃ¤hnt als PhÃ¤nomen, nicht angeleitet),
+// KEINE Behandlung, KEINE Akupunktur-Anleitung, KEINE KrÃ¤uterrezepturen, keine Heilversprechen.
+// "TCM" ist Sammelbegriff (kein geschÃ¼tzter Eigenname). DurchgÃ¤ngige Heilkunde-Grenze (HeilprG/HWG).
+// Quellenschutz-Audit bestanden â€” markenfrei, keine Autoren/Schulen/Werke/Lehrer namentlich.
 
 const N08 = {
   id: 'N08',
   bereich: 'naturheilkunde',
   titel: 'Das Denkmodell der TCM verstehen',
   kuerzel: 'N08',
-  niveau: '★★★',
-  beschreibung: 'Ein Einblick in die Denkweise der Traditionellen Chinesischen Medizin als altes Ordnungs- und Kulturmodell: Yin und Yang, die fünf Wandlungsphasen, das Bild des Energieflusses. Als Bildungs- und Reflexionswissen — ohne Diagnostik, ohne Behandlung, mit klarer Grenze zur Heilkunde.',
+  niveau: 'â˜…â˜…â˜…',
+  beschreibung: 'Ein Einblick in die Denkweise der Traditionellen Chinesischen Medizin als altes Ordnungs- und Kulturmodell: Yin und Yang, die fÃ¼nf Wandlungsphasen, das Bild des Energieflusses. Als Bildungs- und Reflexionswissen â€” ohne Diagnostik, ohne Behandlung, mit klarer Grenze zur Heilkunde.',
   status: 'live',
   module: [
     {
@@ -23,36 +23,36 @@ const N08 = {
       lektionen: [
         {
           id: 'N08-M1-L1',
-          titel: 'Was dieser Kurs ist — und was nicht',
-          text: `Die Traditionelle Chinesische Medizin, kurz TCM, ist eines der ältesten und umfassendsten Denkgebäude der Menschheit über Gesundheit, Natur und das Gleichgewicht des Lebens. Über Jahrtausende ist in ihr ein reiches System von Vorstellungen, Bildern und Ordnungsprinzipien entstanden. Dieser Kurs lädt dazu ein, dieses Denkmodell kennenzulernen und zu verstehen.
+          titel: 'Was dieser Kurs ist â€” und was nicht',
+          inhalt: `Die Traditionelle Chinesische Medizin, kurz TCM, ist eines der Ã¤ltesten und umfassendsten DenkgebÃ¤ude der Menschheit Ã¼ber Gesundheit, Natur und das Gleichgewicht des Lebens. Ãœber Jahrtausende ist in ihr ein reiches System von Vorstellungen, Bildern und Ordnungsprinzipien entstanden. Dieser Kurs lÃ¤dt dazu ein, dieses Denkmodell kennenzulernen und zu verstehen.
 
-Entscheidend ist die Rahmung von Anfang an: Dieser Kurs vermittelt die TCM als Denk-, Ordnungs- und Kulturmodell — als faszinierende Art, die Welt und den Menschen zu betrachten. Er ist ausdrücklich keine Anleitung zur Diagnose oder Behandlung. Wir lernen keine Puls- oder Zungendiagnose, keine Akupunktur, keine Kräuterrezepturen — solche Verfahren gehören in die Hände entsprechend ausgebildeter, qualifizierter Fachleute.
+Entscheidend ist die Rahmung von Anfang an: Dieser Kurs vermittelt die TCM als Denk-, Ordnungs- und Kulturmodell â€” als faszinierende Art, die Welt und den Menschen zu betrachten. Er ist ausdrÃ¼cklich keine Anleitung zur Diagnose oder Behandlung. Wir lernen keine Puls- oder Zungendiagnose, keine Akupunktur, keine KrÃ¤uterrezepturen â€” solche Verfahren gehÃ¶ren in die HÃ¤nde entsprechend ausgebildeter, qualifizierter Fachleute.
 
-Warum lohnt sich dann die Beschäftigung damit? Weil das Denkmodell der TCM einen anderen, ganzheitlichen Blick auf den Menschen eröffnet, der zur Selbstreflexion und zu mehr Achtsamkeit anregen kann. Es betrachtet den Menschen im Zusammenhang mit Natur, Jahreszeiten, Lebensrhythmus und innerem Gleichgewicht — Perspektiven, die das eigene Erleben bereichern können.
+Warum lohnt sich dann die BeschÃ¤ftigung damit? Weil das Denkmodell der TCM einen anderen, ganzheitlichen Blick auf den Menschen erÃ¶ffnet, der zur Selbstreflexion und zu mehr Achtsamkeit anregen kann. Es betrachtet den Menschen im Zusammenhang mit Natur, Jahreszeiten, Lebensrhythmus und innerem Gleichgewicht â€” Perspektiven, die das eigene Erleben bereichern kÃ¶nnen.
 
-Wir begegnen diesem Erbe mit Respekt und zugleich mit kritischem Verstand. Die TCM ist ein bedeutendes kulturelles und philosophisches System; ihre Konzepte sind jedoch Bilder und Modelle, keine naturwissenschaftlich belegten Wirkmechanismen. Diese ehrliche Doppelhaltung — Wertschätzung und Nüchternheit — zieht sich durch den ganzen Kurs.`,
+Wir begegnen diesem Erbe mit Respekt und zugleich mit kritischem Verstand. Die TCM ist ein bedeutendes kulturelles und philosophisches System; ihre Konzepte sind jedoch Bilder und Modelle, keine naturwissenschaftlich belegten Wirkmechanismen. Diese ehrliche Doppelhaltung â€” WertschÃ¤tzung und NÃ¼chternheit â€” zieht sich durch den ganzen Kurs.`,
         },
         {
           id: 'N08-M1-L2',
-          titel: 'Denken in Zusammenhängen',
-          text: `Das vielleicht charakteristischste Merkmal des TCM-Denkens ist sein Blick auf Zusammenhänge statt auf isolierte Teile. Während ein analytischer Zugang gern zerlegt und einzelne Ursachen sucht, denkt die TCM in Beziehungen, Mustern und Gleichgewichten. Der Mensch wird als Teil eines größeren Ganzen gesehen, verbunden mit Natur und Kosmos.
+          titel: 'Denken in ZusammenhÃ¤ngen',
+          inhalt: `Das vielleicht charakteristischste Merkmal des TCM-Denkens ist sein Blick auf ZusammenhÃ¤nge statt auf isolierte Teile. WÃ¤hrend ein analytischer Zugang gern zerlegt und einzelne Ursachen sucht, denkt die TCM in Beziehungen, Mustern und Gleichgewichten. Der Mensch wird als Teil eines grÃ¶ÃŸeren Ganzen gesehen, verbunden mit Natur und Kosmos.
 
-Dieses Denken in Zusammenhängen hat einen eigenen Reiz und kann den Blick weiten. Es fragt nicht nur „was ist gestört?", sondern „wie steht alles zueinander?" — wie Lebensweise, Jahreszeit, Ernährung, Gefühle und Rhythmus zusammenwirken. Diese vernetzte Sicht entspricht einem ganzheitlichen Verständnis, das auch in modernen Gesundheitskonzepten Anklang findet.
+Dieses Denken in ZusammenhÃ¤ngen hat einen eigenen Reiz und kann den Blick weiten. Es fragt nicht nur â€žwas ist gestÃ¶rt?", sondern â€žwie steht alles zueinander?" â€” wie Lebensweise, Jahreszeit, ErnÃ¤hrung, GefÃ¼hle und Rhythmus zusammenwirken. Diese vernetzte Sicht entspricht einem ganzheitlichen VerstÃ¤ndnis, das auch in modernen Gesundheitskonzepten Anklang findet.
 
-Zentral ist dabei die Idee des Gleichgewichts. Gesundheit wird im TCM-Denken als dynamische Balance verstanden, Unwohlsein als deren Störung. Es geht weniger um starre Zustände als um ein bewegliches Zusammenspiel von Kräften, das immer wieder neu ausbalanciert werden will. Dieses Bild von Balance ist intuitiv zugänglich und anschlussfähig.
+Zentral ist dabei die Idee des Gleichgewichts. Gesundheit wird im TCM-Denken als dynamische Balance verstanden, Unwohlsein als deren StÃ¶rung. Es geht weniger um starre ZustÃ¤nde als um ein bewegliches Zusammenspiel von KrÃ¤ften, das immer wieder neu ausbalanciert werden will. Dieses Bild von Balance ist intuitiv zugÃ¤nglich und anschlussfÃ¤hig.
 
-Wichtig bleibt die Einordnung: Dieses Denken in Zusammenhängen ist ein wertvolles Reflexionsmodell und eine Einladung, das eigene Leben ganzheitlicher zu betrachten. Es ist kein Ersatz für medizinisches Wissen über Krankheiten. Als Perspektive, die zu Achtsamkeit und Ausgewogenheit anregt, hat es jedoch seinen eigenen, sicheren Wert.`,
+Wichtig bleibt die Einordnung: Dieses Denken in ZusammenhÃ¤ngen ist ein wertvolles Reflexionsmodell und eine Einladung, das eigene Leben ganzheitlicher zu betrachten. Es ist kein Ersatz fÃ¼r medizinisches Wissen Ã¼ber Krankheiten. Als Perspektive, die zu Achtsamkeit und Ausgewogenheit anregt, hat es jedoch seinen eigenen, sicheren Wert.`,
         },
         {
           id: 'N08-M1-L3',
           titel: 'Das Bild der Lebensenergie',
-          text: `Ein Grundbegriff des TCM-Denkens ist die Vorstellung einer Lebensenergie, die den Menschen durchströmt und belebt. In diesem Bild fließt eine vitale Kraft durch den Körper, und Gesundheit gilt als ungehinderter, harmonischer Fluss dieser Energie, während Stockungen oder Ungleichgewichte mit Unwohlsein verbunden werden.
+          inhalt: `Ein Grundbegriff des TCM-Denkens ist die Vorstellung einer Lebensenergie, die den Menschen durchstrÃ¶mt und belebt. In diesem Bild flieÃŸt eine vitale Kraft durch den KÃ¶rper, und Gesundheit gilt als ungehinderter, harmonischer Fluss dieser Energie, wÃ¤hrend Stockungen oder Ungleichgewichte mit Unwohlsein verbunden werden.
 
-Dieses Konzept ist zu verstehen als kulturelles und metaphorisches Bild, nicht als naturwissenschaftlich nachgewiesene Substanz oder Kraft. Die moderne Wissenschaft hat eine solche Lebensenergie nicht nachgewiesen. Das mindert nicht den kulturellen und philosophischen Wert des Bildes, verlangt aber eine ehrliche Einordnung: Es handelt sich um ein Denkmodell, nicht um eine messbare physikalische Realität.
+Dieses Konzept ist zu verstehen als kulturelles und metaphorisches Bild, nicht als naturwissenschaftlich nachgewiesene Substanz oder Kraft. Die moderne Wissenschaft hat eine solche Lebensenergie nicht nachgewiesen. Das mindert nicht den kulturellen und philosophischen Wert des Bildes, verlangt aber eine ehrliche Einordnung: Es handelt sich um ein Denkmodell, nicht um eine messbare physikalische RealitÃ¤t.
 
-Als Metapher hat das Bild dennoch eine intuitive Kraft. Viele Menschen erleben Phasen, in denen sie sich „energiegeladen" oder „blockiert", „im Fluss" oder „gestaut" fühlen. Das Bild der fließenden Lebensenergie spricht solche Erfahrungen an und kann helfen, das eigene Befinden zu beschreiben und darüber nachzudenken.
+Als Metapher hat das Bild dennoch eine intuitive Kraft. Viele Menschen erleben Phasen, in denen sie sich â€ženergiegeladen" oder â€žblockiert", â€žim Fluss" oder â€žgestaut" fÃ¼hlen. Das Bild der flieÃŸenden Lebensenergie spricht solche Erfahrungen an und kann helfen, das eigene Befinden zu beschreiben und darÃ¼ber nachzudenken.
 
-Für diesen Kurs gilt daher: Wir nutzen das Bild der Lebensenergie als anschauliches Konzept des TCM-Denkens und als Sprache für inneres Erleben — nicht als medizinische Tatsache. Wer es so versteht, kann seinen poetischen und reflexiven Wert schätzen, ohne ihm unbelegte Heilwirkungen zuzuschreiben. Diese Klarheit hält den Umgang mit dem Konzept seriös.`,
+FÃ¼r diesen Kurs gilt daher: Wir nutzen das Bild der Lebensenergie als anschauliches Konzept des TCM-Denkens und als Sprache fÃ¼r inneres Erleben â€” nicht als medizinische Tatsache. Wer es so versteht, kann seinen poetischen und reflexiven Wert schÃ¤tzen, ohne ihm unbelegte Heilwirkungen zuzuschreiben. Diese Klarheit hÃ¤lt den Umgang mit dem Konzept seriÃ¶s.`,
         },
       ],
     },
@@ -62,75 +62,75 @@ Für diesen Kurs gilt daher: Wir nutzen das Bild der Lebensenergie als anschauli
       lektionen: [
         {
           id: 'N08-M2-L1',
-          titel: 'Das Prinzip der Polarität',
-          text: `Yin und Yang sind das wohl bekannteste Begriffspaar des TCM-Denkens und weit darüber hinaus zum Symbol geworden. Sie stehen für das Prinzip der Polarität: die Vorstellung, dass die Welt von gegensätzlichen, aber einander ergänzenden Kräften durchzogen ist. Hell und dunkel, warm und kühl, aktiv und ruhend, ausdehnend und sammelnd.
+          titel: 'Das Prinzip der PolaritÃ¤t',
+          inhalt: `Yin und Yang sind das wohl bekannteste Begriffspaar des TCM-Denkens und weit darÃ¼ber hinaus zum Symbol geworden. Sie stehen fÃ¼r das Prinzip der PolaritÃ¤t: die Vorstellung, dass die Welt von gegensÃ¤tzlichen, aber einander ergÃ¤nzenden KrÃ¤ften durchzogen ist. Hell und dunkel, warm und kÃ¼hl, aktiv und ruhend, ausdehnend und sammelnd.
 
-Das Faszinierende an diesem Prinzip ist, dass die Gegensätze nicht als Feinde, sondern als Partner gedacht werden. Keiner kann ohne den anderen bestehen; sie bedingen und definieren einander. Tag braucht Nacht, Anspannung braucht Entspannung, Tätigkeit braucht Ruhe. In jedem Pol ist der Keim des anderen enthalten — ein Gedanke, den das bekannte Symbol mit den zwei Punkten ausdrückt.
+Das Faszinierende an diesem Prinzip ist, dass die GegensÃ¤tze nicht als Feinde, sondern als Partner gedacht werden. Keiner kann ohne den anderen bestehen; sie bedingen und definieren einander. Tag braucht Nacht, Anspannung braucht Entspannung, TÃ¤tigkeit braucht Ruhe. In jedem Pol ist der Keim des anderen enthalten â€” ein Gedanke, den das bekannte Symbol mit den zwei Punkten ausdrÃ¼ckt.
 
-Als Denkmodell ist die Polarität von Yin und Yang erstaunlich anschlussfähig an die Lebenserfahrung. Vieles im Leben pendelt zwischen Polen, und Wohlbefinden hat oft mit einem guten Ausgleich zu tun — zwischen Arbeit und Ruhe, Nähe und Distanz, Geben und Nehmen. Das Prinzip lädt ein, solche Balancen im eigenen Leben wahrzunehmen.
+Als Denkmodell ist die PolaritÃ¤t von Yin und Yang erstaunlich anschlussfÃ¤hig an die Lebenserfahrung. Vieles im Leben pendelt zwischen Polen, und Wohlbefinden hat oft mit einem guten Ausgleich zu tun â€” zwischen Arbeit und Ruhe, NÃ¤he und Distanz, Geben und Nehmen. Das Prinzip lÃ¤dt ein, solche Balancen im eigenen Leben wahrzunehmen.
 
-Wichtig ist auch hier die Einordnung: Yin und Yang sind ein philosophisches Ordnungsprinzip und ein Reflexionswerkzeug, kein medizinisches Diagnosesystem. Als Bild für Balance und Ausgleich können sie zur Selbstreflexion anregen. Sie eignen sich jedoch nicht, um gesundheitliche Beschwerden zu bestimmen oder zu behandeln — das bleibt qualifizierten Fachleuten vorbehalten.`,
+Wichtig ist auch hier die Einordnung: Yin und Yang sind ein philosophisches Ordnungsprinzip und ein Reflexionswerkzeug, kein medizinisches Diagnosesystem. Als Bild fÃ¼r Balance und Ausgleich kÃ¶nnen sie zur Selbstreflexion anregen. Sie eignen sich jedoch nicht, um gesundheitliche Beschwerden zu bestimmen oder zu behandeln â€” das bleibt qualifizierten Fachleuten vorbehalten.`,
         },
         {
           id: 'N08-M2-L2',
           titel: 'Balance als Lebensthema',
-          text: `Aus dem Prinzip von Yin und Yang lässt sich ein wertvolles, sicheres Lebensthema ableiten: das Streben nach Balance. Wenn man die Polarität als Bild nimmt, wird Gesundheit im weiteren Sinn zu einer Frage des Gleichgewichts zwischen gegensätzlichen Bedürfnissen und Kräften.
+          inhalt: `Aus dem Prinzip von Yin und Yang lÃ¤sst sich ein wertvolles, sicheres Lebensthema ableiten: das Streben nach Balance. Wenn man die PolaritÃ¤t als Bild nimmt, wird Gesundheit im weiteren Sinn zu einer Frage des Gleichgewichts zwischen gegensÃ¤tzlichen BedÃ¼rfnissen und KrÃ¤ften.
 
-Im Alltag zeigt sich das überall. Wir brauchen Aktivität und Ruhe, Anspannung und Entspannung, Geselligkeit und Rückzug, Nahrung und Fasten von Reizen. Ein Übermaß auf einer Seite — etwa nur Arbeit ohne Erholung oder nur Ruhe ohne Bewegung — führt oft zu Unwohlsein. Die Kunst liegt im beweglichen Ausgleich, der sich je nach Lebensphase verschiebt.
+Im Alltag zeigt sich das Ã¼berall. Wir brauchen AktivitÃ¤t und Ruhe, Anspannung und Entspannung, Geselligkeit und RÃ¼ckzug, Nahrung und Fasten von Reizen. Ein ÃœbermaÃŸ auf einer Seite â€” etwa nur Arbeit ohne Erholung oder nur Ruhe ohne Bewegung â€” fÃ¼hrt oft zu Unwohlsein. Die Kunst liegt im beweglichen Ausgleich, der sich je nach Lebensphase verschiebt.
 
-Dieses Bild kann zu hilfreicher Selbstreflexion anregen: Wo stehe ich gerade? Habe ich zu viel von dem einen, zu wenig von dem anderen? Brauche ich mehr Aktivität oder mehr Ruhe, mehr Wärme oder mehr Kühlung, mehr Nähe oder mehr Raum? Solche Fragen schärfen das Gespür für die eigenen Bedürfnisse.
+Dieses Bild kann zu hilfreicher Selbstreflexion anregen: Wo stehe ich gerade? Habe ich zu viel von dem einen, zu wenig von dem anderen? Brauche ich mehr AktivitÃ¤t oder mehr Ruhe, mehr WÃ¤rme oder mehr KÃ¼hlung, mehr NÃ¤he oder mehr Raum? Solche Fragen schÃ¤rfen das GespÃ¼r fÃ¼r die eigenen BedÃ¼rfnisse.
 
-Als Reflexionswerkzeug ist dieses Balance-Denken risikofrei und bereichernd. Es ermutigt zu einem ausgewogenen Lebensstil und zu Achtsamkeit für die eigenen Bedürfnisse. Es bleibt dabei klar im Rahmen von Wohlbefinden und Selbstfürsorge — und macht keine Aussagen über die Behandlung von Krankheiten, die in ärztliche Hände gehört.`,
+Als Reflexionswerkzeug ist dieses Balance-Denken risikofrei und bereichernd. Es ermutigt zu einem ausgewogenen Lebensstil und zu Achtsamkeit fÃ¼r die eigenen BedÃ¼rfnisse. Es bleibt dabei klar im Rahmen von Wohlbefinden und SelbstfÃ¼rsorge â€” und macht keine Aussagen Ã¼ber die Behandlung von Krankheiten, die in Ã¤rztliche HÃ¤nde gehÃ¶rt.`,
         },
         {
           id: 'N08-M2-L3',
           titel: 'Yin und Yang im Tages- und Jahreslauf',
-          text: `Das Denken in Yin und Yang verbindet sich eng mit dem Rhythmus von Tag und Jahr. In diesem Bild gelten Tag, Sommer, Hitze und Aktivität als eher Yang-betont, Nacht, Winter, Kühle und Ruhe als eher Yin-betont. Das Leben pendelt mit diesen Rhythmen, und ein guter Einklang mit ihnen gilt im TCM-Denken als förderlich für das Wohlbefinden.
+          inhalt: `Das Denken in Yin und Yang verbindet sich eng mit dem Rhythmus von Tag und Jahr. In diesem Bild gelten Tag, Sommer, Hitze und AktivitÃ¤t als eher Yang-betont, Nacht, Winter, KÃ¼hle und Ruhe als eher Yin-betont. Das Leben pendelt mit diesen Rhythmen, und ein guter Einklang mit ihnen gilt im TCM-Denken als fÃ¶rderlich fÃ¼r das Wohlbefinden.
 
-Dieser Gedanke hat eine schöne, alltagsnahe Seite. Sich am natürlichen Rhythmus zu orientieren — tagsüber aktiv zu sein und nachts zu ruhen, im Sommer das Leben nach außen zu richten und im Winter mehr zur Ruhe und Einkehr zu finden — entspricht einem gesunden, naturverbundenen Lebensgefühl. Auch moderne Erkenntnisse über innere Rhythmen passen gut zu diesem Bild.
+Dieser Gedanke hat eine schÃ¶ne, alltagsnahe Seite. Sich am natÃ¼rlichen Rhythmus zu orientieren â€” tagsÃ¼ber aktiv zu sein und nachts zu ruhen, im Sommer das Leben nach auÃŸen zu richten und im Winter mehr zur Ruhe und Einkehr zu finden â€” entspricht einem gesunden, naturverbundenen LebensgefÃ¼hl. Auch moderne Erkenntnisse Ã¼ber innere Rhythmen passen gut zu diesem Bild.
 
-Praktisch lädt dieses Denken ein, den eigenen Lebensrhythmus bewusster wahrzunehmen und sanft an die Tages- und Jahreszeiten anzupassen: ausreichend Schlaf in der dunklen Zeit, Bewegung und Aktivität bei Licht, im Winter mehr Erholung und Wärme, im Sommer mehr Leichtigkeit und Bewegung nach draußen.
+Praktisch lÃ¤dt dieses Denken ein, den eigenen Lebensrhythmus bewusster wahrzunehmen und sanft an die Tages- und Jahreszeiten anzupassen: ausreichend Schlaf in der dunklen Zeit, Bewegung und AktivitÃ¤t bei Licht, im Winter mehr Erholung und WÃ¤rme, im Sommer mehr Leichtigkeit und Bewegung nach drauÃŸen.
 
-Als Anregung zu einem rhythmischen, naturverbundenen Lebensstil ist dieses Bild wertvoll und sicher. Es fördert Achtsamkeit für natürliche Rhythmen und kann das Wohlbefinden unterstützen. Es bleibt dabei ein Lebensstil- und Reflexionsthema — kein Behandlungsansatz und kein Ersatz für ärztlichen Rat bei gesundheitlichen Problemen.`,
+Als Anregung zu einem rhythmischen, naturverbundenen Lebensstil ist dieses Bild wertvoll und sicher. Es fÃ¶rdert Achtsamkeit fÃ¼r natÃ¼rliche Rhythmen und kann das Wohlbefinden unterstÃ¼tzen. Es bleibt dabei ein Lebensstil- und Reflexionsthema â€” kein Behandlungsansatz und kein Ersatz fÃ¼r Ã¤rztlichen Rat bei gesundheitlichen Problemen.`,
         },
       ],
     },
     {
       id: 'N08-M3',
-      titel: 'Die fünf Wandlungsphasen',
+      titel: 'Die fÃ¼nf Wandlungsphasen',
       lektionen: [
         {
           id: 'N08-M3-L1',
           titel: 'Ein Modell der Wandlung',
-          text: `Ein weiteres zentrales Ordnungsmodell des TCM-Denkens sind die fünf Wandlungsphasen, oft als „fünf Elemente" bezeichnet. Ihnen werden traditionell die Bilder Holz, Feuer, Erde, Metall und Wasser zugeordnet. Es handelt sich um ein System, das Wandlung, Kreislauf und Zusammenhang in der Natur und im Leben ordnet.
+          inhalt: `Ein weiteres zentrales Ordnungsmodell des TCM-Denkens sind die fÃ¼nf Wandlungsphasen, oft als â€žfÃ¼nf Elemente" bezeichnet. Ihnen werden traditionell die Bilder Holz, Feuer, Erde, Metall und Wasser zugeordnet. Es handelt sich um ein System, das Wandlung, Kreislauf und Zusammenhang in der Natur und im Leben ordnet.
 
-Anders als der Begriff „Elemente" vermuten lässt, geht es nicht um Grundstoffe der Materie, sondern um Qualitäten und Phasen der Wandlung — um Bilder für unterschiedliche Zustände und Bewegungen. Holz steht etwa für Wachstum und Aufbruch, Feuer für Entfaltung und Wärme, Erde für Reife und Mitte, Metall für Sammlung und Klärung, Wasser für Ruhe und Tiefe.
+Anders als der Begriff â€žElemente" vermuten lÃ¤sst, geht es nicht um Grundstoffe der Materie, sondern um QualitÃ¤ten und Phasen der Wandlung â€” um Bilder fÃ¼r unterschiedliche ZustÃ¤nde und Bewegungen. Holz steht etwa fÃ¼r Wachstum und Aufbruch, Feuer fÃ¼r Entfaltung und WÃ¤rme, Erde fÃ¼r Reife und Mitte, Metall fÃ¼r Sammlung und KlÃ¤rung, Wasser fÃ¼r Ruhe und Tiefe.
 
-Als Denkmodell beschreibt dieses System, wie Phasen ineinander übergehen und sich gegenseitig beeinflussen — wie in einem Kreislauf, in dem eine Phase die nächste hervorbringt. Dieses Bild von Kreislauf und Wandlung findet sich in vielen Naturbeobachtungen wieder, etwa im Lauf der Jahreszeiten oder im Werden und Vergehen.
+Als Denkmodell beschreibt dieses System, wie Phasen ineinander Ã¼bergehen und sich gegenseitig beeinflussen â€” wie in einem Kreislauf, in dem eine Phase die nÃ¤chste hervorbringt. Dieses Bild von Kreislauf und Wandlung findet sich in vielen Naturbeobachtungen wieder, etwa im Lauf der Jahreszeiten oder im Werden und Vergehen.
 
-Wichtig ist die Einordnung: Die fünf Wandlungsphasen sind ein altes Ordnungs- und Denkmodell, ein System von Entsprechungen und Bildern. Sie sind kein naturwissenschaftliches Erklärungsmodell und kein Diagnosewerkzeug. Als poetisches, strukturierendes Bild für Wandlung und Zusammenhang haben sie kulturellen und reflexiven Wert — als medizinisches System sind sie nicht zu verstehen.`,
+Wichtig ist die Einordnung: Die fÃ¼nf Wandlungsphasen sind ein altes Ordnungs- und Denkmodell, ein System von Entsprechungen und Bildern. Sie sind kein naturwissenschaftliches ErklÃ¤rungsmodell und kein Diagnosewerkzeug. Als poetisches, strukturierendes Bild fÃ¼r Wandlung und Zusammenhang haben sie kulturellen und reflexiven Wert â€” als medizinisches System sind sie nicht zu verstehen.`,
         },
         {
           id: 'N08-M3-L2',
           titel: 'Entsprechungen und ihre Bedeutung',
-          text: `Das Faszinierende am Modell der fünf Wandlungsphasen ist sein Netz von Entsprechungen. Jeder Phase werden traditionell vielfältige Zuordnungen zugeschrieben — Jahreszeiten, Farben, Geschmacksrichtungen, Stimmungen, Himmelsrichtungen. So entsteht ein umfassendes Ordnungssystem, das scheinbar Unverbundenes in Beziehung setzt.
+          inhalt: `Das Faszinierende am Modell der fÃ¼nf Wandlungsphasen ist sein Netz von Entsprechungen. Jeder Phase werden traditionell vielfÃ¤ltige Zuordnungen zugeschrieben â€” Jahreszeiten, Farben, Geschmacksrichtungen, Stimmungen, Himmelsrichtungen. So entsteht ein umfassendes Ordnungssystem, das scheinbar Unverbundenes in Beziehung setzt.
 
-Diese Entsprechungen sind als kulturelles Ordnungs- und Erinnerungssystem zu verstehen, nicht als nachgewiesene kausale Zusammenhänge. Sie spiegeln eine Denkweise, die die Welt in Mustern und Analogien ordnet — ein in vielen alten Kulturen verbreitetes Vorgehen. Ihr Wert liegt im Strukturieren und im poetischen Zusammenschauen, nicht in wissenschaftlicher Ursachenklärung.
+Diese Entsprechungen sind als kulturelles Ordnungs- und Erinnerungssystem zu verstehen, nicht als nachgewiesene kausale ZusammenhÃ¤nge. Sie spiegeln eine Denkweise, die die Welt in Mustern und Analogien ordnet â€” ein in vielen alten Kulturen verbreitetes Vorgehen. Ihr Wert liegt im Strukturieren und im poetischen Zusammenschauen, nicht in wissenschaftlicher UrsachenklÃ¤rung.
 
-Als Reflexionswerkzeug können solche Entsprechungen reizvoll sein. Sie laden ein, das eigene Erleben mit Bildern der Natur zu verknüpfen — etwa eine Lebensphase als „Frühling" des Aufbruchs oder „Herbst" der Ernte und Klärung zu betrachten. Solche Bilder können dem inneren Erleben Sprache und Gestalt geben.
+Als Reflexionswerkzeug kÃ¶nnen solche Entsprechungen reizvoll sein. Sie laden ein, das eigene Erleben mit Bildern der Natur zu verknÃ¼pfen â€” etwa eine Lebensphase als â€žFrÃ¼hling" des Aufbruchs oder â€žHerbst" der Ernte und KlÃ¤rung zu betrachten. Solche Bilder kÃ¶nnen dem inneren Erleben Sprache und Gestalt geben.
 
-Bewusst verzichtet dieser Kurs darauf, aus den Entsprechungen Anwendungen „gegen" Beschwerden abzuleiten — etwa bestimmte Lebensmittel oder Maßnahmen zur Behandlung von Ungleichgewichten zu empfehlen. Das wäre Heilkunde und gehört in qualifizierte Hände. Wir nutzen das Modell als Bild und Reflexionsrahmen, nicht als Therapieanleitung.`,
+Bewusst verzichtet dieser Kurs darauf, aus den Entsprechungen Anwendungen â€žgegen" Beschwerden abzuleiten â€” etwa bestimmte Lebensmittel oder MaÃŸnahmen zur Behandlung von Ungleichgewichten zu empfehlen. Das wÃ¤re Heilkunde und gehÃ¶rt in qualifizierte HÃ¤nde. Wir nutzen das Modell als Bild und Reflexionsrahmen, nicht als Therapieanleitung.`,
         },
         {
           id: 'N08-M3-L3',
           titel: 'Die Wandlungsphasen als Reflexionsbild',
-          text: `Der sichere, wertvolle Gebrauch der fünf Wandlungsphasen liegt in ihrer Kraft als Reflexionsbild. Sie bieten eine Sprache, um Lebensphasen, Stimmungen und Entwicklungen zu betrachten und einzuordnen — als poetisches Werkzeug der Selbstwahrnehmung.
+          inhalt: `Der sichere, wertvolle Gebrauch der fÃ¼nf Wandlungsphasen liegt in ihrer Kraft als Reflexionsbild. Sie bieten eine Sprache, um Lebensphasen, Stimmungen und Entwicklungen zu betrachten und einzuordnen â€” als poetisches Werkzeug der Selbstwahrnehmung.
 
-Man kann die Phasen als Bilder für Lebensbewegungen nutzen: Zeiten des Aufbruchs und Wachstums, Zeiten der vollen Entfaltung, Zeiten der Reife und des Sammelns, Zeiten der Klärung und des Loslassens, Zeiten der Ruhe und Erneuerung. Das Leben durchläuft solche Phasen immer wieder, und dieses Bild kann helfen, die jeweilige Phase zu erkennen und anzunehmen.
+Man kann die Phasen als Bilder fÃ¼r Lebensbewegungen nutzen: Zeiten des Aufbruchs und Wachstums, Zeiten der vollen Entfaltung, Zeiten der Reife und des Sammelns, Zeiten der KlÃ¤rung und des Loslassens, Zeiten der Ruhe und Erneuerung. Das Leben durchlÃ¤uft solche Phasen immer wieder, und dieses Bild kann helfen, die jeweilige Phase zu erkennen und anzunehmen.
 
-Eine solche Betrachtung kann zu mehr Gelassenheit beitragen. Wer versteht, dass auf eine Phase der Ruhe wieder eine des Aufbruchs folgt, kann schwierige Zeiten leichter als Übergänge begreifen. Das Bild des Kreislaufs nimmt manchem Zustand seine scheinbare Endgültigkeit und erinnert an die stete Wandlung des Lebens.
+Eine solche Betrachtung kann zu mehr Gelassenheit beitragen. Wer versteht, dass auf eine Phase der Ruhe wieder eine des Aufbruchs folgt, kann schwierige Zeiten leichter als ÃœbergÃ¤nge begreifen. Das Bild des Kreislaufs nimmt manchem Zustand seine scheinbare EndgÃ¼ltigkeit und erinnert an die stete Wandlung des Lebens.
 
-In der Begleitung anderer lässt sich dieses Bild als achtsamer Impuls anbieten: „In welcher Phase fühlst du dich gerade — Aufbruch, Entfaltung, Reife, Klärung, Ruhe?" Solche Fragen öffnen Reflexion und Gespräch. Sie bleiben klar im Rahmen seelischer Selbstwahrnehmung und Lebensbetrachtung — ohne medizinischen Anspruch und ohne Behandlung.`,
+In der Begleitung anderer lÃ¤sst sich dieses Bild als achtsamer Impuls anbieten: â€žIn welcher Phase fÃ¼hlst du dich gerade â€” Aufbruch, Entfaltung, Reife, KlÃ¤rung, Ruhe?" Solche Fragen Ã¶ffnen Reflexion und GesprÃ¤ch. Sie bleiben klar im Rahmen seelischer Selbstwahrnehmung und Lebensbetrachtung â€” ohne medizinischen Anspruch und ohne Behandlung.`,
         },
       ],
     },
@@ -140,36 +140,36 @@ In der Begleitung anderer lässt sich dieses Bild als achtsamer Impuls anbieten:
       lektionen: [
         {
           id: 'N08-M4-L1',
-          titel: 'Maß und Mitte',
-          text: `Ein durchgängiges Ideal des TCM-Denkens ist das Maß — die Mitte zwischen den Extremen. Übermaß in jede Richtung gilt als ungünstig, das ausgewogene Maß als förderlich. Dieses Ideal lässt sich als sicheres, wertvolles Lebensprinzip nutzen, ganz ohne medizinischen Anspruch.
+          titel: 'MaÃŸ und Mitte',
+          inhalt: `Ein durchgÃ¤ngiges Ideal des TCM-Denkens ist das MaÃŸ â€” die Mitte zwischen den Extremen. ÃœbermaÃŸ in jede Richtung gilt als ungÃ¼nstig, das ausgewogene MaÃŸ als fÃ¶rderlich. Dieses Ideal lÃ¤sst sich als sicheres, wertvolles Lebensprinzip nutzen, ganz ohne medizinischen Anspruch.
 
-Maß und Mitte zeigen sich in vielen Lebensbereichen: maßvoll essen statt übermäßig oder zu wenig, sich angemessen bewegen statt sich zu überfordern oder zu erstarren, Aktivität und Ruhe ausbalancieren, weder ständig im Stress noch in völliger Trägheit zu leben. Dieses Streben nach Ausgewogenheit ist intuitiv einleuchtend und entspricht modernen Vorstellungen eines gesunden Lebensstils.
+MaÃŸ und Mitte zeigen sich in vielen Lebensbereichen: maÃŸvoll essen statt Ã¼bermÃ¤ÃŸig oder zu wenig, sich angemessen bewegen statt sich zu Ã¼berfordern oder zu erstarren, AktivitÃ¤t und Ruhe ausbalancieren, weder stÃ¤ndig im Stress noch in vÃ¶lliger TrÃ¤gheit zu leben. Dieses Streben nach Ausgewogenheit ist intuitiv einleuchtend und entspricht modernen Vorstellungen eines gesunden Lebensstils.
 
-Das Ideal der Mitte ermutigt zu einem achtsamen Umgang mit sich selbst, der weder asketische Strenge noch zügelloses Übermaß sucht, sondern ein freundliches, nachhaltiges Gleichgewicht. Es ist ein Ideal der Nachhaltigkeit: ein Lebensstil, den man dauerhaft durchhalten kann, statt zwischen Extremen zu pendeln.
+Das Ideal der Mitte ermutigt zu einem achtsamen Umgang mit sich selbst, der weder asketische Strenge noch zÃ¼gelloses ÃœbermaÃŸ sucht, sondern ein freundliches, nachhaltiges Gleichgewicht. Es ist ein Ideal der Nachhaltigkeit: ein Lebensstil, den man dauerhaft durchhalten kann, statt zwischen Extremen zu pendeln.
 
-Als Lebensprinzip ist Maß und Mitte sicher, alltagstauglich und bereichernd. Es lässt sich gut weitergeben und als Haltung kultivieren. Wie immer bleibt die Grenze klar: Es geht um Lebensstil und Wohlbefinden, nicht um die Behandlung von Beschwerden. Bei gesundheitlichen Problemen bleibt der ärztliche Rat unverzichtbar.`,
+Als Lebensprinzip ist MaÃŸ und Mitte sicher, alltagstauglich und bereichernd. Es lÃ¤sst sich gut weitergeben und als Haltung kultivieren. Wie immer bleibt die Grenze klar: Es geht um Lebensstil und Wohlbefinden, nicht um die Behandlung von Beschwerden. Bei gesundheitlichen Problemen bleibt der Ã¤rztliche Rat unverzichtbar.`,
         },
         {
           id: 'N08-M4-L2',
-          titel: 'Ernährung als Ausgleich verstehen',
-          text: `Im TCM-Denken spielt die Ernährung eine große Rolle, oft betrachtet unter dem Bild von wärmenden und kühlenden, kräftigenden und leichten Qualitäten der Nahrung. Dieses Denken lässt sich als anregende Perspektive auf eine ausgewogene Ernährung verstehen — als Bild, nicht als therapeutisches Rezept.
+          titel: 'ErnÃ¤hrung als Ausgleich verstehen',
+          inhalt: `Im TCM-Denken spielt die ErnÃ¤hrung eine groÃŸe Rolle, oft betrachtet unter dem Bild von wÃ¤rmenden und kÃ¼hlenden, krÃ¤ftigenden und leichten QualitÃ¤ten der Nahrung. Dieses Denken lÃ¤sst sich als anregende Perspektive auf eine ausgewogene ErnÃ¤hrung verstehen â€” als Bild, nicht als therapeutisches Rezept.
 
-Die Grundidee ist intuitiv: Verschiedene Speisen wirken unterschiedlich auf das Befinden, und ein bewusster, abwechslungsreicher Umgang mit Nahrung trägt zum Wohlbefinden bei. Im Winter mag man wärmende, gekochte Speisen, im Sommer leichtere, frische — eine Erfahrung, die viele Menschen teilen und die sich gut mit dem TCM-Bild verbindet.
+Die Grundidee ist intuitiv: Verschiedene Speisen wirken unterschiedlich auf das Befinden, und ein bewusster, abwechslungsreicher Umgang mit Nahrung trÃ¤gt zum Wohlbefinden bei. Im Winter mag man wÃ¤rmende, gekochte Speisen, im Sommer leichtere, frische â€” eine Erfahrung, die viele Menschen teilen und die sich gut mit dem TCM-Bild verbindet.
 
-Als allgemeine Anregung zu bewusster, saisonaler und ausgewogener Ernährung ist dieses Denken wertvoll und sicher. Es ermutigt, auf die Qualität und Vielfalt der Nahrung zu achten, saisonal und abwechslungsreich zu essen und wahrzunehmen, wie verschiedene Speisen bekommen. Das deckt sich mit allgemeinen Empfehlungen einer ausgewogenen Ernährung.
+Als allgemeine Anregung zu bewusster, saisonaler und ausgewogener ErnÃ¤hrung ist dieses Denken wertvoll und sicher. Es ermutigt, auf die QualitÃ¤t und Vielfalt der Nahrung zu achten, saisonal und abwechslungsreich zu essen und wahrzunehmen, wie verschiedene Speisen bekommen. Das deckt sich mit allgemeinen Empfehlungen einer ausgewogenen ErnÃ¤hrung.
 
-Bewusst verzichtet dieser Kurs darauf, bestimmte Lebensmittel als „Mittel gegen" bestimmte Beschwerden darzustellen oder Ernährung als Therapie zu beschreiben. Solche gezielten Anwendungen gehören in ernährungsfachliche oder ärztliche Beratung. Wir nutzen das TCM-Ernährungsdenken als Bild für bewusste, ausgewogene Ernährung — nicht als Behandlungsplan.`,
+Bewusst verzichtet dieser Kurs darauf, bestimmte Lebensmittel als â€žMittel gegen" bestimmte Beschwerden darzustellen oder ErnÃ¤hrung als Therapie zu beschreiben. Solche gezielten Anwendungen gehÃ¶ren in ernÃ¤hrungsfachliche oder Ã¤rztliche Beratung. Wir nutzen das TCM-ErnÃ¤hrungsdenken als Bild fÃ¼r bewusste, ausgewogene ErnÃ¤hrung â€” nicht als Behandlungsplan.`,
         },
         {
           id: 'N08-M4-L3',
           titel: 'Bewegung, Atem und innere Ruhe',
-          text: `Zum Lebensstil im Geist des TCM-Denkens gehören auch sanfte Bewegung, bewusster Atem und innere Ruhe. Traditionell schätzt dieses Denken ruhige, fließende Bewegungsformen, die Körper, Atem und Aufmerksamkeit verbinden, sowie Praktiken der Sammlung und Stille.
+          inhalt: `Zum Lebensstil im Geist des TCM-Denkens gehÃ¶ren auch sanfte Bewegung, bewusster Atem und innere Ruhe. Traditionell schÃ¤tzt dieses Denken ruhige, flieÃŸende Bewegungsformen, die KÃ¶rper, Atem und Aufmerksamkeit verbinden, sowie Praktiken der Sammlung und Stille.
 
-Solche Bewegungs- und Achtsamkeitsformen sind für viele Menschen wohltuend und gut zugänglich. Ruhige, fließende Bewegungen können Verspannungen lösen, das Körpergefühl verbessern und beruhigend wirken. Bewusste Atmung hilft, zur Ruhe zu kommen und Anspannung zu lösen. Stille und Sammlung schaffen Ausgleich zur Reizüberflutung des Alltags.
+Solche Bewegungs- und Achtsamkeitsformen sind fÃ¼r viele Menschen wohltuend und gut zugÃ¤nglich. Ruhige, flieÃŸende Bewegungen kÃ¶nnen Verspannungen lÃ¶sen, das KÃ¶rpergefÃ¼hl verbessern und beruhigend wirken. Bewusste Atmung hilft, zur Ruhe zu kommen und Anspannung zu lÃ¶sen. Stille und Sammlung schaffen Ausgleich zur ReizÃ¼berflutung des Alltags.
 
-Diese Praktiken wirken über Entspannung, Körperwahrnehmung und Aufmerksamkeit — Mechanismen, die gut nachvollziehbar und für das Wohlbefinden förderlich sind. Man muss ihnen keine geheimnisvolle Energiewirkung zuschreiben, um ihren Wert zu erkennen. Als Wege zu mehr Ruhe, Beweglichkeit und Präsenz sind sie sicher und bereichernd.
+Diese Praktiken wirken Ã¼ber Entspannung, KÃ¶rperwahrnehmung und Aufmerksamkeit â€” Mechanismen, die gut nachvollziehbar und fÃ¼r das Wohlbefinden fÃ¶rderlich sind. Man muss ihnen keine geheimnisvolle Energiewirkung zuschreiben, um ihren Wert zu erkennen. Als Wege zu mehr Ruhe, Beweglichkeit und PrÃ¤senz sind sie sicher und bereichernd.
 
-In der Begleitung lassen sich solche Anregungen gut weitergeben: zu sanfter, achtsamer Bewegung ermutigen, bewusste Atempausen vorschlagen, Momente der Stille fördern. Das unterstützt Wohlbefinden und Ausgeglichenheit. Bei körperlichen Beschwerden oder Einschränkungen gilt: geeignete Bewegung ärztlich abklären — und auch hier kein Behandlungsanspruch, sondern Förderung von Wohlbefinden.`,
+In der Begleitung lassen sich solche Anregungen gut weitergeben: zu sanfter, achtsamer Bewegung ermutigen, bewusste Atempausen vorschlagen, Momente der Stille fÃ¶rdern. Das unterstÃ¼tzt Wohlbefinden und Ausgeglichenheit. Bei kÃ¶rperlichen Beschwerden oder EinschrÃ¤nkungen gilt: geeignete Bewegung Ã¤rztlich abklÃ¤ren â€” und auch hier kein Behandlungsanspruch, sondern FÃ¶rderung von Wohlbefinden.`,
         },
       ],
     },
@@ -180,35 +180,35 @@ In der Begleitung lassen sich solche Anregungen gut weitergeben: zu sanfter, ach
         {
           id: 'N08-M5-L1',
           titel: 'Kulturelles Erbe und wissenschaftlicher Blick',
-          text: `Die TCM verdient eine ehrliche, doppelte Würdigung: als bedeutendes kulturelles und philosophisches Erbe einerseits und mit wissenschaftlich-kritischem Blick andererseits. Beides gehört zu einem reifen Verständnis und schließt sich nicht aus.
+          inhalt: `Die TCM verdient eine ehrliche, doppelte WÃ¼rdigung: als bedeutendes kulturelles und philosophisches Erbe einerseits und mit wissenschaftlich-kritischem Blick andererseits. Beides gehÃ¶rt zu einem reifen VerstÃ¤ndnis und schlieÃŸt sich nicht aus.
 
-Als Kulturerbe ist die TCM beeindruckend: ein über Jahrtausende gewachsenes Denkgebäude, das eine ganze Zivilisation geprägt hat und bis heute weltweit Menschen anspricht. Ihre Bilder und Konzepte sind reich, poetisch und anschlussfähig an menschliche Erfahrung. Dieser kulturelle und philosophische Wert ist unabhängig von der Frage wissenschaftlicher Wirksamkeit.
+Als Kulturerbe ist die TCM beeindruckend: ein Ã¼ber Jahrtausende gewachsenes DenkgebÃ¤ude, das eine ganze Zivilisation geprÃ¤gt hat und bis heute weltweit Menschen anspricht. Ihre Bilder und Konzepte sind reich, poetisch und anschlussfÃ¤hig an menschliche Erfahrung. Dieser kulturelle und philosophische Wert ist unabhÃ¤ngig von der Frage wissenschaftlicher Wirksamkeit.
 
-Aus wissenschaftlicher Sicht ist zugleich festzuhalten: Die zentralen Konzepte der TCM — Lebensenergie, Yin und Yang, die fünf Wandlungsphasen — sind philosophische Modelle, keine naturwissenschaftlich nachgewiesenen Mechanismen. Für einzelne Verfahren gibt es unterschiedliche Studienlagen, vieles ist umstritten oder nicht belegt. Eine ehrliche Darstellung verschweigt das nicht.
+Aus wissenschaftlicher Sicht ist zugleich festzuhalten: Die zentralen Konzepte der TCM â€” Lebensenergie, Yin und Yang, die fÃ¼nf Wandlungsphasen â€” sind philosophische Modelle, keine naturwissenschaftlich nachgewiesenen Mechanismen. FÃ¼r einzelne Verfahren gibt es unterschiedliche Studienlagen, vieles ist umstritten oder nicht belegt. Eine ehrliche Darstellung verschweigt das nicht.
 
-Diese doppelte Haltung ist kein Widerspruch, sondern Reife: Man kann ein kulturelles und philosophisches System würdigen und als Reflexionsmodell schätzen, ohne ihm unbelegte medizinische Wirkungen zuzuschreiben. Genau diese Unterscheidung — kultureller Wert ja, medizinischer Wirknachweis offen — ermöglicht einen respektvollen und zugleich seriösen Umgang mit der TCM.`,
+Diese doppelte Haltung ist kein Widerspruch, sondern Reife: Man kann ein kulturelles und philosophisches System wÃ¼rdigen und als Reflexionsmodell schÃ¤tzen, ohne ihm unbelegte medizinische Wirkungen zuzuschreiben. Genau diese Unterscheidung â€” kultureller Wert ja, medizinischer Wirknachweis offen â€” ermÃ¶glicht einen respektvollen und zugleich seriÃ¶sen Umgang mit der TCM.`,
         },
         {
           id: 'N08-M5-L2',
           titel: 'Konzepte als Metaphern verstehen',
-          text: `Ein Schlüssel zum verantwortlichen Umgang mit dem TCM-Denken liegt darin, seine Konzepte als Metaphern und Modelle zu verstehen, nicht als wörtliche physikalische Wahrheiten. Diese Sichtweise erlaubt es, den reichen Wert der Bilder zu nutzen, ohne in unbelegte Wirkbehauptungen zu verfallen.
+          inhalt: `Ein SchlÃ¼ssel zum verantwortlichen Umgang mit dem TCM-Denken liegt darin, seine Konzepte als Metaphern und Modelle zu verstehen, nicht als wÃ¶rtliche physikalische Wahrheiten. Diese Sichtweise erlaubt es, den reichen Wert der Bilder zu nutzen, ohne in unbelegte Wirkbehauptungen zu verfallen.
 
-Eine Metapher ist nicht „falsch", wenn sie nicht physikalisch wahr ist — sie ist ein Bild, das etwas veranschaulicht. Wenn man von „Energie, die fließt" oder von „Balance der Kräfte" spricht, beschreibt man Erfahrungen und Zusammenhänge in einer bildhaften Sprache. Diese Sprache kann hilfreich und bedeutsam sein, auch wenn sie kein naturwissenschaftliches Modell ist.
+Eine Metapher ist nicht â€žfalsch", wenn sie nicht physikalisch wahr ist â€” sie ist ein Bild, das etwas veranschaulicht. Wenn man von â€žEnergie, die flieÃŸt" oder von â€žBalance der KrÃ¤fte" spricht, beschreibt man Erfahrungen und ZusammenhÃ¤nge in einer bildhaften Sprache. Diese Sprache kann hilfreich und bedeutsam sein, auch wenn sie kein naturwissenschaftliches Modell ist.
 
-So verstanden, werden die TCM-Konzepte zu wertvollen Werkzeugen der Selbstreflexion und der Kommunikation über Befinden. „Ich fühle mich aus der Balance", „mir fehlt Energie", „ich bin in einer Phase der Klärung" — solche bildhaften Beschreibungen können das eigene Erleben fassbar machen, ohne medizinische Aussagen zu treffen.
+So verstanden, werden die TCM-Konzepte zu wertvollen Werkzeugen der Selbstreflexion und der Kommunikation Ã¼ber Befinden. â€žIch fÃ¼hle mich aus der Balance", â€žmir fehlt Energie", â€žich bin in einer Phase der KlÃ¤rung" â€” solche bildhaften Beschreibungen kÃ¶nnen das eigene Erleben fassbar machen, ohne medizinische Aussagen zu treffen.
 
-Problematisch wird es erst, wenn Metaphern als wörtliche medizinische Tatsachen behandelt werden — etwa wenn aus „Energieblockade" eine Diagnose und eine Behandlung abgeleitet werden. Genau diese Grenze hält dieser Kurs ein: die Konzepte als bereichernde Bilder und Reflexionswerkzeuge nutzen, nicht als medizinische Diagnose- oder Therapieinstrumente.`,
+Problematisch wird es erst, wenn Metaphern als wÃ¶rtliche medizinische Tatsachen behandelt werden â€” etwa wenn aus â€žEnergieblockade" eine Diagnose und eine Behandlung abgeleitet werden. Genau diese Grenze hÃ¤lt dieser Kurs ein: die Konzepte als bereichernde Bilder und Reflexionswerkzeuge nutzen, nicht als medizinische Diagnose- oder Therapieinstrumente.`,
         },
         {
           id: 'N08-M5-L3',
-          titel: 'Seriös mit dem Thema umgehen',
-          text: `Aus der kritischen Einordnung ergibt sich eine praktische Haltung für den seriösen Umgang mit dem TCM-Denken. Sie verbindet Offenheit und Wertschätzung mit Ehrlichkeit und klaren Grenzen — und schützt so vor unseriösen Auswüchsen.
+          titel: 'SeriÃ¶s mit dem Thema umgehen',
+          inhalt: `Aus der kritischen Einordnung ergibt sich eine praktische Haltung fÃ¼r den seriÃ¶sen Umgang mit dem TCM-Denken. Sie verbindet Offenheit und WertschÃ¤tzung mit Ehrlichkeit und klaren Grenzen â€” und schÃ¼tzt so vor unseriÃ¶sen AuswÃ¼chsen.
 
-Seriöser Umgang heißt: das TCM-Denken als Kultur-, Philosophie- und Reflexionswissen würdigen und weitergeben; seine Konzepte als Bilder und Modelle kennzeichnen, nicht als nachgewiesene Mechanismen; ehrlich sein über das, was belegt ist und was nicht; und niemals Heilversprechen machen oder zur Selbstbehandlung ernster Beschwerden raten.
+SeriÃ¶ser Umgang heiÃŸt: das TCM-Denken als Kultur-, Philosophie- und Reflexionswissen wÃ¼rdigen und weitergeben; seine Konzepte als Bilder und Modelle kennzeichnen, nicht als nachgewiesene Mechanismen; ehrlich sein Ã¼ber das, was belegt ist und was nicht; und niemals Heilversprechen machen oder zur Selbstbehandlung ernster Beschwerden raten.
 
-Unseriös wäre dagegen: die Konzepte als gesicherte medizinische Wahrheiten darzustellen, Diagnosen oder Behandlungen daraus abzuleiten, Heilung von Krankheiten zu versprechen oder Menschen von nötiger ärztlicher Hilfe abzuhalten. Solche Überschreitungen schaden Menschen und der Glaubwürdigkeit des Themas gleichermaßen.
+UnseriÃ¶s wÃ¤re dagegen: die Konzepte als gesicherte medizinische Wahrheiten darzustellen, Diagnosen oder Behandlungen daraus abzuleiten, Heilung von Krankheiten zu versprechen oder Menschen von nÃ¶tiger Ã¤rztlicher Hilfe abzuhalten. Solche Ãœberschreitungen schaden Menschen und der GlaubwÃ¼rdigkeit des Themas gleichermaÃŸen.
 
-Wer das TCM-Denken seriös vermittelt, eröffnet anderen einen Zugang zu einem faszinierenden kulturellen Erbe und zu wertvollen Reflexionsbildern — und bleibt dabei ehrlich und verantwortlich. Diese Verbindung aus Wertschätzung und Klarheit macht den Umgang mit der TCM reif und vertrauenswürdig. Sie ist die Haltung, die dieser Kurs vermitteln möchte.`,
+Wer das TCM-Denken seriÃ¶s vermittelt, erÃ¶ffnet anderen einen Zugang zu einem faszinierenden kulturellen Erbe und zu wertvollen Reflexionsbildern â€” und bleibt dabei ehrlich und verantwortlich. Diese Verbindung aus WertschÃ¤tzung und Klarheit macht den Umgang mit der TCM reif und vertrauenswÃ¼rdig. Sie ist die Haltung, die dieser Kurs vermitteln mÃ¶chte.`,
         },
       ],
     },
@@ -219,35 +219,35 @@ Wer das TCM-Denken seriös vermittelt, eröffnet anderen einen Zugang zu einem f
         {
           id: 'N08-M6-L1',
           titel: 'Die klare Grenze zur Heilkunde',
-          text: `Das zentrale Sicherheitsprinzip dieses Kurses lautet: Das TCM-Denken, wie wir es hier vermitteln, ist Kultur-, Reflexions- und Lebensstilwissen — keine Heilkunde und kein Ersatz für ärztliche Behandlung. Diese Grenze ist klar und nicht verhandelbar.
+          inhalt: `Das zentrale Sicherheitsprinzip dieses Kurses lautet: Das TCM-Denken, wie wir es hier vermitteln, ist Kultur-, Reflexions- und Lebensstilwissen â€” keine Heilkunde und kein Ersatz fÃ¼r Ã¤rztliche Behandlung. Diese Grenze ist klar und nicht verhandelbar.
 
-Konkret bedeutet das: keine Diagnose nach TCM-Schemata, keine Puls- oder Zungendiagnose, keine Akupunktur, keine Kräutertherapie, keine Behandlung von Beschwerden, keine Heilversprechen. All diese Verfahren gehören, wo sie überhaupt angewendet werden, in die Hände entsprechend ausgebildeter und berechtigter Fachleute — und sind nicht Gegenstand dieses Bildungskurses.
+Konkret bedeutet das: keine Diagnose nach TCM-Schemata, keine Puls- oder Zungendiagnose, keine Akupunktur, keine KrÃ¤utertherapie, keine Behandlung von Beschwerden, keine Heilversprechen. All diese Verfahren gehÃ¶ren, wo sie Ã¼berhaupt angewendet werden, in die HÃ¤nde entsprechend ausgebildeter und berechtigter Fachleute â€” und sind nicht Gegenstand dieses Bildungskurses.
 
-Wer TCM-Verfahren tatsächlich therapeutisch anwenden möchte, bewegt sich im Bereich der Heilkunde, für den in Deutschland eine entsprechende Qualifikation und Erlaubnis erforderlich ist. Die Vermittlung des TCM-Denkens als Kultur- und Reflexionswissen sowie die Förderung eines ausgewogenen Lebensstils dagegen sind im nicht-heilkundlichen Rahmen möglich und wertvoll.
+Wer TCM-Verfahren tatsÃ¤chlich therapeutisch anwenden mÃ¶chte, bewegt sich im Bereich der Heilkunde, fÃ¼r den in Deutschland eine entsprechende Qualifikation und Erlaubnis erforderlich ist. Die Vermittlung des TCM-Denkens als Kultur- und Reflexionswissen sowie die FÃ¶rderung eines ausgewogenen Lebensstils dagegen sind im nicht-heilkundlichen Rahmen mÃ¶glich und wertvoll.
 
-Bei gesundheitlichen Beschwerden gilt ausnahmslos: Der Arzt oder die Ärztin ist die richtige Anlaufstelle, ergänzt durch die Apotheke. Anhaltende, starke oder ungewöhnliche Beschwerden gehören ärztlich abgeklärt — nicht in eine Deutung nach TCM-Bildern. Diese Grenze schützt die Menschen und macht den Umgang mit dem Thema verantwortlich.`,
+Bei gesundheitlichen Beschwerden gilt ausnahmslos: Der Arzt oder die Ã„rztin ist die richtige Anlaufstelle, ergÃ¤nzt durch die Apotheke. Anhaltende, starke oder ungewÃ¶hnliche Beschwerden gehÃ¶ren Ã¤rztlich abgeklÃ¤rt â€” nicht in eine Deutung nach TCM-Bildern. Diese Grenze schÃ¼tzt die Menschen und macht den Umgang mit dem Thema verantwortlich.`,
         },
         {
           id: 'N08-M6-L2',
           titel: 'Die eigene Rolle verantwortlich gestalten',
-          text: `Wer das TCM-Denken in der praktischen Arbeit weitergibt, sollte die eigene Rolle klar verstehen und transparent machen. Man vermittelt kulturelles und philosophisches Wissen, bietet Reflexionsbilder an, fördert einen ausgewogenen Lebensstil und Achtsamkeit — man diagnostiziert und behandelt nicht.
+          inhalt: `Wer das TCM-Denken in der praktischen Arbeit weitergibt, sollte die eigene Rolle klar verstehen und transparent machen. Man vermittelt kulturelles und philosophisches Wissen, bietet Reflexionsbilder an, fÃ¶rdert einen ausgewogenen Lebensstil und Achtsamkeit â€” man diagnostiziert und behandelt nicht.
 
-Diese Rollenklarheit ist rechtlich und ethisch entscheidend. Im nicht-heilkundlichen Rahmen sind die Vermittlung von Kultur- und Reflexionswissen und die Förderung von Selbstfürsorge unproblematisch und wertvoll. Sobald man jedoch Beschwerden „nach TCM" deutet, behandelt oder Heilung verspricht, überschreitet man die Grenze zur Heilkunde — mit allen rechtlichen Folgen.
+Diese Rollenklarheit ist rechtlich und ethisch entscheidend. Im nicht-heilkundlichen Rahmen sind die Vermittlung von Kultur- und Reflexionswissen und die FÃ¶rderung von SelbstfÃ¼rsorge unproblematisch und wertvoll. Sobald man jedoch Beschwerden â€žnach TCM" deutet, behandelt oder Heilung verspricht, Ã¼berschreitet man die Grenze zur Heilkunde â€” mit allen rechtlichen Folgen.
 
-Konkret heißt das: über das TCM-Denken als Kultur und Philosophie sprechen, seine Konzepte als Reflexionsbilder anbieten, zu Balance, Maß, saisonalem Leben und Achtsamkeit ermutigen — und bei jeder gesundheitlichen Frage freundlich, aber bestimmt an Arzt und Apotheke verweisen. Die Konzepte bleiben dabei stets als Bilder gekennzeichnet, nicht als medizinische Tatsachen.
+Konkret heiÃŸt das: Ã¼ber das TCM-Denken als Kultur und Philosophie sprechen, seine Konzepte als Reflexionsbilder anbieten, zu Balance, MaÃŸ, saisonalem Leben und Achtsamkeit ermutigen â€” und bei jeder gesundheitlichen Frage freundlich, aber bestimmt an Arzt und Apotheke verweisen. Die Konzepte bleiben dabei stets als Bilder gekennzeichnet, nicht als medizinische Tatsachen.
 
-Eine hilfreiche Leitfrage lautet: „Spreche ich gerade über ein Kulturbild und einen Lebensstil — oder treffe ich eine medizinische Aussage über Beschwerden?" Im zweiten Fall der Verweis an Fachleute. Wer so arbeitet, gestaltet seine Rolle verantwortlich und macht das TCM-Denken zu einer bereichernden, seriösen Ergänzung.`,
+Eine hilfreiche Leitfrage lautet: â€žSpreche ich gerade Ã¼ber ein Kulturbild und einen Lebensstil â€” oder treffe ich eine medizinische Aussage Ã¼ber Beschwerden?" Im zweiten Fall der Verweis an Fachleute. Wer so arbeitet, gestaltet seine Rolle verantwortlich und macht das TCM-Denken zu einer bereichernden, seriÃ¶sen ErgÃ¤nzung.`,
         },
         {
           id: 'N08-M6-L3',
           titel: 'Zusammenfassung und Haltung',
-          text: `Zum Abschluss der Blick auf das Ganze. Dieser Kurs hat die Traditionelle Chinesische Medizin als faszinierendes Denk-, Ordnungs- und Kulturmodell vorgestellt — mit dem Bild der Lebensenergie, dem Prinzip von Yin und Yang, den fünf Wandlungsphasen und dem Ideal von Maß und Balance.
+          inhalt: `Zum Abschluss der Blick auf das Ganze. Dieser Kurs hat die Traditionelle Chinesische Medizin als faszinierendes Denk-, Ordnungs- und Kulturmodell vorgestellt â€” mit dem Bild der Lebensenergie, dem Prinzip von Yin und Yang, den fÃ¼nf Wandlungsphasen und dem Ideal von MaÃŸ und Balance.
 
-Wir haben diese Konzepte als das verstanden, was sie sind: reiche kulturelle und philosophische Bilder, die zur Selbstreflexion, zu Achtsamkeit und zu einem ausgewogenen, naturverbundenen Lebensstil anregen können. Wir haben sie als Metaphern und Reflexionswerkzeuge genutzt — nicht als naturwissenschaftliche Mechanismen oder medizinische Diagnose- und Therapieinstrumente.
+Wir haben diese Konzepte als das verstanden, was sie sind: reiche kulturelle und philosophische Bilder, die zur Selbstreflexion, zu Achtsamkeit und zu einem ausgewogenen, naturverbundenen Lebensstil anregen kÃ¶nnen. Wir haben sie als Metaphern und Reflexionswerkzeuge genutzt â€” nicht als naturwissenschaftliche Mechanismen oder medizinische Diagnose- und Therapieinstrumente.
 
-Durchgehend zog sich eine doppelte Haltung: die Würdigung eines bedeutenden kulturellen Erbes und der ehrliche, kritische Blick auf die Frage wissenschaftlicher Belege. Und ebenso durchgehend die klare Grenze zur Heilkunde: keine Diagnose, keine Behandlung, keine Heilversprechen — bei gesundheitlichen Fragen der Verweis an Arzt und Apotheke.
+Durchgehend zog sich eine doppelte Haltung: die WÃ¼rdigung eines bedeutenden kulturellen Erbes und der ehrliche, kritische Blick auf die Frage wissenschaftlicher Belege. Und ebenso durchgehend die klare Grenze zur Heilkunde: keine Diagnose, keine Behandlung, keine Heilversprechen â€” bei gesundheitlichen Fragen der Verweis an Arzt und Apotheke.
 
-Die Haltung, die dieser Kurs vermitteln will, verbindet Offenheit und Respekt für ein großes Kulturerbe mit Ehrlichkeit, kritischem Denken und klaren Grenzen. Wer das TCM-Denken so versteht, gewinnt einen Zugang zu einer faszinierenden Weltsicht und zu wertvollen Reflexionsbildern für das eigene Leben — verantwortlich, seriös und im klaren Wissen um die Grenze zur Medizin. Das ist der bleibende Wert dieses Einblicks.`,
+Die Haltung, die dieser Kurs vermitteln will, verbindet Offenheit und Respekt fÃ¼r ein groÃŸes Kulturerbe mit Ehrlichkeit, kritischem Denken und klaren Grenzen. Wer das TCM-Denken so versteht, gewinnt einen Zugang zu einer faszinierenden Weltsicht und zu wertvollen Reflexionsbildern fÃ¼r das eigene Leben â€” verantwortlich, seriÃ¶s und im klaren Wissen um die Grenze zur Medizin. Das ist der bleibende Wert dieses Einblicks.`,
         },
       ],
     },
@@ -257,46 +257,46 @@ Die Haltung, die dieser Kurs vermitteln will, verbindet Offenheit und Respekt f�
       frage: 'Wie vermittelt dieser Kurs die TCM?',
       antworten: [
         'Als Anleitung zu Diagnose und Behandlung',
-        'Als Denk-, Ordnungs- und Kulturmodell — Bildungs- und Reflexionswissen',
-        'Als Ersatz für ärztliche Behandlung',
+        'Als Denk-, Ordnungs- und Kulturmodell â€” Bildungs- und Reflexionswissen',
+        'Als Ersatz fÃ¼r Ã¤rztliche Behandlung',
         'Als Akupunktur-Schulung',
       ],
       richtig: 1,
     },
     {
-      frage: 'Wie ist das Bild der „Lebensenergie" zu verstehen?',
+      frage: 'Wie ist das Bild der â€žLebensenergie" zu verstehen?',
       antworten: [
         'Als naturwissenschaftlich nachgewiesene Kraft',
-        'Als kulturelles, metaphorisches Bild — nicht als messbare physikalische Realität',
+        'Als kulturelles, metaphorisches Bild â€” nicht als messbare physikalische RealitÃ¤t',
         'Als medizinische Diagnose',
-        'Als Beweis für Heilwirkung',
+        'Als Beweis fÃ¼r Heilwirkung',
       ],
       richtig: 1,
     },
     {
       frage: 'Was beschreibt das Prinzip von Yin und Yang?',
       antworten: [
-        'Einen Kampf zwischen Gut und Böse',
-        'Gegensätzliche, einander ergänzende Kräfte — ein Reflexionswerkzeug für Balance',
-        'Ein Diagnosesystem für Krankheiten',
+        'Einen Kampf zwischen Gut und BÃ¶se',
+        'GegensÃ¤tzliche, einander ergÃ¤nzende KrÃ¤fte â€” ein Reflexionswerkzeug fÃ¼r Balance',
+        'Ein Diagnosesystem fÃ¼r Krankheiten',
         'Eine Dosierungsregel',
       ],
       richtig: 1,
     },
     {
-      frage: 'Was sind die „fünf Elemente" der TCM eigentlich?',
+      frage: 'Was sind die â€žfÃ¼nf Elemente" der TCM eigentlich?',
       antworten: [
         'Grundstoffe der Materie',
-        'Wandlungsphasen / Qualitäts-Bilder — ein altes Ordnungsmodell',
-        'Ein wissenschaftliches Erklärungsmodell',
-        'Fünf Medikamente',
+        'Wandlungsphasen / QualitÃ¤ts-Bilder â€” ein altes Ordnungsmodell',
+        'Ein wissenschaftliches ErklÃ¤rungsmodell',
+        'FÃ¼nf Medikamente',
       ],
       richtig: 1,
     },
     {
       frage: 'Wie sollte man die TCM-Konzepte am besten verstehen?',
       antworten: [
-        'Als wörtliche physikalische Wahrheiten',
+        'Als wÃ¶rtliche physikalische Wahrheiten',
         'Als Metaphern und Reflexionsmodelle, nicht als nachgewiesene Mechanismen',
         'Als gesicherte medizinische Diagnosen',
         'Als Therapieanleitungen',
@@ -304,31 +304,31 @@ Die Haltung, die dieser Kurs vermitteln will, verbindet Offenheit und Respekt f�
       richtig: 1,
     },
     {
-      frage: 'Welche Haltung ist gegenüber der TCM reif und seriös?',
+      frage: 'Welche Haltung ist gegenÃ¼ber der TCM reif und seriÃ¶s?',
       antworten: [
         'Sie als bewiesene Medizin darstellen',
         'Sie pauschal als Unsinn ablehnen',
-        'Kulturerbe würdigen UND wissenschaftlich-kritisch einordnen',
+        'Kulturerbe wÃ¼rdigen UND wissenschaftlich-kritisch einordnen',
         'Heilung von Krankheiten versprechen',
       ],
       richtig: 2,
     },
     {
-      frage: 'Welches Lebensprinzip lässt sich sicher aus dem TCM-Denken ableiten?',
+      frage: 'Welches Lebensprinzip lÃ¤sst sich sicher aus dem TCM-Denken ableiten?',
       antworten: [
-        'Selbstbehandlung mit Kräutern',
-        'Maß und Mitte / ausgewogener, saisonaler Lebensstil',
-        'Verzicht auf ärztliche Hilfe',
+        'Selbstbehandlung mit KrÃ¤utern',
+        'MaÃŸ und Mitte / ausgewogener, saisonaler Lebensstil',
+        'Verzicht auf Ã¤rztliche Hilfe',
         'Diagnose per Zungenbild',
       ],
       richtig: 1,
     },
     {
-      frage: 'Was gehört bei gesundheitlichen Beschwerden ausnahmslos getan?',
+      frage: 'Was gehÃ¶rt bei gesundheitlichen Beschwerden ausnahmslos getan?',
       antworten: [
         'Deutung nach TCM-Bildern',
-        'Selbstbehandlung nach den fünf Phasen',
-        'Ärztliche Abklärung (Arzt/Apotheke)',
+        'Selbstbehandlung nach den fÃ¼nf Phasen',
+        'Ã„rztliche AbklÃ¤rung (Arzt/Apotheke)',
         'Abwarten und meditieren',
       ],
       richtig: 2,

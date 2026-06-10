@@ -1,20 +1,20 @@
-// N16 â€” Symbolische Arbeit & symbolische Zeichen
-// Bereich: bewusstsein Â· Niveau: â˜…â˜…â˜† Â· Format: â—ˆâ—ˆ Standard-Kurs Â· Zielgruppe: Praktiker Â· Status: live
-// Gebaut nach KURS_UMFANG_STANDARD (03.06.2026): 6 Module / 18 Lektionen / je 250+ WÃ¶rter.
-// âš ï¸ HEIKLES THEMA (Curriculum nannte "Heilinstrument" / "Energetische HomÃ¶opathie"):
-// Zuschnitt-Standard streng angewendet. Symbole/Formen werden ausschlieÃŸlich als
-// WAHRNEHMUNGS-, REFLEXIONS- und ACHTSAMKEITS-Werkzeug gerahmt â€” KEIN Heilversprechen,
+// N16 — Symbolische Arbeit & symbolische Zeichen
+// Bereich: bewusstsein · Niveau: ★★☆ · Format: ◈◈ Standard-Kurs · Zielgruppe: Praktiker · Status: live
+// Gebaut nach KURS_UMFANG_STANDARD (03.06.2026): 6 Module / 18 Lektionen / je 250+ Wörter.
+// ⚠️ HEIKLES THEMA (Curriculum nannte "Heilinstrument" / "Energetische Homöopathie"):
+// Zuschnitt-Standard streng angewendet. Symbole/Formen werden ausschließlich als
+// WAHRNEHMUNGS-, REFLEXIONS- und ACHTSAMKEITS-Werkzeug gerahmt — KEIN Heilversprechen,
 // keine medizinische Wirkbehauptung, keine Diagnostik, keine Therapie, keine Heilmittel.
-// Harte Grenze zu Medizin/Heilkunde durchgÃ¤ngig. Keine Health-Claims (HeilprG/HWG).
-// Quellenschutz-Audit bestanden â€” markenfrei, keine Autoren/Schulen/Werke/Systeme namentlich.
+// Harte Grenze zu Medizin/Heilkunde durchgängig. Keine Health-Claims (HeilprG/HWG).
+// Quellenschutz-Audit bestanden — markenfrei, keine Autoren/Schulen/Werke/Systeme namentlich.
 
 const N16 = {
   id: 'N16',
   bereich: 'bewusstsein',
   titel: 'Symbolische Arbeit & symbolische Zeichen',
   kuerzel: 'N16',
-  niveau: 'â˜…â˜…â˜†',
-  beschreibung: 'Symbole, Formen und Zeichen als Werkzeuge der Selbstwahrnehmung, Achtsamkeit und inneren Ausrichtung. Du lernst, mit symbolischer Arbeit Reflexion und Wohlbefinden zu unterstÃ¼tzen â€” bewusst ohne Heilversprechen und mit klarer Grenze zu Medizin und Therapie.',
+  niveau: '★★☆',
+  beschreibung: 'Symbole, Formen und Zeichen als Werkzeuge der Selbstwahrnehmung, Achtsamkeit und inneren Ausrichtung. Du lernst, mit symbolischer Arbeit Reflexion und Wohlbefinden zu unterstützen — bewusst ohne Heilversprechen und mit klarer Grenze zu Medizin und Therapie.',
   status: 'live',
   module: [
     {
@@ -23,114 +23,114 @@ const N16 = {
       lektionen: [
         {
           id: 'N16-M1-L1',
-          titel: 'Was Symbole fÃ¼r den Menschen bedeuten',
-          inhalt: `Symbole begleiten die Menschheit, seit es Menschen gibt. Ein Kreis, ein Kreuz, eine Spirale, ein Herz â€” solche Zeichen tragen Bedeutung weit Ã¼ber ihre einfache Form hinaus. Sie verdichten Erfahrungen, Werte und GefÃ¼hle in einer Gestalt, die unmittelbar wirkt, oft schneller als Worte. In diesem Kurs lernst du, mit dieser Kraft der Symbole bewusst und verantwortungsvoll zu arbeiten.
+          titel: 'Was Symbole für den Menschen bedeuten',
+          inhalt: `Symbole begleiten die Menschheit, seit es Menschen gibt. Ein Kreis, ein Kreuz, eine Spirale, ein Herz — solche Zeichen tragen Bedeutung weit über ihre einfache Form hinaus. Sie verdichten Erfahrungen, Werte und Gefühle in einer Gestalt, die unmittelbar wirkt, oft schneller als Worte. In diesem Kurs lernst du, mit dieser Kraft der Symbole bewusst und verantwortungsvoll zu arbeiten.
 
-Wichtig ist von Beginn an eine klare Rahmung: Symbolische Arbeit, wie wir sie hier verstehen, ist ein Werkzeug der Wahrnehmung, der Reflexion und der inneren Ausrichtung. Symbole wirken Ã¼ber die Bedeutung, die wir ihnen geben, Ã¼ber die Aufmerksamkeit, die sie bÃ¼ndeln, und Ã¼ber die GefÃ¼hle, die sie wecken. Sie sind kein Medikament und keine Behandlung â€” sie heilen keine Krankheiten, und genau diese Ehrlichkeit macht die Arbeit seriÃ¶s.
+Wichtig ist von Beginn an eine klare Rahmung: Symbolische Arbeit, wie wir sie hier verstehen, ist ein Werkzeug der Wahrnehmung, der Reflexion und der inneren Ausrichtung. Symbole wirken über die Bedeutung, die wir ihnen geben, über die Aufmerksamkeit, die sie bündeln, und über die Gefühle, die sie wecken. Sie sind kein Medikament und keine Behandlung — sie heilen keine Krankheiten, und genau diese Ehrlichkeit macht die Arbeit seriös.
 
-Der Wert symbolischer Arbeit liegt im psychologischen und seelischen Raum: Ein Symbol kann eine Absicht sichtbar machen, einen inneren Zustand spiegeln, einen Fokus geben oder ein GefÃ¼hl von Halt vermitteln. Menschen nutzen das seit jeher â€” im Ritual, in der Kunst, im Alltag.
+Der Wert symbolischer Arbeit liegt im psychologischen und seelischen Raum: Ein Symbol kann eine Absicht sichtbar machen, einen inneren Zustand spiegeln, einen Fokus geben oder ein Gefühl von Halt vermitteln. Menschen nutzen das seit jeher — im Ritual, in der Kunst, im Alltag.
 
-Wer mit Symbolen arbeitet, arbeitet also mit Bedeutung und Aufmerksamkeit, nicht mit medizinischer Wirkung. Diese Unterscheidung zieht sich durch den ganzen Kurs und ist die Grundlage dafÃ¼r, dass symbolische Arbeit ein wertvolles, sicheres und ehrliches Werkzeug bleibt.`,
+Wer mit Symbolen arbeitet, arbeitet also mit Bedeutung und Aufmerksamkeit, nicht mit medizinischer Wirkung. Diese Unterscheidung zieht sich durch den ganzen Kurs und ist die Grundlage dafür, dass symbolische Arbeit ein wertvolles, sicheres und ehrliches Werkzeug bleibt.`,
         },
         {
           id: 'N16-M1-L2',
-          titel: 'Wie Symbole wirken â€” eine ehrliche Einordnung',
-          inhalt: `Um verantwortlich mit Symbolen zu arbeiten, lohnt ein nÃ¼chterner Blick darauf, wie sie wirken. Ihre Kraft entfaltet sich vor allem Ã¼ber drei Wege: Aufmerksamkeit, Bedeutung und GefÃ¼hl. Ein Symbol lenkt den Fokus, es ruft eine persÃ¶nliche oder kulturelle Bedeutung auf, und es kann ein GefÃ¼hl wecken â€” Ruhe, Kraft, Geborgenheit, Klarheit.
+          titel: 'Wie Symbole wirken — eine ehrliche Einordnung',
+          inhalt: `Um verantwortlich mit Symbolen zu arbeiten, lohnt ein nüchterner Blick darauf, wie sie wirken. Ihre Kraft entfaltet sich vor allem über drei Wege: Aufmerksamkeit, Bedeutung und Gefühl. Ein Symbol lenkt den Fokus, es ruft eine persönliche oder kulturelle Bedeutung auf, und es kann ein Gefühl wecken — Ruhe, Kraft, Geborgenheit, Klarheit.
 
-Diese Wirkungen sind real und wertvoll, aber sie geschehen im Erleben des Menschen, nicht im Stoffwechsel oder im Gewebe. Ein beruhigendes Symbol kann helfen, sich zu sammeln und Anspannung zu lÃ¶sen â€” so, wie ein vertrautes Lied oder ein schÃ¶ner Ort das auch kÃ¶nnen. Das ist die ehrliche Beschreibung seiner Wirkung.
+Diese Wirkungen sind real und wertvoll, aber sie geschehen im Erleben des Menschen, nicht im Stoffwechsel oder im Gewebe. Ein beruhigendes Symbol kann helfen, sich zu sammeln und Anspannung zu lösen — so, wie ein vertrautes Lied oder ein schöner Ort das auch können. Das ist die ehrliche Beschreibung seiner Wirkung.
 
-Bewusst vermeiden wir deshalb Behauptungen, ein Symbol kÃ¶nne Krankheiten heilen, Beschwerden beseitigen oder kÃ¶rperliche Prozesse direkt steuern. Solche Aussagen wÃ¤ren weder belegt noch zulÃ¤ssig und wÃ¼rden die Arbeit unseriÃ¶s machen. Wer ehrlich beschreibt, was Symbolarbeit kann â€” und was nicht â€”, gewinnt Vertrauen statt es zu verspielen.
+Bewusst vermeiden wir deshalb Behauptungen, ein Symbol könne Krankheiten heilen, Beschwerden beseitigen oder körperliche Prozesse direkt steuern. Solche Aussagen wären weder belegt noch zulässig und würden die Arbeit unseriös machen. Wer ehrlich beschreibt, was Symbolarbeit kann — und was nicht —, gewinnt Vertrauen statt es zu verspielen.
 
-Diese Haltung ist kein Verzicht, sondern eine StÃ¤rke. Sie erlaubt es, die echten QualitÃ¤ten symbolischer Arbeit â€” Fokus, Reflexion, emotionale UnterstÃ¼tzung, Ritualkraft â€” voll zu nutzen, ohne in fragwÃ¼rdige Versprechen zu rutschen. Genau das macht eine reife, professionelle Praxis aus.`,
+Diese Haltung ist kein Verzicht, sondern eine Stärke. Sie erlaubt es, die echten Qualitäten symbolischer Arbeit — Fokus, Reflexion, emotionale Unterstützung, Ritualkraft — voll zu nutzen, ohne in fragwürdige Versprechen zu rutschen. Genau das macht eine reife, professionelle Praxis aus.`,
         },
         {
           id: 'N16-M1-L3',
           titel: 'Die Sprache der Formen',
-          inhalt: `Formen tragen eine eigene, oft kulturÃ¼bergreifend Ã¤hnliche Bedeutung â€” eine Art Grundsprache, die viele Menschen intuitiv verstehen. Der Kreis steht hÃ¤ufig fÃ¼r Ganzheit, Schutz und VollstÃ¤ndigkeit; die Linie fÃ¼r Richtung und Verbindung; das Dreieck fÃ¼r StabilitÃ¤t oder Streben; die Spirale fÃ¼r Entwicklung und Wachstum; das Quadrat fÃ¼r Halt und Struktur.
+          inhalt: `Formen tragen eine eigene, oft kulturübergreifend ähnliche Bedeutung — eine Art Grundsprache, die viele Menschen intuitiv verstehen. Der Kreis steht häufig für Ganzheit, Schutz und Vollständigkeit; die Linie für Richtung und Verbindung; das Dreieck für Stabilität oder Streben; die Spirale für Entwicklung und Wachstum; das Quadrat für Halt und Struktur.
 
-Diese Bedeutungen sind keine festen Gesetze, sondern AnknÃ¼pfungspunkte. Ihre Kraft entfalten sie erst in der persÃ¶nlichen Resonanz: Welche Form spricht einen Menschen an? Welche fÃ¼hlt sich stimmig an, welche fremd? In der symbolischen Arbeit geht es weniger darum, â€žrichtige" Bedeutungen zu lernen, als darum, die eigene Resonanz mit Formen wahrzunehmen.
+Diese Bedeutungen sind keine festen Gesetze, sondern Anknüpfungspunkte. Ihre Kraft entfalten sie erst in der persönlichen Resonanz: Welche Form spricht einen Menschen an? Welche fühlt sich stimmig an, welche fremd? In der symbolischen Arbeit geht es weniger darum, „richtige" Bedeutungen zu lernen, als darum, die eigene Resonanz mit Formen wahrzunehmen.
 
-Auch Farben, Anordnungen und GrÃ¶ÃŸenverhÃ¤ltnisse tragen zur Wirkung bei. Eine ruhige, symmetrische Form vermittelt anderes als eine dynamische, asymmetrische. Wer ein GespÃ¼r fÃ¼r diese Sprache entwickelt, kann Symbole bewusst auswÃ¤hlen oder gestalten, um einen bestimmten inneren Zustand zu unterstÃ¼tzen â€” Ruhe, Klarheit, Aufbruch.
+Auch Farben, Anordnungen und Größenverhältnisse tragen zur Wirkung bei. Eine ruhige, symmetrische Form vermittelt anderes als eine dynamische, asymmetrische. Wer ein Gespür für diese Sprache entwickelt, kann Symbole bewusst auswählen oder gestalten, um einen bestimmten inneren Zustand zu unterstützen — Ruhe, Klarheit, Aufbruch.
 
-FÃ¼r die Praxis heiÃŸt das: Die Sprache der Formen ist ein reiches, intuitives Werkzeug. Man nutzt sie, um Menschen einen Zugang zu ihrem Erleben zu erÃ¶ffnen â€” nicht, um ihnen eine feststehende Deutung Ã¼berzustÃ¼lpen. Offenheit und persÃ¶nliche Resonanz stehen Ã¼ber jeder Symbol-â€žTabelle".`,
+Für die Praxis heißt das: Die Sprache der Formen ist ein reiches, intuitives Werkzeug. Man nutzt sie, um Menschen einen Zugang zu ihrem Erleben zu eröffnen — nicht, um ihnen eine feststehende Deutung überzustülpen. Offenheit und persönliche Resonanz stehen über jeder Symbol-„Tabelle".`,
         },
       ],
     },
     {
       id: 'N16-M2',
-      titel: 'Symbole und innere ZustÃ¤nde',
+      titel: 'Symbole und innere Zustände',
       lektionen: [
         {
           id: 'N16-M2-L1',
           titel: 'Symbole als Spiegel des Inneren',
-          inhalt: `Ein zentraler Einsatz symbolischer Arbeit ist das Spiegeln innerer ZustÃ¤nde. Wenn ein Mensch ein Symbol wÃ¤hlt, das gerade zu ihm passt, oder eines gestaltet, das sein Befinden ausdrÃ¼ckt, wird etwas Inneres sichtbar und besprechbar. Das Symbol wird zur BrÃ¼cke zwischen dem, was schwer in Worte zu fassen ist, und dem Bewusstsein.
+          inhalt: `Ein zentraler Einsatz symbolischer Arbeit ist das Spiegeln innerer Zustände. Wenn ein Mensch ein Symbol wählt, das gerade zu ihm passt, oder eines gestaltet, das sein Befinden ausdrückt, wird etwas Inneres sichtbar und besprechbar. Das Symbol wird zur Brücke zwischen dem, was schwer in Worte zu fassen ist, und dem Bewusstsein.
 
-Diese Arbeit ist verwandt mit dem, was Menschen in Kunst, Traumarbeit oder kreativem Ausdruck tun: Sie geben einem inneren Zustand eine Gestalt und kÃ¶nnen ihn dadurch besser verstehen. Ein Mensch, der seine momentane Last als schweren, dunklen Block malt und seine Sehnsucht als helle, offene Form, erfÃ¤hrt etwas Ã¼ber sich â€” nicht durch eine Deutung von auÃŸen, sondern durch das eigene Gestalten.
+Diese Arbeit ist verwandt mit dem, was Menschen in Kunst, Traumarbeit oder kreativem Ausdruck tun: Sie geben einem inneren Zustand eine Gestalt und können ihn dadurch besser verstehen. Ein Mensch, der seine momentane Last als schweren, dunklen Block malt und seine Sehnsucht als helle, offene Form, erfährt etwas über sich — nicht durch eine Deutung von außen, sondern durch das eigene Gestalten.
 
-Die Rolle der begleitenden Person ist hier zurÃ¼ckhaltend und einladend: Sie stellt Material und Raum bereit, ermutigt zum Ausdruck und fragt offen nach, statt vorschnell zu deuten. â€žWas zeigt sich dir in dieser Form?" ist hilfreicher als â€žDas bedeutet sicher ...". Die Bedeutung liegt beim Menschen selbst.
+Die Rolle der begleitenden Person ist hier zurückhaltend und einladend: Sie stellt Material und Raum bereit, ermutigt zum Ausdruck und fragt offen nach, statt vorschnell zu deuten. „Was zeigt sich dir in dieser Form?" ist hilfreicher als „Das bedeutet sicher ...". Die Bedeutung liegt beim Menschen selbst.
 
-Wichtig: Diese Arbeit ist Reflexion und Ausdruck, keine Psychotherapie und keine Diagnostik. Sie unterstÃ¼tzt Selbstwahrnehmung und GesprÃ¤ch. Wo tiefere seelische Not, psychische Erkrankung oder Krisen sichtbar werden, gilt die klare Grenze â€” dann ist therapeutische oder Ã¤rztliche Hilfe gefragt, nicht symbolische Arbeit.`,
+Wichtig: Diese Arbeit ist Reflexion und Ausdruck, keine Psychotherapie und keine Diagnostik. Sie unterstützt Selbstwahrnehmung und Gespräch. Wo tiefere seelische Not, psychische Erkrankung oder Krisen sichtbar werden, gilt die klare Grenze — dann ist therapeutische oder ärztliche Hilfe gefragt, nicht symbolische Arbeit.`,
         },
         {
           id: 'N16-M2-L2',
           titel: 'Symbole zur inneren Ausrichtung',
-          inhalt: `Neben dem Spiegeln dienen Symbole der inneren Ausrichtung â€” als sichtbare TrÃ¤ger einer Absicht oder eines Vorsatzes. Ein Mensch, der sich mehr Ruhe wÃ¼nscht, wÃ¤hlt vielleicht ein ruhiges Symbol und stellt es an einen Ort, den er tÃ¤glich sieht. Das Symbol erinnert und fokussiert, Ã¤hnlich wie ein bewusst gewÃ¤hltes Wort oder ein Bild auf dem Schreibtisch.
+          inhalt: `Neben dem Spiegeln dienen Symbole der inneren Ausrichtung — als sichtbare Träger einer Absicht oder eines Vorsatzes. Ein Mensch, der sich mehr Ruhe wünscht, wählt vielleicht ein ruhiges Symbol und stellt es an einen Ort, den er täglich sieht. Das Symbol erinnert und fokussiert, ähnlich wie ein bewusst gewähltes Wort oder ein Bild auf dem Schreibtisch.
 
-Diese Wirkung ist psychologisch gut nachvollziehbar: Was wir regelmÃ¤ÃŸig sehen und mit Bedeutung aufladen, lenkt unsere Aufmerksamkeit und kann Haltungen stÃ¤rken. Ein Symbol fÃ¼r â€žMut" macht den Vorsatz prÃ¤sent; eines fÃ¼r â€žLoslassen" erinnert in angespannten Momenten. Die Kraft liegt in der bewussten Verbindung von Zeichen und Absicht.
+Diese Wirkung ist psychologisch gut nachvollziehbar: Was wir regelmäßig sehen und mit Bedeutung aufladen, lenkt unsere Aufmerksamkeit und kann Haltungen stärken. Ein Symbol für „Mut" macht den Vorsatz präsent; eines für „Loslassen" erinnert in angespannten Momenten. Die Kraft liegt in der bewussten Verbindung von Zeichen und Absicht.
 
-Solche Ausrichtungssymbole lassen sich vielfÃ¤ltig nutzen: als kleines Objekt, als Zeichnung, als Bild am Spiegel, als Motiv in einem Notizbuch. Entscheidend ist nicht die Form an sich, sondern die persÃ¶nliche Bedeutung und die regelmÃ¤ÃŸige, bewusste Begegnung damit.
+Solche Ausrichtungssymbole lassen sich vielfältig nutzen: als kleines Objekt, als Zeichnung, als Bild am Spiegel, als Motiv in einem Notizbuch. Entscheidend ist nicht die Form an sich, sondern die persönliche Bedeutung und die regelmäßige, bewusste Begegnung damit.
 
-Auch hier bleibt die Rahmung ehrlich: Das Symbol unterstÃ¼tzt die innere Ausrichtung Ã¼ber Aufmerksamkeit und Bedeutung â€” es bewirkt nichts â€žvon selbst" und ersetzt keine Handlung. Wer sich Gesundheit wÃ¼nscht, dem hilft ein Symbol, die Absicht prÃ¤sent zu halten; es ersetzt aber weder Arztbesuch noch gesunde LebensfÃ¼hrung. Diese Klarheit hÃ¤lt die Arbeit redlich.`,
+Auch hier bleibt die Rahmung ehrlich: Das Symbol unterstützt die innere Ausrichtung über Aufmerksamkeit und Bedeutung — es bewirkt nichts „von selbst" und ersetzt keine Handlung. Wer sich Gesundheit wünscht, dem hilft ein Symbol, die Absicht präsent zu halten; es ersetzt aber weder Arztbesuch noch gesunde Lebensführung. Diese Klarheit hält die Arbeit redlich.`,
         },
         {
           id: 'N16-M2-L3',
-          titel: 'PersÃ¶nliche Symbole entdecken',
-          inhalt: `Besonders wirksam sind Symbole, die ein Mensch selbst als bedeutsam erlebt â€” persÃ¶nliche Symbole. Sie entstehen aus der eigenen Biografie, aus Erlebnissen, SehnsÃ¼chten oder Bildern, die spontan auftauchen. Ein bestimmter Baum, eine Form aus der Kindheit, ein wiederkehrendes Bild in TrÃ¤umen: Solche persÃ¶nlichen Symbole tragen oft mehr Kraft als allgemeine Zeichen.
+          titel: 'Persönliche Symbole entdecken',
+          inhalt: `Besonders wirksam sind Symbole, die ein Mensch selbst als bedeutsam erlebt — persönliche Symbole. Sie entstehen aus der eigenen Biografie, aus Erlebnissen, Sehnsüchten oder Bildern, die spontan auftauchen. Ein bestimmter Baum, eine Form aus der Kindheit, ein wiederkehrendes Bild in Träumen: Solche persönlichen Symbole tragen oft mehr Kraft als allgemeine Zeichen.
 
-Um persÃ¶nliche Symbole zu entdecken, hilft eine ruhige, offene Haltung. Man kann fragen: Welches Bild taucht auf, wenn ich an Kraft denke? Welche Form verbinde ich mit Geborgenheit? Was zeigt sich, wenn ich die Augen schlieÃŸe und meinem Anliegen Raum gebe? Die ersten, spontanen Bilder sind oft die stimmigsten â€” der Verstand soll hier nicht zu schnell ordnen.
+Um persönliche Symbole zu entdecken, hilft eine ruhige, offene Haltung. Man kann fragen: Welches Bild taucht auf, wenn ich an Kraft denke? Welche Form verbinde ich mit Geborgenheit? Was zeigt sich, wenn ich die Augen schließe und meinem Anliegen Raum gebe? Die ersten, spontanen Bilder sind oft die stimmigsten — der Verstand soll hier nicht zu schnell ordnen.
 
-In der Begleitung lÃ¤dt man behutsam zu solcher Selbsterforschung ein, ohne Bilder vorzugeben. Material wie Stifte, Papier oder einfache GegenstÃ¤nde kann den Prozess unterstÃ¼tzen. Manche Menschen finden ihr Symbol im Zeichnen, andere im Sprechen, wieder andere in der Stille.
+In der Begleitung lädt man behutsam zu solcher Selbsterforschung ein, ohne Bilder vorzugeben. Material wie Stifte, Papier oder einfache Gegenstände kann den Prozess unterstützen. Manche Menschen finden ihr Symbol im Zeichnen, andere im Sprechen, wieder andere in der Stille.
 
-PersÃ¶nliche Symbole sind ein schÃ¶ner Beleg dafÃ¼r, dass die Kraft im Menschen liegt, nicht im Zeichen. Das Symbol gibt der inneren Bewegung eine Gestalt â€” die Bedeutung und die Wirkung kommen aus dem Menschen selbst. Diese Sicht stÃ¤rkt die Eigenverantwortung und schÃ¼tzt zugleich vor jedem Ã¼berzogenen Wirkanspruch.`,
+Persönliche Symbole sind ein schöner Beleg dafür, dass die Kraft im Menschen liegt, nicht im Zeichen. Das Symbol gibt der inneren Bewegung eine Gestalt — die Bedeutung und die Wirkung kommen aus dem Menschen selbst. Diese Sicht stärkt die Eigenverantwortung und schützt zugleich vor jedem überzogenen Wirkanspruch.`,
         },
       ],
     },
     {
       id: 'N16-M3',
-      titel: 'Geometrische Formen und ihre QualitÃ¤t',
+      titel: 'Geometrische Formen und ihre Qualität',
       lektionen: [
         {
           id: 'N16-M3-L1',
           titel: 'Die Faszination der Grundformen',
-          inhalt: `Geometrische Grundformen Ã¼ben auf viele Menschen eine besondere Faszination aus. Kreis, Dreieck, Quadrat, Spirale und ihre Kombinationen finden sich in Natur, Kunst und Architektur aller Kulturen. Diese Allgegenwart deutet darauf hin, dass solche Formen etwas Grundlegendes im menschlichen Wahrnehmen und Empfinden ansprechen.
+          inhalt: `Geometrische Grundformen üben auf viele Menschen eine besondere Faszination aus. Kreis, Dreieck, Quadrat, Spirale und ihre Kombinationen finden sich in Natur, Kunst und Architektur aller Kulturen. Diese Allgegenwart deutet darauf hin, dass solche Formen etwas Grundlegendes im menschlichen Wahrnehmen und Empfinden ansprechen.
 
-In der symbolischen Arbeit nutzen wir diese Formen als TrÃ¤ger von QualitÃ¤ten und als Objekte der Betrachtung. Ein harmonisch aufgebautes geometrisches Muster kann beim Betrachten beruhigen und den Blick sammeln â€” Ã¤hnlich wie das achtsame Betrachten eines Mandalas oder eines schÃ¶nen Musters. Der Effekt liegt in der Konzentration und der Ã¤sthetischen Wirkung, nicht in einer behaupteten Energie des Musters selbst.
+In der symbolischen Arbeit nutzen wir diese Formen als Träger von Qualitäten und als Objekte der Betrachtung. Ein harmonisch aufgebautes geometrisches Muster kann beim Betrachten beruhigen und den Blick sammeln — ähnlich wie das achtsame Betrachten eines Mandalas oder eines schönen Musters. Der Effekt liegt in der Konzentration und der ästhetischen Wirkung, nicht in einer behaupteten Energie des Musters selbst.
 
-Diese ehrliche Einordnung ist wichtig: Geometrische Formen â€ženthalten" keine Heilkraft, die auf den KÃ¶rper Ã¼berginge. Sie wirken Ã¼ber Wahrnehmung, Aufmerksamkeit und das GefÃ¼hl von Ordnung und Harmonie, das viele Menschen beim Betrachten empfinden. Das ist Grund genug, mit ihnen zu arbeiten â€” ohne sie zu Ã¼berhÃ¶hen.
+Diese ehrliche Einordnung ist wichtig: Geometrische Formen „enthalten" keine Heilkraft, die auf den Körper überginge. Sie wirken über Wahrnehmung, Aufmerksamkeit und das Gefühl von Ordnung und Harmonie, das viele Menschen beim Betrachten empfinden. Das ist Grund genug, mit ihnen zu arbeiten — ohne sie zu überhöhen.
 
-Wer geometrische Formen so versteht, kann sie reich einsetzen: als Fokuspunkt fÃ¼r Betrachtung und Ruhe, als gestalterisches Element fÃ¼r persÃ¶nliche Symbole, als Anker fÃ¼r Achtsamkeit. Die Faszination der Formen wird zum Werkzeug fÃ¼r Sammlung und Wohlbefinden.`,
+Wer geometrische Formen so versteht, kann sie reich einsetzen: als Fokuspunkt für Betrachtung und Ruhe, als gestalterisches Element für persönliche Symbole, als Anker für Achtsamkeit. Die Faszination der Formen wird zum Werkzeug für Sammlung und Wohlbefinden.`,
         },
         {
           id: 'N16-M3-L2',
           titel: 'Formen betrachten und gestalten',
-          inhalt: `Eine einfache, wirkungsvolle Praxis ist das achtsame Betrachten und Gestalten von Formen. Beim Betrachten ruht der Blick auf einer harmonischen Form oder einem symmetrischen Muster, wÃ¤hrend der Atem ruhig flieÃŸt. Die Aufmerksamkeit sammelt sich, das Gedankenkarussell kommt zur Ruhe â€” ein meditativer Zustand, den viele als wohltuend erleben.
+          inhalt: `Eine einfache, wirkungsvolle Praxis ist das achtsame Betrachten und Gestalten von Formen. Beim Betrachten ruht der Blick auf einer harmonischen Form oder einem symmetrischen Muster, während der Atem ruhig fließt. Die Aufmerksamkeit sammelt sich, das Gedankenkarussell kommt zur Ruhe — ein meditativer Zustand, den viele als wohltuend erleben.
 
-Beim Gestalten wird der Mensch selbst aktiv: Er zeichnet eine Spirale, malt ein Muster aus, gestaltet eine eigene Form. Dieses ruhige, konzentrierte Tun hat eine Ã¤hnliche Wirkung wie andere achtsame Handarbeiten â€” es erdet, beruhigt und gibt dem Inneren Ausdruck. Das Ergebnis muss nicht â€žschÃ¶n" oder â€žrichtig" sein; der Prozess zÃ¤hlt.
+Beim Gestalten wird der Mensch selbst aktiv: Er zeichnet eine Spirale, malt ein Muster aus, gestaltet eine eigene Form. Dieses ruhige, konzentrierte Tun hat eine ähnliche Wirkung wie andere achtsame Handarbeiten — es erdet, beruhigt und gibt dem Inneren Ausdruck. Das Ergebnis muss nicht „schön" oder „richtig" sein; der Prozess zählt.
 
-Solche Ãœbungen lassen sich leicht in die Begleitung einbauen oder als Selbsthilfe weitergeben. Sie brauchen wenig Material, sind risikoarm und fÃ¼r die meisten Menschen zugÃ¤nglich. Man kann sie zum Ankommen am Anfang einer Sitzung nutzen, zur Beruhigung in unruhigen Phasen oder als kleines tÃ¤gliches Ritual.
+Solche Übungen lassen sich leicht in die Begleitung einbauen oder als Selbsthilfe weitergeben. Sie brauchen wenig Material, sind risikoarm und für die meisten Menschen zugänglich. Man kann sie zum Ankommen am Anfang einer Sitzung nutzen, zur Beruhigung in unruhigen Phasen oder als kleines tägliches Ritual.
 
-Die Rahmung bleibt konsequent: Es geht um Sammlung, Achtsamkeit und Ausdruck â€” um Wohlbefinden, nicht um Heilung. Wer das Betrachten und Gestalten von Formen so anbietet, gibt Menschen ein einfaches, ehrliches Werkzeug fÃ¼r mehr Ruhe und PrÃ¤senz an die Hand.`,
+Die Rahmung bleibt konsequent: Es geht um Sammlung, Achtsamkeit und Ausdruck — um Wohlbefinden, nicht um Heilung. Wer das Betrachten und Gestalten von Formen so anbietet, gibt Menschen ein einfaches, ehrliches Werkzeug für mehr Ruhe und Präsenz an die Hand.`,
         },
         {
           id: 'N16-M3-L3',
           titel: 'Symbole im Raum und im Ritual',
-          inhalt: `Symbole und Formen entfalten ihre Wirkung besonders im bewussten Rahmen â€” im gestalteten Raum und im Ritual. Ein Symbol, das achtsam an einen Ort gestellt wird, ein Muster, das den Beginn einer ruhigen Zeit markiert, ein Zeichen, das ein Vorhaben begleitet: Solche Rituale geben Struktur und Bedeutung.
+          inhalt: `Symbole und Formen entfalten ihre Wirkung besonders im bewussten Rahmen — im gestalteten Raum und im Ritual. Ein Symbol, das achtsam an einen Ort gestellt wird, ein Muster, das den Beginn einer ruhigen Zeit markiert, ein Zeichen, das ein Vorhaben begleitet: Solche Rituale geben Struktur und Bedeutung.
 
-Rituale wirken, weil sie Aufmerksamkeit bÃ¼ndeln und ÃœbergÃ¤nge markieren. Das AnzÃ¼nden einer Kerze neben einem persÃ¶nlichen Symbol, das bewusste Betrachten einer Form zu Beginn des Tages, das Gestalten eines kleinen symbolischen Platzes zu Hause â€” all das schafft Momente der Sammlung und kann Halt geben. Der Mensch handelt bewusst und gibt seinem Anliegen einen wÃ¼rdigen Rahmen.
+Rituale wirken, weil sie Aufmerksamkeit bündeln und Übergänge markieren. Das Anzünden einer Kerze neben einem persönlichen Symbol, das bewusste Betrachten einer Form zu Beginn des Tages, das Gestalten eines kleinen symbolischen Platzes zu Hause — all das schafft Momente der Sammlung und kann Halt geben. Der Mensch handelt bewusst und gibt seinem Anliegen einen würdigen Rahmen.
 
-In der Begleitung kann man solche einfachen Rituale anregen und gemeinsam gestalten, immer angepasst an den Menschen und seine Werte. Manche mÃ¶gen es schlicht, andere ausgestaltet; manche verbinden es mit ihrem Glauben, andere ganz weltlich. Offenheit und Respekt vor der persÃ¶nlichen Ausrichtung sind dabei entscheidend.
+In der Begleitung kann man solche einfachen Rituale anregen und gemeinsam gestalten, immer angepasst an den Menschen und seine Werte. Manche mögen es schlicht, andere ausgestaltet; manche verbinden es mit ihrem Glauben, andere ganz weltlich. Offenheit und Respekt vor der persönlichen Ausrichtung sind dabei entscheidend.
 
-Die ehrliche Einordnung gilt auch hier: Das Ritual wirkt Ã¼ber Bedeutung, Aufmerksamkeit und das GefÃ¼hl von Ordnung und Selbstwirksamkeit â€” nicht Ã¼ber magische KrÃ¤fte. Es ersetzt keine notwendige Handlung und keine Behandlung. Als Werkzeug fÃ¼r Sammlung, Ãœbergang und innere Ausrichtung ist es jedoch alt, bewÃ¤hrt und wertvoll.`,
+Die ehrliche Einordnung gilt auch hier: Das Ritual wirkt über Bedeutung, Aufmerksamkeit und das Gefühl von Ordnung und Selbstwirksamkeit — nicht über magische Kräfte. Es ersetzt keine notwendige Handlung und keine Behandlung. Als Werkzeug für Sammlung, Übergang und innere Ausrichtung ist es jedoch alt, bewährt und wertvoll.`,
         },
       ],
     },
@@ -141,35 +141,35 @@ Die ehrliche Einordnung gilt auch hier: Das Ritual wirkt Ã¼ber Bedeutung, Aufm
         {
           id: 'N16-M4-L1',
           titel: 'Den Rahmen verantwortlich setzen',
-          inhalt: `Wer symbolische Arbeit anbietet, trÃ¤gt Verantwortung fÃ¼r einen klaren, ehrlichen Rahmen. Das beginnt mit der AufklÃ¤rung: Menschen sollen verstehen, was symbolische Arbeit ist und was nicht. Sie ist ein Werkzeug fÃ¼r Reflexion, Achtsamkeit und Wohlbefinden â€” keine medizinische oder therapeutische Behandlung und kein Ersatz dafÃ¼r.
+          inhalt: `Wer symbolische Arbeit anbietet, trägt Verantwortung für einen klaren, ehrlichen Rahmen. Das beginnt mit der Aufklärung: Menschen sollen verstehen, was symbolische Arbeit ist und was nicht. Sie ist ein Werkzeug für Reflexion, Achtsamkeit und Wohlbefinden — keine medizinische oder therapeutische Behandlung und kein Ersatz dafür.
 
-Diese Transparenz ist kein bÃ¼rokratisches Beiwerk, sondern Ausdruck von Respekt. Ein Mensch, der weiÃŸ, worauf er sich einlÃ¤sst, kann frei und mÃ¼ndig entscheiden. Ãœberzogene Versprechen dagegen â€” â€ždieses Symbol heilt deine Beschwerden" â€” wÃ¤ren nicht nur unzulÃ¤ssig, sondern wÃ¼rden Vertrauen missbrauchen und kÃ¶nnten Menschen davon abhalten, nÃ¶tige Hilfe zu suchen.
+Diese Transparenz ist kein bürokratisches Beiwerk, sondern Ausdruck von Respekt. Ein Mensch, der weiß, worauf er sich einlässt, kann frei und mündig entscheiden. Überzogene Versprechen dagegen — „dieses Symbol heilt deine Beschwerden" — wären nicht nur unzulässig, sondern würden Vertrauen missbrauchen und könnten Menschen davon abhalten, nötige Hilfe zu suchen.
 
-Zum verantwortlichen Rahmen gehÃ¶rt auch die Klarheit Ã¼ber die eigene Rolle: Man begleitet, hÃ¤lt Raum, regt an und unterstÃ¼tzt die Selbstwahrnehmung. Man diagnostiziert nicht, behandelt nicht und maÃŸt sich keine therapeutische Tiefe an, fÃ¼r die eine entsprechende Ausbildung nÃ¶tig wÃ¤re.
+Zum verantwortlichen Rahmen gehört auch die Klarheit über die eigene Rolle: Man begleitet, hält Raum, regt an und unterstützt die Selbstwahrnehmung. Man diagnostiziert nicht, behandelt nicht und maßt sich keine therapeutische Tiefe an, für die eine entsprechende Ausbildung nötig wäre.
 
-Ein guter Rahmen schÃ¼tzt beide Seiten: den begleiteten Menschen vor falschen Erwartungen und vor Schaden, und die begleitende Person vor Ãœberschreitungen und rechtlichen Problemen. Innerhalb dieses klaren Rahmens kann symbolische Arbeit ihre echten StÃ¤rken â€” Fokus, Ausdruck, Ruhe, Bedeutung â€” voll und sicher entfalten.`,
+Ein guter Rahmen schützt beide Seiten: den begleiteten Menschen vor falschen Erwartungen und vor Schaden, und die begleitende Person vor Überschreitungen und rechtlichen Problemen. Innerhalb dieses klaren Rahmens kann symbolische Arbeit ihre echten Stärken — Fokus, Ausdruck, Ruhe, Bedeutung — voll und sicher entfalten.`,
         },
         {
           id: 'N16-M4-L2',
           titel: 'Begleiten statt deuten',
-          inhalt: `Eine der wichtigsten Haltungen in der symbolischen Arbeit ist: begleiten statt deuten. Die Versuchung, einem Symbol eine feste Bedeutung zuzuschreiben und sie dem Menschen mitzuteilen, ist groÃŸ â€” aber meist nicht hilfreich. Die kraftvollste Bedeutung ist die, die der Mensch selbst findet.
+          inhalt: `Eine der wichtigsten Haltungen in der symbolischen Arbeit ist: begleiten statt deuten. Die Versuchung, einem Symbol eine feste Bedeutung zuzuschreiben und sie dem Menschen mitzuteilen, ist groß — aber meist nicht hilfreich. Die kraftvollste Bedeutung ist die, die der Mensch selbst findet.
 
-Statt zu sagen â€ždein Kreis bedeutet, dass dir Ganzheit fehlt", fragt die begleitende Person offen: â€žWas nimmst du wahr, wenn du diese Form betrachtest? Was verbindest du damit?" So bleibt der Mensch der Experte fÃ¼r sein eigenes Erleben. Die Begleitung schafft Raum und stellt Fragen, statt Antworten zu liefern.
+Statt zu sagen „dein Kreis bedeutet, dass dir Ganzheit fehlt", fragt die begleitende Person offen: „Was nimmst du wahr, wenn du diese Form betrachtest? Was verbindest du damit?" So bleibt der Mensch der Experte für sein eigenes Erleben. Die Begleitung schafft Raum und stellt Fragen, statt Antworten zu liefern.
 
-Diese Haltung ist anspruchsvoll, weil sie ZurÃ¼ckhaltung verlangt. Man verzichtet darauf, klug zu wirken oder schnelle Deutungen zu liefern, und vertraut stattdessen dem Prozess des Menschen. Gerade darin liegt die QualitÃ¤t: Menschen fÃ¼hlen sich gesehen und ernst genommen, nicht analysiert oder belehrt.
+Diese Haltung ist anspruchsvoll, weil sie Zurückhaltung verlangt. Man verzichtet darauf, klug zu wirken oder schnelle Deutungen zu liefern, und vertraut stattdessen dem Prozess des Menschen. Gerade darin liegt die Qualität: Menschen fühlen sich gesehen und ernst genommen, nicht analysiert oder belehrt.
 
-Offene Fragen, aufmerksames ZuhÃ¶ren, das Spiegeln von Wahrgenommenem ohne Bewertung â€” das sind die Werkzeuge. Wo ein Mensch selbst um eine EinschÃ¤tzung bittet, kann man Anregungen anbieten, stets als Angebot, nie als Wahrheit. â€žManche Menschen verbinden mit dieser Form ... â€” wie ist das fÃ¼r dich?" lÃ¤sst den Raum offen. So bleibt die symbolische Arbeit ein Dialog auf AugenhÃ¶he.`,
+Offene Fragen, aufmerksames Zuhören, das Spiegeln von Wahrgenommenem ohne Bewertung — das sind die Werkzeuge. Wo ein Mensch selbst um eine Einschätzung bittet, kann man Anregungen anbieten, stets als Angebot, nie als Wahrheit. „Manche Menschen verbinden mit dieser Form ... — wie ist das für dich?" lässt den Raum offen. So bleibt die symbolische Arbeit ein Dialog auf Augenhöhe.`,
         },
         {
           id: 'N16-M4-L3',
           titel: 'Eine einfache Sitzung gestalten',
-          inhalt: `Eine symbolische Begleitsitzung lÃ¤sst sich klar und einfach gestalten. Sie beginnt mit dem Ankommen: ein ruhiger Moment, vielleicht das gemeinsame Betrachten einer Form oder einige bewusste AtemzÃ¼ge, um present zu werden. Dann wird das Anliegen besprochen â€” offen, ohne es vorschnell in Kategorien zu pressen.
+          inhalt: `Eine symbolische Begleitsitzung lässt sich klar und einfach gestalten. Sie beginnt mit dem Ankommen: ein ruhiger Moment, vielleicht das gemeinsame Betrachten einer Form oder einige bewusste Atemzüge, um present zu werden. Dann wird das Anliegen besprochen — offen, ohne es vorschnell in Kategorien zu pressen.
 
-Im Hauptteil arbeitet der Mensch mit Symbolen: Er wÃ¤hlt oder gestaltet ein Symbol, das zu seinem Anliegen passt, betrachtet es, oder bringt einen inneren Zustand in eine Form. Die begleitende Person hÃ¤lt Raum, fragt offen nach und unterstÃ¼tzt den Ausdruck. Tempo und Tiefe richten sich nach dem Menschen.
+Im Hauptteil arbeitet der Mensch mit Symbolen: Er wählt oder gestaltet ein Symbol, das zu seinem Anliegen passt, betrachtet es, oder bringt einen inneren Zustand in eine Form. Die begleitende Person hält Raum, fragt offen nach und unterstützt den Ausdruck. Tempo und Tiefe richten sich nach dem Menschen.
 
-Zum Abschluss wird das Erlebte behutsam zusammengefÃ¼hrt: Was hat sich gezeigt? Was nimmt der Mensch mit? Manchmal entsteht ein persÃ¶nliches Symbol oder ein kleiner Vorsatz, der Ã¼ber die Sitzung hinaus begleitet. Ein klarer, wÃ¼rdiger Abschluss rundet die gemeinsame Zeit ab.
+Zum Abschluss wird das Erlebte behutsam zusammengeführt: Was hat sich gezeigt? Was nimmt der Mensch mit? Manchmal entsteht ein persönliches Symbol oder ein kleiner Vorsatz, der über die Sitzung hinaus begleitet. Ein klarer, würdiger Abschluss rundet die gemeinsame Zeit ab.
 
-Durchgehend gilt die bekannte Grenze: Zeigen sich tiefe seelische Not, Krisen, Hinweise auf psychische Erkrankung oder kÃ¶rperliche Beschwerden, wird die symbolische Arbeit unterbrochen und behutsam an Ã¤rztliche oder therapeutische Hilfe verwiesen. Eine gute Sitzung erkennt man auch daran, dass sie ihre Grenzen kennt und respektiert.`,
+Durchgehend gilt die bekannte Grenze: Zeigen sich tiefe seelische Not, Krisen, Hinweise auf psychische Erkrankung oder körperliche Beschwerden, wird die symbolische Arbeit unterbrochen und behutsam an ärztliche oder therapeutische Hilfe verwiesen. Eine gute Sitzung erkennt man auch daran, dass sie ihre Grenzen kennt und respektiert.`,
         },
       ],
     },
@@ -180,35 +180,35 @@ Durchgehend gilt die bekannte Grenze: Zeigen sich tiefe seelische Not, Krisen, H
         {
           id: 'N16-M5-L1',
           titel: 'Zeichen als Anker der Aufmerksamkeit',
-          inhalt: `Manche symbolischen AnsÃ¤tze arbeiten mit einfachen Zeichen, Linien oder Mustern, die einem Anliegen zugeordnet werden. Im Kern wirkt das wie ein Anker der Aufmerksamkeit: Ein Zeichen verbindet sich mit einer Absicht und ruft diese bei jeder Begegnung wieder auf. Das ist eine alte, kulturÃ¼bergreifende Praxis.
+          inhalt: `Manche symbolischen Ansätze arbeiten mit einfachen Zeichen, Linien oder Mustern, die einem Anliegen zugeordnet werden. Im Kern wirkt das wie ein Anker der Aufmerksamkeit: Ein Zeichen verbindet sich mit einer Absicht und ruft diese bei jeder Begegnung wieder auf. Das ist eine alte, kulturübergreifende Praxis.
 
-Wichtig ist die ehrliche Einordnung, gerade weil rund um solche Zeichen viele Wirkbehauptungen kursieren: Ein Zeichen wirkt Ã¼ber Bedeutung und Aufmerksamkeit, nicht Ã¼ber eine messbare Kraft, die auf den KÃ¶rper Ã¼berginge. Wer ein Zeichen fÃ¼r â€žRuhe" betrachtet, wird daran erinnert, zur Ruhe zu kommen â€” die Wirkung entsteht im Erleben und im Verhalten, nicht im Zeichen selbst.
+Wichtig ist die ehrliche Einordnung, gerade weil rund um solche Zeichen viele Wirkbehauptungen kursieren: Ein Zeichen wirkt über Bedeutung und Aufmerksamkeit, nicht über eine messbare Kraft, die auf den Körper überginge. Wer ein Zeichen für „Ruhe" betrachtet, wird daran erinnert, zur Ruhe zu kommen — die Wirkung entsteht im Erleben und im Verhalten, nicht im Zeichen selbst.
 
-Diese nÃ¼chterne Sicht nimmt solchen Zeichen nichts von ihrem praktischen Wert. Als persÃ¶nlicher Anker, als Erinnerung an einen Vorsatz, als Fokuspunkt in der Achtsamkeit kÃ¶nnen sie hilfreich sein. Man kann sie aufschreiben, betrachten, mit sich tragen â€” als bewussten Begleiter einer Absicht.
+Diese nüchterne Sicht nimmt solchen Zeichen nichts von ihrem praktischen Wert. Als persönlicher Anker, als Erinnerung an einen Vorsatz, als Fokuspunkt in der Achtsamkeit können sie hilfreich sein. Man kann sie aufschreiben, betrachten, mit sich tragen — als bewussten Begleiter einer Absicht.
 
-FÃ¼r die verantwortliche Praxis bedeutet das eine klare Linie: Man kann mit solchen Zeichen als Aufmerksamkeits- und Reflexionswerkzeug arbeiten, formuliert aber niemals Heil- oder Wirkversprechen Ã¼ber Krankheiten und Beschwerden. Zeichen ersetzen keine Behandlung. Diese Ehrlichkeit unterscheidet seriÃ¶se Arbeit von fragwÃ¼rdigen Versprechen.`,
+Für die verantwortliche Praxis bedeutet das eine klare Linie: Man kann mit solchen Zeichen als Aufmerksamkeits- und Reflexionswerkzeug arbeiten, formuliert aber niemals Heil- oder Wirkversprechen über Krankheiten und Beschwerden. Zeichen ersetzen keine Behandlung. Diese Ehrlichkeit unterscheidet seriöse Arbeit von fragwürdigen Versprechen.`,
         },
         {
           id: 'N16-M5-L2',
           titel: 'Wahrnehmung schulen',
-          inhalt: `Ein wertvoller, durchweg sicherer Kern symbolischer Arbeit ist das Schulen der Wahrnehmung. Wer lernt, Formen, Zeichen und ihre persÃ¶nliche Resonanz aufmerksam wahrzunehmen, schult zugleich die FÃ¤higkeit, fein und achtsam zu spÃ¼ren â€” eine FÃ¤higkeit, die weit Ã¼ber die Symbolarbeit hinaus nÃ¼tzlich ist.
+          inhalt: `Ein wertvoller, durchweg sicherer Kern symbolischer Arbeit ist das Schulen der Wahrnehmung. Wer lernt, Formen, Zeichen und ihre persönliche Resonanz aufmerksam wahrzunehmen, schult zugleich die Fähigkeit, fein und achtsam zu spüren — eine Fähigkeit, die weit über die Symbolarbeit hinaus nützlich ist.
 
-Ãœbungen dazu sind einfach: eine Form lange und ruhig betrachten und wahrnehmen, welche Empfindungen, Gedanken oder Stimmungen sich zeigen; verschiedene Formen vergleichen und spÃ¼ren, welche anziehen und welche nicht; die eigene Reaktion auf Farben und Muster beobachten. Es geht nicht um richtig oder falsch, sondern um aufmerksames Wahrnehmen.
+Übungen dazu sind einfach: eine Form lange und ruhig betrachten und wahrnehmen, welche Empfindungen, Gedanken oder Stimmungen sich zeigen; verschiedene Formen vergleichen und spüren, welche anziehen und welche nicht; die eigene Reaktion auf Farben und Muster beobachten. Es geht nicht um richtig oder falsch, sondern um aufmerksames Wahrnehmen.
 
-Diese geschulte Wahrnehmung stÃ¤rkt die Selbstkenntnis: Man lernt, die eigenen Reaktionen, Vorlieben und inneren Bewegungen feiner zu bemerken. Das ist ein Gewinn an Achtsamkeit und PrÃ¤senz, der dem ganzen Leben zugutekommt â€” in Beziehungen, in Entscheidungen, im Umgang mit sich selbst.
+Diese geschulte Wahrnehmung stärkt die Selbstkenntnis: Man lernt, die eigenen Reaktionen, Vorlieben und inneren Bewegungen feiner zu bemerken. Das ist ein Gewinn an Achtsamkeit und Präsenz, der dem ganzen Leben zugutekommt — in Beziehungen, in Entscheidungen, im Umgang mit sich selbst.
 
-In der Begleitung kann man solche WahrnehmungsÃ¼bungen anbieten, um Menschen einen achtsameren Zugang zu ihrem Erleben zu erÃ¶ffnen. Sie sind risikoarm, zugÃ¤nglich und bereichernd. Und sie bleiben sicher im Rahmen: Es geht um Wahrnehmen und Bewusstwerden, nicht um Behandlung â€” ein Beitrag zu Achtsamkeit und Wohlbefinden, ehrlich und klar.`,
+In der Begleitung kann man solche Wahrnehmungsübungen anbieten, um Menschen einen achtsameren Zugang zu ihrem Erleben zu eröffnen. Sie sind risikoarm, zugänglich und bereichernd. Und sie bleiben sicher im Rahmen: Es geht um Wahrnehmen und Bewusstwerden, nicht um Behandlung — ein Beitrag zu Achtsamkeit und Wohlbefinden, ehrlich und klar.`,
         },
         {
           id: 'N16-M5-L3',
-          titel: 'KreativitÃ¤t und Ausdruck fÃ¶rdern',
-          inhalt: `Symbolische Arbeit ist eng mit KreativitÃ¤t und Ausdruck verbunden â€” und darin liegt ein groÃŸer, sicherer Wert. Menschen, die ihre inneren ZustÃ¤nde in Symbolen, Formen und Bildern ausdrÃ¼cken, finden oft einen Zugang zu GefÃ¼hlen und Themen, die sich dem direkten Sprechen entziehen. Der kreative Ausdruck wirkt befreiend und klÃ¤rend.
+          titel: 'Kreativität und Ausdruck fördern',
+          inhalt: `Symbolische Arbeit ist eng mit Kreativität und Ausdruck verbunden — und darin liegt ein großer, sicherer Wert. Menschen, die ihre inneren Zustände in Symbolen, Formen und Bildern ausdrücken, finden oft einen Zugang zu Gefühlen und Themen, die sich dem direkten Sprechen entziehen. Der kreative Ausdruck wirkt befreiend und klärend.
 
-Das muss nicht kÃ¼nstlerisch anspruchsvoll sein. Schon das einfache Zeichnen einer Stimmung, das Gestalten eines Symbols fÃ¼r ein Anliegen oder das Sammeln von Formen, die einen ansprechen, kann viel bewegen. Der Wert liegt im Tun und im Ausdruck, nicht im Ergebnis. Viele Menschen erleben dabei eine Erleichterung, Ã¤hnlich wie beim Schreiben oder Musizieren.
+Das muss nicht künstlerisch anspruchsvoll sein. Schon das einfache Zeichnen einer Stimmung, das Gestalten eines Symbols für ein Anliegen oder das Sammeln von Formen, die einen ansprechen, kann viel bewegen. Der Wert liegt im Tun und im Ausdruck, nicht im Ergebnis. Viele Menschen erleben dabei eine Erleichterung, ähnlich wie beim Schreiben oder Musizieren.
 
-In der Begleitung schafft man dafÃ¼r einen einladenden, urteilsfreien Raum. Material bereitstellen, ermutigen, den Prozess wichtiger nehmen als das Produkt, jede Form wÃ¼rdigen â€” so wird kreativer Ausdruck mÃ¶glich. Wichtig ist, Druck und Bewertung herauszunehmen; gerade Menschen, die sich fÃ¼r â€žunkreativ" halten, brauchen diese Ermutigung.
+In der Begleitung schafft man dafür einen einladenden, urteilsfreien Raum. Material bereitstellen, ermutigen, den Prozess wichtiger nehmen als das Produkt, jede Form würdigen — so wird kreativer Ausdruck möglich. Wichtig ist, Druck und Bewertung herauszunehmen; gerade Menschen, die sich für „unkreativ" halten, brauchen diese Ermutigung.
 
-Der kreative, ausdrucksorientierte Zugang verbindet die StÃ¤rken symbolischer Arbeit: Wahrnehmung, Reflexion, emotionale Entlastung und Selbstwirksamkeit. Er ist zugÃ¤nglich, sicher und bereichernd â€” und bleibt klar im Rahmen von Ausdruck und Wohlbefinden, ohne therapeutischen oder heilenden Anspruch.`,
+Der kreative, ausdrucksorientierte Zugang verbindet die Stärken symbolischer Arbeit: Wahrnehmung, Reflexion, emotionale Entlastung und Selbstwirksamkeit. Er ist zugänglich, sicher und bereichernd — und bleibt klar im Rahmen von Ausdruck und Wohlbefinden, ohne therapeutischen oder heilenden Anspruch.`,
         },
       ],
     },
@@ -219,35 +219,35 @@ Der kreative, ausdrucksorientierte Zugang verbindet die StÃ¤rken symbolischer 
         {
           id: 'N16-M6-L1',
           titel: 'Die klare Grenze zu Medizin und Therapie',
-          inhalt: `Die wichtigste Grenze in der symbolischen Arbeit ist die zu Medizin und Therapie. Symbolische Arbeit ist ein Werkzeug fÃ¼r Reflexion, Achtsamkeit, Ausdruck und Wohlbefinden â€” sie ist keine Heilkunde, keine Psychotherapie und kein Ersatz fÃ¼r medizinische oder psychologische Behandlung. Diese Grenze ist nicht verhandelbar.
+          inhalt: `Die wichtigste Grenze in der symbolischen Arbeit ist die zu Medizin und Therapie. Symbolische Arbeit ist ein Werkzeug für Reflexion, Achtsamkeit, Ausdruck und Wohlbefinden — sie ist keine Heilkunde, keine Psychotherapie und kein Ersatz für medizinische oder psychologische Behandlung. Diese Grenze ist nicht verhandelbar.
 
-Konkret heiÃŸt das: keine Behandlung von Krankheiten, keine Heil- oder Wirkversprechen, keine Aussagen, ein Symbol oder Zeichen kÃ¶nne kÃ¶rperliche oder seelische Erkrankungen bessern oder heilen. Solche Behauptungen sind unzulÃ¤ssig, unseriÃ¶s und gefÃ¤hrlich, weil sie Menschen von wirksamer Hilfe abhalten kÃ¶nnen.
+Konkret heißt das: keine Behandlung von Krankheiten, keine Heil- oder Wirkversprechen, keine Aussagen, ein Symbol oder Zeichen könne körperliche oder seelische Erkrankungen bessern oder heilen. Solche Behauptungen sind unzulässig, unseriös und gefährlich, weil sie Menschen von wirksamer Hilfe abhalten können.
 
-Bei kÃ¶rperlichen Beschwerden gehÃ¶rt der Mensch zum Arzt oder zur Ã„rztin. Bei seelischer Not, psychischen Erkrankungen, Krisen oder Suizidgedanken gehÃ¶rt er in psychotherapeutische oder Ã¤rztliche, im Notfall in sofortige professionelle HÃ¤nde. Symbolische Arbeit tritt dann zurÃ¼ck â€” vollstÃ¤ndig und ohne ZÃ¶gern. Die FÃ¤higkeit, eine solche Grenze zu erkennen und zu respektieren, ist Kennzeichen verantwortlicher Praxis.
+Bei körperlichen Beschwerden gehört der Mensch zum Arzt oder zur Ärztin. Bei seelischer Not, psychischen Erkrankungen, Krisen oder Suizidgedanken gehört er in psychotherapeutische oder ärztliche, im Notfall in sofortige professionelle Hände. Symbolische Arbeit tritt dann zurück — vollständig und ohne Zögern. Die Fähigkeit, eine solche Grenze zu erkennen und zu respektieren, ist Kennzeichen verantwortlicher Praxis.
 
-Wer diese Grenze klar kommuniziert und einhÃ¤lt, schÃ¼tzt die begleiteten Menschen und sich selbst. Innerhalb des Rahmens von Wohlbefinden und Reflexion ist symbolische Arbeit wertvoll und sicher. Jenseits davon, im Bereich von Heilung und Therapie, hat sie nichts verloren. Diese Demut ist keine SchwÃ¤che, sondern die Grundlage von SeriositÃ¤t.`,
+Wer diese Grenze klar kommuniziert und einhält, schützt die begleiteten Menschen und sich selbst. Innerhalb des Rahmens von Wohlbefinden und Reflexion ist symbolische Arbeit wertvoll und sicher. Jenseits davon, im Bereich von Heilung und Therapie, hat sie nichts verloren. Diese Demut ist keine Schwäche, sondern die Grundlage von Seriosität.`,
         },
         {
           id: 'N16-M6-L2',
           titel: 'Ethische Haltung und Respekt',
-          inhalt: `Symbolische Arbeit berÃ¼hrt persÃ¶nliche, manchmal verletzliche Bereiche des Menschen. Eine klare ethische Haltung ist deshalb unerlÃ¤sslich. Sie beginnt mit Respekt: Respekt vor der Autonomie, den Werten und der Weltanschauung des Menschen, vor seinem Tempo und seinen Grenzen.
+          inhalt: `Symbolische Arbeit berührt persönliche, manchmal verletzliche Bereiche des Menschen. Eine klare ethische Haltung ist deshalb unerlässlich. Sie beginnt mit Respekt: Respekt vor der Autonomie, den Werten und der Weltanschauung des Menschen, vor seinem Tempo und seinen Grenzen.
 
-Dazu gehÃ¶rt, niemandem eine Bedeutung, eine Deutung oder eine Weltsicht aufzudrÃ¤ngen. Menschen bringen unterschiedliche HintergrÃ¼nde mit â€” religiÃ¶se, spirituelle, weltliche. Gute symbolische Arbeit ist offen und anschlussfÃ¤hig fÃ¼r all diese Haltungen und respektiert, wenn jemand etwas nicht mÃ¶chte. Druck, Manipulation oder das Ausnutzen von AbhÃ¤ngigkeit haben hier keinen Platz.
+Dazu gehört, niemandem eine Bedeutung, eine Deutung oder eine Weltsicht aufzudrängen. Menschen bringen unterschiedliche Hintergründe mit — religiöse, spirituelle, weltliche. Gute symbolische Arbeit ist offen und anschlussfähig für all diese Haltungen und respektiert, wenn jemand etwas nicht möchte. Druck, Manipulation oder das Ausnutzen von Abhängigkeit haben hier keinen Platz.
 
-Ebenso wichtig ist Ehrlichkeit Ã¼ber die eigenen Grenzen und FÃ¤higkeiten: keine Kompetenzen vortÃ¤uschen, keine Heilung versprechen, bei Ãœberforderung verweisen. Vertraulichkeit, VerlÃ¤sslichkeit und ein achtsamer Umgang mit dem, was Menschen anvertrauen, runden die ethische Haltung ab.
+Ebenso wichtig ist Ehrlichkeit über die eigenen Grenzen und Fähigkeiten: keine Kompetenzen vortäuschen, keine Heilung versprechen, bei Überforderung verweisen. Vertraulichkeit, Verlässlichkeit und ein achtsamer Umgang mit dem, was Menschen anvertrauen, runden die ethische Haltung ab.
 
-Diese Haltung ist nicht nur eine moralische Pflicht, sondern auch der Boden, auf dem Vertrauen wÃ¤chst. Menschen spÃ¼ren, ob sie respektiert und ehrlich begleitet werden. Eine integre, respektvolle Praxis ist langfristig die einzige, die trÃ¤gt â€” und sie macht symbolische Arbeit zu dem, was sie sein kann: einem wÃ¼rdevollen Werkzeug der Selbstbegegnung.`,
+Diese Haltung ist nicht nur eine moralische Pflicht, sondern auch der Boden, auf dem Vertrauen wächst. Menschen spüren, ob sie respektiert und ehrlich begleitet werden. Eine integre, respektvolle Praxis ist langfristig die einzige, die trägt — und sie macht symbolische Arbeit zu dem, was sie sein kann: einem würdevollen Werkzeug der Selbstbegegnung.`,
         },
         {
           id: 'N16-M6-L3',
           titel: 'Zusammenfassung und verantwortliche Praxis',
-          inhalt: `Zum Abschluss der Blick auf das Ganze. Dieser Kurs hat symbolische Arbeit als Werkzeug der Wahrnehmung, Reflexion, inneren Ausrichtung und des kreativen Ausdrucks vorgestellt. Symbole, Formen und Zeichen wirken Ã¼ber Bedeutung, Aufmerksamkeit und GefÃ¼hl â€” sie unterstÃ¼tzen Selbstwahrnehmung und Wohlbefinden, ohne Krankheiten zu behandeln.
+          inhalt: `Zum Abschluss der Blick auf das Ganze. Dieser Kurs hat symbolische Arbeit als Werkzeug der Wahrnehmung, Reflexion, inneren Ausrichtung und des kreativen Ausdrucks vorgestellt. Symbole, Formen und Zeichen wirken über Bedeutung, Aufmerksamkeit und Gefühl — sie unterstützen Selbstwahrnehmung und Wohlbefinden, ohne Krankheiten zu behandeln.
 
-Wir haben gesehen, wie Symbole innere ZustÃ¤nde spiegeln und ausrichten kÃ¶nnen, wie geometrische Formen Sammlung und Ruhe fÃ¶rdern, wie Begleitung durch offene Fragen statt durch Deutung gelingt und wie Wahrnehmung und KreativitÃ¤t gestÃ¤rkt werden. Durchgehend zog sich die ehrliche Rahmung: echte StÃ¤rken nutzen, Ã¼berzogene Versprechen vermeiden.
+Wir haben gesehen, wie Symbole innere Zustände spiegeln und ausrichten können, wie geometrische Formen Sammlung und Ruhe fördern, wie Begleitung durch offene Fragen statt durch Deutung gelingt und wie Wahrnehmung und Kreativität gestärkt werden. Durchgehend zog sich die ehrliche Rahmung: echte Stärken nutzen, überzogene Versprechen vermeiden.
 
-Den festen Rahmen bildet die klare Grenze zu Medizin und Therapie. Bei kÃ¶rperlicher oder seelischer Erkrankung, bei Krisen und Not tritt symbolische Arbeit zurÃ¼ck und verweist an professionelle Hilfe. Diese Demut und Klarheit sind das Fundament jeder seriÃ¶sen Praxis.
+Den festen Rahmen bildet die klare Grenze zu Medizin und Therapie. Bei körperlicher oder seelischer Erkrankung, bei Krisen und Not tritt symbolische Arbeit zurück und verweist an professionelle Hilfe. Diese Demut und Klarheit sind das Fundament jeder seriösen Praxis.
 
-Wer symbolische Arbeit so versteht und anwendet â€” ehrlich, respektvoll, im klaren Rahmen â€”, verfÃ¼gt Ã¼ber ein wertvolles, sicheres Werkzeug. Es erÃ¶ffnet Menschen einen achtsamen, kreativen Zugang zu sich selbst, stÃ¤rkt Reflexion und Wohlbefinden und bleibt dabei redlich. Genau in dieser Verbindung aus Tiefe und Klarheit liegt der bleibende Wert der symbolischen Arbeit.`,
+Wer symbolische Arbeit so versteht und anwendet — ehrlich, respektvoll, im klaren Rahmen —, verfügt über ein wertvolles, sicheres Werkzeug. Es eröffnet Menschen einen achtsamen, kreativen Zugang zu sich selbst, stärkt Reflexion und Wohlbefinden und bleibt dabei redlich. Genau in dieser Verbindung aus Tiefe und Klarheit liegt der bleibende Wert der symbolischen Arbeit.`,
         },
       ],
     },
@@ -257,18 +257,18 @@ Wer symbolische Arbeit so versteht und anwendet â€” ehrlich, respektvoll, i
       frage: 'Wie wird symbolische Arbeit in diesem Kurs verstanden?',
       antworten: [
         'Als medizinische Heilmethode',
-        'Als Werkzeug fÃ¼r Wahrnehmung, Reflexion und Wohlbefinden â€” ohne Heilanspruch',
-        'Als Ersatz fÃ¼r Psychotherapie',
+        'Als Werkzeug für Wahrnehmung, Reflexion und Wohlbefinden — ohne Heilanspruch',
+        'Als Ersatz für Psychotherapie',
         'Als Diagnoseverfahren',
       ],
       richtig: 1,
     },
     {
-      frage: 'WorÃ¼ber wirken Symbole nach der ehrlichen Einordnung dieses Kurses?',
+      frage: 'Worüber wirken Symbole nach der ehrlichen Einordnung dieses Kurses?',
       antworten: [
-        'Ãœber eine messbare Kraft, die auf den KÃ¶rper Ã¼bergeht',
-        'Ãœber Aufmerksamkeit, Bedeutung und GefÃ¼hl im Erleben',
-        'Ãœber chemische Prozesse im Gewebe',
+        'Über eine messbare Kraft, die auf den Körper übergeht',
+        'Über Aufmerksamkeit, Bedeutung und Gefühl im Erleben',
+        'Über chemische Prozesse im Gewebe',
         'Gar nicht',
       ],
       richtig: 1,
@@ -278,18 +278,18 @@ Wer symbolische Arbeit so versteht und anwendet â€” ehrlich, respektvoll, i
       antworten: [
         'Dem Menschen die richtige Bedeutung mitteilen',
         'Schnell deuten, um kompetent zu wirken',
-        'Begleiten statt deuten â€” der Mensch findet die Bedeutung selbst',
+        'Begleiten statt deuten — der Mensch findet die Bedeutung selbst',
         'Eine feste Symboltabelle anwenden',
       ],
       richtig: 2,
     },
     {
-      frage: 'Wie sollte man mit symbolischen Zeichen umgehen, um seriÃ¶s zu bleiben?',
+      frage: 'Wie sollte man mit symbolischen Zeichen umgehen, um seriös zu bleiben?',
       antworten: [
         'Als Heilmittel gegen Beschwerden bewerben',
         'Als Aufmerksamkeits- und Reflexionswerkzeug, ohne Heil-/Wirkversprechen',
-        'Als Ersatz fÃ¼r Ã¤rztliche Behandlung',
-        'Als magische Kraft, die auf den KÃ¶rper wirkt',
+        'Als Ersatz für ärztliche Behandlung',
+        'Als magische Kraft, die auf den Körper wirkt',
       ],
       richtig: 1,
     },
@@ -298,37 +298,37 @@ Wer symbolische Arbeit so versteht und anwendet â€” ehrlich, respektvoll, i
       antworten: [
         'Krankheiten behandeln',
         'Laborwerte deuten',
-        'Wahrnehmung schulen und kreativen Ausdruck fÃ¶rdern',
+        'Wahrnehmung schulen und kreativen Ausdruck fördern',
         'Diagnosen stellen',
       ],
       richtig: 2,
     },
     {
-      frage: 'Wie verhÃ¤lt sich symbolische Arbeit bei seelischer Not oder Krisen?',
+      frage: 'Wie verhält sich symbolische Arbeit bei seelischer Not oder Krisen?',
       antworten: [
         'Sie behandelt die Krise selbst',
         'Sie ignoriert solche Hinweise',
-        'Sie tritt zurÃ¼ck und verweist an Ã¤rztliche/therapeutische Hilfe',
+        'Sie tritt zurück und verweist an ärztliche/therapeutische Hilfe',
         'Sie verspricht Heilung durch Symbole',
       ],
       richtig: 2,
     },
     {
-      frage: 'Was gehÃ¶rt zu einer ethischen Haltung in der symbolischen Arbeit?',
+      frage: 'Was gehört zu einer ethischen Haltung in der symbolischen Arbeit?',
       antworten: [
-        'Menschen eine Weltsicht aufdrÃ¤ngen',
+        'Menschen eine Weltsicht aufdrängen',
         'Heilung versprechen',
-        'Respekt vor Autonomie, Ehrlichkeit Ã¼ber Grenzen, kein Druck',
-        'AbhÃ¤ngigkeit ausnutzen',
+        'Respekt vor Autonomie, Ehrlichkeit über Grenzen, kein Druck',
+        'Abhängigkeit ausnutzen',
       ],
       richtig: 2,
     },
     {
       frage: 'Welche Grenze ist in der symbolischen Arbeit nicht verhandelbar?',
       antworten: [
-        'Die Grenze zwischen schÃ¶nen und hÃ¤sslichen Formen',
+        'Die Grenze zwischen schönen und hässlichen Formen',
         'Die Grenze zu Medizin und Therapie',
-        'Die Grenze zwischen teuren und gÃ¼nstigen Materialien',
+        'Die Grenze zwischen teuren und günstigen Materialien',
         'Es gibt keine Grenzen',
       ],
       richtig: 1,

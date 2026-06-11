@@ -1,7 +1,7 @@
-// ═══════════════════════════════════════════════════════════
-// Login / Register — Resonanz Akademie
+// 
+// Login / Register  Resonanz Akademie
 // Dark/Gold Auth Screen
-// ═══════════════════════════════════════════════════════════
+// 
 
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
@@ -53,12 +53,16 @@ export default function Login() {
       
       {/* Back Link */}
       <Link to="/" style={s.backLink}>
-        ← Zurück zur Startseite
+         Zurück zur Startseite
       </Link>
       
       {/* Auth Card */}
       <div style={s.card}>
-        <div style={s.logoMark}>A</div>
+        <img
+          src="/logo-siegel.png"
+          alt="Human Resonanz Siegel"
+          style={s.logoMark}
+        />
         
         <h1 style={s.title}>
           {isRegister ? 'Konto erstellen' : 'Willkommen zurück'}
@@ -187,18 +191,11 @@ const s = {
     zIndex: 1,
   },
   logoMark: {
-    width: '48px',
-    height: '48px',
-    borderRadius: '50%',
-    background: 'linear-gradient(135deg, #D4AF37, #B8960C)',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-    fontFamily: "'Cormorant Garamond', serif",
-    fontSize: '1.3rem',
-    fontWeight: '700',
-    color: '#0a0a0a',
+    width: '72px',
+    height: '72px',
+    display: 'block',
     margin: '0 auto 24px',
+    filter: 'drop-shadow(0 0 18px rgba(212, 175, 55, 0.45))',
   },
   title: {
     fontFamily: "'Cormorant Garamond', serif",
@@ -269,3 +266,4 @@ const s = {
     transition: 'color 0.2s ease',
   },
 }
+

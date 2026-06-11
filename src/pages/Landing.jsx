@@ -62,8 +62,8 @@ export default function Landing() {
       {/* ═══ Supernova / Kosmos Animationen ═══ */}
       <style>{`
         @keyframes novaPulse {
-          0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.85; }
-          50% { transform: translate(-50%, -50%) scale(1.12); opacity: 1; }
+          0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.7; }
+          50% { transform: translate(-50%, -50%) scale(1.25); opacity: 1; }
         }
         @keyframes novaBreath {
           0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.5; }
@@ -76,6 +76,11 @@ export default function Landing() {
         @keyframes starTwinkle {
           0%, 100% { opacity: var(--star-min); }
           50% { opacity: var(--star-max); }
+        }
+        @keyframes novaBurst {
+          0% { transform: translate(-50%, -50%) scale(0.4); opacity: 0.6; }
+          60% { opacity: 0.2; }
+          100% { transform: translate(-50%, -50%) scale(2.1); opacity: 0; }
         }
         @keyframes logoFloat {
           0%, 100% { transform: translateY(0); }
@@ -91,6 +96,9 @@ export default function Landing() {
         .nova-ring.slow { animation-duration: 150s; animation-direction: reverse; }
         .hr-star { animation: starTwinkle var(--star-dur) ease-in-out infinite; }
         .logo-float { animation: logoFloat 6s ease-in-out infinite; }
+        .nova-burst { animation: novaBurst 5.4s ease-out infinite; }
+        .nova-burst.b2 { animation-delay: 1.8s; }
+        .nova-burst.b3 { animation-delay: 3.6s; }
         .hero-rise { animation: heroRise 0.9s ease-out both; }
         .hero-rise.d1 { animation-delay: 0.1s; }
         .hero-rise.d2 { animation-delay: 0.25s; }
@@ -102,7 +110,7 @@ export default function Landing() {
           box-shadow: 0 8px 32px rgba(212, 175, 55, 0.08);
         }
         @media (prefers-reduced-motion: reduce) {
-          .nova-core, .nova-halo, .nova-ring, .hr-star, .hero-rise, .logo-float { animation: none; }
+          .nova-core, .nova-halo, .nova-ring, .nova-burst, .hr-star, .hero-rise, .logo-float { animation: none; opacity: 0.3; }
         }
       `}</style>
 
@@ -141,6 +149,9 @@ export default function Landing() {
             <div className="nova-ring" style={{ ...hero.logoRing, width: '330px', height: '330px', opacity: 0.20 }} aria-hidden="true" />
             <div className="nova-ring slow" style={{ ...hero.logoRing, width: '470px', height: '470px', opacity: 0.11 }} aria-hidden="true" />
             <div className="nova-ring" style={{ ...hero.logoRing, width: '640px', height: '640px', opacity: 0.06, animationDuration: '210s' }} aria-hidden="true" />
+            <div className="nova-burst" style={hero.burst} aria-hidden="true" />
+            <div className="nova-burst b2" style={hero.burst} aria-hidden="true" />
+            <div className="nova-burst b3" style={hero.burst} aria-hidden="true" />
             <img
               src="/logo-siegel.png"
               alt="Human Resonanz Akademie — Siegel"
@@ -325,10 +336,21 @@ const hero = {
   logoImg: {
     position: 'relative',
     zIndex: 1,
-    width: 'clamp(120px, 16vw, 170px)',
+    width: 'clamp(130px, 17vw, 180px)',
     height: 'auto',
+    filter: 'drop-shadow(0 0 32px rgba(255, 220, 120, 0.45)) drop-shadow(0 0 90px rgba(212, 175, 55, 0.25))',
+  },
+  burst: {
+    position: 'absolute',
+    top: '50%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    width: '230px',
+    height: '230px',
     borderRadius: '50%',
-    boxShadow: '0 0 70px rgba(212, 175, 55, 0.35), 0 0 140px rgba(212, 175, 55, 0.15)',
+    border: '1.5px solid rgba(232, 212, 139, 0.55)',
+    boxShadow: '0 0 28px rgba(212, 175, 55, 0.30), inset 0 0 22px rgba(212, 175, 55, 0.18)',
+    pointerEvents: 'none',
   },
   logoCore: {
     position: 'absolute',
@@ -338,7 +360,7 @@ const hero = {
     width: '300px',
     height: '300px',
     borderRadius: '50%',
-    background: 'radial-gradient(circle, rgba(255, 251, 230, 0.18) 0%, rgba(232, 223, 200, 0.10) 25%, rgba(212, 175, 55, 0.06) 50%, transparent 72%)',
+    background: 'radial-gradient(circle, rgba(255, 251, 230, 0.30) 0%, rgba(232, 223, 200, 0.16) 25%, rgba(212, 175, 55, 0.09) 50%, transparent 72%)',
     filter: 'blur(2px)',
     pointerEvents: 'none',
   },

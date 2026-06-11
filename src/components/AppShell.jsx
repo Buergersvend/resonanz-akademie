@@ -121,6 +121,16 @@ export default function AppShell({ children }) {
       {/* Sidebar */}
       <aside style={s.sidebar}>
         <div style={s.logo}>
+          <img
+            src="/logo-siegel.png"
+            alt="Human Resonanz Siegel"
+            style={{
+              width: '64px',
+              height: '64px',
+              marginBottom: '12px',
+              filter: 'drop-shadow(0 0 14px rgba(212, 175, 55, 0.40))',
+            }}
+          />
           <span style={s.logoText}>
             Human Resonanz <span style={s.logoAccent}>Akademie</span>
           </span>

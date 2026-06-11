@@ -1,5 +1,6 @@
 // ═══════════════════════════════════════════════════════════
 // Footer — Öffentliche Seiten
+// Saniert 11.06.2026: Resonanz-Claim, Health-/Heiler-Framing entfernt
 // ═══════════════════════════════════════════════════════════
 
 const s = {
@@ -86,8 +87,8 @@ export default function Footer() {
             Human Resonanz <span style={s.accent}>Akademie</span>
           </div>
           <p style={s.tagline}>
-            Das Netflix der ganzheitlichen Gesundheit. Kurse, Zertifizierungen 
-            und persönliche Lernpfade für Energetiker, Heiler und Coaches.
+            Das Netflix der Resonanz. Kurse, persönliche Lernpfade 
+            und Teilnahmezertifikate für bewusste Entwicklung.
           </p>
         </div>
         

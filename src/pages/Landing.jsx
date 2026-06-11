@@ -1,8 +1,9 @@
 // ═══════════════════════════════════════════════════════════
 // Landing Page — Human Resonanz Akademie
 // Das Netflix der Resonanz
-// Saniert 11.06.2026: Health-Claims entfernt, Ausbildungs-Framing
-// entfernt, Streichpreise entfernt, Kurszähler dynamisch
+// v2 — 11.06.2026: Rechtlich saniert + Supernova-Design
+// (kosmischer Lichtkern, Sternenfeld, Aura-Ringe — analog
+//  Homepage & Zertifikat-Ästhetik)
 // ═══════════════════════════════════════════════════════════
 
 import { Link } from 'react-router-dom'
@@ -12,6 +13,17 @@ import { KURSE } from '../data/kurse'
 
 // ── Dynamischer Live-Zähler (Single Source of Truth: src/data/kurse.js) ──
 const LIVE_COUNT = KURSE.filter(k => (k.status ?? 'live') === 'live').length
+
+// ── Sternenfeld (einmalig generiert, deterministisch pro Load) ──
+const STARS = Array.from({ length: 80 }, (_, i) => ({
+  id: i,
+  left: Math.random() * 100,
+  top: Math.random() * 100,
+  size: 1 + Math.random() * 1.8,
+  delay: Math.random() * 6,
+  duration: 3 + Math.random() * 5,
+  opacity: 0.15 + Math.random() * 0.45,
+}))
 
 // ── 11 Bereiche ──────────────────────────────────────────────
 const BEREICHE = [
@@ -47,31 +59,101 @@ const UNTERSCHIEDE = [
 export default function Landing() {
   return (
     <div style={{ background: '#0a0a0a', minHeight: '100vh' }}>
+      {/* ═══ Supernova / Kosmos Animationen ═══ */}
+      <style>{`
+        @keyframes novaPulse {
+          0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.85; }
+          50% { transform: translate(-50%, -50%) scale(1.12); opacity: 1; }
+        }
+        @keyframes novaBreath {
+          0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.5; }
+          50% { transform: translate(-50%, -50%) scale(1.06); opacity: 0.75; }
+        }
+        @keyframes ringDrift {
+          from { transform: translate(-50%, -50%) rotate(0deg); }
+          to { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+        @keyframes starTwinkle {
+          0%, 100% { opacity: var(--star-min); }
+          50% { opacity: var(--star-max); }
+        }
+        @keyframes heroRise {
+          from { opacity: 0; transform: translateY(18px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+        .nova-core { animation: novaPulse 7s ease-in-out infinite; }
+        .nova-halo { animation: novaBreath 11s ease-in-out infinite; }
+        .nova-ring { animation: ringDrift 90s linear infinite; }
+        .nova-ring.slow { animation-duration: 150s; animation-direction: reverse; }
+        .hr-star { animation: starTwinkle var(--star-dur) ease-in-out infinite; }
+        .hero-rise { animation: heroRise 0.9s ease-out both; }
+        .hero-rise.d1 { animation-delay: 0.1s; }
+        .hero-rise.d2 { animation-delay: 0.25s; }
+        .hero-rise.d3 { animation-delay: 0.4s; }
+        .hr-card { transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease; }
+        .hr-card:hover {
+          transform: translateY(-3px);
+          border-color: rgba(212, 175, 55, 0.35) !important;
+          box-shadow: 0 8px 32px rgba(212, 175, 55, 0.08);
+        }
+        @media (prefers-reduced-motion: reduce) {
+          .nova-core, .nova-halo, .nova-ring, .hr-star, .hero-rise { animation: none; }
+        }
+      `}</style>
+
       <Navbar />
       
-      {/* ═══ HERO ═══ */}
+      {/* ═══ HERO mit Supernova ═══ */}
       <section style={hero.section}>
-        {/* Background Glow */}
-        <div style={hero.glow} />
-        <div style={hero.glowSecondary} />
+        {/* Sternenfeld */}
+        <div style={nova.starfield} aria-hidden="true">
+          {STARS.map(st => (
+            <span
+              key={st.id}
+              className="hr-star"
+              style={{
+                position: 'absolute',
+                left: `${st.left}%`,
+                top: `${st.top}%`,
+                width: `${st.size}px`,
+                height: `${st.size}px`,
+                borderRadius: '50%',
+                background: '#E8DFC8',
+                '--star-min': st.opacity * 0.3,
+                '--star-max': st.opacity,
+                '--star-dur': `${st.duration}s`,
+                animationDelay: `${st.delay}s`,
+              }}
+            />
+          ))}
+        </div>
+
+        {/* Supernova-Kern */}
+        <div style={nova.wrap} aria-hidden="true">
+          <div className="nova-halo" style={nova.halo} />
+          <div className="nova-core" style={nova.core} />
+          <div className="nova-ring" style={{ ...nova.ring, width: '480px', height: '360px', opacity: 0.14 }} />
+          <div className="nova-ring slow" style={{ ...nova.ring, width: '720px', height: '540px', opacity: 0.09 }} />
+          <div className="nova-ring" style={{ ...nova.ring, width: '980px', height: '730px', opacity: 0.05, animationDuration: '210s' }} />
+        </div>
         
         <div style={hero.content}>
-          <div style={hero.badge}>
+          <div className="hero-rise" style={hero.badge}>
             ◈ Jetzt in der Beta-Phase
           </div>
           
-          <h1 style={hero.title}>
+          <h1 className="hero-rise d1" style={hero.title}>
             Das <span style={hero.gold}>Netflix</span> der
             <br />Resonanz
           </h1>
           
-          <p style={hero.subtitle}>
+          <p className="hero-rise d2" style={hero.subtitle}>
             {LIVE_COUNT} Kurse, persönliche Lernpfade und Teilnahmezertifikate. 
             Von einem Praktiker für Praktiker — mit persönlichem Assessment 
             und klar strukturierten Inhalten in digitalem Format.
           </p>
           
-          <div style={hero.actions}>
+          <div className="hero-rise d3" style={hero.actions}>
             <Link to="/login" className="btn btn-gold" style={{ fontSize: '1rem', padding: '14px 36px' }}>
               Kostenlos starten
             </Link>
@@ -80,7 +162,7 @@ export default function Landing() {
             </a>
           </div>
           
-          <div style={hero.stats}>
+          <div className="hero-rise d3" style={hero.stats}>
             <div style={hero.stat}>
               <span style={hero.statNum}>11</span>
               <span style={hero.statLabel}>Themen-Bereiche</span>
@@ -115,6 +197,7 @@ export default function Landing() {
             {BEREICHE.map((b, i) => (
               <div 
                 key={b.nr} 
+                className="hr-card"
                 style={{
                   ...bereiche.card,
                   animationDelay: `${i * 0.05}s`,
@@ -148,7 +231,7 @@ export default function Landing() {
           
           <div style={formate.grid}>
             {FORMATE.map((f, i) => (
-              <div key={f.symbol} style={formate.card}>
+              <div key={f.symbol} className="hr-card" style={formate.card}>
                 <div style={formate.symbol}>{f.symbol}</div>
                 <h3 style={formate.name}>{f.name}</h3>
                 <div style={formate.hours}>{f.hours}</div>
@@ -185,9 +268,10 @@ export default function Landing() {
         </div>
       </section>
 
-      {/* ═══ CTA ═══ */}
+      {/* ═══ CTA mit Mini-Nova ═══ */}
       <section style={cta.section}>
-        <div style={cta.glow} />
+        <div className="nova-halo" style={cta.glow} />
+        <div className="nova-ring slow" style={cta.ring} aria-hidden="true" />
         <div style={cta.content}>
           <h2 style={cta.title}>
             Bereit für <span style={{ color: '#D4AF37' }}>deinen Weg</span>?
@@ -210,6 +294,50 @@ export default function Landing() {
 // Styles
 // ═══════════════════════════════════════════════════════════
 
+const nova = {
+  starfield: {
+    position: 'absolute',
+    inset: 0,
+    overflow: 'hidden',
+    pointerEvents: 'none',
+  },
+  wrap: {
+    position: 'absolute',
+    inset: 0,
+    pointerEvents: 'none',
+    overflow: 'hidden',
+  },
+  core: {
+    position: 'absolute',
+    top: '42%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    width: '340px',
+    height: '340px',
+    borderRadius: '50%',
+    background: 'radial-gradient(circle, rgba(255, 251, 230, 0.16) 0%, rgba(232, 223, 200, 0.10) 22%, rgba(212, 175, 55, 0.07) 45%, transparent 72%)',
+    filter: 'blur(2px)',
+  },
+  halo: {
+    position: 'absolute',
+    top: '42%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    width: '900px',
+    height: '900px',
+    borderRadius: '50%',
+    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.07) 0%, rgba(212, 175, 55, 0.03) 40%, transparent 70%)',
+  },
+  ring: {
+    position: 'absolute',
+    top: '42%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    borderRadius: '50%',
+    border: '1px solid rgba(212, 175, 55, 0.5)',
+  },
+}
+
 const hero = {
   section: {
     position: 'relative',
@@ -219,25 +347,6 @@ const hero = {
     justifyContent: 'center',
     padding: '120px 24px 80px',
     overflow: 'hidden',
-  },
-  glow: {
-    position: 'absolute',
-    top: '-20%',
-    left: '50%',
-    transform: 'translateX(-50%)',
-    width: '800px',
-    height: '800px',
-    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.06) 0%, transparent 70%)',
-    pointerEvents: 'none',
-  },
-  glowSecondary: {
-    position: 'absolute',
-    bottom: '-30%',
-    right: '-10%',
-    width: '600px',
-    height: '600px',
-    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.03) 0%, transparent 70%)',
-    pointerEvents: 'none',
   },
   content: {
     position: 'relative',
@@ -267,6 +376,7 @@ const hero = {
     color: '#E8E4D9',
     marginBottom: '24px',
     letterSpacing: '-0.01em',
+    textShadow: '0 0 60px rgba(212, 175, 55, 0.25)',
   },
   gold: {
     color: '#D4AF37',
@@ -371,7 +481,6 @@ const bereiche = {
     background: '#111111',
     borderRadius: '10px',
     border: '1px solid rgba(212, 175, 55, 0.08)',
-    transition: 'all 0.3s ease',
     cursor: 'default',
     position: 'relative',
   },
@@ -430,7 +539,6 @@ const formate = {
     borderRadius: '12px',
     border: '1px solid rgba(212, 175, 55, 0.08)',
     textAlign: 'center',
-    transition: 'all 0.3s ease',
   },
   symbol: {
     fontFamily: "'Cormorant Garamond', serif",
@@ -543,9 +651,22 @@ const cta = {
     top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
-    width: '600px',
-    height: '400px',
-    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.08) 0%, transparent 70%)',
+    width: '700px',
+    height: '500px',
+    borderRadius: '50%',
+    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.09) 0%, rgba(212, 175, 55, 0.03) 45%, transparent 70%)',
+    pointerEvents: 'none',
+  },
+  ring: {
+    position: 'absolute',
+    top: '50%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    width: '560px',
+    height: '420px',
+    borderRadius: '50%',
+    border: '1px solid rgba(212, 175, 55, 0.5)',
+    opacity: 0.08,
     pointerEvents: 'none',
   },
   content: {

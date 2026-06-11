@@ -1,40 +1,46 @@
 // ═══════════════════════════════════════════════════════════
-// Landing Page — Resonanz Akademie
-// Das Netflix der ganzheitlichen Gesundheit
+// Landing Page — Human Resonanz Akademie
+// Das Netflix der Resonanz
+// Saniert 11.06.2026: Health-Claims entfernt, Ausbildungs-Framing
+// entfernt, Streichpreise entfernt, Kurszähler dynamisch
 // ═══════════════════════════════════════════════════════════
 
 import { Link } from 'react-router-dom'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
+import { KURSE } from '../data/kurse'
 
-// ── 11 Bereiche ───────────────────────────────────────────
+// ── Dynamischer Live-Zähler (Single Source of Truth: src/data/kurse.js) ──
+const LIVE_COUNT = KURSE.filter(k => (k.status ?? 'live') === 'live').length
+
+// ── 11 Bereiche ──────────────────────────────────────────────
 const BEREICHE = [
   { nr: 1, name: 'Organsprache', icon: '🫀', desc: 'Was dein Körper dir wirklich sagt' },
   { nr: 2, name: 'Chakrenarbeit', icon: '🔮', desc: 'Energiezentren verstehen und harmonisieren' },
-  { nr: 3, name: 'Aura & Energiefeld', icon: '✨', desc: 'Sehen, spüren, heilen' },
-  { nr: 4, name: 'Humanenergetik', icon: '⚡', desc: 'Grundlagen energetischer Heilarbeit' },
+  { nr: 3, name: 'Aura & Energiefeld', icon: '✨', desc: 'Sehen, spüren, verstehen' },
+  { nr: 4, name: 'Humanenergetik', icon: '⚡', desc: 'Grundlagen energetischer Arbeit' },
   { nr: 5, name: 'Medialität & Hellsinne', icon: '👁️', desc: 'Deine feinstoffliche Wahrnehmung schulen' },
   { nr: 6, name: 'Karma & Seelenarbeit', icon: '🌀', desc: 'Seelenverträge und karmische Muster' },
   { nr: 7, name: 'Human Design', icon: '◇', desc: 'Dein energetischer Bauplan' },
   { nr: 8, name: 'Schamanismus', icon: '🌿', desc: 'Uraltes Wissen für die moderne Welt' },
   { nr: 9, name: 'Schutz & Erdung', icon: '🛡️', desc: 'Energetische Hygiene und Stabilität' },
-  { nr: 10, name: 'Quantenarbeit', icon: '∞', desc: 'Fernheilung und Quantenfelder' },
+  { nr: 10, name: 'Quantenarbeit', icon: '∞', desc: 'Bewusstsein und Quantenfelder erforschen' },
   { nr: 11, name: 'Praxis & Business', icon: '💎', desc: 'Deine Praxis professionell aufbauen' },
 ]
 
 const FORMATE = [
-  { symbol: '◈', name: 'Mikro-Kurs', hours: '1–2 Stunden', desc: 'Ein Thema, ein konkretes Ergebnis', preisAlt: '9–19€', preisNeu: 'Kostenlos · Gründerphase' },
-  { symbol: '◈◈', name: 'Standard-Kurs', hours: '3–6 Stunden', desc: 'Vollständiger Themenkomplex mit Workbook', preisAlt: '29–79€', preisNeu: 'Kostenlos · Gründerphase' },
-  { symbol: '◈◈◈', name: 'Intensiv-Schulung', hours: '8–16 Stunden', desc: 'Wochenendseminar-Qualität, Fallarbeit', preisAlt: '99–299€', preisNeu: 'Kostenlos · Gründerphase' },
-  { symbol: '◈◈◈◈', name: 'Ausbildung', hours: '30–60 Stunden', desc: 'Vollständige Fachausbildung mit Zertifikat', preisAlt: '299–999€', preisNeu: 'Kostenlos · Gründerphase' },
+  { symbol: '◈', name: 'Mikro-Kurs', hours: '1–2 Stunden', desc: 'Ein Thema, ein konkretes Ergebnis', preis: 'Kostenlos · Gründungsphase' },
+  { symbol: '◈◈', name: 'Standard-Kurs', hours: '3–6 Stunden', desc: 'Vollständiger Themenkomplex mit Workbook', preis: 'Kostenlos · Gründungsphase' },
+  { symbol: '◈◈◈', name: 'Intensiv-Kurs', hours: '8–16 Stunden', desc: 'Umfassende Vertiefung mit Praxisübungen', preis: 'Kostenlos · Gründungsphase' },
+  { symbol: '◈◈◈◈', name: 'Vertiefungsweg', hours: '30–60 Stunden', desc: 'Umfassender Lernweg mit Teilnahmezertifikat', preis: 'Kostenlos · Gründungsphase' },
 ]
 
 const UNTERSCHIEDE = [
   { andere: 'Starre Kurs-Struktur', hr: 'Persönliches Assessment → individueller Lernpfad' },
-  { andere: 'Generische Inhalte', hr: 'Basiert auf echten Ausbildungszertifikaten' },
+  { andere: 'Generische Inhalte', hr: 'Praxisnah aufgebaute, eigenständige Inhalte' },
   { andere: 'Überladene Plattformen', hr: 'Netflix-Feeling: klar, schnell, intuitiv' },
-  { andere: 'Manuelle Prüfungsbewertung', hr: 'Automatisierte Prüfungen & Zertifikate' },
-  { andere: 'Esoterik ODER Wissenschaft', hr: 'Brücke zwischen Energetik, Psychologie & Technologie' },
+  { andere: 'Manuelle Prüfungsbewertung', hr: 'Automatische Quiz & Teilnahmebestätigungen' },
+  { andere: 'Theorie ohne Anwendung', hr: 'Brücke zwischen Energetik, Bewusstsein & Technologie' },
   { andere: 'Keine Community', hr: 'Resonanz-Netzwerk: Gleichgesinnte verbinden sich' },
 ]
 
@@ -56,13 +62,13 @@ export default function Landing() {
           
           <h1 style={hero.title}>
             Das <span style={hero.gold}>Netflix</span> der
-            <br />ganzheitlichen Gesundheit
+            <br />Resonanz
           </h1>
           
           <p style={hero.subtitle}>
-            Über 100 Kurse, Zertifizierungen und persönliche Lernpfade. 
+            {LIVE_COUNT} Kurse, persönliche Lernpfade und Teilnahmezertifikate. 
             Von einem Praktiker für Praktiker — mit persönlichem Assessment 
-            und Wochenendseminar-Qualität in digitalem Format.
+            und klar strukturierten Inhalten in digitalem Format.
           </p>
           
           <div style={hero.actions}>
@@ -81,8 +87,8 @@ export default function Landing() {
             </div>
             <div style={hero.divider} />
             <div style={hero.stat}>
-              <span style={hero.statNum}>100+</span>
-              <span style={hero.statLabel}>Kurse & Schulungen</span>
+              <span style={hero.statNum}>{LIVE_COUNT}</span>
+              <span style={hero.statLabel}>Kurse</span>
             </div>
             <div style={hero.divider} />
             <div style={hero.stat}>
@@ -100,8 +106,8 @@ export default function Landing() {
             <span style={bereiche.overline}>11 Themen-Bereiche</span>
             <h2 style={bereiche.title}>Dein Wissen. Dein Weg.</h2>
             <p style={bereiche.subtitle}>
-              Jeder Bereich ist eine eigenständige Ausbildungswelt — vom 
-              Schnupperkurs bis zur vollständigen Fachausbildung.
+              Jeder Bereich ist eine eigenständige Lernwelt — vom 
+              Schnupperkurs bis zum umfassenden Vertiefungsweg.
             </p>
           </div>
           
@@ -133,11 +139,11 @@ export default function Landing() {
         <div style={formate.container}>
           <span style={bereiche.overline}>4 Kurs-Formate</span>
           <h2 style={{ ...bereiche.title, marginBottom: '16px' }}>
-            Vom Einstieg bis zur Ausbildung
+            Vom Einstieg bis zur Vertiefung
           </h2>
           <p style={{ ...bereiche.subtitle, marginBottom: '48px' }}>
             Jedes Format hat ein klar definiertes Level — vom 90-Minuten-Einstieg 
-            bis zur 60-Stunden-Ausbildung.
+            bis zum 60-Stunden-Vertiefungsweg.
           </p>
           
           <div style={formate.grid}>
@@ -148,8 +154,7 @@ export default function Landing() {
                 <div style={formate.hours}>{f.hours}</div>
                 <p style={formate.desc}>{f.desc}</p>
                 <div style={formate.preisWrap}>
-                  <span style={formate.preisAlt}>{f.preisAlt}</span>
-                  <span style={formate.preisNeu}>{f.preisNeu}</span>
+                  <span style={formate.preisNeu}>{f.preis}</span>
                 </div>
               </div>
             ))}
@@ -168,7 +173,7 @@ export default function Landing() {
           <div style={unterschied.table}>
             <div style={unterschied.headerRow}>
               <div style={unterschied.headerCell}>Andere Anbieter</div>
-              <div style={{ ...unterschied.headerCell, color: '#D4AF37' }}>Resonanz Akademie</div>
+              <div style={{ ...unterschied.headerCell, color: '#D4AF37' }}>Human Resonanz Akademie</div>
             </div>
             {UNTERSCHIEDE.map((u, i) => (
               <div key={i} style={unterschied.row}>
@@ -461,15 +466,6 @@ const formate = {
     flexDirection: 'column',
     alignItems: 'center',
     gap: '4px',
-  },
-  preisAlt: {
-    fontFamily: "'Raleway', sans-serif",
-    fontSize: '0.88rem',
-    fontWeight: '500',
-    color: '#7a7570',
-    textDecoration: 'line-through',
-    textDecorationColor: '#E74C3C',
-    textDecorationThickness: '2px',
   },
   preisNeu: {
     fontFamily: "'Raleway', sans-serif",

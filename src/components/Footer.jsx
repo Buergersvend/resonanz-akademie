@@ -109,7 +109,6 @@ export default function Footer() {
             <span style={s.colTitle}>Rechtliches</span>
             <a href="/impressum" style={s.link}>Impressum</a>
             <a href="/datenschutz" style={s.link}>Datenschutz</a>
-            <a href="/agb" style={s.link}>AGB</a>
           </div>
         </div>
       </div>

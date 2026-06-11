@@ -1,6 +1,22 @@
 // ═══════════════════════════════════════════════════════════
-// App.jsx — Resonanz Akademie Root
+// App.jsx — Human Resonanz Akademie Root
+// 11.06.2026: Routen /impressum + /datenschutz ergänzt,
+// Schriftarten lokal eingebunden (@fontsource statt Google CDN)
 // ═══════════════════════════════════════════════════════════
+
+// ── Lokale Schriftarten (DSGVO: keine Google-Fonts-CDN-Verbindung) ──
+import '@fontsource/cormorant-garamond/300.css'
+import '@fontsource/cormorant-garamond/400.css'
+import '@fontsource/cormorant-garamond/500.css'
+import '@fontsource/cormorant-garamond/600.css'
+import '@fontsource/cormorant-garamond/700.css'
+import '@fontsource/cormorant-garamond/400-italic.css'
+import '@fontsource/cormorant-garamond/500-italic.css'
+import '@fontsource/raleway/300.css'
+import '@fontsource/raleway/400.css'
+import '@fontsource/raleway/500.css'
+import '@fontsource/raleway/600.css'
+import '@fontsource/raleway/700.css'
 
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { AuthProvider, useAuth } from './config/AuthContext'
@@ -10,8 +26,10 @@ import Dashboard from './pages/Dashboard'
 import Kurse from './pages/Kurse'
 import KursDetail from './pages/KursDetail'
 import Lektion from './pages/Lektion'
+import Impressum from './pages/Impressum'
+import Datenschutz from './pages/Datenschutz'
 
-// ── Protected Route ───────────────────────────────────────
+// ── Protected Route ──────────────────────────────────────────
 function ProtectedRoute({ children }) {
   const { user, loading } = useAuth()
   
@@ -41,7 +59,7 @@ function ProtectedRoute({ children }) {
   return children
 }
 
-// ── Public Route (redirect wenn eingeloggt) ───────────────
+// ── Public Route (redirect wenn eingeloggt) ─────────────
 function PublicRoute({ children }) {
   const { user, loading } = useAuth()
   if (loading) return null
@@ -49,7 +67,7 @@ function PublicRoute({ children }) {
   return children
 }
 
-// ── App ───────────────────────────────────────────────────
+// ── App ──────────────────────────────────────────────────────
 export default function App() {
   return (
     <AuthProvider>
@@ -60,6 +78,8 @@ export default function App() {
           <Route path="/login" element={
             <PublicRoute><Login /></PublicRoute>
           } />
+          <Route path="/impressum" element={<Impressum />} />
+          <Route path="/datenschutz" element={<Datenschutz />} />
           
           {/* Protected */}
           <Route path="/dashboard" element={

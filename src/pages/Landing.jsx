@@ -77,6 +77,10 @@ export default function Landing() {
           0%, 100% { opacity: var(--star-min); }
           50% { opacity: var(--star-max); }
         }
+        @keyframes logoFloat {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-7px); }
+        }
         @keyframes heroRise {
           from { opacity: 0; transform: translateY(18px); }
           to { opacity: 1; transform: translateY(0); }
@@ -86,6 +90,7 @@ export default function Landing() {
         .nova-ring { animation: ringDrift 90s linear infinite; }
         .nova-ring.slow { animation-duration: 150s; animation-direction: reverse; }
         .hr-star { animation: starTwinkle var(--star-dur) ease-in-out infinite; }
+        .logo-float { animation: logoFloat 6s ease-in-out infinite; }
         .hero-rise { animation: heroRise 0.9s ease-out both; }
         .hero-rise.d1 { animation-delay: 0.1s; }
         .hero-rise.d2 { animation-delay: 0.25s; }
@@ -97,7 +102,7 @@ export default function Landing() {
           box-shadow: 0 8px 32px rgba(212, 175, 55, 0.08);
         }
         @media (prefers-reduced-motion: reduce) {
-          .nova-core, .nova-halo, .nova-ring, .hr-star, .hero-rise { animation: none; }
+          .nova-core, .nova-halo, .nova-ring, .hr-star, .hero-rise, .logo-float { animation: none; }
         }
       `}</style>
 
@@ -128,16 +133,22 @@ export default function Landing() {
           ))}
         </div>
 
-        {/* Supernova-Kern */}
-        <div style={nova.wrap} aria-hidden="true">
-          <div className="nova-halo" style={nova.halo} />
-          <div className="nova-core" style={nova.core} />
-          <div className="nova-ring" style={{ ...nova.ring, width: '480px', height: '360px', opacity: 0.14 }} />
-          <div className="nova-ring slow" style={{ ...nova.ring, width: '720px', height: '540px', opacity: 0.09 }} />
-          <div className="nova-ring" style={{ ...nova.ring, width: '980px', height: '730px', opacity: 0.05, animationDuration: '210s' }} />
-        </div>
-        
         <div style={hero.content}>
+          {/* Supernova — Markensiegel mit Lichtkern */}
+          <div className="hero-rise" style={hero.logoWrap} >
+            <div className="nova-halo" style={hero.logoHalo} aria-hidden="true" />
+            <div className="nova-core" style={hero.logoCore} aria-hidden="true" />
+            <div className="nova-ring" style={{ ...hero.logoRing, width: '330px', height: '330px', opacity: 0.20 }} aria-hidden="true" />
+            <div className="nova-ring slow" style={{ ...hero.logoRing, width: '470px', height: '470px', opacity: 0.11 }} aria-hidden="true" />
+            <div className="nova-ring" style={{ ...hero.logoRing, width: '640px', height: '640px', opacity: 0.06, animationDuration: '210s' }} aria-hidden="true" />
+            <img
+              src="/logo-siegel.png"
+              alt="Human Resonanz Akademie — Siegel"
+              className="logo-float"
+              style={hero.logoImg}
+            />
+          </div>
+
           <div className="hero-rise" style={hero.badge}>
             ◈ Jetzt in der Beta-Phase
           </div>
@@ -301,44 +312,56 @@ const nova = {
     overflow: 'hidden',
     pointerEvents: 'none',
   },
-  wrap: {
-    position: 'absolute',
-    inset: 0,
-    pointerEvents: 'none',
-    overflow: 'hidden',
+}
+
+const hero = {
+  logoWrap: {
+    position: 'relative',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginBottom: '32px',
   },
-  core: {
+  logoImg: {
+    position: 'relative',
+    zIndex: 1,
+    width: 'clamp(120px, 16vw, 170px)',
+    height: 'auto',
+    borderRadius: '50%',
+    boxShadow: '0 0 70px rgba(212, 175, 55, 0.35), 0 0 140px rgba(212, 175, 55, 0.15)',
+  },
+  logoCore: {
     position: 'absolute',
-    top: '42%',
+    top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
-    width: '340px',
-    height: '340px',
+    width: '300px',
+    height: '300px',
     borderRadius: '50%',
-    background: 'radial-gradient(circle, rgba(255, 251, 230, 0.16) 0%, rgba(232, 223, 200, 0.10) 22%, rgba(212, 175, 55, 0.07) 45%, transparent 72%)',
+    background: 'radial-gradient(circle, rgba(255, 251, 230, 0.18) 0%, rgba(232, 223, 200, 0.10) 25%, rgba(212, 175, 55, 0.06) 50%, transparent 72%)',
     filter: 'blur(2px)',
+    pointerEvents: 'none',
   },
-  halo: {
+  logoHalo: {
     position: 'absolute',
-    top: '42%',
+    top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
-    width: '900px',
-    height: '900px',
+    width: '760px',
+    height: '760px',
     borderRadius: '50%',
-    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.07) 0%, rgba(212, 175, 55, 0.03) 40%, transparent 70%)',
+    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.09) 0%, rgba(212, 175, 55, 0.03) 45%, transparent 70%)',
+    pointerEvents: 'none',
   },
-  ring: {
+  logoRing: {
     position: 'absolute',
-    top: '42%',
+    top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
     borderRadius: '50%',
     border: '1px solid rgba(212, 175, 55, 0.5)',
+    pointerEvents: 'none',
   },
-}
-
-const hero = {
   section: {
     position: 'relative',
     minHeight: '100vh',

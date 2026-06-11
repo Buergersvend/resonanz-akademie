@@ -1,5 +1,6 @@
 // ═══════════════════════════════════════════════════════════
 // Navbar — Öffentliche Navigation
+// 11.06.2026: Markensiegel statt "A"-Platzhalter
 // ═══════════════════════════════════════════════════════════
 
 import { useState, useEffect } from 'react'
@@ -31,18 +32,11 @@ const styles = {
     color: '#E8E4D9',
   },
   logoMark: {
-    width: '36px',
-    height: '36px',
+    width: '40px',
+    height: '40px',
     borderRadius: '50%',
-    background: 'linear-gradient(135deg, #D4AF37, #B8960C)',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-    fontFamily: "'Cormorant Garamond', serif",
-    fontSize: '1.1rem',
-    fontWeight: '700',
-    color: '#0a0a0a',
     flexShrink: 0,
+    boxShadow: '0 0 18px rgba(212, 175, 55, 0.35)',
   },
   logoText: {
     fontFamily: "'Cormorant Garamond', serif",
@@ -107,7 +101,7 @@ export default function Navbar() {
     }}>
       <div style={styles.inner}>
         <Link to="/" style={styles.logo}>
-          <div style={styles.logoMark}>A</div>
+          <img src="/logo-siegel.png" alt="Human Resonanz Siegel" style={styles.logoMark} />
           <span style={styles.logoText}>
             Human Resonanz <span style={styles.logoAccent}>Akademie</span>
           </span>

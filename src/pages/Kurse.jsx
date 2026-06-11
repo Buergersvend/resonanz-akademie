@@ -1,6 +1,7 @@
 // ═══════════════════════════════════════════════════════════
 // Kurse — Kursübersicht mit Bereiche-Filter
 // Single Source of Truth: src/data/kurse.js
+// Saniert 11.06.2026: dynamischer Zähler, Streichpreise entfernt
 // ═══════════════════════════════════════════════════════════
 
 import { useState, useEffect } from 'react'
@@ -9,6 +10,8 @@ import { useAuth } from '../config/AuthContext'
 import { BEREICHE, KURSE, getGesamtLektionen } from '../data/kurse'
 import { getProgress, getProgressPercent } from '../config/progress'
 import AppShell from '../components/AppShell'
+
+const LIVE_COUNT = KURSE.filter(k => (k.status ?? 'live') === 'live').length
 
 export default function Kurse() {
   const { user } = useAuth()
@@ -44,7 +47,7 @@ export default function Kurse() {
       <div style={s.page}>
         <h1 style={s.title}>Kurse <span style={s.gold}>entdecken</span></h1>
         <p style={s.subtitle}>
-          Über 100 Kurse in 11 Bereichen — finde deinen Einstieg.
+          {LIVE_COUNT} Kurse in 11 Bereichen — finde deinen Einstieg.
         </p>
 
         {/* Bereich Filter */}
@@ -79,12 +82,7 @@ export default function Kurse() {
                 )}
                 <div style={s.cardHeader}>
                   <span style={s.cardFormat}>{kurs.symbol} {kurs.stunden}</span>
-                  <span style={s.cardPreis}>
-                    {kurs.originalPreis && (
-                      <span style={s.originalPreis}>{kurs.originalPreis}</span>
-                    )}
-                    {' '}{kurs.preis}
-                  </span>
+                  <span style={s.cardPreis}>{kurs.preis}</span>
                 </div>
                 <h3 style={s.cardTitle}>{kurs.titel}</h3>
                 <p style={s.cardDesc}>{kurs.beschreibung || kurs.desc}</p>
@@ -227,12 +225,6 @@ const s = {
     fontSize: '0.78rem',
     fontWeight: '600',
     color: '#9A9589',
-  },
-  originalPreis: {
-    textDecoration: 'line-through',
-    color: '#E74C3C',
-    marginRight: '6px',
-    fontSize: '0.75rem',
   },
   cardTitle: {
     fontFamily: "'Cormorant Garamond', serif",

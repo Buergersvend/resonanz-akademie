@@ -1,7 +1,7 @@
 // ═══════════════════════════════════════════════════════════
 // App.jsx — Human Resonanz Akademie Root
-// 11.06.2026: Routen /impressum + /datenschutz ergänzt,
-// Schriftarten lokal eingebunden (@fontsource statt Google CDN)
+// 11.06.2026: Routen /impressum + /datenschutz,
+// Schriftarten lokal (@fontsource), globaler Gold-Scrollbalken
 // ═══════════════════════════════════════════════════════════
 
 // ── Lokale Schriftarten (DSGVO: keine Google-Fonts-CDN-Verbindung) ──
@@ -28,6 +28,31 @@ import KursDetail from './pages/KursDetail'
 import Lektion from './pages/Lektion'
 import Impressum from './pages/Impressum'
 import Datenschutz from './pages/Datenschutz'
+
+// ── Globale Styles: gut sichtbarer Gold-Scrollbalken ─────────
+const GLOBAL_STYLES = `
+  /* Firefox */
+  html {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(212, 175, 55, 0.45) #0d0d0d;
+  }
+  /* Chrome / Edge / Safari */
+  ::-webkit-scrollbar {
+    width: 11px;
+    height: 11px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0d0d0d;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(212, 175, 55, 0.40);
+    border-radius: 6px;
+    border: 2px solid #0d0d0d;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(212, 175, 55, 0.65);
+  }
+`
 
 // ── Protected Route ──────────────────────────────────────────
 function ProtectedRoute({ children }) {
@@ -71,6 +96,7 @@ function PublicRoute({ children }) {
 export default function App() {
   return (
     <AuthProvider>
+      <style>{GLOBAL_STYLES}</style>
       <BrowserRouter>
         <Routes>
           {/* Public */}

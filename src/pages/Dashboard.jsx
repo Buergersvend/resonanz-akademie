@@ -1,6 +1,8 @@
 // ═══════════════════════════════════════════════════════════
 // Dashboard — Akademie Startseite (eingeloggt)
 // Zeigt echten Fortschritt aus Firestore
+// Saniert 11.06.2026: Featured-Kurs dynamisch aus Kursdaten,
+// Zähler dynamisch, Teilnahmezertifikate, Markenname korrigiert
 // ═══════════════════════════════════════════════════════════
 
 import { useState, useEffect } from 'react'
@@ -9,6 +11,9 @@ import { useAuth } from '../config/AuthContext'
 import { KURSE, getGesamtLektionen } from '../data/kurse'
 import { getProgress, getProgressPercent, isKursComplete } from '../config/progress'
 import AppShell from '../components/AppShell'
+
+const LIVE_COUNT = KURSE.filter(k => (k.status ?? 'live') === 'live').length
+const FEATURED_ID = 'B10'
 
 export default function Dashboard() {
   const { user } = useAuth()
@@ -46,6 +51,10 @@ export default function Dashboard() {
     return c.length > 0 && !isKursComplete(c, k.id)
   })
 
+  // Empfohlener Kurs — Titel & Beschreibung dynamisch aus den Kursdaten
+  // (Single Source of Truth: nie wieder veraltete Featured-Texte)
+  const featuredKurs = KURSE.find(k => k.id === FEATURED_ID)
+
   // Nächste Lektion finden (aus dem aktiven Kurs)
   const getNextLektionInfo = () => {
     for (const kurs of liveKurse) {
@@ -74,7 +83,7 @@ export default function Dashboard() {
           <h1 style={s.greeting}>
             Willkommen, <span style={s.gold}>{displayName}</span>
           </h1>
-          <p style={s.sub}>Dein persönlicher Lernraum in der Resonanz Akademie.</p>
+          <p style={s.sub}>Dein persönlicher Lernraum in der Human Resonanz Akademie.</p>
         </div>
 
         {/* Weiter lernen — wenn aktiver Kurs vorhanden */}
@@ -121,8 +130,8 @@ export default function Dashboard() {
               <div style={s.cardIcon}>◈◈</div>
               <h3 style={s.cardTitle}>Kurse entdecken</h3>
               <p style={s.cardDesc}>
-                Über 100 Kurse in 11 Bereichen — vom Schnupperkurs 
-                bis zur vollständigen Fachausbildung.
+                {LIVE_COUNT} Kurse in 11 Bereichen — vom Schnupperkurs 
+                bis zum umfassenden Vertiefungsweg.
               </p>
               <span style={s.cardLink}>Zur Kursübersicht →</span>
             </div>
@@ -168,40 +177,40 @@ export default function Dashboard() {
             )}
           </div>
 
-          {/* Zertifikate Card */}
+          {/* Teilnahmezertifikate Card */}
           <div style={s.card}>
             <div style={s.cardIcon}>◈◈◈◈</div>
-            <h3 style={s.cardTitle}>Zertifikate</h3>
+            <h3 style={s.cardTitle}>Teilnahmezertifikate</h3>
             <p style={s.cardDesc}>
-              Deine erworbenen Zertifikate und Abzeichen erscheinen 
-              hier — bereit zum Download und Teilen.
+              Deine Teilnahmebestätigungen für abgeschlossene Kurse 
+              erscheinen hier — bereit zum Download und Teilen.
             </p>
             <span style={s.emptyState}>
-              {completedKurse > 0 ? 'Zertifikate werden bald verfügbar' : 'Noch keine Zertifikate'}
+              {completedKurse > 0 ? 'Teilnahmezertifikate werden bald verfügbar' : 'Noch keine Teilnahmezertifikate'}
             </span>
           </div>
         </div>
 
         {/* Empfohlener Kurs — nur wenn kein aktiver Kurs oder Neuling */}
-        {loaded && !nextInfo && (
+        {loaded && !nextInfo && featuredKurs && (
           <div style={s.featured}>
             <span style={s.featuredOverline}>Empfohlen für dich</span>
             <div style={s.featuredCard}>
               <div style={s.featuredLeft}>
-                <span style={s.featuredBadge}>◈ Mikro-Kurs · 1–2h · Kostenlos</span>
-                <h2 style={s.featuredTitle}>Quantenheilung — Einstieg</h2>
+                <span style={s.featuredBadge}>
+                  {featuredKurs.symbol} {featuredKurs.stunden} · {featuredKurs.preis}
+                </span>
+                <h2 style={s.featuredTitle}>{featuredKurs.titel}</h2>
                 <p style={s.featuredDesc}>
-                  Entdecke die Grundlagen der Quantenheilung. Lerne die Zwei-Punkt-Methode, 
-                  Herzfokussierte Kohärenzatmung und Intentionsbasierte Energielenkung 
-                  in 4 kompakten Modulen.
+                  {featuredKurs.beschreibung || featuredKurs.desc}
                 </p>
-                <Link to="/kurs/B10" className="btn btn-gold" style={{ fontSize: '0.9rem' }}>
-                  {(progressData['B10'] || []).length > 0 ? 'Fortsetzen' : 'Kurs starten'}
+                <Link to={`/kurs/${FEATURED_ID}`} className="btn btn-gold" style={{ fontSize: '0.9rem' }}>
+                  {(progressData[FEATURED_ID] || []).length > 0 ? 'Fortsetzen' : 'Kurs starten'}
                 </Link>
               </div>
               <div style={s.featuredRight}>
                 <div style={s.featuredModules}>
-                  {KURSE.find(k => k.id === 'B10')?.module.map(m => (
+                  {featuredKurs.module.map(m => (
                     <div key={m.nr} style={s.module}>
                       <span style={s.moduleNr}>{String(m.nr).padStart(2, '0')}</span>
                       <span style={s.moduleName}>{m.titel}</span>

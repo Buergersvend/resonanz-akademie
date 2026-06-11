@@ -1,6 +1,7 @@
 // ═══════════════════════════════════════════════════════════
 // AppShell — Layout für eingeloggte Seiten
 // Sidebar + Content Area
+// Saniert 11.06.2026: Markenname "Human Resonanz Akademie"
 // ═══════════════════════════════════════════════════════════
 
 import { NavLink, useNavigate } from 'react-router-dom'
@@ -37,12 +38,13 @@ const s = {
   },
   logoText: {
     fontFamily: "'Cormorant Garamond', serif",
-    fontSize: '1.1rem',
+    fontSize: '1.05rem',
     fontWeight: '500',
     color: '#E8E4D9',
     letterSpacing: '0.03em',
     textDecoration: 'none',
     display: 'block',
+    lineHeight: '1.35',
   },
   logoAccent: {
     color: '#D4AF37',
@@ -120,7 +122,7 @@ export default function AppShell({ children }) {
       <aside style={s.sidebar}>
         <div style={s.logo}>
           <span style={s.logoText}>
-            Resonanz <span style={s.logoAccent}>Akademie</span>
+            Human Resonanz <span style={s.logoAccent}>Akademie</span>
           </span>
         </div>
 

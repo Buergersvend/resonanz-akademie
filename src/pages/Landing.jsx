@@ -1,11 +1,12 @@
 // ═══════════════════════════════════════════════════════════
 // Landing Page — Human Resonanz Akademie
 // Das Netflix der Resonanz
-// v2 — 11.06.2026: Rechtlich saniert + Supernova-Design
-// (kosmischer Lichtkern, Sternenfeld, Aura-Ringe — analog
-//  Homepage & Zertifikat-Ästhetik)
+// v5 — 12.06.2026: Original-Supernova von human-resonanz.de
+// 1:1 portiert (Canvas-Partikel, Klick aufs Siegel + Auto-Zündung)
+// Quelle: human-resonanz-web/index.html — identische Parameter
 // ═══════════════════════════════════════════════════════════
 
+import { useEffect, useRef } from 'react'
 import { Link } from 'react-router-dom'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
@@ -13,17 +14,6 @@ import { KURSE } from '../data/kurse'
 
 // ── Dynamischer Live-Zähler (Single Source of Truth: src/data/kurse.js) ──
 const LIVE_COUNT = KURSE.filter(k => (k.status ?? 'live') === 'live').length
-
-// ── Sternenfeld (einmalig generiert, deterministisch pro Load) ──
-const STARS = Array.from({ length: 80 }, (_, i) => ({
-  id: i,
-  left: Math.random() * 100,
-  top: Math.random() * 100,
-  size: 1 + Math.random() * 1.8,
-  delay: Math.random() * 6,
-  duration: 3 + Math.random() * 5,
-  opacity: 0.15 + Math.random() * 0.45,
-}))
 
 // ── 11 Bereiche ──────────────────────────────────────────────
 const BEREICHE = [
@@ -57,52 +47,365 @@ const UNTERSCHIEDE = [
 ]
 
 export default function Landing() {
+  const heroRef = useRef(null)
+  const ambientRef = useRef(null)
+  const snCanvasRef = useRef(null)
+  const flashRef = useRef(null)
+  const logoRef = useRef(null)
+  const fireRef = useRef(() => {})
+
+  // ─── Ambient-Sternenfeld (Original: 140 Vierzack-Sterne, driftend) ───
+  useEffect(() => {
+    const canvas = ambientRef.current
+    const hero = heroRef.current
+    if (!canvas || !hero) return
+    const ctx = canvas.getContext('2d')
+    let W, H, raf
+
+    function resize() {
+      const rect = hero.getBoundingClientRect()
+      W = canvas.width = rect.width
+      H = canvas.height = rect.height
+    }
+    resize()
+    window.addEventListener('resize', resize)
+
+    function drawStar(cx, cy, r, o, gold) {
+      const spikes = 4, inner = r * 0.38
+      ctx.save()
+      ctx.translate(cx, cy)
+      ctx.rotate(Math.PI / 4)
+      ctx.beginPath()
+      for (let i = 0; i < spikes * 2; i++) {
+        const radius = i % 2 === 0 ? r : inner
+        const angle = (i * Math.PI) / spikes
+        i === 0 ? ctx.moveTo(Math.cos(angle) * radius, Math.sin(angle) * radius)
+                : ctx.lineTo(Math.cos(angle) * radius, Math.sin(angle) * radius)
+      }
+      ctx.closePath()
+      ctx.fillStyle = gold ? `rgba(201,168,76,${o})` : `rgba(245,240,232,${o * 0.55})`
+      ctx.fill()
+      if (r > 1.2) {
+        ctx.beginPath()
+        ctx.arc(0, 0, r * 2.2, 0, Math.PI * 2)
+        ctx.fillStyle = gold ? `rgba(201,168,76,${o * 0.08})` : `rgba(245,240,232,${o * 0.05})`
+        ctx.fill()
+      }
+      ctx.restore()
+    }
+
+    const particles = Array.from({ length: 140 }, () => ({
+      x: Math.random() * window.innerWidth,
+      y: Math.random() * window.innerHeight,
+      size: Math.random() * 1.1 + 0.3,
+      sx: (Math.random() - 0.5) * 0.06,
+      sy: (Math.random() - 0.5) * 0.05 - 0.015,
+      op: Math.random() * 0.45 + 0.15,
+      ph: Math.random() * Math.PI * 2,
+      ps: 0.003 + Math.random() * 0.007,
+      gold: Math.random() > 0.75,
+    }))
+
+    function ap() {
+      ctx.clearRect(0, 0, W, H)
+      particles.forEach(p => {
+        p.ph += p.ps
+        const o = p.op * (0.5 + 0.5 * Math.sin(p.ph))
+        drawStar(p.x, p.y, p.size, o, p.gold)
+        p.x += p.sx; p.y += p.sy
+        if (p.x < -5) p.x = W + 5
+        if (p.x > W + 5) p.x = -5
+        if (p.y < -5) p.y = H + 5
+        if (p.y > H + 5) p.y = -5
+      })
+      raf = requestAnimationFrame(ap)
+    }
+    raf = requestAnimationFrame(ap)
+
+    return () => {
+      cancelAnimationFrame(raf)
+      window.removeEventListener('resize', resize)
+    }
+  }, [])
+
+  // ─── SUPERNOVA — 1:1 von human-resonanz.de portiert ───
+  useEffect(() => {
+    const cv = snCanvasRef.current
+    const hero = heroRef.current
+    const logo = logoRef.current
+    const flash = flashRef.current
+    if (!cv || !hero || !logo || !flash) return
+    const sCtx = cv.getContext('2d')
+
+    let sParticles = [], sRings = [], sRays = [], sStarfield = []
+    let sGlow = { opacity: 0, radius: 0 }
+    let sCoreGlow = { opacity: 0 }
+    let sRunning = false
+    let sDims = { w: 0, h: 0, cx: 0, cy: 0 }
+    let raf
+
+    function sAnimate() {
+      const { w, h, cx, cy } = sDims
+      sCtx.clearRect(0, 0, w, h)
+
+      // Starfield
+      for (let i = sStarfield.length - 1; i >= 0; i--) {
+        const s = sStarfield[i]
+        s.twinkle += s.speed
+        s.life--
+        if (s.life <= 0) { sStarfield.splice(i, 1); continue }
+        const a = (s.life / s.maxLife) * (0.3 + Math.sin(s.twinkle) * 0.2)
+        sCtx.beginPath()
+        sCtx.arc(s.x, s.y, s.size, 0, Math.PI * 2)
+        sCtx.fillStyle = `rgba(201,168,76,${a})`
+        sCtx.fill()
+      }
+
+      // Core glow
+      if (sGlow.opacity > 0) {
+        const g = sCtx.createRadialGradient(cx, cy, 0, cx, cy, sGlow.radius)
+        g.addColorStop(0, `rgba(201,168,76,${sGlow.opacity})`)
+        g.addColorStop(0.4, `rgba(201,168,76,${sGlow.opacity * 0.3})`)
+        g.addColorStop(1, 'rgba(201,168,76,0)')
+        sCtx.fillStyle = g
+        sCtx.beginPath()
+        sCtx.arc(cx, cy, sGlow.radius, 0, Math.PI * 2)
+        sCtx.fill()
+        sGlow.radius += 1.5
+        sGlow.opacity *= 0.975
+        if (sGlow.opacity < 0.01) sGlow.opacity = 0
+      }
+
+      // Center afterglow
+      if (sCoreGlow.opacity > 0) {
+        const cg = sCtx.createRadialGradient(cx, cy, 0, cx, cy, 80)
+        cg.addColorStop(0, `rgba(255,240,200,${sCoreGlow.opacity * 0.4})`)
+        cg.addColorStop(1, 'rgba(201,168,76,0)')
+        sCtx.fillStyle = cg
+        sCtx.beginPath()
+        sCtx.arc(cx, cy, 80, 0, Math.PI * 2)
+        sCtx.fill()
+        sCoreGlow.opacity *= 0.97
+        if (sCoreGlow.opacity < 0.01) sCoreGlow.opacity = 0
+      }
+
+      // Rays
+      for (let i = sRays.length - 1; i >= 0; i--) {
+        const r = sRays[i]
+        if (r.length < r.maxLength) r.length += r.speed
+        else r.opacity -= 0.015
+        if (r.opacity <= 0) { sRays.splice(i, 1); continue }
+        sCtx.save()
+        sCtx.translate(cx, cy)
+        sCtx.rotate(r.angle)
+        const lg = sCtx.createLinearGradient(0, 0, r.length, 0)
+        lg.addColorStop(0, `rgba(201,168,76,${r.opacity})`)
+        lg.addColorStop(1, 'rgba(201,168,76,0)')
+        sCtx.strokeStyle = lg
+        sCtx.lineWidth = r.width
+        sCtx.beginPath()
+        sCtx.moveTo(35, 0)
+        sCtx.lineTo(35 + r.length, 0)
+        sCtx.stroke()
+        sCtx.restore()
+      }
+
+      // Shockwave rings
+      for (let i = sRings.length - 1; i >= 0; i--) {
+        const r = sRings[i]
+        r.radius += r.speed
+        r.opacity -= 0.006
+        if (r.opacity <= 0 || r.radius > r.maxRadius) { sRings.splice(i, 1); continue }
+        sCtx.beginPath()
+        sCtx.arc(cx, cy, r.radius, 0, Math.PI * 2)
+        sCtx.strokeStyle = `rgba(201,168,76,${r.opacity})`
+        sCtx.lineWidth = r.width
+        sCtx.stroke()
+      }
+
+      // Particles
+      for (let i = sParticles.length - 1; i >= 0; i--) {
+        const p = sParticles[i]
+        if (p.trail && p.life > 10) {
+          sCtx.beginPath()
+          sCtx.moveTo(p.x, p.y)
+          sCtx.lineTo(p.x - p.vx * 3, p.y - p.vy * 3)
+          const ta = (p.life / p.maxLife) * 0.3
+          sCtx.strokeStyle = `rgba(${p.r},${p.g},${p.b},${ta})`
+          sCtx.lineWidth = p.size * (p.life / p.maxLife) * 0.6
+          sCtx.stroke()
+        }
+        p.x += p.vx; p.y += p.vy
+        p.vx *= 0.988; p.vy *= 0.988
+        if (p.ember) {
+          p.vx += (Math.random() - 0.5) * 0.2
+          p.vy += (Math.random() - 0.5) * 0.2
+        }
+        p.life--
+        if (p.life <= 0) { sParticles.splice(i, 1); continue }
+        const al = p.life / p.maxLife
+        const sz = p.size * al
+        sCtx.beginPath()
+        sCtx.arc(p.x, p.y, sz, 0, Math.PI * 2)
+        sCtx.fillStyle = `rgba(${p.r},${p.g},${p.b},${al})`
+        sCtx.fill()
+        if (sz > 2) {
+          sCtx.beginPath()
+          sCtx.arc(p.x, p.y, sz * 3, 0, Math.PI * 2)
+          sCtx.fillStyle = `rgba(${p.r},${p.g},${p.b},${al * 0.1})`
+          sCtx.fill()
+        }
+      }
+
+      const alive = sParticles.length > 0 || sRings.length > 0 || sRays.length > 0 || sStarfield.length > 0 || sGlow.opacity > 0 || sCoreGlow.opacity > 0
+      if (alive) {
+        raf = requestAnimationFrame(sAnimate)
+      } else {
+        sRunning = false
+      }
+    }
+
+    function fireSupernova() {
+      const rect = hero.getBoundingClientRect()
+      const dpr = window.devicePixelRatio || 1
+      cv.width = rect.width * dpr
+      cv.height = rect.height * dpr
+      cv.style.width = rect.width + 'px'
+      cv.style.height = rect.height + 'px'
+      sCtx.setTransform(1, 0, 0, 1, 0, 0)
+      sCtx.scale(dpr, dpr)
+      const w = rect.width, h = rect.height
+
+      // Siegel-Mittelpunkt relativ zum Hero
+      const logoRect = logo.getBoundingClientRect()
+      const cx = logoRect.left - rect.left + logoRect.width / 2
+      const cy = logoRect.top - rect.top + logoRect.height / 2
+      sDims = { w, h, cx, cy }
+
+      sParticles = []; sRings = []; sRays = []; sStarfield = []
+
+      // Siegel: zusammenziehen → aufspringen → einpendeln
+      logo.style.transition = 'transform 0.12s cubic-bezier(0.4,0,1,1)'
+      logo.style.transform = 'scale(0.82)'
+      setTimeout(() => {
+        logo.style.transition = 'transform 0.5s cubic-bezier(0,0.8,0.2,1.2)'
+        logo.style.transform = 'scale(1.12)'
+        setTimeout(() => {
+          logo.style.transition = 'transform 0.4s ease-out'
+          logo.style.transform = 'scale(1)'
+        }, 500)
+      }, 120)
+
+      // Bildschirm-Beben
+      hero.style.animation = 'none'
+      void hero.offsetWidth
+      hero.style.animation = 'lk-shake 0.4s ease-out'
+
+      // Blitz
+      flash.style.transition = 'opacity 0.06s'
+      flash.style.opacity = '1'
+      setTimeout(() => {
+        flash.style.transition = 'opacity 0.7s ease-out'
+        flash.style.opacity = '0'
+      }, 60)
+
+      // Partikel (100 Haupt + 30 Glut — Original-Parameter)
+      for (let i = 0; i < 100; i++) {
+        const a = Math.random() * Math.PI * 2
+        const spd = 2.5 + Math.random() * 8
+        const sz = 1.2 + Math.random() * 4
+        const l = 55 + Math.floor(Math.random() * 65)
+        const t = Math.random()
+        sParticles.push({
+          x: cx, y: cy,
+          vx: Math.cos(a) * spd, vy: Math.sin(a) * spd,
+          size: sz, life: l, maxLife: l,
+          r: t < 0.6 ? 201 : 255,
+          g: t < 0.6 ? 168 : t < 0.85 ? 200 : 255,
+          b: t < 0.6 ? 76 : t < 0.85 ? 120 : 220,
+          trail: sz > 2.5,
+        })
+      }
+      for (let i = 0; i < 30; i++) {
+        const a = Math.random() * Math.PI * 2
+        const d = 20 + Math.random() * 45
+        sParticles.push({
+          x: cx + Math.cos(a) * d, y: cy + Math.sin(a) * d,
+          vx: Math.cos(a) * (0.2 + Math.random() * 0.8),
+          vy: Math.sin(a) * (0.2 + Math.random() * 0.8),
+          size: 0.8 + Math.random() * 1.5,
+          life: 90 + Math.floor(Math.random() * 60), maxLife: 150,
+          r: 201, g: 168, b: 76, ember: true,
+        })
+      }
+
+      // Schockwellen (5, hauchdünn, verglühend)
+      for (let i = 0; i < 5; i++) {
+        sRings.push({ radius: 20, maxRadius: 200 + i * 70, opacity: 0.55 - i * 0.08, width: 2.5 - i * 0.35, speed: 3.5 + i * 1.2 })
+      }
+
+      // Lichtstrahlen (16)
+      for (let i = 0; i < 16; i++) {
+        const a = (Math.PI * 2 / 16) * i + (Math.random() - 0.5) * 0.3
+        sRays.push({ angle: a, length: 0, maxLength: 100 + Math.random() * 140, opacity: 0.35 + Math.random() * 0.25, width: 1 + Math.random() * 2, speed: 5 + Math.random() * 4 })
+      }
+
+      // Temporäres Sternenfeld (60)
+      for (let i = 0; i < 60; i++) {
+        sStarfield.push({
+          x: Math.random() * w, y: Math.random() * h,
+          size: 0.5 + Math.random() * 1.4,
+          twinkle: Math.random() * Math.PI * 2,
+          speed: 0.02 + Math.random() * 0.04,
+          life: 80 + Math.floor(Math.random() * 80), maxLife: 160,
+        })
+      }
+
+      sGlow = { opacity: 0.65, radius: 50 }
+      sCoreGlow = { opacity: 1 }
+
+      if (!sRunning) {
+        sRunning = true
+        raf = requestAnimationFrame(sAnimate)
+      }
+    }
+
+    fireRef.current = fireSupernova
+
+    // Auto-Zündung beim Seitenaufruf (1.2s nach Laden)
+    const autoTimer = setTimeout(fireSupernova, 1200)
+
+    return () => {
+      clearTimeout(autoTimer)
+      cancelAnimationFrame(raf)
+    }
+  }, [])
+
   return (
     <div style={{ background: '#0a0a0a', minHeight: '100vh' }}>
-      {/* ═══ Supernova / Kosmos Animationen ═══ */}
       <style>{`
-        @keyframes novaPulse {
-          0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.7; }
-          50% { transform: translate(-50%, -50%) scale(1.25); opacity: 1; }
-        }
-        @keyframes novaBreath {
-          0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.5; }
-          50% { transform: translate(-50%, -50%) scale(1.06); opacity: 0.75; }
-        }
-        @keyframes ringDrift {
-          from { transform: translate(-50%, -50%) rotate(0deg); }
-          to { transform: translate(-50%, -50%) rotate(360deg); }
-        }
-        @keyframes starTwinkle {
-          0%, 100% { opacity: var(--star-min); }
-          50% { opacity: var(--star-max); }
-        }
-        @keyframes novaBurst {
-          0% { transform: translate(-50%, -50%) scale(0.4); opacity: 0.6; }
-          60% { opacity: 0.2; }
-          100% { transform: translate(-50%, -50%) scale(2.1); opacity: 0; }
-        }
-        @keyframes logoFloat {
-          0%, 100% { transform: translateY(0); }
-          50% { transform: translateY(-7px); }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        @keyframes breathe { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.04); } }
+        @keyframes lk-shake {
+          0% { transform: translate(0,0); }
+          15% { transform: translate(-3px, 2px); }
+          30% { transform: translate(3px, -2px); }
+          45% { transform: translate(-2px, 1px); }
+          60% { transform: translate(2px, -1px); }
+          75% { transform: translate(-1px, 1px); }
+          100% { transform: translate(0,0); }
         }
         @keyframes heroRise {
           from { opacity: 0; transform: translateY(18px); }
           to { opacity: 1; transform: translateY(0); }
         }
-        .nova-core { animation: novaPulse 7s ease-in-out infinite; }
-        .nova-halo { animation: novaBreath 11s ease-in-out infinite; }
-        .nova-ring { animation: ringDrift 90s linear infinite; }
-        .nova-ring.slow { animation-duration: 150s; animation-direction: reverse; }
-        .hr-star { animation: starTwinkle var(--star-dur) ease-in-out infinite; }
-        .logo-float { animation: logoFloat 6s ease-in-out infinite; }
-        .nova-burst { animation: novaBurst 5.4s ease-out infinite; }
-        .nova-burst.b2 { animation-delay: 1.8s; }
-        .nova-burst.b3 { animation-delay: 3.6s; }
         .hero-rise { animation: heroRise 0.9s ease-out both; }
         .hero-rise.d1 { animation-delay: 0.1s; }
         .hero-rise.d2 { animation-delay: 0.25s; }
         .hero-rise.d3 { animation-delay: 0.4s; }
+        .siegel-ring { animation: spin 30s linear infinite; }
+        .siegel-ring2 { animation: spin 55s linear infinite reverse; }
+        .siegel-breathe { animation: breathe 7s ease-in-out infinite; }
         .hr-card { transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease; }
         .hr-card:hover {
           transform: translateY(-3px);
@@ -110,53 +413,33 @@ export default function Landing() {
           box-shadow: 0 8px 32px rgba(212, 175, 55, 0.08);
         }
         @media (prefers-reduced-motion: reduce) {
-          .nova-core, .nova-halo, .nova-ring, .nova-burst, .hr-star, .hero-rise, .logo-float { animation: none; opacity: 0.3; }
+          .siegel-ring, .siegel-ring2, .siegel-breathe, .hero-rise { animation: none; }
         }
       `}</style>
 
       <Navbar />
       
-      {/* ═══ HERO mit Supernova ═══ */}
-      <section style={hero.section}>
-        {/* Sternenfeld */}
-        <div style={nova.starfield} aria-hidden="true">
-          {STARS.map(st => (
-            <span
-              key={st.id}
-              className="hr-star"
-              style={{
-                position: 'absolute',
-                left: `${st.left}%`,
-                top: `${st.top}%`,
-                width: `${st.size}px`,
-                height: `${st.size}px`,
-                borderRadius: '50%',
-                background: '#E8DFC8',
-                '--star-min': st.opacity * 0.3,
-                '--star-max': st.opacity,
-                '--star-dur': `${st.duration}s`,
-                animationDelay: `${st.delay}s`,
-              }}
-            />
-          ))}
-        </div>
-
+      {/* ═══ HERO mit Original-Supernova ═══ */}
+      <section ref={heroRef} style={hero.section}>
+        {/* Ambient-Sternenfeld (Canvas) */}
+        <canvas ref={ambientRef} style={hero.ambientCanvas} aria-hidden="true" />
+        {/* Supernova-Canvas + Blitz */}
+        <canvas ref={snCanvasRef} style={hero.snCanvas} aria-hidden="true" />
+        <div ref={flashRef} style={hero.flash} aria-hidden="true" />
+        
         <div style={hero.content}>
-          {/* Supernova — Markensiegel mit Lichtkern */}
-          <div className="hero-rise" style={hero.logoWrap} >
-            <div className="nova-halo" style={hero.logoHalo} aria-hidden="true" />
-            <div className="nova-core" style={hero.logoCore} aria-hidden="true" />
-            <div className="nova-ring" style={{ ...hero.logoRing, width: '330px', height: '330px', opacity: 0.20 }} aria-hidden="true" />
-            <div className="nova-ring slow" style={{ ...hero.logoRing, width: '470px', height: '470px', opacity: 0.11 }} aria-hidden="true" />
-            <div className="nova-ring" style={{ ...hero.logoRing, width: '640px', height: '640px', opacity: 0.06, animationDuration: '210s' }} aria-hidden="true" />
-            <div className="nova-burst" style={hero.burst} aria-hidden="true" />
-            <div className="nova-burst b2" style={hero.burst} aria-hidden="true" />
-            <div className="nova-burst b3" style={hero.burst} aria-hidden="true" />
+          {/* Siegel — Klick zündet die Supernova */}
+          <div className="hero-rise" style={hero.logoWrap}>
+            <div className="siegel-ring" style={hero.ring1} aria-hidden="true" />
+            <div className="siegel-ring2" style={hero.ring2} aria-hidden="true" />
             <img
+              ref={logoRef}
               src="/logo-siegel.png"
-              alt="Human Resonanz Akademie — Siegel"
-              className="logo-float"
+              alt="Human Resonanz Akademie — Siegel (anklicken!)"
+              title="Klick mich ✦"
+              className="siegel-breathe"
               style={hero.logoImg}
+              onClick={() => fireRef.current()}
             />
           </div>
 
@@ -252,7 +535,7 @@ export default function Landing() {
           </p>
           
           <div style={formate.grid}>
-            {FORMATE.map((f, i) => (
+            {FORMATE.map((f) => (
               <div key={f.symbol} className="hr-card" style={formate.card}>
                 <div style={formate.symbol}>{f.symbol}</div>
                 <h3 style={formate.name}>{f.name}</h3>
@@ -290,10 +573,9 @@ export default function Landing() {
         </div>
       </section>
 
-      {/* ═══ CTA mit Mini-Nova ═══ */}
+      {/* ═══ CTA ═══ */}
       <section style={cta.section}>
-        <div className="nova-halo" style={cta.glow} />
-        <div className="nova-ring slow" style={cta.ring} aria-hidden="true" />
+        <div style={cta.glow} />
         <div style={cta.content}>
           <h2 style={cta.title}>
             Bereit für <span style={{ color: '#D4AF37' }}>deinen Weg</span>?
@@ -316,74 +598,7 @@ export default function Landing() {
 // Styles
 // ═══════════════════════════════════════════════════════════
 
-const nova = {
-  starfield: {
-    position: 'absolute',
-    inset: 0,
-    overflow: 'hidden',
-    pointerEvents: 'none',
-  },
-}
-
 const hero = {
-  logoWrap: {
-    position: 'relative',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-    marginBottom: '32px',
-  },
-  logoImg: {
-    position: 'relative',
-    zIndex: 1,
-    width: 'clamp(130px, 17vw, 180px)',
-    height: 'auto',
-    filter: 'drop-shadow(0 0 32px rgba(255, 220, 120, 0.45)) drop-shadow(0 0 90px rgba(212, 175, 55, 0.25))',
-  },
-  burst: {
-    position: 'absolute',
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    width: '230px',
-    height: '230px',
-    borderRadius: '50%',
-    border: '1.5px solid rgba(232, 212, 139, 0.55)',
-    boxShadow: '0 0 28px rgba(212, 175, 55, 0.30), inset 0 0 22px rgba(212, 175, 55, 0.18)',
-    pointerEvents: 'none',
-  },
-  logoCore: {
-    position: 'absolute',
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    width: '300px',
-    height: '300px',
-    borderRadius: '50%',
-    background: 'radial-gradient(circle, rgba(255, 251, 230, 0.30) 0%, rgba(232, 223, 200, 0.16) 25%, rgba(212, 175, 55, 0.09) 50%, transparent 72%)',
-    filter: 'blur(2px)',
-    pointerEvents: 'none',
-  },
-  logoHalo: {
-    position: 'absolute',
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    width: '760px',
-    height: '760px',
-    borderRadius: '50%',
-    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.09) 0%, rgba(212, 175, 55, 0.03) 45%, transparent 70%)',
-    pointerEvents: 'none',
-  },
-  logoRing: {
-    position: 'absolute',
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    borderRadius: '50%',
-    border: '1px solid rgba(212, 175, 55, 0.5)',
-    pointerEvents: 'none',
-  },
   section: {
     position: 'relative',
     minHeight: '100vh',
@@ -393,11 +608,60 @@ const hero = {
     padding: '120px 24px 80px',
     overflow: 'hidden',
   },
+  ambientCanvas: {
+    position: 'absolute',
+    inset: 0,
+    pointerEvents: 'none',
+    opacity: 0.65,
+  },
+  snCanvas: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    pointerEvents: 'none',
+    zIndex: 4,
+  },
+  flash: {
+    position: 'absolute',
+    inset: 0,
+    background: 'radial-gradient(circle at 50% 35%, rgba(255,240,200,0.9) 0%, rgba(201,168,76,0.3) 40%, transparent 70%)',
+    opacity: 0,
+    pointerEvents: 'none',
+    zIndex: 5,
+  },
   content: {
     position: 'relative',
     textAlign: 'center',
     maxWidth: '820px',
     zIndex: 1,
+  },
+  logoWrap: {
+    position: 'relative',
+    display: 'inline-block',
+    marginBottom: '32px',
+  },
+  ring1: {
+    position: 'absolute',
+    inset: '-24px',
+    border: '1px solid rgba(201, 168, 76, 0.10)',
+    borderRadius: '50%',
+    pointerEvents: 'none',
+  },
+  ring2: {
+    position: 'absolute',
+    inset: '-50px',
+    border: '1px solid rgba(201, 168, 76, 0.04)',
+    borderRadius: '50%',
+    pointerEvents: 'none',
+  },
+  logoImg: {
+    position: 'relative',
+    zIndex: 1,
+    width: 'clamp(130px, 17vw, 180px)',
+    height: 'auto',
+    display: 'block',
+    cursor: 'pointer',
+    filter: 'drop-shadow(0 0 28px rgba(201, 168, 76, 0.35))',
   },
   badge: {
     display: 'inline-block',
@@ -696,22 +960,9 @@ const cta = {
     top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
-    width: '700px',
-    height: '500px',
-    borderRadius: '50%',
-    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.09) 0%, rgba(212, 175, 55, 0.03) 45%, transparent 70%)',
-    pointerEvents: 'none',
-  },
-  ring: {
-    position: 'absolute',
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    width: '560px',
-    height: '420px',
-    borderRadius: '50%',
-    border: '1px solid rgba(212, 175, 55, 0.5)',
-    opacity: 0.08,
+    width: '600px',
+    height: '400px',
+    background: 'radial-gradient(circle, rgba(212, 175, 55, 0.08) 0%, transparent 70%)',
     pointerEvents: 'none',
   },
   content: {

@@ -429,7 +429,8 @@ export default function Landing() {
         
         <div style={hero.content}>
           {/* Siegel — Klick zündet die Supernova */}
-          <div className="hero-rise" style={hero.logoWrap}>
+          <div className="hero-rise" style={{ marginBottom: '32px' }}>
+          <div style={hero.logoWrap}>
             <div className="siegel-ring" style={hero.ring1} aria-hidden="true" />
             <div className="siegel-ring2" style={hero.ring2} aria-hidden="true" />
             <img
@@ -441,6 +442,7 @@ export default function Landing() {
               style={hero.logoImg}
               onClick={() => fireRef.current()}
             />
+          </div>
           </div>
 
           <div className="hero-rise" style={hero.badge}>
@@ -638,7 +640,6 @@ const hero = {
   logoWrap: {
     position: 'relative',
     display: 'inline-block',
-    marginBottom: '32px',
   },
   ring1: {
     position: 'absolute',

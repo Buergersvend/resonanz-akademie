@@ -11,6 +11,7 @@ const G08 = {
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine — Offenheit für Klang- und Schwingungsarbeit',
+  status: 'coming',
   beschreibung: `Alles im Universum schwingt — auch du. Klangheilung nutzt gezielt Frequenzen, Schwingungen und Resonanz, um Körper, Geist und Energiefeld in Einklang zu bringen. In diesem Kurs lernst du die wichtigsten Klangwerkzeuge kennen: von Klangschalen über Stimmgabeln bis zu Binaural Beats. Du erfährst, wie Frequenzen auf zellulärer Ebene wirken, entwickelst eine eigene Klangpraxis und lernst, professionelle Klangsitzungen für Klienten durchzuführen.`,
 
   module: [

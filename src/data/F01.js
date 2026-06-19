@@ -1,303 +1,402 @@
+// F01 — Zyklus verstehen: weibliche Rhythmen bewusst leben
+// Bereich: frauen · Niveau: ★★☆ · Format: ◈◈ Standard-Kurs · Zielgruppe: Interessierte · Status: live
+// Gebaut nach KURS_UMFANG_STANDARD (03.06.2026): 6 Module / 18 Lektionen / je 250+ Wörter.
+// NEUAUSRICHTUNG (Workflow v2.0): vollständiger Neuaufbau, ersetzt das alte „Frauengesundheit energetisch".
+// Zuschnitt: REINES Bildungs- & Selbstwahrnehmungswissen über den weiblichen Zyklus als sicherer Kern.
+// ENTFERNT: Beschwerde-Deutung/-Behandlung, Akupressur, Schoßraum-/Körperarbeit, Schwangerschaft/Geburt/
+// Wochenbett, postpartale Depression, sexuelle Traumaarbeit, „Ausbildung", Akquise-Modul.
+// Leitprinzip: Selbstwahrnehmung statt Selbstdiagnose. Durchgängige harte Grenze zu Ärztin/Gynäkologin
+// und Arzt (HeilprG/HWG). Keine Health-Claims, keine Heilversprechen.
+// Quellenschutz-Audit bestanden — markenfrei, keine Autoren/Schulen/Werke/Systeme namentlich.
+
 const F01 = {
   id: 'F01',
-  titel: 'Frauengesundheit energetisch',
   bereich: 'frauen',
-  beschreibung: 'Entdecke die tiefe Verbindung zwischen weiblicher Energie, Zykluswissen und ganzheitlicher Gesundheit. Diese Ausbildung verbindet modernes Wissen über den weiblichen Körper mit energetischen Perspektiven und befähigt dich, Frauen in allen Lebensphasen kompetent zu begleiten.',
+  titel: 'Zyklus verstehen: weibliche Rhythmen bewusst leben',
+  kuerzel: 'F01',
+  niveau: '★★☆',
+  beschreibung: 'Ein Bildungskurs über den weiblichen Zyklus als Kompass für Selbstwahrnehmung und bewusste Lebensgestaltung. Du lernst die vier Zyklusphasen kennen, beobachtest dein eigenes Muster mit einem Zyklus-Kalender und gestaltest Alltag und Energie achtsam im Einklang mit deinem Rhythmus. Selbstwahrnehmung statt Selbstdiagnose, mit klarer Grenze zur ärztlichen und gynäkologischen Betreuung.',
   status: 'live',
   module: [
     {
       id: 'F01-M1',
-      titel: 'Die weibliche Energie verstehen',
+      titel: 'Der Zyklus als Kompass',
       lektionen: [
         {
           id: 'F01-M1-L1',
-          titel: 'Das Wesen weiblicher Energie',
-          inhalt: `Weibliche Energie ist eine universelle Qualität, die in jedem Menschen existiert — unabhängig vom biologischen Geschlecht. Sie steht für Empfänglichkeit, Intuition, Nährung, Kreativität und die zyklische Natur des Lebens. In einer Gesellschaft, die lineare Produktivität und ständige Aktivität belohnt, ist die weibliche Energie oft unterdrückt, entwertet oder missverstanden — mit weitreichenden Folgen für die Gesundheit von Frauen.
+          titel: 'Warum Zykluswissen wertvoll ist',
+          inhalt: `Der weibliche Zyklus ist weit mehr als ein reproduktiver Vorgang — er ist ein wiederkehrender Rhythmus, der Energie, Stimmung und Bedürfnisse über den Monat hinweg prägt. Wer diesen Rhythmus versteht, gewinnt einen wertvollen Kompass für das eigene Leben: Er lernt, die eigenen Schwankungen nicht als Störung, sondern als natürliches Muster zu begreifen, und kann den Alltag bewusster und stimmiger gestalten.
 
-Die weibliche Energiequalität zeigt sich in Zyklen, nicht in geraden Linien. Der Menstruationszyklus, die Mondphasen, die Jahreszeiten und die großen Lebensphasen einer Frau — Mädchen, Mutter, weise Frau — folgen demselben Prinzip: Aufbau, Blüte, Ernte und Rückzug. Gesundheit entsteht, wenn eine Frau im Einklang mit diesen natürlichen Rhythmen lebt. Krankheit entsteht oft, wenn sie gegen sie ankämpft — wenn sie in jeder Phase gleich leistungsfähig, verfügbar und produktiv sein soll.
+Dieser Kurs vermittelt Zykluswissen als Bildung und Selbstwahrnehmung. Es geht darum, den eigenen Körper und seine Rhythmen besser kennenzulernen — nicht darum, Beschwerden zu behandeln oder gesundheitliche Probleme zu deuten. Diese Unterscheidung ist von Anfang an wichtig und zieht sich durch den ganzen Kurs: Wir beobachten und verstehen, wir diagnostizieren und behandeln nicht.
 
-Die energetische Anatomie der Frau unterscheidet sich von der des Mannes in spezifischer Weise. Das Sakralchakra — Sitz der Kreativität, Sexualität und Lebenskraft — ist bei Frauen besonders ausgeprägt und direkt mit dem Schoßraum verbunden. Der Schoßraum ist nicht nur ein physisches Organ, sondern ein energetisches Zentrum von enormer Kraft — ein Raum der Schöpfung, der sowohl neues Leben als auch kreative Projekte, Visionen und Heilung gebären kann.
+Lange wurde der Zyklus in vielen Gesellschaften kaum thematisiert oder ausschließlich als medizinisches Thema betrachtet. Heute entdecken viele Frauen den Wert eines bewussten Umgangs mit ihrem Rhythmus — als Weg zu mehr Selbstkenntnis, besserer Selbstfürsorge und einer entspannteren Beziehung zum eigenen Körper. Dieses Wissen ist zugänglich, sicher und bereichernd.
 
-Das Herzchakra bildet bei Frauen eine besonders starke Verbindung zum Sakralchakra — die Achse zwischen Herz und Schoß. Diese Verbindung ist die energetische Grundlage der weiblichen Fähigkeit, aus Liebe zu erschaffen und aus Schöpfung zu lieben. Wenn diese Achse blockiert ist — durch Trauma, Scham, Unterdrückung oder emotionale Verletzung — zeigen sich häufig gynäkologische Beschwerden, Kreativitätsblockaden oder Beziehungsprobleme.
+Der Nutzen ist praktisch und konkret: Wer weiß, in welcher Phase er eher energiegeladen und nach außen gewandt ist und wann eher ruhebedürftig, kann Termine, Projekte und Erholung besser planen. Statt gegen die eigenen Schwankungen anzukämpfen, lernt man, mit ihnen zu arbeiten — ein Gewinn an Gelassenheit und Selbstbestimmung.
 
-Für deine Arbeit als Begleiterin weiblicher Gesundheit bedeutet dieses Verständnis: Du betrachtest den weiblichen Körper nie isoliert von seiner energetischen, emotionalen und spirituellen Dimension. Eine Menstruationsbeschwerde ist nie nur ein hormonelles Problem — sie ist immer auch ein Ausdruck des energetischen Zustands. Ein Kinderwunsch ist nicht nur eine biologische Frage — er berührt die tiefsten Schichten von Schöpferkraft und Selbstwert. Diese ganzheitliche Perspektive macht deine Arbeit einzigartig und wirksam.
-
-Gleichzeitig wahrst du eine klare Grenze: Du diagnostizierst keine Erkrankungen, behandelst keine medizinischen Zustände und ersetzt keine gynäkologische Betreuung. Deine Arbeit ergänzt die medizinische Versorgung um die energetische Dimension — ein Aspekt, der in der konventionellen Frauenheilkunde fast vollständig fehlt.`
+Wichtig ist von Beginn an eine ehrliche Einordnung: Der Zyklus verläuft individuell verschieden, und vieles, was hier beschrieben wird, sind allgemeine Muster, keine Gesetze. Manche erleben ihren Zyklus deutlich, andere kaum. Beides ist normal. Und bei allem, was über bewusste Selbstwahrnehmung hinausgeht — anhaltende Beschwerden, Unregelmäßigkeiten, Sorgen — ist die Frauenärztin oder der Arzt die richtige Adresse. Diese Grenze begleitet uns durch den ganzen Kurs.`,
         },
         {
           id: 'F01-M1-L2',
-          titel: 'Der weibliche Zyklus als Kraftquelle',
-          inhalt: `Der Menstruationszyklus ist weit mehr als ein reproduktiver Vorgang — er ist ein monatliches Lehrstück über die Natur weiblicher Energie und ein präziser Kompass für Gesundheit, Kreativität und Selbstführung. Frauen, die ihren Zyklus als Kraftquelle verstehen und nutzen, berichten von tiefgreifenden Veränderungen in Gesundheit, Wohlbefinden und Lebensqualität.
+          titel: 'Die vier Phasen im Überblick',
+          inhalt: `Der weibliche Zyklus lässt sich in vier Phasen gliedern, die jeweils eigene Qualitäten in Energie und Stimmung mit sich bringen können. Dieses Modell ist ein hilfreiches Ordnungsraster für die Selbstbeobachtung — kein starres Gesetz, sondern eine Landkarte, die jede Frau für sich mit eigenen Erfahrungen füllt.
 
-Der Zyklus gliedert sich in vier Phasen, die den vier Jahreszeiten und vier Mondphasen entsprechen. Die Menstruation — der innere Winter — ist die Phase des Rückzugs, der Stille und der Erneuerung. Die Gebärmutterschleimhaut wird abgestoßen, der Körper reinigt sich. Energetisch ist dies die tiefste Phase des Zyklus — die Intuition ist am stärksten, der Zugang zu innerer Weisheit am direktesten. Frauen, die sich in dieser Phase Ruhe gönnen, berichten von klareren Visionen und tieferer Regeneration.
+Die Menstruationsphase ist die Zeit der Blutung. Viele Frauen erleben sie als Phase des Rückzugs und des erhöhten Ruhebedürfnisses. Energie und Antrieb sind oft niedriger, das Bedürfnis nach Stille und Zeit für sich häufig größer. Wer es einrichten kann, gönnt sich in dieser Phase bewusst mehr Ruhe — ein Akt der Selbstfürsorge, kein Zeichen von Schwäche.
 
-Die Follikelphase — der innere Frühling — bringt neuen Aufbau. Östrogen steigt, ein neues Ei reift heran, die Energie kehrt zurück. Dies ist die Phase der Planung, des Beginns neuer Projekte und der aufblühenden Kreativität. Der Körper fühlt sich leichter, der Geist klarer, die Stimmung hebt sich. Energetisch öffnet sich das Feld nach außen — Kontakte, neue Ideen und Initiative fallen leicht.
+Die Phase nach der Menstruation bringt für viele neuen Aufschwung. Die Energie kehrt zurück, die Stimmung hebt sich oft, die Lust auf Neues und auf Aktivität wächst. Viele empfinden diese Zeit als gut geeignet für Planung, Projektstarts und alles, was Schwung und Klarheit verlangt.
 
-Der Eisprung — der innere Sommer — ist der energetische Höhepunkt des Zyklus. Die Frau ist am fruchtbarsten, am kommunikativsten und am strahlendsten. Die Ausstrahlung ist magnetisch, die Verbindungsfähigkeit am stärksten. Dies ist die ideale Zeit für wichtige Gespräche, Präsentationen und soziale Aktivitäten. Energetisch ist das Feld weit offen und empfänglich — für Neues, für andere Menschen, für Möglichkeiten.
+Um die Zyklusmitte erleben viele Frauen einen Höhepunkt an Energie und Kontaktfreude. Man fühlt sich oft kommunikativ, offen und tatkräftig. Diese Phase eignet sich für viele gut für wichtige Gespräche, gesellige Aktivitäten und alles, was Ausstrahlung und Verbindung braucht.
 
-Die Lutealphase — der innere Herbst — bringt den Rückzug. Progesteron dominiert, die Energie wendet sich nach innen. Die Aufmerksamkeit schärft sich für Details, Unerledigtes drängt an die Oberfläche, die Toleranz für Unstimmiges sinkt. Was in der modernen Kultur als PMS pathologisiert wird, ist in Wahrheit eine natürliche Reinigungsfunktion: Der Körper und die Psyche zeigen, was nicht stimmt, was Aufmerksamkeit braucht, was losgelassen werden muss.
-
-In der Beratung leitest du Frauen an, ihren Zyklus zu kartieren — nicht nur die Periode zu notieren, sondern Energie, Stimmung, Kreativität, Sozialbedürfnis und körperliche Empfindungen über den gesamten Monat zu beobachten. Nach zwei bis drei Zyklen entsteht ein individuelles Zyklusmuster, das zur persönlichen Lebensplanung genutzt werden kann.`
+Die Phase vor der Menstruation bringt für viele wieder eine Wendung nach innen. Die Aufmerksamkeit richtet sich oft stärker auf Details, die Toleranz für Unstimmiges sinkt, das Bedürfnis nach Rückzug wächst erneut. Was manche als anstrengend erleben, lässt sich auch als wertvolle Klärungsphase verstehen — eine Zeit, in der deutlich wird, was Aufmerksamkeit braucht. Wichtig bleibt: Diese Beschreibungen sind allgemeine Tendenzen. Jede Frau erlebt ihren Zyklus anders, und genau das eigene Muster zu entdecken ist Ziel der folgenden Module.`,
         },
         {
           id: 'F01-M1-L3',
-          titel: 'Der Schoßraum — Energetisches Zentrum der Frau',
-          inhalt: `Der Schoßraum — Gebärmutter, Eierstöcke und der gesamte Beckenbereich — ist das energetische Kraftzentrum der Frau. In vielen Traditionen wird er als heiliger Raum betrachtet, als Ort der Schöpfung und der weiblichen Urweisheit. In der modernen Gesellschaft ist dieser Raum oft abgetrennt, betäubt oder mit Scham belegt — eine Abspaltung, die weitreichende gesundheitliche Konsequenzen hat.
+          titel: 'Individuelle Vielfalt — kein Muster für alle',
+          inhalt: `So hilfreich das Vier-Phasen-Modell als Orientierung ist — es darf niemals zu einer Schablone werden, in die sich jede Frau pressen muss. Die wichtigste Botschaft dieses Kurses lautet: Dein Zyklus ist individuell, und deine eigene Erfahrung ist maßgeblicher als jedes allgemeine Modell.
 
-Energetisch betrachtet ist der Schoßraum ein Speicher — er hält nicht nur das Potenzial neuen Lebens, sondern auch emotionale Erfahrungen, sexuelle Erinnerungen und unverarbeitete Prägungen. Jede intime Begegnung hinterlässt einen energetischen Abdruck im Schoßraum. Freudvolle, liebevolle Erfahrungen nähren diesen Raum. Übergriffe, ungewollte Berührungen oder emotionaler Missbrauch verdichten und belasten ihn. Diese Perspektive erklärt, warum viele Frauen gynäkologische Beschwerden entwickeln, die medizinisch nicht vollständig erklärbar sind.
+Zyklen unterscheiden sich in vielerlei Hinsicht: in der Länge, in der Stärke der wahrgenommenen Schwankungen, in der Art, wie sich die Phasen anfühlen. Manche Frauen erleben deutliche Energie- und Stimmungswechsel über den Monat, andere spüren kaum Unterschiede. Beides ist normal und gesund. Es gibt keinen „richtigen" Zyklus, an dem man sich messen müsste.
 
-Die häufigsten energetischen Muster im Schoßraum: Verdichtung und Schwere — das Gefühl, einen Stein im Unterleib zu tragen. Tritt häufig auf nach traumatischen Erfahrungen, Abtreibungen oder schwierigen Geburten. Leere und Abgetrenntheit — das Gefühl, keinen Kontakt zum eigenen Becken zu haben. Zeigt sich bei Frauen, die ihre Sexualität oder Weiblichkeit unterdrückt haben. Kälte und Erstarrung — ein energetisches Einfrieren, oft nach sexuellen Grenzverletzungen. Überaktivität und Hitze — ein Zuviel an Energie im Beckenbereich, das sich als chronische Entzündungen oder starke Blutungen manifestieren kann.
+Auch verändert sich der eigene Zyklus über die Zeit — durch Lebensumstände, Lebensphasen, Stress, Schlaf und vieles mehr. Was in einem Lebensabschnitt typisch war, kann sich später anders anfühlen. Diese Wandelbarkeit ist kein Mangel, sondern Ausdruck der lebendigen Natur des Körpers.
 
-Die Arbeit mit dem Schoßraum erfordert besondere Sensibilität und absolute Achtung der Grenzen der Klientin. Jede Berührung — selbst die energetische, ohne physischen Kontakt — muss vorher besprochen und eingewilligt werden. Manche Frauen sind bereit, sofort mit dem Schoßraum zu arbeiten. Andere brauchen Wochen oder Monate, bis sie sich sicher genug fühlen. Beides ist vollkommen in Ordnung.
+Deshalb arbeitet dieser Kurs nicht mit Vorschriften, sondern mit Einladungen zur Beobachtung. Statt zu behaupten, wie du dich in einer bestimmten Phase fühlen „solltest", lädt er dich ein, herauszufinden, wie es sich für dich tatsächlich anfühlt. Diese forschende, neugierige Haltung ist der Kern echter Selbstwahrnehmung.
 
-Praktische Techniken umfassen: Schoßraum-Meditation — die Klientin richtet ihre Aufmerksamkeit auf den Beckenbereich und nimmt wahr, was sie dort fühlt, ohne zu bewerten. Energetisches Halten — du hältst deine Hände in respektvollem Abstand über dem Beckenbereich und sendest wärmende, nährende Energie. Die Klientin entscheidet, ob dies im Liegen oder Sitzen geschieht und wie nah du kommen darfst. Schoßraum-Journaling — die Klientin schreibt regelmäßig an ihren Schoßraum, als wäre er ein Wesen mit eigener Stimme. Diese Praxis öffnet einen Dialog mit der eigenen Weiblichkeit, der oft überraschende Einsichten bringt.`
-        }
-      ]
+Eine wichtige Abgrenzung gehört auch hier dazu: Wenn der Zyklus dauerhaft ausbleibt, sehr unregelmäßig ist, sich plötzlich stark verändert oder mit belastenden Beschwerden einhergeht, ist das keine Frage der Selbstbeobachtung, sondern ein Anlass für einen Besuch bei der Frauenärztin oder dem Arzt. Selbstwahrnehmung ergänzt die medizinische Begleitung — sie ersetzt sie nicht. Mit dieser klaren Haltung können wir den Zyklus frei und neugierig erkunden.
+
+Diese forschende Offenheit ist der Schlüssel zum ganzen Kurs. Sie nimmt den Druck, einem Ideal entsprechen zu müssen, und macht Platz für echte Selbstkenntnis — die immer individuell ist und sich mit der Zeit vertieft.`,
+        },
+      ],
     },
     {
       id: 'F01-M2',
-      titel: 'Zyklusbeschwerden energetisch begleiten',
+      titel: 'Selbstwahrnehmung & Zyklus-Kalender',
       lektionen: [
         {
           id: 'F01-M2-L1',
-          titel: 'Menstruationsschmerzen und Zyklusunregelmäßigkeiten',
-          inhalt: `Menstruationsschmerzen und Zyklusunregelmäßigkeiten betreffen einen großen Teil aller Frauen und sind einer der häufigsten Gründe, aus denen Frauen energetische Begleitung suchen. Die konventionelle Medizin bietet Schmerzmittel und Hormongaben — wirksam, aber oft ohne die tiefere Ursache zu berühren. Die energetische Perspektive ergänzt einen Zugang, der den Körper als Botschafter versteht.
+          titel: 'Selbstwahrnehmung statt Selbstdiagnose',
+          inhalt: `Im Zentrum dieses Kurses steht eine Fähigkeit, die wertvoll und zugleich sicher ist: die Selbstwahrnehmung. Sie unterscheidet sich grundlegend von der Selbstdiagnose, und dieser Unterschied ist so wichtig, dass er den Ton für den ganzen Kurs setzt.
 
-Starke Menstruationsschmerzen — Dysmenorrhoe — zeigen energetisch betrachtet oft eine Stagnation im Beckenbereich. Die Energie fließt nicht frei, sie staut sich auf und erzeugt Krämpfe. Die Stagnation kann verschiedene Ursachen haben: unterdrückte Emotionen, die sich im Schoßraum sammeln. Chronische Anspannung im Beckenboden durch Stress oder Trauma. Fehlende Zyklusachtsamkeit — der Versuch, während der Menstruation genauso zu funktionieren wie in den anderen Phasen. Unverarbeitete sexuelle oder geburtliche Erfahrungen.
+Selbstwahrnehmung bedeutet, achtsam zu bemerken, wie es einem geht: Wie ist meine Energie heute? Wie meine Stimmung? Wonach habe ich Bedürfnis — nach Aktivität oder nach Ruhe, nach Gesellschaft oder nach Rückzug? Diese Beobachtung bleibt im Bereich des Wahrnehmens und Beschreibens. Sie urteilt nicht, sie diagnostiziert nicht, sie ordnet nichts einer Krankheit zu. Sie nimmt einfach wahr — und genau das ist ihr Wert.
 
-Energetische Begleitung bei Menstruationsschmerzen umfasst mehrere Ebenen: Auf der körperlichen Ebene unterstützen Wärme, sanfte Bauchmassage im Uhrzeigersinn und Akupressurpunkte wie Milz 6 und Leber 3. Auf der energetischen Ebene löst die Arbeit am Sakralchakra Stagnation und bringt den Energiefluss im Becken in Bewegung. Auf der emotionalen Ebene erforschst du, welche unausgedrückten Gefühle sich im Becken stauen — Wut, Trauer, Frustration oder Angst, die keinen Ausdruck finden.
+Selbstdiagnose dagegen zieht aus Beobachtungen einen gesundheitlichen Schluss: „Ich fühle mich so, also stimmt etwas mit meinen Hormonen nicht." Dieser Schritt ist problematisch, weil ein und dieselbe Empfindung viele Ursachen haben kann und weil die Einordnung gesundheitlicher Zusammenhänge medizinisches Wissen und oft Untersuchungen erfordert. Solche Schlüsse gehören in fachkundige Hände.
 
-Zyklusunregelmäßigkeiten — zu lange, zu kurze, ausbleibende oder chaotische Zyklen — spiegeln energetisch ein Ungleichgewicht im Hormonsystem wider, das wiederum mit dem energetischen Zustand korreliert. Ein ausbleibender Zyklus kann Ausdruck extremen Stresses sein — der Körper schaltet die Reproduktionsfunktion ab, weil er sich in einem Überlebensmodus befindet. Ein zu kurzer Zyklus kann auf energetische Erschöpfung hinweisen — die Grundenergie reicht nicht für einen vollständigen Zyklusaufbau. Ein sehr langer Zyklus deutet oft auf Stagnation hin — der Körper braucht mehr Zeit für die Transformationsarbeit.
+Die gesunde Haltung verbindet beides richtig: achtsam wahrnehmen, wie es einem über den Zyklus hinweg geht — und bei allem, was über vorübergehende, normale Schwankungen hinausgeht, ärztlichen Rat suchen, statt selbst zu deuten. Wahrnehmen ja, diagnostizieren nein.
 
-In der Begleitung arbeitest du mit dem Zyklustagebuch der Klientin als Diagnosewerkzeug. Du identifizierst Muster: Welche Phase ist besonders belastet? Welche Emotionen tauchen regelmäßig auf? Welche Lebensereignisse korrelieren mit den Zyklusveränderungen? Diese Muster geben Hinweise auf die energetische Ursache und leiten deine Interventionsauswahl.
-
-Wichtig: Bei anhaltenden oder schweren Zyklusbeschwerden muss immer eine gynäkologische Abklärung stattgefunden haben. Endometriose, Myome, PCOS und andere organische Ursachen erfordern medizinische Betreuung. Deine energetische Arbeit ergänzt die medizinische Behandlung — sie ersetzt sie nie.`
+Diese Haltung ist nicht einschränkend, sondern befreiend. Sie erlaubt es, den eigenen Körper neugierig und ohne Angst zu beobachten, ohne sich in sorgenvolle Selbstdiagnosen zu verstricken. Sie schafft eine freundliche, entspannte Beziehung zum eigenen Rhythmus — und sie weiß zugleich, wann der Weg zur Fachperson der richtige ist. Genau diese Verbindung aus Achtsamkeit und Klarheit üben wir in den folgenden Lektionen ganz praktisch ein.`,
         },
         {
           id: 'F01-M2-L2',
-          titel: 'PMS, PMDS und emotionale Zyklusdynamik',
-          inhalt: `Das prämenstruelle Syndrom — PMS — betrifft bis zu achtzig Prozent aller Frauen in irgendeiner Form. Von leichter Reizbarkeit bis zur schweren prämenstruellen dysphorischen Störung, die das Leben massiv beeinträchtigt, reicht das Spektrum. Die energetische Perspektive bietet ein Verständnis, das über die rein hormonelle Erklärung hinausgeht und konkrete Begleitungsmöglichkeiten eröffnet.
+          titel: 'Den Zyklus-Kalender führen',
+          inhalt: `Das wichtigste praktische Werkzeug dieses Kurses ist der Zyklus-Kalender — eine einfache, regelmäßige Aufzeichnung, die das eigene Muster sichtbar macht. Was im Alltag oft als diffuses Auf und Ab erlebt wird, wird durch das Notieren über mehrere Monate zu einem erkennbaren, persönlichen Rhythmus.
 
-PMS ist aus energetischer Sicht kein Defekt — es ist eine Intensivierung der weiblichen Wahrnehmung. In der Lutealphase steigt die Sensitivität: Dinge, die in der Follikelphase tolerierbar waren, werden unerträglich. Beziehungsprobleme, die man verdrängt hat, drängen an die Oberfläche. Grenzen, die man nicht gesetzt hat, zeigen sich als Reizbarkeit. Emotionen, die man unterdrückt hat, brechen durch. Die prämenstruelle Phase ist der Wahrheitsdetektor des Zyklus.
+Der Einstieg ist denkbar einfach: Notiere täglich mit wenigen Stichworten, wie es dir geht. Hilfreiche Beobachtungsfelder sind Energie (hoch, mittel, niedrig), Stimmung, das Bedürfnis nach Aktivität oder Ruhe, die Lust auf Gesellschaft oder Rückzug, Kreativität und Konzentration. Dazu vermerkst du den Zyklustag — gezählt ab dem ersten Tag der Blutung als Tag eins.
 
-Diese Perspektive verändert den Umgang grundlegend: Statt PMS zu bekämpfen, lernst du, die Botschaften zu entschlüsseln. Was genau löst die Reizbarkeit aus? Welche Grenzen wurden überschritten? Welche Bedürfnisse wurden ignoriert? Die Antworten auf diese Fragen sind oft die wertvollsten Erkenntnisse des gesamten Zyklus — sie zeigen, was im Leben der Frau Aufmerksamkeit braucht.
+Wichtig ist die Regelmäßigkeit, nicht die Ausführlichkeit. Ein, zwei Stichworte pro Tag genügen. Ob du dafür ein schönes Notizbuch, eine einfache Tabelle oder eine digitale Notiz nutzt, ist Geschmackssache — entscheidend ist, dass es leicht in den Alltag passt und du dranbleibst. Eine Praxis, die zu aufwendig ist, hält selten lange.
 
-Energetische Begleitung bei PMS arbeitet auf mehreren Ebenen. Lebermeridian-Arbeit löst die Stagnation, die sich als Reizbarkeit und Stimmungsschwankungen äußert — Leber 3 am Fuß und Leber 14 unter den Rippen sind Schlüsselpunkte. Herzöffnende Techniken mildern die emotionale Verschlossenheit, die in der zweiten Zyklushälfte zunehmen kann. Erdungsarbeit über das Wurzelchakra stabilisiert das Nervensystem und gibt einen Anker in der emotionalen Turbulenz.
+Nach etwa zwei bis drei vollständigen Zyklen beginnt sich ein Muster zu zeigen. Vielleicht bemerkst du, dass deine Energie an bestimmten Zyklustagen verlässlich steigt oder sinkt, dass deine Stimmung einem wiederkehrenden Bogen folgt oder dass dein Bedürfnis nach Rückzug zu einer bestimmten Zeit wächst. Dieses persönliche Muster ist wertvoller als jedes allgemeine Modell.
 
-Die Ernährungsebene spielt bei PMS eine große Rolle: Magnesium, B-Vitamine und Omega-3-Fettsäuren unterstützen den Hormonhaushalt. Der Verzicht auf Koffein und Zucker in der zweiten Zyklushälfte kann die Symptome deutlich lindern. Als energetische Begleiterin gibst du allgemeine Orientierung zu Ernährung und Lebensstil, ohne spezifische Supplementpläne zu erstellen — das liegt im Bereich von Ernährungsberatern und Ärzten.
-
-Die tiefste Arbeit bei chronisch schwerem PMS ist die Versöhnung mit der eigenen Zyklizität. Viele Frauen erleben die Lutealphase als Feind, weil sie den Verlust der Hochenergiephase betrauern. Die Einladung lautet: Jede Phase hat ihren Wert. Der Rückzug ist nicht Schwäche — er ist Weisheit. Die Verlangsamung ist nicht Versagen — sie ist Vorbereitung. Diese Umdeutung ist selbst ein kraftvoller Heilimpuls.`
+Eine ehrliche Einordnung gehört dazu: Der Zyklus-Kalender ist ein Werkzeug der Selbstwahrnehmung und der Lebensgestaltung — kein medizinisches Diagnoseinstrument. Er hilft dir, dich besser zu verstehen, ersetzt aber keine ärztliche Untersuchung. Wenn dir bei der Beobachtung etwas auffällt, das dich beunruhigt, sind deine Aufzeichnungen übrigens eine hilfreiche Grundlage für ein Gespräch mit der Frauenärztin — sie ersetzen es aber nicht.`,
         },
         {
           id: 'F01-M2-L3',
-          titel: 'Kinderwunsch und Fruchtbarkeit',
-          inhalt: `Der unerfüllte Kinderwunsch ist eines der emotional belastendsten Themen in der Frauengesundheit. Die energetische Begleitung bietet hier einen wertvollen Beitrag — nicht als Ersatz für medizinische Kinderwunschbehandlung, sondern als komplementäre Unterstützung, die die emotionale, energetische und körperliche Ebene gleichzeitig anspricht.
+          titel: 'Das eigene Muster erkennen und deuten',
+          inhalt: `Hat man über einige Zyklen Aufzeichnungen gesammelt, beginnt der spannende Teil: das eigene Muster zu erkennen und für sich nutzbar zu machen. Diese Auswertung bleibt bewusst im Bereich der Selbstkenntnis und Lebensgestaltung — sie ist keine medizinische Analyse.
 
-Fruchtbarkeit ist aus energetischer Sicht weit mehr als ein biologischer Vorgang. Sie erfordert ein bestimmtes inneres Milieu: Sicherheit im Nervensystem — der Körper wird kein neues Leben empfangen, solange er sich im Überlebensmodus befindet. Offenheit im Sakralchakra — die Bereitschaft, zu empfangen, loszulassen und Kontrolle abzugeben. Nährende Grundenergie — die Vitalität, die ein neues Leben tragen kann. Emotionale Bereitschaft — die tiefe Übereinkunft mit dem eigenen Kinderwunsch, frei von Ambivalenz, Angst oder Erwartungsdruck.
+Beim Auswerten lohnt sich ein ruhiger, neugieriger Blick auf die gesammelten Notizen. Gibt es Zyklustage, an denen sich Energie oder Stimmung verlässlich ähneln? Zeigen sich wiederkehrende Phasen — Zeiten, in denen du regelmäßig mehr Schwung hast, und solche, in denen du eher zurückgezogen bist? Solche Wiederholungen sind dein persönliches Zyklusmuster.
 
-Häufige energetische Muster bei unerfülltem Kinderwunsch: Der Leistungsdruck — der Kinderwunsch wird zum Projekt mit Zeitplan und Erfolgskontrolle. Die Frau funktioniert, aber ihr Nervensystem ist im Stressmodus, der die Empfängnis erschwert. Die energetische Arbeit hier: Loslassen von Kontrolle, Vertrauen in den Körper, Entspannung des Sakralchakras. Unverarbeitete Verluste — eine frühere Fehlgeburt, ein Schwangerschaftsabbruch oder der Verlust eines Kindes können den Schoßraum energetisch verschließen. Die Arbeit hier: Trauerbegleitung, Schoßraum-Reinigung, neue Öffnung in einem sicheren Rahmen.
+Wichtig ist eine offene Haltung: Vielleicht entspricht dein Muster dem klassischen Vier-Phasen-Modell, vielleicht weicht es davon ab. Beides ist völlig in Ordnung. Manche Frauen finden klare, regelmäßige Muster, andere ein individuelleres Bild. Das Ziel ist nicht, einem Modell zu entsprechen, sondern das Eigene zu erkennen.
 
-Ambivalenz — ein Teil der Frau wünscht sich ein Kind, ein anderer Teil hat Angst davor: vor dem Verlust der Freiheit, vor der Veränderung des Körpers, vor der Wiederholung eigener Kindheitserfahrungen. Diese Ambivalenz ist menschlich und verdient Raum. Energetisch zeigt sie sich als widersprüchliche Signale im Sakralchakra — gleichzeitig offen und verschlossen. Die Arbeit hier: Ehrliche Erforschung beider Seiten, ohne Druck in eine Richtung.
+Diese Selbstkenntnis lässt sich konkret nutzen — was wir im nächsten Modul vertiefen. Schon das bloße Erkennen aber hat einen Wert: Es verwandelt scheinbar zufällige Schwankungen in einen verständlichen Rhythmus. Viele erleben das als entlastend — was vorher als unerklärliches Auf und Ab erschien, wird zu einem nachvollziehbaren, fast vertrauten Muster.
 
-Praktische energetische Unterstützung umfasst: Sakralchakra-Harmonisierung — regelmäßige energetische Arbeit am Beckenbereich, um Stagnation zu lösen und den Energiefluss zu öffnen. Nervensystem-Regulation — Techniken, die den Parasympathikus aktivieren und den Körper vom Überlebens- in den Empfängnismodus bringen. Visualisierung — die liebevolle innere Verbindung mit dem gewünschten Kind, die den emotionalen Boden bereitet. Zyklusachtsamkeit — die bewusste Nutzung der fruchtbaren Phase nicht nur biologisch, sondern auch energetisch.
+Auch hier gilt die klare Grenze: Das Erkennen von Mustern in Energie und Stimmung ist Selbstwahrnehmung. Sobald es um die Deutung körperlicher Beschwerden, um Schmerzen, um auffällige Veränderungen oder um gesundheitliche Sorgen geht, endet die Selbstauswertung und beginnt das Gebiet der Fachleute. Dein Zyklus-Kalender macht dich zur aufmerksamen Beobachterin deines eigenen Rhythmus — nicht zur Diagnostikerin.
 
-Bei der Begleitung von Frauen in der Kinderwunschzeit ist Sensibilität oberstes Gebot. Kein Druck, keine Schuldzuweisung, keine Versprechen. Die Botschaft: Dein Körper ist weise. Wir schaffen die bestmöglichen Bedingungen — und dann vertrauen wir dem Prozess.`
-        }
-      ]
+Genau in dieser Rolle liegt sein großer Wert: Sie ist zugänglich, sicher und stärkend. Sie schenkt Selbstkenntnis, ohne in die Sorge der Selbstdiagnose zu führen, und bleibt dabei stets im Bereich des Erlaubten und Gesunden.`,
+        },
+      ],
     },
     {
       id: 'F01-M3',
-      titel: 'Schwangerschaft und Geburt energetisch begleiten',
+      titel: 'Leben im eigenen Rhythmus',
       lektionen: [
         {
           id: 'F01-M3-L1',
-          titel: 'Energetische Schwangerschaftsbegleitung',
-          inhalt: `Die Schwangerschaft ist eine der intensivsten energetischen Erfahrungen im Leben einer Frau. Ihr Energiefeld verdoppelt sich buchstäblich — sie trägt nicht nur ihr eigenes, sondern auch das sich entwickelnde Feld des Kindes. Diese neun Monate bieten eine einzigartige Gelegenheit für energetische Begleitung, die sowohl der Mutter als auch dem Kind zugutekommt.
+          titel: 'Energie und Alltag bewusst gestalten',
+          inhalt: `Das eigentliche Geschenk des Zykluswissens liegt in der praktischen Anwendung: das eigene Leben — soweit die Umstände es erlauben — bewusster im Einklang mit dem eigenen Rhythmus zu gestalten. Statt gegen die natürlichen Schwankungen anzukämpfen, lernt man, mit ihnen zu arbeiten.
 
-Im ersten Trimester vollzieht sich die radikalste Transformation: Der Körper richtet sich vollständig auf das neue Leben aus. Übelkeit, Müdigkeit und emotionale Empfindlichkeit sind nicht nur hormonelle Nebenwirkungen — sie sind Zeichen einer tiefgreifenden energetischen Umstellung. Die Energie wendet sich nach innen, das Sakralchakra arbeitet auf Hochtouren, und das Energiefeld beginnt sich auszudehnen, um das wachsende Kind einzuschließen. Die energetische Begleitung in dieser Phase ist sanft und stabilisierend: Erdung, Nähren des Wurzelchakras und emotionale Unterstützung für die Anpassung an die neue Realität.
+Der Grundgedanke ist einfach: Wenn man weiß, in welchen Phasen man eher energiegeladen und nach außen gewandt ist und wann eher ruhebedürftig, kann man Aufgaben und Aktivitäten sinnvoll verteilen. Energieintensive, nach außen gerichtete Aufgaben — wichtige Gespräche, Präsentationen, gesellige Termine — lassen sich, wo möglich, in Phasen mit höherer Energie legen. Ruhigere, nach innen gerichtete Tätigkeiten passen besser in zurückgezogenere Phasen.
 
-Im zweiten Trimester stabilisiert sich die Energie. Viele Frauen erleben eine Phase des Wohlbefindens — die Schwangerschaftsübelkeit lässt nach, die Energie kehrt zurück, und die Verbindung zum Kind wird bewusster wahrnehmbar. Energetisch ist dies die Phase des Aufblühens: Das Herzchakra öffnet sich in einer neuen Dimension — die Liebe zum noch ungeborenen Kind ist eine der reinsten Formen menschlicher Verbindung. Die Begleitung kann hier tiefer gehen: Kommunikation mit dem Kind auf energetischer Ebene, Stärkung der Mutter-Kind-Bindung, Arbeit mit der wachsenden Identität als Mutter.
+Wichtig ist Realismus: Die wenigsten Menschen können ihr Leben vollständig nach dem eigenen Rhythmus ausrichten. Arbeit, Familie und Verpflichtungen folgen ihren eigenen Takten. Es geht daher nicht um ein starres Programm, sondern um kleine, kluge Anpassungen im Rahmen des Möglichen. Schon das Bewusstsein für die eigene Phase hilft, sich selbst besser zu verstehen und milder mit sich umzugehen.
 
-Im dritten Trimester bereitet sich der Körper auf die Geburt vor. Die Energie sammelt sich im Becken, der Nestbautrieb setzt ein, und die Wahrnehmung richtet sich zunehmend auf den bevorstehenden Übergang. Ängste können auftauchen — vor der Geburt, vor dem Schmerz, vor der Verantwortung. Die energetische Begleitung fokussiert sich auf: Beckenöffnung und Schoßraum-Entspannung. Angstreduktion durch Erdung und Nervensystem-Regulation. Geburtsvorbereitung auf der energetischen Ebene — Visualisierung einer kraftvollen, selbstbestimmten Geburt.
+Ein Beispiel: Wer weiß, dass eine zurückgezogenere Phase bevorsteht, plant vielleicht bewusst etwas weniger soziale Termine und gönnt sich mehr Ruhe — und wertet das niedrigere Energieniveau nicht als Versagen, sondern versteht es als normalen Teil des Rhythmus. Diese innere Haltung allein kann viel Druck nehmen.
 
-Kontraindikationen beachten: In der Schwangerschaft sind bestimmte Akupressurpunkte und energetische Techniken kontraindiziert. Starke energetische Mobilisierung, intensive Detox-Arbeit und tiefe Traumaarbeit sind in der Schwangerschaft nicht angebracht. Deine Arbeit ist nährend, stabilisierend und unterstützend — nie provozierend oder aufwühlend. Im Zweifel gilt: Weniger ist mehr.`
+So wird Zykluswissen zu einem Werkzeug der Selbstfürsorge und der gelasseneren Lebensgestaltung. Es ersetzt keine medizinische Beratung und behandelt keine Beschwerden — es hilft schlicht, sich selbst besser zu kennen und das eigene Leben ein Stück bewusster und freundlicher zu gestalten.
+
+Schon kleine Anpassungen können viel bewirken. Wer mit dem eigenen Rhythmus arbeitet statt gegen ihn, erlebt oft mehr Gelassenheit und weniger Selbstkritik — ein spürbarer Gewinn an Lebensqualität.`,
         },
         {
           id: 'F01-M3-L2',
-          titel: 'Geburtsvorbereitung und Geburtsbegleitung',
-          inhalt: `Die Geburt ist der kraftvollste energetische Vorgang im Leben einer Frau — die vollständige Öffnung des Schoßraums, die Entladung gewaltiger Energien und die Ankunft eines neuen Bewusstseins auf der Erde. Die energetische Geburtsvorbereitung stärkt die Frau für diesen Übergang und kann den Geburtsverlauf nachweislich positiv beeinflussen.
+          titel: 'Ruhe, Aktivität und Selbstfürsorge',
+          inhalt: `Ein bewusster Umgang mit dem eigenen Rhythmus bedeutet vor allem, die unterschiedlichen Bedürfnisse nach Ruhe und Aktivität ernst zu nehmen und ihnen, soweit möglich, Raum zu geben. Selbstfürsorge heißt hier: auf die eigenen Signale zu hören, statt sie zu überhören.
 
-Die innere Geburtsvorbereitung beginnt Wochen vor dem Termin. Die Frau visualisiert regelmäßig den Geburtsprozess — nicht in medizinischen Details, sondern als energetischen Fluss: Die Energie sammelt sich, die Wellen kommen rhythmisch, der Körper öffnet sich, das Kind bewegt sich nach unten und wird geboren. Diese Visualisierung programmiert das Unterbewusstsein auf einen natürlichen, kraftvollen Geburtsverlauf und reduziert die Angst, die den Körper verkrampft.
+In Phasen mit höherer Energie tut vielen aktivere Bewegung, Geselligkeit und das Anpacken von Vorhaben gut. In ruhigeren Phasen kann sanftere Bewegung, mehr Schlaf und bewusste Erholung wohltuend sein. Es geht nicht um starre Regeln, sondern um ein achtsames Mitschwingen mit dem, was sich gerade stimmig anfühlt. Jede Frau findet hier ihr eigenes Maß.
 
-Atemtechniken sind die wichtigste praktische Vorbereitung. Tiefe Bauchatmung in das Becken hinein öffnet den Schoßraum und aktiviert den Parasympathikus. Die verlängerte Ausatmung löst Anspannung. Tönende Atmung — ein tiefes, offenes Summen oder Tönen während der Ausatmung — nutzt die Vibration, um den Beckenboden zu entspannen. Diese Techniken, regelmäßig geübt, werden während der Geburt zu natürlichen Reflexen.
+Gerade die ruhebedürftigeren Phasen verdienen Beachtung, weil sie in einem auf ständige Leistung ausgerichteten Alltag oft übergangen werden. Sich in solchen Phasen bewusst etwas mehr Ruhe zu erlauben — einen früheren Feierabend, einen freien Abend, weniger Termine — ist kein Luxus, sondern kluge Selbstfürsorge. Wer seine Reserven achtet, bleibt langfristig ausgeglichener.
 
-Der Damm und der Beckenboden verdienen besondere energetische Aufmerksamkeit. Viele Frauen tragen unbewusste Anspannung im Beckenboden — oft durch Stress, Trauma oder die Gewohnheit, „zusammenzuhalten." Die energetische Arbeit löst diese Spannung auf der feinstofflichen Ebene und bereitet den Beckenboden auf die notwendige Öffnung vor. Beckenbodenwahrnehmungsübungen — bewusstes Anspannen und Loslassen — verbinden die Frau mit einem Körperbereich, den sie oft nicht bewusst spürt.
+Allgemeine Gewohnheiten, die dem Wohlbefinden über den ganzen Zyklus guttun, sind gut bekannt und unspektakulär: ausreichend Schlaf, regelmäßige Mahlzeiten, Bewegung, die Freude macht, Zeit in der Natur und bewusste Pausen vom Dauerstress. Diese Grundlagen wirken auf das allgemeine Wohlbefinden — sie sind keine Behandlung, sondern gesunde Lebensführung.
 
-Geburtsaffirmationen unterstützen den Prozess: „Mein Körper weiß, wie er gebären soll." „Jede Welle bringt mein Kind näher." „Ich öffne mich vertrauensvoll." „Mein Kind und ich arbeiten zusammen." Diese Sätze, regelmäßig in der Vorbereitung verinnerlicht, werden zu inneren Ankern während der Geburt.
+Eine ehrliche Grenze gehört dazu: Wenn Erschöpfung, Energielosigkeit oder Stimmungstiefs anhaltend, stark oder belastend sind und über das normale Auf und Ab hinausgehen, ist das kein Fall für Selbstfürsorge-Tipps allein, sondern für ärztlichen Rat. Selbstfürsorge und ärztliche Abklärung schließen sich nicht aus — sie ergänzen einander. Beides hat seinen Platz.
 
-Die energetische Geburtsbegleitung — deine Anwesenheit bei der Geburt — erfordert besondere Vorbereitung und Absprache mit dem Geburtsteam. Deine Rolle ist nicht die der Hebamme — du bist nicht für den medizinischen Verlauf zuständig. Deine Rolle ist die der energetischen Halterin: Du hältst den Raum, du strahlst Ruhe aus, du erinnerst die Frau an ihren Atem und ihre Kraft. Deine regulierte Präsenz ist in diesem Moment dein wirksamstes Werkzeug.`
+Wer seine Reserven achtet und zugleich weiß, wann fachliche Hilfe nötig ist, sorgt umfassend für sich. Diese Verbindung aus Selbstfürsorge und Klarheit ist die reife Form, mit dem eigenen Wohlbefinden umzugehen.`,
         },
         {
           id: 'F01-M3-L3',
-          titel: 'Wochenbett und postpartale Phase',
-          inhalt: `Das Wochenbett — die ersten sechs bis acht Wochen nach der Geburt — ist eine Phase enormer Verletzlichkeit und Transformation, die in unserer Gesellschaft dramatisch unterschätzt wird. Energetisch betrachtet ist die Frau nach der Geburt weit offen — ihr Energiefeld hat sich für den Geburtsvorgang maximal geöffnet und braucht Zeit, sich wieder zu schließen und neu zu ordnen.
+          titel: 'Den Zyklus mit anderen kommunizieren',
+          inhalt: `Ein oft übersehener, aber wertvoller Aspekt des Zykluswissens ist die Kommunikation: Wie spricht man — wenn man möchte — mit Partnerin oder Partner, Familie, Freundinnen oder im Arbeitsumfeld über die eigenen Rhythmen und Bedürfnisse? Ein bewusster Umgang damit kann Beziehungen entlasten und Verständnis schaffen.
 
-Der energetische Zustand nach der Geburt gleicht einem offenen Fenster: Die Frau ist durchlässig für alles — für die Bedürfnisse des Kindes, für die Emotionen ihres Partners, für die Erwartungen der Umgebung. Diese Durchlässigkeit ist einerseits notwendig für die Bindung zum Neugeborenen — die Mutter spürt intuitiv, was ihr Kind braucht. Andererseits macht sie extrem verwundbar für Überstimulation, emotionale Überflutung und energetische Erschöpfung.
+Im privaten Umfeld kann es entlastend sein, dem nahen Umfeld zu erklären, dass das eigene Energie- und Stimmungsniveau über den Monat schwankt — nicht als Entschuldigung, sondern als Information. Wer weiß, dass eine zurückgezogenere Phase kein persönliches Zurückweisen bedeutet, reagiert oft verständnisvoller. Solche Gespräche brauchen kein medizinisches Detail, sondern schlicht Offenheit über Bedürfnisse.
 
-Der Babyblues — die Phase starker Stimmungsschwankungen in den ersten Tagen nach der Geburt — ist ein normaler energetischer Anpassungsprozess: Das Feld ordnet sich neu, Hormone verschieben sich dramatisch, und die Realität der Mutterschaft trifft auf die erschöpfte, offene Frau. Die energetische Begleitung in diesen Tagen ist einfach aber kraftvoll: Erdung, Abgrenzung des Feldes, warme Berührung und die Erlaubnis, alle Gefühle zu fühlen, ohne sie einordnen zu müssen.
+Wie viel man teilt, ist eine sehr persönliche Entscheidung. Manche sprechen offen über ihren Zyklus, andere halten ihn privat. Beides ist legitim. Ziel dieses Kurses ist nicht, zu einer bestimmten Offenheit zu drängen, sondern die Wahlmöglichkeit bewusst zu machen: Du entscheidest, ob, mit wem und wie viel du teilst.
 
-Die postpartale Depression — eine ernstzunehmende Erkrankung, die zehn bis fünfzehn Prozent aller Mütter betrifft — erfordert professionelle therapeutische und gegebenenfalls psychiatrische Behandlung. Deine energetische Arbeit kann ergänzend wirken: Herzchakra-Öffnung bei emotionaler Taubheit, Sakralchakra-Stärkung bei Identitätsverlust, Erdungsarbeit bei dem Gefühl, den Boden unter den Füßen verloren zu haben. Aber: Erkenne die Grenzen deiner Arbeit. Eine Frau, die sich nicht mehr um ihr Baby kümmern kann, Suizidgedanken hat oder sich von der Realität abkoppelt, braucht ärztliche Hilfe — sofort und ohne Umwege.
+Im Arbeitsumfeld ist Zurückhaltung oft angebracht, doch auch hier gibt es Spielräume — etwa, sich in ruhigeren Phasen bewusst etwas weniger zusätzliche Termine aufzuladen, soweit es die eigene Position erlaubt. Es geht um kluge, realistische Selbststeuerung, nicht um das Offenlegen privater Details.
 
-Die Rückbildung auf der energetischen Ebene umfasst die bewusste Schließung und Stärkung des Schoßraums, die schrittweise Wiederherstellung der eigenen Energiegrenzen und die Integration der Geburtserfahrung — ob sie traumatisch, triumphierend oder irgendwo dazwischen war. Viele Frauen tragen Geburtserlebnisse als unverarbeitete Erfahrungen mit sich, die sich auf spätere Schwangerschaften, die Sexualität und das Selbstbild als Frau auswirken. Die energetische Geburtsintegration — eine Sitzung, in der die Geburtserfahrung gewürdigt, gefühlt und eingeordnet wird — ist ein wertvolles Angebot für jede Mutter, unabhängig davon, wie die Geburt verlaufen ist.`
-        }
-      ]
+Diese kommunikative Kompetenz bleibt klar im Bereich der persönlichen Beziehungs- und Lebensgestaltung. Sie macht keine gesundheitlichen Aussagen und stellt keine Diagnosen. Sie hilft schlicht, das eigene Wissen über sich selbst behutsam und selbstbestimmt in das eigene Leben und die eigenen Beziehungen einzubringen — als Beitrag zu mehr Verständnis und Selbstfürsorge.
+
+Wie offen man dabei ist, bleibt immer die eigene Entscheidung. Dieser selbstbestimmte Umgang mit dem eigenen Wissen ist Ausdruck von Reife und Selbstachtung.`,
+        },
+      ],
     },
     {
       id: 'F01-M4',
-      titel: 'Wechseljahre und reife Weiblichkeit',
+      titel: 'Lebensphasen verstehen',
       lektionen: [
         {
           id: 'F01-M4-L1',
-          titel: 'Die Wechseljahre als energetische Transformation',
-          inhalt: `Die Wechseljahre — der Übergang von der fruchtbaren Phase in die Phase der weisen Frau — sind in unserer Gesellschaft mit Angst, Verleugnung und Verlustgefühlen beladen. Die energetische Perspektive bietet eine radikal andere Deutung: Die Wechseljahre sind keine Verfallserscheinung, sondern eine der kraftvollsten Transformationen im Leben einer Frau — vergleichbar mit der Pubertät in ihrer Intensität, aber reicher an Tiefe und Potenzial.
+          titel: 'Vom ersten Zyklus an — Übergänge im Überblick',
+          inhalt: `Der weibliche Zyklus begleitet das Leben über viele Jahrzehnte — und er hat einen Anfang und ein natürliches Ende. Diese großen Übergänge bewusst zu verstehen, gehört zu einem reifen Zykluswissen. Dieser Kurs betrachtet sie als Lebensphasen und Übergänge, nicht als Behandlungsfelder.
 
-Die hormonellen Veränderungen — das Sinken von Östrogen und Progesteron, das Ausbleiben der Menstruation — haben eine energetische Entsprechung: Die Energie, die bisher monatlich in den Zyklusauf- und -abbau floss, wird frei. In traditionellen Kulturen galt diese freigesetzte Energie als Quelle spiritueller Kraft — die Frau nach der Menopause wurde zur Seherin, zur Heilerin, zur weisen Ratgeberin, weil sie die Lebensenergie, die zuvor in die Fortpflanzung floss, nun für Bewusstseinsarbeit nutzen konnte.
+Der erste Zyklus markiert den Eintritt in die fruchtbaren Jahre — ein bedeutsamer Übergang, der oft mit Unsicherheit, manchmal mit Stolz, manchmal mit Verlegenheit erlebt wird. Ein offener, wertschätzender Umgang mit diesem Beginn kann jungen Menschen helfen, eine positive Beziehung zum eigenen Körper aufzubauen. Wissen und ein angstfreies Sprechen darüber sind hier das Wertvollste.
 
-Die Wechseljahre verlaufen in Phasen, die jeweils eigene energetische Qualitäten tragen. Die Perimenopause — die Übergangsphase, die Jahre vor der letzten Blutung beginnt — ist turbulent: Hormonelle Schwankungen erzeugen Hitzewallungen, Schlafstörungen, Stimmungsschwankungen und kognitive Veränderungen. Energetisch ist dies eine Phase der Entgiftung — der Körper befreit sich von allem, was nicht mehr gebraucht wird: physisch, emotional und energetisch. Alte Themen, die Jahrzehnte geschlummert haben, tauchen wieder auf und fordern Bearbeitung.
+Die langen mittleren Jahre sind geprägt vom regelmäßigen Zyklus, der sich über die Zeit wandeln kann — durch Lebensumstände, Lebensphasen und vieles mehr. In dieser Zeit entfaltet sich der ganze Wert der Selbstwahrnehmung: das eigene Muster über Jahre kennenzulernen und das Leben achtsam danach zu gestalten.
 
-Die Menopause selbst — das definitive Ende der Menstruation — ist ein Schwellenmoment: Die Frau tritt durch ein Tor in eine neue Lebensphase. Energetisch schließt sich der monatliche Zyklus, und eine neue, stetigere Energieform tritt an seine Stelle — weniger wellenförmig, dafür tiefer und beständiger. Viele Frauen berichten, dass sie nach der Menopause eine Klarheit und innere Ruhe erleben, die sie vorher nicht kannten.
+Die Wechseljahre schließlich leiten den Übergang in eine neue Lebensphase ein, in der der Zyklus allmählich endet. Auch dies ist ein natürlicher Teil des Lebenslaufs — kein Defekt und keine Krankheit, sondern ein Wandel, dem wir das nächste Modulteil widmen.
 
-Die Postmenopause — die Jahre nach der letzten Blutung — ist die Phase der Integration und Ernte. Die Frau steht in ihrer vollen Lebenserfahrung, befreit vom monatlichen Zyklus, frei von der gesellschaftlichen Bewertung über Jugend und Fruchtbarkeit. Energetisch ist dies das Potenzial der weisen Frau — einer Frau, die nichts mehr beweisen muss und deren Stärke aus Erfahrung, Mitgefühl und innerer Klarheit kommt.
+Über alle Übergänge hinweg gilt dieselbe Haltung: Wir betrachten sie als natürliche, lebendige Phasen des Lebens, die Wissen, Wertschätzung und manchmal Geduld verdienen. Und über alle Phasen hinweg gilt dieselbe Grenze: Bei Beschwerden, Unsicherheiten oder auffälligen Veränderungen ist die ärztliche oder gynäkologische Begleitung die richtige Adresse. Selbstwahrnehmung begleitet die Übergänge — sie ersetzt nicht die fachliche Betreuung.
 
-Deine Rolle als energetische Begleiterin in den Wechseljahren: Du hilfst Frauen, diese Phase nicht als Verlust, sondern als Gewinn zu erleben. Du begleitest die physischen Symptome mit energetischen Methoden. Und du hältst den Raum für die tiefe Transformation, die unter der Oberfläche der Hitzewallungen und Schlafstörungen stattfindet.`
+Jeder dieser Übergänge verdient Wissen und Wertschätzung. Wer sie als natürliche Teile des Lebens versteht statt als Probleme, begegnet ihnen gelassener und kann sie bewusster gestalten.`,
         },
         {
           id: 'F01-M4-L2',
-          titel: 'Symptombegleitung in den Wechseljahren',
-          inhalt: `Die Symptome der Wechseljahre — Hitzewallungen, Schlafstörungen, Stimmungsschwankungen, Trockenheit, Gelenkschmerzen, Gewichtszunahme — sind real und verdienen ernst genommen zu werden. Die energetische Begleitung bietet wirksame Unterstützung, die die Lebensqualität deutlich verbessern kann — als Ergänzung, nicht als Ersatz für medizinische Optionen.
+          titel: 'Die Wechseljahre als Lebensübergang',
+          inhalt: `Die Wechseljahre — der allmähliche Übergang vom Ende der fruchtbaren Jahre in eine neue Lebensphase — sind in unserer Gesellschaft oft mit Sorge oder negativen Bildern beladen. Eine wissensbasierte, wertschätzende Perspektive hilft, diesen Übergang gelassener und bewusster zu erleben.
 
-Hitzewallungen sind das Leitsymptom der Wechseljahre. Energetisch betrachtet ist eine Hitzewallung ein plötzliches Aufsteigen von Energie aus dem Becken über den Rumpf in den Kopf — eine vertikale Energiewelle, die den Körper überflutet. Die Arbeit mit diesem Symptom zielt darauf, die aufsteigende Energie sanft zu lenken und zu erden. Akupressurpunkte wie Niere 1 an der Fußsohle und Herz 7 am Handgelenk helfen, die Energie nach unten zu leiten. Atemtechniken — insbesondere die kühlende Atmung durch die leicht gerollte Zunge — können eine Hitzewallung in ihrer Intensität mildern.
+Verstanden als Lebensübergang sind die Wechseljahre eine Phase des Wandels, in der sich der gewohnte Zyklus verändert und schließlich endet. Viele Frauen erleben dabei eine Zeit der Neuorientierung — der Blick richtet sich neu auf die eigenen Bedürfnisse, Wünsche und Prioritäten. In vielen Kulturen wurde und wird die Lebensphase nach den fruchtbaren Jahren als Zeit gereifter Erfahrung und innerer Klarheit geschätzt.
 
-Schlafstörungen in den Wechseljahren haben oft eine energetische Komponente: Das Nervensystem ist durch die hormonelle Umstellung im Übergang zwischen sympathischer Aktivierung und parasympathischer Entspannung destabilisiert. Die abendliche Energiearbeit — Erdung über die Füße, Herzberuhigung durch Perikard 6, Stirnpunkt Yintang — unterstützt den Übergang in den Schlaf. Regelmäßige Abendrituale mit energetischem Fokus sind oft wirksamer als Einzelinterventionen.
+Der Übergang verläuft individuell sehr unterschiedlich. Manche erleben ihn als wenig spürbar, andere als deutliche Phase der Veränderung. Beides ist normal. Wie schon beim monatlichen Zyklus gilt: Es gibt keinen „richtigen" Verlauf, an dem man sich messen müsste. Die eigene Erfahrung ist maßgeblich.
 
-Stimmungsschwankungen und emotionale Intensität sind ein natürlicher Teil der Transformation. Sie zeigen, dass unverarbeitetes Material an die Oberfläche steigt — alte Trauer, ungelebte Träume, ungesetzte Grenzen, ungesagte Wahrheiten. Die energetische Begleitung hält Raum für diese Emotionen, ohne sie zu pathologisieren. Gleichzeitig stabilisierst du das Nervensystem durch Erdungsarbeit und stärkst die emotionale Resilienz durch Herzchakra-Arbeit.
+Selbstwahrnehmung bleibt auch in dieser Phase ein wertvolles Werkzeug: bewusst zu bemerken, wie sich Energie, Stimmung und Bedürfnisse wandeln, und das eigene Leben achtsam und freundlich danach auszurichten. Ein wertschätzender Blick auf diesen Übergang — als Wandel, nicht als Verlust — kann viel zur Gelassenheit beitragen.
 
-Die Trockenheit — vaginal, der Haut, der Schleimhäute — zeigt energetisch einen Rückgang der nährenden Flüssigkeitsenergie. Die Arbeit mit dem Nierenmeridian — der Quelle der Grundfeuchtigkeit — und dem Milzmeridian — der Transformation von Nahrung in nährende Substanz — kann unterstützend wirken. Auf der Alltagsebene helfen ausreichende Flüssigkeitszufuhr, gesunde Fette und der Verzicht auf austrocknende Substanzen wie übermäßiges Koffein.
-
-Generell gilt: Die Wechseljahre sind kein Problem, das gelöst werden muss — sie sind ein Übergang, der begleitet werden will. Deine Haltung als Begleiterin spiegelt diese Perspektive: respektvoll gegenüber den Beschwerden, aber niemals defizitorientiert gegenüber der Frau selbst.`
+Eine besonders klare Grenze gehört zu diesem Thema: Die Wechseljahre können mit körperlichen Veränderungen und Beschwerden einhergehen, deren Einordnung und Begleitung ausschließlich in ärztliche und gynäkologische Hände gehört. Dieser Kurs vermittelt Verständnis für den Lebensübergang und stärkt die Selbstwahrnehmung — er deutet keine Symptome, gibt keine Behandlungsempfehlungen und ersetzt keine medizinische Beratung. Wer Beschwerden hat, bespricht diese mit der Frauenärztin oder dem Arzt.`,
         },
         {
           id: 'F01-M4-L3',
-          titel: 'Die weise Frau — Energie im dritten Lebensabschnitt',
-          inhalt: `Der dritte Lebensabschnitt — nach der Menopause — wird in unserer jugendorientierten Kultur oft als Abstieg betrachtet. Die energetische Perspektive sieht das Gegenteil: Die postmenopausale Frau steht am Beginn einer Phase, in der ihr gesamtes Lebenswissen, ihre emotionale Reife und ihre energetische Kraft in eine neue, befreite Form fließen können.
+          titel: 'Wertschätzung statt Defizitblick',
+          inhalt: `Eine Grundhaltung zieht sich durch die Betrachtung aller Lebensphasen: die Wertschätzung statt des Defizitblicks. In einer Kultur, die Jugend und ständige Leistungsfähigkeit betont, werden die natürlichen Wandlungen des weiblichen Körpers leicht als Mangel gedeutet. Dieser Kurs lädt zu einer anderen Sicht ein.
 
-Das Archetyp der weisen Frau — in vielen Kulturen als Crone, Älteste oder Großmutter verehrt — beschreibt eine Frau, die drei wesentliche Qualitäten verkörpert: Sie hat nichts mehr zu beweisen — ihr Selbstwert kommt von innen, nicht von äußerer Bestätigung. Sie sieht klar — die Illusionen der Jugend und die Kompromisse der mittleren Jahre sind durchschaut. Sie dient dem Ganzen — ihre Energie fließt nicht mehr in die eigene Reproduktion, sondern in die Nährung der Gemeinschaft, der nächsten Generation und der Welt.
+Jede Lebensphase hat ihre eigenen Qualitäten. Die fruchtbaren Jahre bringen den vertrauten monatlichen Rhythmus mit seinen Schwankungen und Möglichkeiten. Die Zeit danach bringt oft eine neue Stetigkeit und die Freiheit von diesem Zyklus. Keine Phase ist „besser" als die andere — sie sind verschieden, und jede hat ihren Wert.
 
-Energetisch verschiebt sich die Hauptaktivität vom Sakralchakra zum Herzchakra und den oberen Zentren. Die kreative Kraft, die zuvor im Schoßraum zentriert war, steigt auf — in den Herzraum, in die Stimme, in die Intuition, in das spirituelle Bewusstsein. Viele Frauen erleben nach der Menopause eine Intensivierung ihrer intuitiven Fähigkeiten, eine Vertiefung ihrer spirituellen Praxis und eine neue Klarheit in ihrer Kommunikation.
+Diese wertschätzende Haltung ist mehr als positives Denken. Sie hat praktische Wirkung: Wer die eigenen körperlichen Wandlungen als normalen, würdevollen Teil des Lebens begreift, geht freundlicher und gelassener mit sich um. Der Druck, einem jugendlichen Ideal entsprechen zu müssen, verliert an Macht. An seine Stelle tritt eine reifere Selbstannahme.
 
-Die Herausforderung liegt in der kulturellen Entwertung. Eine Gesellschaft, die Frauen primär über Jugend, Fruchtbarkeit und Attraktivität definiert, hat für die weise Frau keinen Platz. Die innere Arbeit dieser Lebensphase umfasst die Befreiung von diesen äußeren Bewertungen — das Ablösen des Selbstwerts von der Bewunderung anderer und die Verankerung in der eigenen inneren Autorität.
+Für die eigene Lebensgestaltung bedeutet das, die jeweilige Phase nicht zu bekämpfen, sondern bewusst zu leben. Statt einer Phase nachzutrauern oder die nächste zu fürchten, kann man lernen, im Jetzt der eigenen Lebensphase zu stehen — mit ihren Möglichkeiten und ihren Grenzen, mit Achtsamkeit und Selbstfürsorge.
 
-Deine Arbeit mit Frauen in dieser Lebensphase kann transformierend sein: Du hilfst ihnen, die Trauer über den Verlust der fruchtbaren Jahre zu würdigen und gleichzeitig die neue Kraft zu entdecken, die sich zeigt. Du begleitest sie bei der Neudefinition ihrer Identität — nicht mehr über Rollen (Mutter, Partnerin, Berufstätige), sondern über Sein. Du stärkst ihre energetische Souveränität — die Fähigkeit, ihr eigenes Feld zu halten, ohne sich von den Erwartungen anderer formen zu lassen.
+Diese Haltung bleibt klar im Bereich der persönlichen Einstellung und Lebenskunst. Sie macht keine gesundheitlichen Versprechen und ersetzt keine medizinische Begleitung. Sie ist ein Angebot zur inneren Haltung — und gerade diese freundliche, würdigende Grundhaltung gegenüber dem eigenen Körper und seinen Wandlungen ist vielleicht das Wertvollste, was Zykluswissen schenken kann.
 
-Die weise Frau braucht keine Heilung — sie braucht Anerkennung. Deine tiefste Gabe als Begleiterin ist es, zu sehen und zu spiegeln, was sie bereits ist: eine Frau in ihrer vollen Kraft, befreit von den Fesseln des Zyklus, bereit für die reichste Phase ihres Lebens.`
-        }
-      ]
+Denn am Ende geht es nicht um ein bestimmtes Lebensalter oder eine bestimmte Phase, sondern um eine Beziehung: die zu sich selbst. Eine wohlwollende Beziehung zum eigenen Körper trägt durch alle Phasen des Lebens.`,
+        },
+      ],
     },
     {
       id: 'F01-M5',
-      titel: 'Sexualität und weibliche Kraft',
+      titel: 'Wohlbefinden & gesunde Gewohnheiten',
       lektionen: [
         {
           id: 'F01-M5-L1',
-          titel: 'Sexuelle Energie als Lebenskraft',
-          inhalt: `Sexuelle Energie ist Lebenskraft in ihrer konzentriertesten Form. Sie ist die schöpferische Urkraft, die neues Leben hervorbringt — und die weit über die Fortpflanzung hinaus als Quelle von Vitalität, Kreativität und spirituellem Wachstum genutzt werden kann. Für viele Frauen ist der bewusste Zugang zu ihrer sexuellen Energie ein Schlüssel zu tieferer Gesundheit und Selbsterkenntnis.
+          titel: 'Allgemeine Grundlagen des Wohlbefindens',
+          inhalt: `Über den ganzen Zyklus und alle Lebensphasen hinweg trägt eine Reihe allgemeiner, gut bekannter Gewohnheiten zum Wohlbefinden bei. Diese Grundlagen sind unspektakulär, sicher und für alle Menschen gültig — sie sind gesunde Lebensführung, keine Behandlung und kein Heilversprechen.
 
-Die sexuelle Energie sitzt im Sakralchakra und im Wurzelchakra — den beiden untersten Energiezentren. Von hier aus kann sie aufsteigen und alle höheren Zentren nähren: das Solarplexus-Chakra mit Selbstbewusstsein und persönlicher Macht, das Herzchakra mit Liebesfähigkeit und Mitgefühl, das Kehlchakra mit kreativer Ausdruckskraft, das Stirnchakra mit Intuition und das Kronenchakra mit spiritueller Verbindung. Diese aufsteigende Bewegung der sexuellen Energie ist ein natürlicher Prozess, der in vielen Traditionen als Grundlage spiritueller Praxis verstanden wird.
+An erster Stelle steht der Schlaf. Ausreichender, regelmäßiger Schlaf ist eine der wirksamsten Grundlagen für Energie, Stimmung und allgemeines Wohlbefinden. Gerade in ruhebedürftigeren Phasen kann es sich lohnen, dem Schlafbedürfnis bewusst mehr Raum zu geben. Ein verlässlicher Schlafrhythmus unterstützt das innere Gleichgewicht.
 
-In unserer Kultur ist weibliche Sexualität von Widersprüchen geprägt: gleichzeitig übersexualisiert und unterdrückt, kommerzialisiert und tabuisiert. Viele Frauen haben eine gespaltene Beziehung zu ihrer sexuellen Energie — sie fühlen sie, aber schämen sich dafür. Sie wollen sie ausleben, aber haben Angst vor Verurteilung. Diese Spaltung ist nicht nur ein soziales Problem — sie ist ein energetisches: Die sexuelle Kraft wird blockiert, umgeleitet oder abgetrennt, anstatt frei und bewusst zu fließen.
+Ebenso wichtig ist eine ausgewogene, vielfältige Ernährung mit regelmäßigen Mahlzeiten. Sie versorgt den Körper verlässlich und unterstützt ein stabiles Energieniveau. Dieser Kurs gibt dabei bewusst keine speziellen „Zyklus-Diäten" oder Nährstoffempfehlungen — solche individuellen Fragen gehören in ärztliche oder ernährungsfachliche Hände. Es geht um die allgemeine Grundlage: ausgewogen, vielfältig, regelmäßig.
 
-Die häufigsten energetischen Muster rund um weibliche Sexualität: Unterdrückung — die sexuelle Energie wird durch Scham, religiöse Prägung oder Missbrauchserfahrungen blockiert. Das Sakralchakra ist eng, kalt oder taub. Überflutung — die sexuelle Energie ist unkontrolliert und überschwemmend, oft als Kompensation für emotionale Leere oder als Muster aus Missbrauchserfahrungen. Abtrennung — die Frau funktioniert sexuell, ist aber emotional nicht beteiligt. Der Körper reagiert, aber das Herz bleibt verschlossen.
+Bewegung, die Freude macht, fördert Wohlbefinden, Energie und ein gutes Körpergefühl. Das Maß darf sich am eigenen Befinden orientieren — aktiver in energiereichen Phasen, sanfter in ruhigeren. Auf die eigenen Signale zu hören ist hier wertvoller als ein starres Programm.
 
-Die energetische Arbeit mit sexueller Energie erfordert höchste Sensibilität, klare Grenzen und absoluten Respekt. Du berührst den Beckenbereich nie ohne ausdrückliche Einwilligung — und oft ist die energetische Arbeit ohne physische Berührung am wirksamsten. Deine Rolle ist nicht die einer Sexualtherapeutin — du arbeitest mit der Energie, nicht mit der Sexualität im engeren Sinne. Bei schweren sexuellen Traumata oder Störungen verweist du an qualifizierte Fachpersonen.`
+Schließlich tragen Entspannung und der bewusste Umgang mit Stress wesentlich zum Wohlbefinden bei. Pausen, Zeit in der Natur, bewusstes Atmen, ein klarer Feierabend — solche einfachen Gewohnheiten unterstützen das innere Gleichgewicht über den ganzen Zyklus. All diese Grundlagen wirken auf das allgemeine Wohlbefinden; sie behandeln keine Beschwerden. Bei anhaltenden Problemen bleibt die ärztliche Abklärung der richtige Weg.
+
+Das Schöne an diesen Grundlagen ist ihre Schlichtheit: Sie kosten nichts, bergen keine Risiken und stehen jedem offen. Gerade ihre Einfachheit macht sie so verlässlich und alltagstauglich.`,
         },
         {
           id: 'F01-M5-L2',
-          titel: 'Sexuelle Wunden heilen',
-          inhalt: `Sexuelle Wunden — ob durch Missbrauch, Übergriffe, ungewollte Erfahrungen oder subtilere Formen der Grenzverletzung — betreffen einen erschreckend hohen Anteil von Frauen. Die energetische Begleitung bietet einen Zugang, der die Sprachlosigkeit respektiert, die viele Betroffene erleben, und auf einer Ebene wirkt, die Worte allein nicht erreichen.
+          titel: 'Achtsamkeit und Körpergefühl',
+          inhalt: `Eine freundliche, achtsame Beziehung zum eigenen Körper ist ein wertvoller Bestandteil des Wohlbefindens — und sie lässt sich üben. Achtsamkeit bedeutet hier, den eigenen Körper und seine Signale wahrzunehmen, ohne sie ständig zu bewerten oder in Sorge zu deuten.
 
-Die Statistiken sind erschütternd: Etwa jede dritte Frau weltweit hat sexualisierte Gewalt erfahren. Viele weitere haben subtilere Grenzüberschreitungen erlebt — ungewollte Berührungen, verbale Übergriffe, emotionale Manipulation in sexuellen Kontexten. Diese Erfahrungen hinterlassen energetische Spuren im Sakralchakra, im Schoßraum und oft im gesamten Energiefeld.
+Eine einfache Übung ist das achtsame Innehalten: sich mehrmals am Tag kurz Zeit nehmen, um wahrzunehmen, wie sich der Körper gerade anfühlt. Bin ich angespannt oder entspannt? Müde oder wach? Wonach habe ich Bedürfnis? Diese kleinen Momente der Selbstwahrnehmung schulen das Körpergefühl und helfen, frühzeitig zu bemerken, was guttut und was nicht.
 
-Deine Arbeit in diesem Bereich folgt den Prinzipien der Traumaarbeit: Titration — langsam und dosiert vorgehen. Ressourcenorientierung — zuerst Sicherheit und Stabilität aufbauen. Klientenautonomie — die Frau bestimmt das Tempo, die Tiefe und die Art der Arbeit. Keine Retraumatisierung — du brauchst keine Details des Übergriffs, um energetisch zu arbeiten. Das Energiefeld zeigt dir, was du wissen musst.
+Auch bewusste Bewegung und ruhiges Atmen stärken das Körpergefühl. Sanfte Dehnungen, ein achtsamer Spaziergang oder einige ruhige Atemzüge holen die Aufmerksamkeit aus dem Kopf zurück in den Körper. Solche Praktiken wirken über Entspannung und Zuwendung — sie sind Wohlbefinden und Selbstfürsorge, keine Behandlung.
 
-Praktische Interventionen umfassen: Energetische Reinigung des Schoßraums — das sanfte Lösen und Ausleiten fremder Energieimprints aus dem Beckenbereich. Diese Arbeit wird immer aus respektvollem Abstand durchgeführt und erfordert die vollständige Einwilligung der Klientin. Grenzsetzung und Feldstärkung — die Arbeit an der Auragrenze, besonders im Beckenbereich. Die Klientin lernt, ihr eigenes Energiefeld bewusst zu begrenzen und zu schützen. Herz-Schoß-Verbindung wiederherstellen — die Achse zwischen Herz und Becken, die durch sexuelles Trauma oft unterbrochen ist, wird sanft und behutsam wieder geöffnet.
+Über den Zyklus hinweg kann Achtsamkeit helfen, die eigenen wechselnden Bedürfnisse besser zu spüren und ernst zu nehmen. Wer gelernt hat, freundlich auf den eigenen Körper zu hören, geht oft gelassener mit Schwankungen um und sorgt natürlicher für sich. Diese Haltung ist eine Grundlage für die in diesem Kurs geübte Selbstwahrnehmung.
 
-Die Wiederentdeckung der eigenen sexuellen Kraft nach Verletzung ist ein langer, nicht-linearer Prozess. Es gibt Fortschritte und Rückschritte, Phasen der Öffnung und des Rückzugs. Deine Geduld und dein Vertrauen in den Prozess der Klientin sind dein wichtigstes Werkzeug. Die Botschaft: Deine sexuelle Kraft gehört dir. Niemand konnte sie dir nehmen. Sie wartet darauf, wiederentdeckt zu werden — in deinem Tempo, auf deine Weise.`
+Wichtig bleibt die Unterscheidung: Achtsames Wahrnehmen ist gesund und wertvoll. Ängstliches, ständiges Sich-Beobachten und das Hineindeuten von Krankheiten dagegen sind weder gesund noch Ziel dieses Kurses. Achtsamkeit im guten Sinne ist gelassen und neugierig. Und sobald die Wahrnehmung etwas Beunruhigendes zeigt — anhaltende Beschwerden, auffällige Veränderungen —, ist nicht weitere Selbstbeobachtung, sondern der Gang zur Fachperson angesagt.
+
+Achtsamkeit und Klarheit gehören so zusammen: Die eine schenkt einen guten Kontakt zum eigenen Körper, die andere weiß, wann andere übernehmen. Gemeinsam ergeben sie einen reifen, sicheren Umgang mit sich selbst.`,
         },
         {
           id: 'F01-M5-L3',
-          titel: 'Weibliche Kraft leben',
-          inhalt: `Weibliche Kraft ist keine Kraft über andere — sie ist die Kraft des Seins, des Empfangens, des Gebärens und des Nährens. Sie ist die Fähigkeit, Leben zu erschaffen — nicht nur biologisch, sondern in allem, was eine Frau berührt: Projekte, Beziehungen, Gemeinschaften, Kunstwerke, Heilungsräume. Diese Kraft zu leben ist das ultimative Ziel der ganzheitlichen Frauengesundheitsarbeit.
+          titel: 'Stress, Lebensbalance und der Zyklus',
+          inhalt: `Stress und Lebensbalance stehen in enger Beziehung zum allgemeinen Wohlbefinden — und viele Frauen beobachten, dass sich anhaltende Belastung auch auf ihr Befinden über den Zyklus auswirken kann. Ein bewusster Umgang mit Stress ist daher ein sinnvoller Teil der Selbstfürsorge.
 
-Weibliche Kraft zeigt sich in Zyklen, nicht in geraden Linien. Sie pulst, sie ebbt und fließt, sie braucht Ruhephasen, um sich zu erneuern. Eine Frau, die ihre zyklische Natur akzeptiert und lebt, hat Zugang zu einer Kraftquelle, die nie versiegt — weil sie sich in jeder Ruhephase erneuert. Eine Frau, die gegen ihre Natur ankämpft und ständig linear funktionieren will, erschöpft sich und verliert den Zugang zu ihrer tiefsten Kraft.
+Diese Beobachtung ist im Alltag wertvoll, sollte aber vorsichtig eingeordnet werden: Es handelt sich um allgemeine Zusammenhänge des Wohlbefindens, nicht um eine medizinische Ursache-Wirkungs-Kette, die man pauschal behaupten dürfte. Was hier zählt, ist das eigene achtsame Beobachten — und der allgemein bekannte Wert von Entlastung und Erholung.
 
-Im Alltag bedeutet weibliche Kraft leben: Die eigene Intuition ernst nehmen — nicht als Alternative zur Logik, sondern als Ergänzung. Grenzen setzen ohne Schuldgefühle — nein sagen ist eine Form der Selbstfürsorge, keine Aggression. Die eigenen Bedürfnisse wahrnehmen und kommunizieren — nicht als Schwäche, sondern als Akt der Verantwortung. Die Verletzlichkeit als Stärke erkennen — sich zu zeigen, wie man ist, erfordert mehr Mut als jede Fassade.
+Was die innere Balance unterstützt, ist gut bekannt: ausreichend Erholung, verlässliche Tagesrhythmen, bewusste Pausen, Bewegung, Zeit für sich und tragende Beziehungen. Diese Faktoren wirken auf den ganzen Menschen und damit auf das allgemeine Wohlbefinden. Sie sind keine Behandlung, sondern Ausdruck einer ausgewogenen Lebensführung.
 
-Energetisch lebst du weibliche Kraft, indem du dein Sakralchakra nährst — durch bewusste Zyklusachtsamkeit, durch kreatives Schaffen, durch Freude an Sinnlichkeit und Körperlichkeit. Indem du dein Herzchakra offen hältst — trotz aller Verletzungen, die das Leben bringt. Indem du deine Stimme nutzt — dein Kehlchakra, den Ausdruck deiner Wahrheit. Und indem du dich mit dem Größeren verbindest — deiner Intuition, deiner spirituellen Anbindung, dem Bewusstsein, Teil eines größeren Ganzen zu sein.
+Gerade in einem fordernden Alltag lohnt es sich, Phasen erhöhten Ruhebedürfnisses ernst zu nehmen und der Erholung bewusst Raum zu geben. Wer dauerhaft über die eigenen Grenzen geht, spürt das oft im allgemeinen Befinden. Die Selbstwahrnehmung aus diesem Kurs hilft, solche Muster früher zu bemerken und freundlicher gegenzusteuern.
 
-Als Begleiterin weiblicher Gesundheit bist du selbst ein Beispiel. Deine eigene Beziehung zu deinem Zyklus, deinem Körper, deiner Sexualität und deiner weiblichen Kraft ist der stärkste Lehrstoff. Nicht Perfektion — Authentizität. Nicht makellose Weiblichkeit — gelebte, ehrliche, manchmal chaotische, aber immer echte weibliche Kraft. Diese Verkörperung inspiriert mehr als jedes Konzept und heilt mehr als jede Technik.`
-        }
-      ]
+Eine klare Grenze schließt das Thema ab: Anhaltende, starke Erschöpfung, dauerhafte Stimmungstiefs oder das Gefühl, der Belastung nicht mehr standzuhalten, sind kein Fall für Selbstfürsorge-Tipps allein. Sie verdienen ärztliche oder fachliche Begleitung — gerade weil hinter anhaltender Erschöpfung auch behandlungsbedürftige Ursachen stehen können. Selbstfürsorge und fachliche Hilfe ergänzen einander; im Zweifel ist der Weg zur Fachperson der richtige.
+
+Diese Klarheit entlastet: Man muss nicht alles selbst lösen. Zu wissen, wann man sich Unterstützung holt, ist ein Zeichen von Stärke, nicht von Schwäche.`,
+        },
+      ],
     },
     {
       id: 'F01-M6',
-      titel: 'Praxis und Positionierung',
+      titel: 'Grenzen, Sicherheit & die eigene Rolle',
       lektionen: [
         {
           id: 'F01-M6-L1',
-          titel: 'Angebotsformate für Frauengesundheit',
-          inhalt: `Frauengesundheit ist ein wachsendes Feld mit enormem Bedarf — immer mehr Frauen suchen nach ganzheitlichen Ansätzen, die über die rein medizinische Betrachtung hinausgehen. Deine Angebotsformate sollten diese Vielfalt der Bedürfnisse widerspiegeln und verschiedene Einstiegspunkte bieten.
+          titel: 'Wann ärztliche Begleitung nötig ist',
+          inhalt: `Die wichtigste Botschaft dieses Kurses in Sachen Sicherheit lautet: Bei allem, was über bewusste Selbstwahrnehmung und allgemeines Wohlbefinden hinausgeht, ist die Frauenärztin, der Arzt oder eine andere qualifizierte Fachperson die richtige Adresse. Zykluswissen ist Bildung und Selbstkenntnis — es ersetzt niemals die medizinische Betreuung.
 
-Einzelsitzungen bilden den Kern deiner Arbeit. Eine Sitzung dauert sechzig bis neunzig Minuten und kombiniert Gespräch mit energetischer Arbeit. Der Fokus richtet sich nach dem aktuellen Anliegen der Klientin: Zyklusbeschwerden, Kinderwunsch, Schwangerschaftsbegleitung, Wechseljahre oder sexuelle Gesundheit. Einzelsitzungen eignen sich besonders für persönliche, sensible Themen und für die individuelle energetische Arbeit am Schoßraum.
+Ärztlich, idealerweise gynäkologisch, abzuklären sind insbesondere: ein dauerhaft ausbleibender Zyklus außerhalb von Schwangerschaft und Wechseljahren; plötzliche, starke Veränderungen des gewohnten Musters; sehr unregelmäßige Zyklen; ungewöhnlich starke oder schmerzhafte Blutungen; Zwischenblutungen; sowie alle körperlichen Beschwerden, die belasten oder beunruhigen. Diese Aufzählung ersetzt keine Untersuchung, sondern soll sensibilisieren, wann der Weg zur Fachperson angezeigt ist.
 
-Zyklusgruppen sind ein Format mit großer Reichweite und Wirkung. Eine Gruppe von sechs bis acht Frauen trifft sich monatlich über drei bis sechs Monate und arbeitet gemeinsam mit dem Zyklus: Zyklustagebuch führen, Erfahrungen austauschen, energetische Übungen für jede Zyklusphase erlernen. Die Kraft der Frauengruppe — das geteilte Erleben, die gegenseitige Bestätigung, das Gefühl, nicht allein zu sein — ist ein Heilfaktor, der über die Einzelarbeit hinausgeht.
+Auch in besonderen Lebenssituationen — bei Kinderwunsch, in Schwangerschaft und Stillzeit, in den Wechseljahren oder bei bekannten Erkrankungen — ist die ärztliche und gynäkologische Begleitung zentral. Dieser Kurs behandelt diese Situationen bewusst nicht in ihrer medizinischen Dimension; er vermittelt allgemeines Verständnis und stärkt die Selbstwahrnehmung, mehr nicht.
 
-Retreats und Tagesworkshops bieten intensive Erfahrungen: „Zurück zur weiblichen Kraft" — ein Wochenende mit Zyklusarbeit, Schoßraummeditation, Körperarbeit und Austausch. „Wechseljahre als Wandlung" — ein Tagesseminar für Frauen ab vierzig. „Mutter werden — Frau bleiben" — ein Workshop für werdende oder junge Mütter. Diese Formate sind gleichzeitig Wertbeitrag und Akquiseinstrument für die fortlaufende Einzelarbeit.
+Ein wichtiger Hinweis gilt der Selbstbeobachtung selbst: Ein Zyklus-Kalender und Achtsamkeit sind wunderbare Werkzeuge der Selbstkenntnis, aber sie sind kein Ersatz für Vorsorgeuntersuchungen und keine Methode, um Schwangerschaft zu planen oder zu verhüten. Für Fragen der Familienplanung und Verhütung ist die ärztliche Beratung unverzichtbar.
 
-Digitale Angebote ergänzen dein Portfolio: Ein Online-Kurs zur Zyklusachtsamkeit. Geführte Meditationen für jede Zyklusphase — vier Aufnahmen, die die Klientin durch den gesamten Monat begleiten. Ein monatlicher Newsletter mit zyklusbezogenen Impulsen, Mondphasen-Information und Selbstfürsorge-Tipps. Diese digitalen Produkte erreichen Frauen, die keinen lokalen Zugang zu deiner Arbeit haben, und schaffen passive Einkommensquellen.
+Diese klare Grenze ist kein Mangel, sondern das Fundament eines verantwortlichen Umgangs mit dem Thema. Sie schützt — und sie erlaubt es zugleich, das wertvolle Feld der Selbstwahrnehmung frei und ohne Sorge zu nutzen, weil man weiß, wo die eigene Kompetenz endet und die der Fachleute beginnt.
 
-Die Zusammenarbeit mit Hebammen, Gynäkologinnen und Frauenärztinnen öffnet Türen zu genau den Frauen, die deine Arbeit am meisten brauchen. Stelle dich bei lokalen Praxen vor, biete einen Vortrag an oder lade zur offenen Schnupperstunde ein. Die Kombination aus medizinischer und energetischer Begleitung ist das, was viele Frauen suchen — und zu selten finden.`
+Diese Aufteilung schafft Sicherheit auf beiden Seiten. Sie macht aus Selbstwahrnehmung ein verlässliches, sorgenfreies Werkzeug — und aus der ärztlichen Betreuung den selbstverständlichen Partner für alles, was darüber hinausgeht.`,
         },
         {
           id: 'F01-M6-L2',
-          titel: 'Kommunikation und Zielgruppenansprache',
-          inhalt: `Die Kommunikation rund um Frauengesundheit erfordert eine besondere Balance: einfühlsam genug, um Frauen in verletzlichen Situationen zu erreichen, und klar genug, um professionelle Kompetenz zu signalisieren. Deine Sprache, dein Auftritt und deine Positionierung bestimmen, welche Frauen dich finden — und ob sie dir vertrauen.
+          titel: 'Die eigene Rolle: begleiten statt behandeln',
+          inhalt: `Wer dieses Zykluswissen nicht nur für sich nutzt, sondern an andere weitergibt — im Freundeskreis, in der Familie oder im Rahmen einer begleitenden Tätigkeit —, sollte die eigene Rolle klar verstehen. Diese Rollenklarheit ist rechtlich und ethisch entscheidend und macht die Weitergabe erst verantwortbar.
 
-Die Sprache der Weiblichkeit ist nicht weichgespült — sie ist ehrlich, warm und respektvoll. Sprich über den Körper ohne Scham, aber auch ohne übertriebene Spiritualisierung. Nenne die Gebärmutter beim Namen, sprich über Menstruation ohne Euphemismen, behandle Sexualität als natürlichen Teil des Lebens. Gleichzeitig: Vermeide klinische Kälte. Deine Klientinnen suchen keine medizinische Aufklärung — sie suchen eine Begleiterin, die ihre Erfahrung versteht und wertschätzt.
+Man vermittelt Bildung und Selbstwahrnehmung: Wissen über den Zyklus, Anleitung zum achtsamen Beobachten, Impulse zur bewussten Lebensgestaltung. Was man ausdrücklich nicht tut: Beschwerden deuten, Diagnosen stellen, körperliche Symptome einordnen, gesundheitliche Wirkungen versprechen oder medizinische Begleitung ersetzen. Diese Trennung ist die rote Linie.
 
-Deine Zielgruppe differenziert sich nach Lebensphase: Junge Frauen (zwanzig bis dreißig) suchen Zyklusverständnis, Verhütungsalternativen und den Zugang zu ihrer weiblichen Kraft. Frauen in der Familienphase (dreißig bis vierzig) suchen Kinderwunschbegleitung, Schwangerschaftsunterstützung und die Balance zwischen Mutterschaft und Selbstidentität. Frauen ab vierzig suchen Wechseljahresbegleitung, Neuorientierung und die Wiederentdeckung ihrer eigenen Bedürfnisse. Jede Altersgruppe braucht eine andere Ansprache.
+Im Rahmen nicht-heilkundlicher Tätigkeit ist die Weitergabe von allgemeinem Zykluswissen und die Anleitung zur Selbstwahrnehmung unproblematisch und wertvoll. Sobald man jedoch beginnt, Beschwerden zu deuten, „Ursachen" zu benennen oder zu behandeln, überschreitet man die Grenze zur Heilkunde — mit allen rechtlichen Folgen. Diese Grenze im Blick zu behalten, schützt die begleiteten Menschen und einen selbst.
 
-Vermeide Klischees: Nicht jede Frau identifiziert sich mit Göttinnensymbolik, Mondritualen oder roter Zeltromantik. Manche Frauen suchen eine bodenständige, evidenzbasierte Begleitung mit energetischer Ergänzung — keine spirituelle Überhöhung. Biete beides an und lass deine Klientinnen wählen, welche Sprache sie anspricht.
+Eine hilfreiche innere Leitfrage lautet: „Bewege ich mich noch im Bereich von Bildung, Selbstwahrnehmung und Wohlbefinden — oder betrete ich gerade gesundheitliches, ärztliches Gebiet?" Sobald eine Frage in Richtung Beschwerden, Diagnose oder Behandlung geht, ist der freundliche, selbstverständliche Verweis an die Frauenärztin oder den Arzt der richtige Weg.
 
-Deine Online-Präsenz sollte Vertrauen aufbauen: Zeige deine Qualifikationen klar. Erkläre, was energetische Frauengesundheit ist und was sie nicht ist. Teile Testimonials mit Einwilligung. Biete einen kostenfreien Einstieg — einen Blog-Artikel, eine geführte Meditation, einen Zyklusleitfaden — der einen Vorgeschmack auf deine Arbeit gibt. Und formuliere klar, was dich von anderen unterscheidet: die Verbindung von modernem Gesundheitswissen mit energetischer Tiefe und der Perspektive der Human Resonanz Akademie.`
+So verstanden, ist die Weitergabe von Zykluswissen ein wertvoller Beitrag: Sie hilft Menschen, sich selbst besser zu verstehen, achtsamer mit sich umzugehen und das eigene Leben bewusster zu gestalten — und sie kennt zugleich ihre Grenzen genau. Genau diese Verbindung aus Wissen und Klarheit macht die Begleitung seriös und vertrauenswürdig.
+
+Wer so begleitet, schenkt anderen einen wertvollen Zugang zu sich selbst — und bewahrt zugleich die eigene Integrität und rechtliche Sicherheit. Beides gehört untrennbar zusammen.`,
         },
         {
           id: 'F01-M6-L3',
-          titel: 'Deine eigene weibliche Gesundheit als Fundament',
-          inhalt: `Die tiefste Qualifikation als Begleiterin weiblicher Gesundheit ist deine eigene Beziehung zu deinem Körper, deinem Zyklus und deiner Weiblichkeit. Deine Klientinnen spüren intuitiv, ob du das, was du lehrst, selbst lebst — nicht perfekt, aber aufrichtig.
+          titel: 'Zusammenfassung und Haltung',
+          inhalt: `Zum Abschluss der Blick auf das Ganze. Dieser Kurs hat den weiblichen Zyklus als Kompass für Selbstwahrnehmung und bewusste Lebensgestaltung erschlossen — nicht als medizinisches Behandlungsfeld, sondern als Weg zu mehr Selbstkenntnis, Gelassenheit und Selbstfürsorge.
 
-Deine eigene Zykluspraxis ist dein Fundament. Führe ein Zyklustagebuch — nicht als Pflicht, sondern als Praxis der Selbstwahrnehmung. Beobachte deine Energie, deine Stimmung, deine Kreativität, deine Bedürfnisse über den gesamten Monat. Respektiere deine Rückzugsphasen, feiere deine Hochenergietage, und lerne, dein Leben nach deinem inneren Rhythmus zu gestalten, soweit es die äußeren Umstände erlauben.
+Wir haben die vier Phasen als Orientierungsmodell kennengelernt und zugleich die individuelle Vielfalt betont. Wir haben den Zyklus-Kalender als zentrales Werkzeug der Selbstwahrnehmung eingeführt und gelernt, das eigene Muster zu erkennen. Wir haben gesehen, wie sich Energie und Alltag bewusster im eigenen Rhythmus gestalten lassen, haben die großen Lebensübergänge als natürliche Phasen gewürdigt und allgemeine Grundlagen des Wohlbefindens betrachtet.
 
-Deine eigene Schoßraumbeziehung verdient Aufmerksamkeit. Welche Erfahrungen trägst du in deinem Becken? Welche Geschichten hat dein Körper gespeichert? Welche Wunden sind geheilt, welche brauchen noch Zuwendung? Die ehrliche Auseinandersetzung mit deiner eigenen Geschichte macht dich nicht verletzlicher — sie macht dich menschlicher und glaubwürdiger. Du musst keine perfekte Weiblichkeitsgeschichte vorweisen — du musst eine ehrliche haben.
+Durchgehend zogen sich zwei Prinzipien: Selbstwahrnehmung statt Selbstdiagnose — und die klare Grenze zur ärztlichen und gynäkologischen Betreuung. Diese Grenze ist keine Schwäche, sondern das Fundament eines seriösen, verantwortlichen Umgangs mit dem Thema. Sie erlaubt es, das wertvolle Feld der Selbstkenntnis frei und ohne Sorge zu nutzen.
 
-Deine eigene Gesundheitspraxis umfasst: Die Verbindung zu deinem Körper durch Bewegung, die dir Freude macht. Die Nährung durch Ernährung, die dich stärkt. Die Regeneration durch Schlaf und Stille. Die Verbindung durch Beziehungen, die dich tragen. Die Tiefe durch spirituelle Praxis, die dich erdet. Und die Freude durch Kreativität, Sinnlichkeit und das Genießen des Lebens — denn weibliche Gesundheit ist keine asketische Disziplin, sondern ein Fest.
+Die Haltung, die dieser Kurs vermitteln will, verbindet Wertschätzung und Klarheit: eine freundliche, würdigende Beziehung zum eigenen Körper und seinen Rhythmen — und das nüchterne Wissen, wann die eigene Selbstwahrnehmung endet und die Fachperson übernimmt.
 
-Die Vernetzung mit anderen Frauen im Feld stärkt dich und deine Praxis. Kollegialer Austausch, Supervision und gemeinsames Lernen halten dich inspiriert und verhindern die Isolation, die in der Einzelpraxis entstehen kann. Eine Gemeinschaft von Frauen, die gemeinsam an der Gesundheit von Frauen arbeiten, ist selbst ein Ausdruck weiblicher Kraft.
+Wer den eigenen Zyklus in diesem Geist versteht — neugierig, achtsam, wertschätzend und mit klarer Grenze —, gewinnt einen wertvollen Zugang zu sich selbst, der ein Leben lang trägt: mehr Selbstkenntnis, mehr Gelassenheit im Umgang mit den eigenen Schwankungen und eine freundlichere, bewusstere Lebensgestaltung. Das ist der bleibende Wert dieses Kurses.
 
-Dein Weg als Begleiterin weiblicher Gesundheit ist ein Weg des lebenslangen Lernens — von deinen Klientinnen, von deinem eigenen Körper, von den Zyklen des Lebens. Bleibe Schülerin, auch wenn du lehrst. Bleibe verwundbar, auch wenn du hältst. Bleibe neugierig, auch wenn du weißt. Diese Haltung macht dich zu der Begleiterin, der Frauen vertrauen — weil sie spüren, dass du mit ihnen gehst, nicht vor ihnen.`
-        }
-      ]
-    }
-  ]
+Dieses Wissen verblasst nicht — es wächst mit jedem beobachteten Zyklus und jeder durchlebten Lebensphase. Es ist ein Geschenk an sich selbst, das ein Leben lang weiterwirkt.`,
+        },
+      ],
+    },
+  ],
+  quiz: [
+    {
+      frage: 'Wie versteht sich dieser Kurs?',
+      antworten: [
+        'Als Anleitung, Zyklusbeschwerden energetisch zu behandeln',
+        'Als Bildungs- und Selbstwahrnehmungskurs über den Zyklus — ohne Diagnose oder Behandlung',
+        'Als Ersatz für die Frauenärztin',
+        'Als Methode zur Verhütung',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was ist das Leitprinzip des Kurses?',
+      antworten: [
+        'Selbstdiagnose anhand von Symptomen',
+        'Selbstwahrnehmung statt Selbstdiagnose',
+        'Behandlung von Beschwerden ohne Arzt',
+        'Möglichst viele Symptome deuten',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie ist das Vier-Phasen-Modell zu verstehen?',
+      antworten: [
+        'Als verbindliches Gesetz für jede Frau',
+        'Als hilfreiches Orientierungsraster, das jede individuell mit eigener Erfahrung füllt',
+        'Als medizinische Diagnose',
+        'Als Vorschrift, wie man sich fühlen muss',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wozu dient der Zyklus-Kalender?',
+      antworten: [
+        'Zur medizinischen Diagnose von Erkrankungen',
+        'Zur Verhütung',
+        'Zur Selbstwahrnehmung — das eigene Muster sichtbar machen',
+        'Zum Stellen von Hormondiagnosen',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie geht der Kurs mit den Wechseljahren um?',
+      antworten: [
+        'Als Krankheit, die behandelt werden muss',
+        'Als natürlichen Lebensübergang — Beschwerden gehören jedoch ärztlich begleitet',
+        'Als Defizit und Verfall',
+        'Mit konkreten Behandlungsempfehlungen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was gilt für allgemeine Gewohnheiten des Wohlbefindens (Schlaf, Ernährung, Bewegung)?',
+      antworten: [
+        'Sie sind eine Behandlung gegen Zyklusbeschwerden',
+        'Sie sind gesunde Lebensführung — keine Behandlung, mit Arzt-Grenze bei anhaltenden Problemen',
+        'Sie ersetzen die ärztliche Vorsorge',
+        'Sie folgen festen Zyklus-Diätplänen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was gehört in ärztliche bzw. gynäkologische Hände?',
+      antworten: [
+        'Das Führen eines Zyklus-Kalenders',
+        'Das achtsame Wahrnehmen der eigenen Energie',
+        'Dauerhaft ausbleibender Zyklus, starke Schmerzen, auffällige Veränderungen, Verhütung und Familienplanung',
+        'Das bewusste Planen von Ruhephasen',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie beschreibt sich die eigene Rolle beim Weitergeben dieses Wissens?',
+      antworten: [
+        'Diagnostizierend und behandelnd',
+        'Begleitend und bildend, mit klarer Grenze und Verweis an Ärztin/Arzt',
+        'Als Ersatz für die Frauenärztin',
+        'Mit dem Versprechen, Beschwerden zu heilen',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default F01;

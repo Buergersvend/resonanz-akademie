@@ -174,7 +174,7 @@ Und immer zuerst einen Verträglichkeitstest machen, bevor etwas großflächig o
     },
     {
       id: 'N13-M5',
-      titel: 'Die Haut energetisch betrachten',
+      titel: 'Die Haut seelisch-symbolisch betrachten',
       lektionen: [
         {
           id: 'N13-M5-L1',
@@ -185,7 +185,7 @@ Berührung ist ein menschliches Grundbedürfnis. Wohltuende, achtsame Berührung
 
 Im ganzheitlichen Verständnis spiegelt das Hautgefühl auch unser Verhältnis zu Grenzen. Fühlen wir uns überreizt und „dünnhäutig", oder gut geschützt und zugleich in Kontakt? Solche Bilder können helfen, das eigene Erleben besser zu verstehen.
 
-Diese Betrachtung ist ausdrücklich symbolisch und seelisch gemeint, nicht medizinisch — sie behauptet keine körperliche Ursache-Wirkung-Beziehung, sondern lädt zur Selbstreflexion und zu mehr Achtsamkeit im Umgang mit sich ein. So verstanden, bereichert die energetische Ebene die Hautpflege, ohne ihr eine Heilwirkung anzudichten.`,
+Diese Betrachtung ist ausdrücklich symbolisch und seelisch gemeint, nicht medizinisch — sie behauptet keine körperliche Ursache-Wirkung-Beziehung, sondern lädt zur Selbstreflexion und zu mehr Achtsamkeit im Umgang mit sich ein. So verstanden, bereichert die seelisch-symbolische Ebene die Hautpflege, ohne ihr eine Heilwirkung anzudichten.`,
         },
         {
           id: 'N13-M5-L2',
@@ -293,7 +293,7 @@ So verstanden, ist ganzheitliche Hautpflege eine wertvolle, seriöse Ergänzung:
       richtig: 1,
     },
     {
-      frage: 'Wie ist die energetische bzw. symbolische Betrachtung der Haut gemeint?',
+      frage: 'Wie ist die seelisch-symbolische Betrachtung der Haut gemeint?',
       antworten: [
         'Als medizinische Ursache-Wirkungs-Lehre',
         'Als Ersatz für ärztliche Behandlung',

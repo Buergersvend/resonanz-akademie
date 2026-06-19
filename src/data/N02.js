@@ -1,769 +1,399 @@
-// N02.js — Heilpflanzen-Lexikon
-// Standard ◈◈ · 6 Module · 18 Lektionen
-// Human Resonanz Akademie · Mai 2026
+// N02 — Küchen- & Genusspflanzen: Anbau, Ernte, Zubereitung
+// Bereich: naturheilkunde · Niveau: ★★☆ · Format: ◈◈ Standard-Kurs · Zielgruppe: Interessierte · Status: live
+// Gebaut nach KURS_UMFANG_STANDARD (03.06.2026): 6 Module / 18 Lektionen / je 250+ Wörter.
+// NEUAUSRICHTUNG (Workflow v2.0): vollständiger Neuaufbau, ersetzt das alte „Heilpflanzen-Lexikon".
+// Zuschnitt: AUSSCHLIESSLICH Genuss-, Küchen- und Hausgebrauch als sicherer Kern.
+// KEINE Indikationen, KEINE Dosierungen, KEINE „Pflanze gegen Beschwerde"-Logik, keine Heilversprechen.
+// Abgegrenzt von N04 (Wirkprinzipien/Theorie) und N15 (Botanik/Kultur/Verbraucherschutz):
+// dieser Kurs = das praktische WIE (Anbau, Sammeln, Verarbeiten, Genuss) sicherer Pflanzen.
+// Sicherheit (Verwechslung, Gift-Doppelgänger, Wechselwirkungen) als Strukturkern.
+// Durchgängige harte Grenze zu Arzt & Apotheker (HeilprG/HWG). Keine Health-Claims.
+// Quellenschutz-Audit bestanden — markenfrei, keine Autoren/Schulen/Werke/Systeme namentlich.
 
 const N02 = {
   id: 'N02',
-  titel: 'Heilpflanzen-Lexikon',
-  untertitel: 'Kräuterwissen · Anwendungsgebiete · Zubereitungsformen · Energetische Pflanzenheilkunde',
   bereich: 'naturheilkunde',
-  format: 'standard',
-  dauer: '4–6 Stunden',
-  level: 'Einsteiger bis Fortgeschrittene',
-  voraussetzungen: 'Keine',
-  beschreibung: `Pflanzen heilen seit Jahrtausenden — lange bevor es Apotheken, Labore oder Pharmaunternehmen gab. In diesem Kurs lernst du die wichtigsten Heilpflanzen der europäischen und weltweiten Tradition kennen, verstehst ihre Wirkmechanismen, lernst praktische Zubereitungsformen und entdeckst die energetische Dimension der Pflanzenheilkunde. Von der Kamille auf der Wiese bis zu den großen Heilkräutern der Klostermedizin — du baust dir ein lebendiges Pflanzenwissen auf, das du sofort in Praxis und Alltag anwenden kannst.`,
-  status: 'coming',
-
+  titel: 'Küchen- & Genusspflanzen: Anbau, Ernte, Zubereitung',
+  kuerzel: 'N02',
+  niveau: '★★☆',
+  beschreibung: 'Ein praktischer Kurs über Kräuter und Genusspflanzen im Alltag: wie man sie zieht, sicher sammelt, verarbeitet und mit Freude in der Küche einsetzt. Vom Kräutertopf auf der Fensterbank über den achtsamen Sammelspaziergang bis zum aromatischen Genusstee — als Natur-, Garten- und Genusswissen, ohne Heilversprechen und mit klarer Grenze zu Arzt und Apotheke.',
+  status: 'live',
   module: [
-    // ============================================================
-    // MODUL 1 — Grundlagen der Pflanzenheilkunde
-    // ============================================================
     {
       id: 'N02-M1',
-      titel: 'Grundlagen der Pflanzenheilkunde',
-      beschreibung: 'Die Geschichte und Prinzipien der Pflanzenheilkunde verstehen, die wichtigsten Wirkstoffgruppen kennenlernen und die Verbindung zwischen Pflanzenmedizin und Energiearbeit begreifen.',
+      titel: 'Pflanzen im Alltag',
       lektionen: [
         {
           id: 'N02-M1-L1',
-          titel: 'Die Apotheke der Natur — 5000 Jahre Pflanzenheilkunde',
-          inhalt: `## Die Apotheke der Natur
+          titel: 'Kräuter und Genusspflanzen — eine Einladung',
+          inhalt: `Kräuter und Genusspflanzen gehören zu den ältesten Begleitern des Menschen. Sie würzen unser Essen, erfreuen unsere Sinne, schmücken Garten und Fensterbank und verbinden uns mit den Jahreszeiten. Dieser Kurs lädt dazu ein, diese Pflanzen ganz praktisch in den eigenen Alltag zu holen — sie selbst zu ziehen, achtsam zu sammeln, sinnvoll zu verarbeiten und mit Freude zu genießen.
 
-### Pflanzen waren die erste Medizin
+Es geht hier ausdrücklich um den Genuss und den Hausgebrauch: um das Aroma frischer Kräuter, um die Freude am eigenen Kräutertopf, um einen wärmenden Tee an einem kühlen Abend. Es geht nicht darum, Pflanzen zur Behandlung von Beschwerden einzusetzen. Diese Unterscheidung ist von Anfang an wichtig und zieht sich durch den ganzen Kurs: Wir betrachten Pflanzen als Küchen-, Garten- und Genussgut, nicht als Heilmittel.
 
-Lange bevor der erste Arzt eine Diagnose stellte, griffen Menschen zu Pflanzen. Archäologische Funde zeigen, dass bereits Neandertaler vor über 60.000 Jahren Schafgarbe und Kamille verwendeten — vermutlich zur Wundbehandlung und Schmerzlinderung. Die ältesten schriftlichen Aufzeichnungen über Heilpflanzen stammen aus dem alten Sumer, etwa 3000 vor unserer Zeitrechnung: Tontafeln, die Rezepturen mit Thymian, Weidenrinde und Myrrhe beschreiben.
+Der Reiz dieses praktischen Zugangs liegt in seiner Unmittelbarkeit. Schon ein Topf Basilikum auf der Fensterbank verändert das Kochen; ein selbst gezogener Strauß Pfefferminze macht aus heißem Wasser ein Genusserlebnis. Solche kleinen Erfahrungen verbinden uns mit der Natur, schulen die Sinne und bringen Achtsamkeit in den Alltag — ganz ohne Aufwand und ohne Risiko.
 
-In Ägypten entstand um 1550 v. Chr. der Papyrus Ebers — ein medizinisches Nachschlagewerk mit über 800 Rezepturen, darunter Koriander gegen Magenbeschwerden, Rizinusöl als Abführmittel und Weihrauch gegen Entzündungen. Viele dieser Anwendungen haben sich bis heute bestätigt.
+Im Lauf des Kurses lernst du, Kräuter zu ziehen und zu ernten, sicher in der Natur zu sammeln, Pflanzen zu trocknen und haltbar zu machen, aromatische Tees und Würzmischungen herzustellen und das alles mit einem klaren Bewusstsein für Sicherheit zu tun. Am Ende steht ein selbstbestimmter, freudvoller und sicherer Umgang mit der Pflanzenwelt — als bereichernder Teil des täglichen Lebens.
 
-Die griechische Medizin — besonders die Werke von Dioskurides im 1. Jahrhundert n. Chr. — systematisierte das Pflanzenwissen erstmals wissenschaftlich. Sein Werk "De Materia Medica" beschrieb über 600 Pflanzen und blieb über 1500 Jahre lang das Standardwerk der europäischen Heilkunde.
-
-In der mittelalterlichen Klostermedizin wurde dieses Wissen bewahrt und erweitert. Hildegard von Bingen, Benediktinerin im 12. Jahrhundert, beschrieb hunderte Heilpflanzen und ihre Anwendungen — eingebettet in eine ganzheitliche Weltsicht, die Körper, Seele und Natur als untrennbar betrachtete. Diese Perspektive liegt erstaunlich nah an dem, was wir heute in der energetischen Arbeit praktizieren.
-
-### Warum Pflanzenheilkunde heute relevanter ist denn je
-
-In einer Zeit, in der synthetische Medikamente für jedes Symptom zur Verfügung stehen, mag Pflanzenheilkunde wie ein Rückschritt wirken. Das Gegenteil ist der Fall. Die Weltgesundheitsorganisation schätzt, dass weltweit etwa 80 Prozent der Menschen pflanzliche Heilmittel als primäre Gesundheitsversorgung nutzen. Und die moderne Pharmakologie bestätigt zunehmend, was traditionelle Heiler seit Jahrtausenden wussten.
-
-Etwa 25 Prozent aller modernen Medikamente basieren direkt auf Pflanzenstoffen oder sind davon abgeleitet. Aspirin stammt von der Weidenrinde. Digitalis — das wichtigste Herzmedikament — vom Fingerhut. Morphin vom Schlafmohn. Die Pflanze war immer schon die Quelle.
-
-Der entscheidende Unterschied zwischen Pflanzenheilkunde und Pharmakologie liegt im Ansatz: Ein Medikament isoliert einen einzelnen Wirkstoff. Eine Heilpflanze enthält hunderte Inhaltsstoffe, die zusammenwirken — sich gegenseitig verstärken, Nebenwirkungen puffern, Synergien erzeugen. Dieses Zusammenspiel nennt man das "Wirkstoffkonzert" einer Pflanze, und es lässt sich im Labor nicht nachbilden.`
+Dieser Kurs setzt dabei kein Vorwissen voraus. Wer noch nie ein Kraut gezogen hat, findet hier einen leichten Einstieg; wer schon Erfahrung mitbringt, entdeckt neue Anregungen für Anbau, Verarbeitung und Genuss. Schritt für Schritt baut sich so ein sicheres, praktisches Können auf, das ein Leben lang Freude bereitet.`,
         },
         {
           id: 'N02-M1-L2',
-          titel: 'Wirkstoffgruppen — Wie Pflanzen heilen',
-          inhalt: `## Wirkstoffgruppen
+          titel: 'Genuss statt Heilung — die klare Rahmung',
+          inhalt: `Damit dieser praktische Kurs von Anfang an auf sicherem Boden steht, lohnt sich eine klare Rahmung dessen, worum es geht — und worum nicht. Diese Klarheit ist kein bürokratisches Beiwerk, sondern der Schlüssel zu einem entspannten, verantwortlichen Umgang mit Pflanzen.
 
-### Die Chemie der Natur
+Worum es geht: Genuss, Küche, Garten und Hausgebrauch. Wir ziehen Kräuter, weil sie das Essen verfeinern und Freude machen. Wir bereiten Tees zu, weil sie wärmen und schmecken. Wir lernen Pflanzen kennen, weil das die Naturverbundenheit stärkt. Das alles ist sicher, zugänglich und bereichernd — ein Kulturgut, das jeder genießen darf.
 
-Um Heilpflanzen gezielt einzusetzen, hilft es, die wichtigsten Wirkstoffgruppen zu kennen. Du musst kein Chemiker werden — aber ein Grundverständnis dafür, warum Kamille beruhigt und Ingwer wärmt, macht dich zu einem kompetenteren Anwender.
+Worum es ausdrücklich nicht geht: die Behandlung von Beschwerden. Dieser Kurs gibt keine Empfehlungen, welche Pflanze „gegen" welches Leiden helfen soll, nennt keine Dosierungen und macht keine gesundheitsbezogenen Wirkversprechen. Solche Fragen gehören in die Hände von Ärztinnen, Ärzten und Apothekern — Menschen mit der nötigen Ausbildung und Verantwortung.
 
-**Ätherische Öle** sind flüchtige, duftende Substanzen, die in vielen Heilpflanzen vorkommen. Sie wirken antimikrobiell (keimtötend), entzündungshemmend, krampflösend und stimmungsaufhellend. Lavendel, Pfefferminze, Thymian, Eukalyptus, Rosmarin — all diese Pflanzen verdanken einen Großteil ihrer Heilwirkung ihren ätherischen Ölen. Du erkennst sie am intensiven Duft beim Zerreiben der Blätter.
+Warum diese Trennung so wichtig ist? Weil sie schützt. Sie schützt die Gesundheit, weil sie verhindert, dass ernste Beschwerden mit Hausmitteln verschleppt statt fachkundig abgeklärt werden. Und sie schützt den entspannten Charakter dieses Kurses: Wer Pflanzen als Genuss begreift, kann sie frei und freudvoll erkunden, ohne sich in heikles Gebiet zu begeben.
 
-**Gerbstoffe (Tannine)** haben eine zusammenziehende (adstringierende) Wirkung. Sie verdichten Gewebe, stillen Blutungen, hemmen Entzündungen und wirken antibakteriell. Salbei, Eichenrinde, Frauenmantel und Schwarztee sind reich an Gerbstoffen. Deshalb hilft Salbeitee bei Halsschmerzen und Zahnfleischentzündungen — die Gerbstoffe legen eine schützende Schicht über die gereizte Schleimhaut.
+Diese Haltung — Begeisterung für die Pflanzenwelt, verbunden mit klarer Grenze zur Heilkunde — ist das Fundament, auf dem alles Weitere in diesem Kurs aufbaut. Behalte sie im Hinterkopf: Wir genießen, wir würdigen, wir gestalten — und bei gesundheitlichen Fragen verweisen wir an die Fachleute.
 
-**Flavonoide** sind eine riesige Gruppe von Pflanzenfarbstoffen mit starker antioxidativer Wirkung. Sie schützen Zellen vor Schäden durch freie Radikale, stärken Blutgefäße, wirken entzündungshemmend und antiallergisch. Weißdorn, Holunder, Kamille und Ringelblume enthalten hohe Mengen an Flavonoiden.
-
-**Schleimstoffe** sind langkettige Zucker, die in Wasser quellen und eine schützende, gleitfähige Schicht bilden. Sie beruhigen gereizte Schleimhäute in Magen, Darm und Atemwegen. Eibisch, Malve, Lein und Isländisch Moos sind klassische Schleimstoff-Pflanzen — deshalb wird Eibischwurzel-Tee bei trockenem Husten eingesetzt.
-
-**Bitterstoffe** regen die Verdauung an, indem sie die Produktion von Speichel, Magensaft und Galle stimulieren. Sie wirken appetitanregend, entblähend und stärkend auf die gesamte Verdauungsfunktion. Enzian, Wermut, Löwenzahn und Artischocke sind bitterstoffreich. In der traditionellen Heilkunde gelten Bitterstoffe als fundamentales Heilmittel — "Was bitter im Mund, ist dem Magen gesund."
-
-**Saponine** sind seifenähnliche Substanzen, die schleimlösend, hustenstillend und immunmodulierend wirken. Efeu, Primel und Süßholz nutzen Saponine, weshalb Efeupräparate als Hustenmittel und Süßholzwurzel bei Bronchitis eingesetzt werden.
-
-**Alkaloide** sind hochpotente Wirkstoffe, die in geringen Mengen starke Effekte auf das Nervensystem haben. Koffein, Morphin, Atropin — alles Alkaloide. In der Pflanzenheilkunde werden alkaloidhaltige Pflanzen mit besonderer Vorsicht verwendet, da die Grenze zwischen Heilwirkung und Giftigkeit schmal sein kann.
-
-### Das Zusammenspiel macht die Medizin
-
-Keine dieser Wirkstoffgruppen arbeitet isoliert. In einer Pflanze wirken sie zusammen — und genau dieses Zusammenspiel macht die Pflanzenheilkunde so elegant. Die ätherischen Öle der Kamille beruhigen den Magen, während ihre Flavonoide die Entzündung hemmen und ihre Schleimstoffe die Schleimhaut schützen. Drei Wirkungen, eine Tasse Tee.`
+Diese Rahmung nimmt dem Thema nichts von seiner Tiefe — im Gegenteil. Sie macht den Weg frei, die Pflanzenwelt mit echter Neugier und ohne ständige Sorge zu erkunden. Genuss und Verantwortung schließen sich nicht aus; sie ergänzen einander und machen den Umgang mit Pflanzen erst rundum stimmig.`,
         },
         {
           id: 'N02-M1-L3',
-          titel: 'Die energetische Dimension — Pflanzen als Bewusstsein',
-          inhalt: `## Die energetische Dimension
+          titel: 'Womit wir arbeiten — sichere Alltagspflanzen',
+          inhalt: `Bevor wir in die Praxis einsteigen, lohnt ein Blick darauf, mit welchen Pflanzen dieser Kurs überhaupt arbeitet. Die Antwort ist bewusst zurückhaltend: Wir konzentrieren uns auf bekannte, gut erforschte Küchen- und Genusspflanzen, die in üblichen Mengen unbedenklich sind und seit Generationen Teil der Esskultur sind.
 
-### Pflanzen sind mehr als Biochemie
+Dazu gehören die klassischen Küchenkräuter — etwa die aromatischen Kräuter der mediterranen Küche, die vertrauten Gartenkräuter und die bekannten Gewürzpflanzen. Dazu gehören auch beliebte Genusspflanzen für Tees und Aufgüsse, wie sie in jedem Lebensmittelhandel erhältlich sind. Ihr Kennzeichen: Sie sind allgemein bekannt, leicht zu beziehen oder zu ziehen, und ihr Gebrauch als Lebensmittel ist etabliert und sicher.
 
-Für die konventionelle Wissenschaft sind Pflanzen biochemische Fabriken — sie produzieren Stoffe, die auf Rezeptoren wirken und Prozesse im Körper beeinflussen. Das ist korrekt. Aber es ist nur die halbe Geschichte.
+Bewusst ausgeklammert bleiben Pflanzen, deren Verwendung Fachwissen, Vorsicht oder gar eine medizinische Indikation erfordert. Stark wirksame Pflanzen, schwer zu bestimmende Wildpflanzen mit giftigen Verwandten oder Substanzen, bei denen die Menge über Nutzen und Schaden entscheidet, gehören nicht in einen Genusskurs — und damit nicht hierher.
 
-In allen traditionellen Heilsystemen — von der ayurvedischen Medizin über die Traditionelle Chinesische Medizin bis zur europäischen Klostermedizin — werden Pflanzen als Wesen mit eigener energetischer Qualität betrachtet. Sie haben nicht nur Wirkstoffe — sie haben ein Wesen, eine Signatur, eine Schwingung.
+Diese Auswahl ist kein Mangel, sondern Ausdruck von Verantwortung. Gerade die alltäglichen, sicheren Pflanzen bieten eine enorme Vielfalt an Geschmack, Duft und Gestaltungsmöglichkeit. Man muss nicht ins Riskante greifen, um die Pflanzenwelt reich und genussvoll zu erleben.
 
-In der indischen Tradition spricht man von der "Prabhava" einer Pflanze — ihrer unerklärlichen, über die chemische Analyse hinausgehenden Wirkung. In der europäischen Tradition nannte Paracelsus es die "Signaturenlehre": Die äußere Erscheinung einer Pflanze gibt Hinweise auf ihre innere Heilkraft. Walnüsse sehen aus wie Gehirne und unterstützen die Gehirnfunktion. Augentrost hat augenförmige Blüten und hilft bei Augenbeschwerden. Lungenkraut hat lungenförmige Blätter.
+Ein wichtiger Grundsatz begleitet uns dabei von Anfang an: Im Zweifel lieber zurückhaltend. Wenn unklar ist, ob eine Pflanze sicher essbar oder bekömmlich ist, lassen wir sie stehen. Diese vorsichtige Grundhaltung ist die Basis jedes sicheren Umgangs mit Pflanzen — und sie wird uns durch alle praktischen Module begleiten.
 
-Die moderne Wissenschaft tut sich schwer mit dieser Perspektive. Aber die Erfahrung unzähliger Generationen von Heilern spricht eine deutliche Sprache: Die Wirkung einer Pflanze geht über ihre messbaren Inhaltsstoffe hinaus.
-
-### Pflanzen in der Energiearbeit
-
-Für dich als energetisch Praktizierenden eröffnet diese Perspektive wertvolle Möglichkeiten:
-
-**Pflanzen als Raumreiniger** — Räuchern mit Salbei, Beifuß oder Weihrauch reinigt nicht nur chemisch (durch antimikrobielle Rauchpartikel), sondern auch energetisch. Der Rauch verändert die Schwingung eines Raumes spürbar.
-
-**Pflanzen als Meditationsbegleiter** — Eine Tasse bewusst zubereiteter Kräutertee vor der Meditation verändert deine innere Landschaft. Beifuß fördert lebhafte innere Bilder. Lavendel beruhigt den Gedankenstrom. Rosmarin schärft die Klarheit.
-
-**Pflanzen als Verbündete in der Sitzung** — Du kannst Kräuter gezielt im Behandlungsraum einsetzen: Salbei für Reinigung, Rose für Herzöffnung, Zeder für Schutz, Wacholder für Erdung. Nicht als Dekoration, sondern als bewusste energetische Unterstützung.
-
-**Pflanzenkommunikation** — In schamanischen Traditionen gelten Pflanzen als bewusste Wesen, mit denen man kommunizieren kann. Das klingt fremd, wenn man es zum ersten Mal hört. Aber die Praxis ist erstaunlich einfach: Setze dich zu einer Pflanze, werde still, und höre. Was spürst du? Welche Bilder, Gefühle, Impulse kommen? Diese Form der intuitiven Pflanzenkommunikation wird von immer mehr Heilern als wertvolles diagnostisches Werkzeug genutzt.
-
-### Die Brücke schlagen
-
-Du musst nicht zwischen "wissenschaftlicher" und "energetischer" Pflanzenheilkunde wählen. Beides ergänzt sich. Verstehe die Biochemie — und ehre das Wesen. Kenne die Wirkstoffgruppen — und spüre die Signatur. In dieser Integration liegt die wahre Tiefe der Pflanzenheilkunde.`
-        }
-      ]
+Mit dieser bewussten Beschränkung auf sichere Alltagspflanzen ist gewährleistet, dass jeder Schritt dieses Kurses ohne Risiko nachvollziehbar ist. Die Vielfalt, die uns dabei offensteht, ist groß genug für ein ganzes Leben voller Entdeckungen in Garten und Küche.`,
+        },
+      ],
     },
-
-    // ============================================================
-    // MODUL 2 — Zubereitungsformen & Anwendungsmethoden
-    // ============================================================
     {
       id: 'N02-M2',
-      titel: 'Zubereitungsformen & Anwendungsmethoden',
-      beschreibung: 'Die wichtigsten Methoden der Pflanzenzubereitung beherrschen — vom einfachen Tee bis zur Tinktur — und verstehen, welche Form für welchen Zweck geeignet ist.',
+      titel: 'Anbau & Kultivierung',
       lektionen: [
         {
           id: 'N02-M2-L1',
-          titel: 'Tee, Aufguss & Abkochung — Die Grundformen',
-          inhalt: `## Tee, Aufguss & Abkochung
+          titel: 'Kräuter ziehen — Fensterbank, Balkon, Garten',
+          inhalt: `Der schönste Einstieg in die Welt der Genusspflanzen führt über den eigenen Anbau. Kräuter selbst zu ziehen ist erstaunlich einfach, kostengünstig und unmittelbar belohnend — schon eine kleine Fensterbank genügt für den Anfang. Frisch geerntete Kräuter übertreffen gekaufte an Aroma deutlich und stehen jederzeit griffbereit zur Verfügung.
 
-### Wasser als Lösungsmittel
+Für den Start auf der Fensterbank eignen sich robuste, anspruchslose Küchenkräuter besonders gut. Wichtig sind ein heller Standort, durchlässige Erde und ein Topf mit Abzugsloch, damit keine Staunässe entsteht — die häufigste Ursache für eingehende Kräuter. Wer mehrere Töpfe hat, gruppiert Pflanzen mit ähnlichen Bedürfnissen zusammen: sonnenliebende, eher trockenheitsverträgliche Kräuter getrennt von solchen, die es feuchter mögen.
 
-Die einfachste und älteste Form der Pflanzenzubereitung nutzt Wasser, um die Wirkstoffe aus dem Pflanzenmaterial zu lösen. Dabei gibt es wichtige Unterschiede, die die Wirksamkeit erheblich beeinflussen.
+Auf Balkon und Terrasse vergrößert sich die Auswahl. Größere Gefäße bieten mehr Wurzelraum und trocknen nicht so schnell aus. Hier gedeihen auch buschigere Kräuter und solche, die mehr Platz brauchen. Ein sonniger, windgeschützter Platz ist für die meisten mediterranen Kräuter ideal, während einige Gartenkräuter auch mit Halbschatten zurechtkommen.
 
-**Der Aufguss (Infusion)** ist die Standardmethode für Blätter, Blüten und zarte Pflanzenteile. Du übergießt das Pflanzenmaterial mit kochendem Wasser und lässt es zugedeckt ziehen — typischerweise 5 bis 15 Minuten, je nach Pflanze und gewünschter Stärke. Das Zudecken ist wichtig, weil sonst die flüchtigen ätherischen Öle mit dem Dampf entweichen.
+Im Garten schließlich lässt sich ein eigenes Kräuterbeet anlegen — ein dankbares Projekt, das über Jahre Freude bereitet. Eine sonnige, gut drainierte Stelle in Küchennähe ist praktisch, weil man dann beim Kochen schnell frische Kräuter holen kann. Mehrjährige Kräuter bilden das beständige Grundgerüst, einjährige ergänzen es saisonal.
 
-Faustregel für die Dosierung: 1 bis 2 Teelöffel getrocknetes Kraut pro Tasse (250 ml). Bei frischen Kräutern die doppelte Menge, weil der Wassergehalt die Konzentration verdünnt.
+Egal welche Größe: Der eigene Anbau verbindet mit dem Wachstumsrhythmus der Pflanzen, schult die Geduld und schenkt das gute Gefühl, etwas selbst gezogen zu haben. Es ist ein idealer, sicherer Einstieg in den praktischen Umgang mit Genusspflanzen.
 
-**Die Abkochung (Dekokt)** wird für harte Pflanzenteile verwendet: Wurzeln, Rinden, Samen, harte Beeren. Diese Materialien geben ihre Wirkstoffe nicht durch einfaches Übergießen frei — sie müssen in Wasser gekocht werden. Typisch: 10 bis 20 Minuten bei niedriger Hitze köcheln lassen, dann abseihen.
-
-Baldrianwurzel, Eichenrinde, Ingwerwurzel, Hagebuttenschalen — all das wird als Abkochung zubereitet.
-
-**Der Kaltauszug (Mazeration)** ist die schonendste Methode. Pflanzenmaterial wird in kaltem Wasser über mehrere Stunden — typischerweise über Nacht — eingeweicht. Diese Methode eignet sich besonders für schleimstoffreiche Pflanzen wie Eibisch, Malve oder Leinsamen, deren empfindliche Schleimstoffe durch Hitze zerstört würden.
-
-### Ziehzeiten und ihre Bedeutung
-
-Die Ziehzeit ist nicht willkürlich — sie bestimmt, welche Wirkstoffe du extrahierst:
-
-Kurze Ziehzeit (3–5 Minuten): Primär ätherische Öle und leicht lösliche Stoffe. Der Tee schmeckt mild und aromatisch. Gut für magenempfindliche Menschen und für die ätherische Wirkung.
-
-Mittlere Ziehzeit (8–10 Minuten): Flavonoide, Gerbstoffe und tiefere Wirkstoffschichten werden freigesetzt. Der Tee wird kräftiger und leicht herb.
-
-Lange Ziehzeit (15+ Minuten): Maximale Gerbstoff-Extraktion. Der Tee wird bitter und adstringierend — therapeutisch stärker, geschmacklich anspruchsvoller. Bei Durchfall oder Entzündungen gewünscht.
-
-### Teemischungen komponieren
-
-Heilkräuter-Teemischungen folgen einer bewährten Struktur:
-
-Das Hauptkraut (etwa 40–50 Prozent der Mischung) bestimmt die zentrale Wirkrichtung. Das Unterstützungskraut (etwa 20–30 Prozent) verstärkt oder ergänzt die Hauptwirkung. Das Ausgleichskraut (etwa 10–20 Prozent) harmonisiert und mildert mögliche Nebenwirkungen. Das Geschmackskraut (etwa 10 Prozent) macht die Mischung trinkbar — Pfefferminze, Zitronenmelisse oder Süßholz eignen sich gut.
-
-Beispiel für eine beruhigende Abendmischung: 4 Teile Melisse (Hauptkraut), 2 Teile Hopfenblüten (Unterstützung), 1 Teil Lavendelblüten (Ausgleich), 1 Teil Orangenschalen (Geschmack).`
+Gerade für Anfänger empfiehlt es sich, mit wenigen, robusten Lieblingskräutern zu beginnen und die Sammlung mit wachsender Erfahrung zu erweitern. Ein überschaubarer Start mit ein bis drei Töpfen führt schneller zum Erfolg als ein zu ehrgeiziger Anfang mit vielen empfindlichen Arten.`,
         },
         {
           id: 'N02-M2-L2',
-          titel: 'Tinkturen, Ölauszüge & Salben',
-          inhalt: `## Tinkturen, Ölauszüge & Salben
+          titel: 'Pflege übers Jahr — Gießen, Schneiden, Überwintern',
+          inhalt: `Kräuter zu ziehen ist der Anfang; sie über das Jahr gesund zu erhalten, ist die eigentliche Kunst — und auch sie ist gut erlernbar. Mit ein paar Grundregeln gelingt die Pflege zuverlässig und macht aus dem ersten Topf eine dauerhafte Freude.
 
-### Alkohol als Lösungsmittel — Die Tinktur
+Beim Gießen gilt für die meisten Kräuter: lieber durchdringend und seltener als häufig und wenig. Die Erde sollte zwischen den Wassergaben antrocknen können. Staunässe ist der größte Feind — viele Kräuter vertragen kurze Trockenheit besser als nasse Füße. Ein einfacher Fingertest in der Erde verrät, ob gegossen werden muss.
 
-Tinkturen sind alkoholische Pflanzenauszüge — konzentrierter und haltbarer als Tees, einfach zu dosieren und schnell wirksam. Der Alkohol löst sowohl wasserlösliche als auch fettlösliche Wirkstoffe, was Tinkturen zu einem besonders vollständigen Extrakt macht.
+Regelmäßiges Schneiden hält Kräuter buschig und vital. Wer die Triebspitzen erntet, regt die Pflanze zu dichterem Wuchs an — Ernten ist also zugleich Pflege. Bei vielen Kräutern verhindert das rechtzeitige Zurückschneiden vor der Blüte, dass sie „verholzen" oder an Aroma verlieren. Großzügiges, regelmäßiges Beernten tut den meisten Küchenkräutern gut.
 
-**Herstellung einer einfachen Tinktur:**
+Mit den Jahreszeiten ändern sich die Bedürfnisse. Im Sommer brauchen Topfpflanzen an heißen Tagen oft täglich Wasser, im Winter ruhen viele Kräuter und brauchen kaum Pflege. Einjährige Kräuter gehen mit dem Frost ein und werden im Frühjahr neu gesät; mehrjährige, winterharte Arten überdauern draußen, empfindlichere holt man rechtzeitig ins Haus oder schützt sie.
 
-Fülle ein sauberes Schraubglas zu einem Drittel bis zur Hälfte mit zerkleinerten frischen Kräutern (oder zu einem Viertel mit getrockneten). Übergieße mit mindestens 40-prozentigem Alkohol — Vodka oder Korn eignen sich gut — bis die Kräuter vollständig bedeckt sind. Verschließe das Glas und stelle es an einen dunklen Ort. Schüttle täglich einmal. Nach 4 bis 6 Wochen abseihen und in dunkle Tropfflaschen füllen.
-
-Dosierung: Typisch 20 bis 30 Tropfen, 2 bis 3 Mal täglich, in etwas Wasser. Tinkturen sind wesentlich konzentrierter als Tees — die Tropfendosierung ist kein Zufall, sondern notwendig.
-
-Haltbarkeit: Alkoholische Tinkturen halten bei richtiger Lagerung (dunkel, kühl) mehrere Jahre. Das macht sie zum idealen Vorrat für die Hausapotheke.
-
-**Nicht-alkoholische Alternativen:** Für Kinder, Schwangere oder Menschen, die keinen Alkohol konsumieren, gibt es Glycerin-Auszüge (Glycerite). Pflanzliches Glycerin löst viele Wirkstoffe und schmeckt leicht süß. Die Herstellung funktioniert analog zur Alkoholtinktur, die Haltbarkeit ist allerdings kürzer (6–12 Monate).
-
-### Ölauszüge — Die Kraft der äußeren Anwendung
-
-Ölauszüge lösen fettlösliche Wirkstoffe — besonders ätherische Öle, fettlösliche Vitamine und Carotinoide — und eignen sich hervorragend für die äußere Anwendung: Massagen, Hautpflege, Einreibungen.
-
-**Kalter Ölauszug:** Getrocknete Kräuter in ein Glas füllen, mit hochwertigem Pflanzenöl (Olivenöl, Mandelöl, Jojobaöl) bedecken. 4 bis 6 Wochen an einem warmen, hellen Ort stehen lassen. Täglich schütteln. Abseihen.
-
-**Warmer Ölauszug (schneller):** Kräuter und Öl im Wasserbad bei maximal 60 Grad Celsius 2 bis 3 Stunden ausziehen. Vorsicht: Zu hohe Temperaturen zerstören empfindliche Wirkstoffe.
-
-Das berühmteste Heilöl der europäischen Tradition ist das Johanniskrautöl — leuchtend rot, hergestellt aus den frischen Blüten des Johanniskrauts in Olivenöl. Es wird bei Nervenschmerzen, leichten Verbrennungen, Muskelverspannungen und zur Narbenpflege eingesetzt.
-
-### Salben — Öl plus Konsistenz
-
-Eine Salbe ist im Prinzip ein Ölauszug, dem eine feste Komponente hinzugefügt wird, um ihn streichfähig zu machen. Traditionell wird Bienenwachs verwendet.
-
-**Grundrezept für eine Kräutersalbe:** 100 ml Kräuter-Ölauszug sanft erwärmen. 10 bis 15 Gramm Bienenwachs hinzufügen und unter Rühren schmelzen lassen. In saubere Tiegel füllen und abkühlen lassen. Fertig.
-
-Mehr Wachs ergibt eine festere Salbe, weniger Wachs eine weichere. Für vegane Alternativen kannst du Candelillawachs oder Carnaubawachs verwenden.
-
-Ringelblumensalbe (Calendula) ist die vielseitigste Heilsalbe der Pflanzenheilkunde — wirksam bei rissiger Haut, kleinen Wunden, Ekzemen, Insektenstichen und als allgemeine Hautpflege.`
+Das Überwintern empfindlicher Kräuter gelingt an einem hellen, kühlen, frostfreien Ort mit sparsamem Gießen. Nicht jede Pflanze übersteht den Winter — und das ist in Ordnung. Manche zieht man einfach jedes Jahr neu. Dieser natürliche Kreislauf aus Säen, Pflegen, Ernten und Vergehen gehört zum Reiz des Kräuterziehens dazu und lehrt einen entspannten Umgang mit dem Werden und Vergehen in der Natur.`,
         },
         {
           id: 'N02-M2-L3',
-          titel: 'Wickel, Bäder, Dampfinhalation & Räuchern',
-          inhalt: `## Weitere Anwendungsformen
+          titel: 'Richtig ernten — Zeitpunkt, Technik, Ertrag',
+          inhalt: `Die Ernte ist der genussvolle Höhepunkt des Kräuterziehens — und auch sie will mit etwas Wissen gemacht sein, damit Aroma und Pflanze profitieren. Der richtige Zeitpunkt und die richtige Technik machen einen spürbaren Unterschied.
 
-### Wickel und Umschläge
+Der beste Erntezeitpunkt für aromatische Kräuter ist oft der späte Vormittag eines trockenen Tages, wenn der Tau abgetrocknet ist, aber die Mittagshitze die ätherischen Öle noch nicht hat verdunsten lassen. Dann ist der Aromagehalt vieler Kräuter am höchsten. Für den täglichen Küchengebrauch gilt diese Feinheit weniger streng — da erntet man einfach nach Bedarf.
 
-Wickel sind eine der ältesten Formen der äußerlichen Pflanzenanwendung. Ein warmer oder kalter Kräuterwickel bringt die Wirkstoffe direkt an den Ort des Geschehens — ohne den Umweg über den Magen.
+Bei der Technik schneidet man mit einer sauberen Schere oder den Fingern gezielt die Triebspitzen oder ganze Stängel, statt einzelne Blätter abzuzupfen. Das sieht sauberer aus und regt neuen Wuchs an. Bei den meisten Kräutern erntet man nie mehr als etwa ein Drittel bis die Hälfte der Pflanze auf einmal, damit sie sich gut erholt und weiter gedeiht.
 
-**Warmer Wickel:** Einen starken Kräutertee oder Abkochung zubereiten. Ein Leinentuch eintauchen, auswringen (so warm wie erträglich), auf die betroffene Stelle legen. Mit einem trockenen Tuch und einer Wollschicht abdecken. 20 bis 30 Minuten einwirken lassen. Kamille für Entzündungen, Heublumen für Muskelverspannungen, Thymian für Bronchitis — direkt auf die Brust.
+Verschiedene Pflanzenteile haben verschiedene Erntezeiten. Blätter und Triebe erntet man meist vor oder zu Beginn der Blüte, wenn das Aroma kräftig ist. Blüten sammelt man frisch geöffnet. Samen lässt man ausreifen und erntet sie, wenn sie trocken sind. Wurzeln gräbt man meist außerhalb der Wachstumszeit. Für den reinen Küchengebrauch sind vor allem die Blätter und Triebe relevant.
 
-**Kalter Wickel:** Für akute Entzündungen, Prellungen und Schwellungen. Quark-Wickel (Quark auf Tuch streichen, auflegen) kühlen und entzündungshemmen gleichzeitig. Kohlblatt-Wickel — ein frisches Weißkohlblatt mit der Flasche walken bis es feucht wird, direkt auf geschwollene Gelenke legen — sind ein traditionsreiches Hausmittel bei Arthrose und Gelenkschmerzen.
+Eine regelmäßige, maßvolle Ernte hält die Pflanze in Form und versorgt die Küche kontinuierlich. Wer mehr erntet, als er frisch verbrauchen kann, kommt zum nächsten großen Thema: dem Verarbeiten und Haltbarmachen — damit nichts von der wertvollen Ernte verloren geht.
 
-### Bäder
-
-Heilkräuterbäder nutzen die Haut als größtes Aufnahmeorgan des Körpers. Die Wirkstoffe werden über die Haut aufgenommen, gleichzeitig wirken die Dämpfe über die Atemwege, und die Wärme des Wassers verstärkt die Durchblutung und damit die Aufnahme.
-
-**Vollbad:** 50 bis 100 Gramm getrocknete Kräuter als starke Abkochung zubereiten (10 Minuten köcheln), abseihen und dem Badewasser zusetzen. Lavendel für Entspannung, Rosmarin für Belebung, Heublumen für Muskelentspannung, Fichtennadeln für die Atemwege.
-
-**Fußbad:** 2 bis 3 Esslöffel Kräuter auf 3 Liter heißes Wasser. Besonders wirksam als Einschlafhilfe (Lavendel-Fußbad) oder bei Erkältungen (Senfmehl-Fußbad — erzeugt eine starke Durchblutungssteigerung und "zieht" die Stauung aus dem Kopf nach unten).
-
-**Sitzbad:** Traditionelle Anwendung bei Beschwerden im Beckenbereich — Hämorrhoiden, Blasenentzündung, Menstruationsbeschwerden. Kamille, Eichenrinde und Schafgarbe sind bewährte Sitzbad-Kräuter.
-
-### Dampfinhalation
-
-Bei Erkältungen, Sinusitis und Bronchitis: Einen starken Kräuteraufguss in eine Schüssel gießen, den Kopf darüber beugen, mit einem Handtuch abdecken und 10 bis 15 Minuten den aufsteigenden Dampf einatmen. Thymian, Eukalyptus, Pfefferminze und Kamille sind die klassischen Inhalationskräuter.
-
-Die Wärme öffnet die Atemwege, der Dampf transportiert die ätherischen Öle direkt auf die Schleimhäute, die antimikrobiellen Substanzen wirken genau dort, wo sie gebraucht werden. Einfacher und gleichzeitig wirksamer geht Erkältungsbehandlung kaum.
-
-### Räuchern — Die energetische Anwendung
-
-Räuchern steht an der Schnittstelle zwischen Pflanzenheilkunde und energetischer Arbeit. Wenn du Kräuter verbrennst, werden ihre ätherischen Öle und andere flüchtige Substanzen in den Rauch freigesetzt — du atmest sie ein und sie verteilen sich im gesamten Raum.
-
-Auf der physischen Ebene wirkt Räuchern nachweislich antimikrobiell — Studien zeigen, dass Räuchern mit bestimmten Kräutern die Keimbelastung in Räumen signifikant reduziert. Auf der energetischen Ebene verändert Räuchern die Schwingung eines Raumes: Salbei reinigt, Weihrauch erhebt, Zeder schützt, Beifuß öffnet die Wahrnehmung.
-
-Für energetische Praktizierende ist Räuchern ein unverzichtbares Werkzeug — sowohl zur eigenen Energiehygiene als auch in der Klientenarbeit. Mehr dazu lernst du in Modul 5.`
-        }
-      ]
+So schließt sich der Kreis vom Säen bis zur Vorratshaltung. Wer regelmäßig und maßvoll erntet, hat über die ganze Saison frische Kräuter zur Hand und sammelt zugleich genug, um für die kräuterarme Zeit vorzusorgen.`,
+        },
+      ],
     },
-
-    // ============================================================
-    // MODUL 3 — Die großen Heilpflanzen — Teil 1
-    // ============================================================
     {
       id: 'N02-M3',
-      titel: 'Die großen Heilpflanzen — Nerven, Schlaf & Psyche',
-      beschreibung: 'Die wichtigsten Heilpflanzen für das Nervensystem, bei Schlafstörungen und für die seelische Balance kennenlernen — mit Wirkprofil, Anwendung und Dosierung.',
+      titel: 'Sammeln in der Natur',
       lektionen: [
         {
           id: 'N02-M3-L1',
-          titel: 'Johanniskraut, Baldrian & Hopfen — Die Nervenheiler',
-          inhalt: `## Die Nervenheiler
+          titel: 'Achtsam sammeln — die Freude und die Verantwortung',
+          inhalt: `Das Sammeln von Wildkräutern und Genusspflanzen in der Natur ist eine alte, erdende Tätigkeit. Ein achtsamer Sammelspaziergang verbindet mit den Jahreszeiten, schult die Wahrnehmung und schenkt Momente der Ruhe. Gleichzeitig übernimmt, wer sammelt, Verantwortung — für sich selbst und für die Natur. Beide Seiten gehören untrennbar zusammen.
 
-### Johanniskraut — Die Sonnenpflanze
+Die Freude am Sammeln liegt im bewussten Unterwegssein: aufmerksam schauen, Pflanzen erkennen, ihre Standorte und Jahreszeiten kennenlernen. Es ist ein Gegenentwurf zum hektischen Alltag — langsam, sinnlich, mit allen Sinnen. Schon der Weg ist Teil des Genusses, nicht nur die Ausbeute.
 
-Johanniskraut (Hypericum perforatum) ist die bekannteste Heilpflanze gegen leichte bis mittelschwere Depressionen — und eine der am besten wissenschaftlich untersuchten Pflanzen überhaupt. Zahlreiche klinische Studien zeigen, dass Johanniskraut-Extrakte bei leichten und mittleren Depressionen ähnlich wirksam sind wie synthetische Antidepressiva, bei deutlich weniger Nebenwirkungen.
+Die Verantwortung beginnt bei der eigenen Sicherheit, der wir die nächste Lektion ganz widmen, weil sie so zentral ist. Sie umfasst aber auch den respektvollen Umgang mit der Natur: nur dort sammeln, wo es erlaubt ist, geschützte Arten und Lebensräume schonen, nie mehr nehmen als nötig und die Pflanzen so behandeln, dass sie nachwachsen können.
 
-Die Hauptwirkstoffe sind Hypericin (der rote Farbstoff) und Hyperforin. Sie beeinflussen den Serotonin-, Dopamin- und Noradrenalin-Haushalt — ähnlich wie synthetische Antidepressiva, aber auf eine sanftere, modulierende Weise.
+Konkret bedeutet achtsames Sammeln: an sauberen, unbelasteten Standorten sammeln — fernab von vielbefahrenen Straßen, gedüngten Feldern oder Hundewegen. Nur einen kleinen Teil eines Bestandes entnehmen, damit die Pflanzen sich erholen und Tiere ebenfalls etwas finden. Wurzeln nur entnehmen, wenn das vertretbar ist, da man damit die ganze Pflanze entfernt.
 
-**Anwendung:** Als Tee, Tinktur oder standardisierter Extrakt (Kapseln/Tabletten mit definiertem Hypericin-Gehalt). Wichtig: Die Wirkung tritt nicht sofort ein — es braucht 2 bis 4 Wochen regelmäßiger Einnahme, bis sich der Effekt aufbaut.
+Wer mit dieser Haltung sammelt, wird Teil eines uralten, respektvollen Verhältnisses zwischen Mensch und Natur. Sammeln wird so nicht zum Raubbau, sondern zu einer Form der Begegnung — aufmerksam, dankbar und maßvoll. Diese innere Haltung ist die Grundlage, auf der die praktischen Sicherheitsregeln der nächsten Lektion erst ihren Sinn entfalten.
 
-**Besonderheiten:** Johanniskraut erhöht die Lichtempfindlichkeit der Haut — bei Einnahme direkte Sonnenbäder meiden. Es interagiert außerdem mit zahlreichen Medikamenten: Antibabypille, Blutverdünner, bestimmte Herz- und HIV-Medikamente können in ihrer Wirkung abgeschwächt werden. Bei gleichzeitiger Medikamenteneinnahme unbedingt ärztliche Rücksprache halten.
-
-**Äußerlich** als Johanniskrautöl (Rotöl): Bei Nervenschmerzen, Verbrennungen, Muskelverspannungen und Narben einmassieren. Die leuchtend rote Farbe des Öls kommt vom Hypericin und ist ein sicheres Erkennungszeichen für ein gutes Produkt.
-
-### Baldrian — Der Schlafbringer
-
-Baldrian (Valeriana officinalis) ist seit der Antike als Beruhigungs- und Schlafmittel bekannt. Seine Wurzel enthält Valerensäure und ätherische Öle, die auf den GABA-Rezeptor im Gehirn wirken — denselben Rezeptor, an dem auch Benzodiazepine (synthetische Beruhigungsmittel) ansetzen, nur wesentlich sanfter.
-
-**Anwendung:** Bei Einschlafstörungen 30 Minuten vor dem Schlafengehen als Tee (1 TL Wurzel, 10 Min. ziehen lassen) oder als Tinktur (30–40 Tropfen). Bei innerer Unruhe tagsüber in niedrigerer Dosierung.
-
-**Besonderheit:** Baldrian riecht unangenehm — intensiv erdig bis leicht faulig. Das liegt an den Isovaleriansäuren und ist ein Qualitätsmerkmal, nicht ein Makel. Wer den Geschmack nicht mag, greift zur Tinktur oder Kapsel.
-
-### Hopfen — Der Verstärker
-
-Hopfen (Humulus lupulus) ist nicht nur Bierzutat, sondern eine starke Heilpflanze für das Nervensystem. Die weiblichen Blütenzapfen enthalten Bitterstoffe und ätherische Öle mit sedierender Wirkung. Hopfen wirkt besonders gut in Kombination mit Baldrian — die beiden verstärken sich gegenseitig.
-
-**Anwendung:** Als Tee (1 TL Hopfenzapfen, 10 Min.), als Tinktur oder als Hopfenkissen — ein kleines Kissen mit getrockneten Hopfenzapfen unter das Kopfkissen gelegt. Die flüchtigen Aromastoffe werden beim Schlafen eingeatmet und fördern den Schlaf.
-
-**Besonderheit:** Hopfen enthält pflanzliche Östrogene und sollte bei östrogenabhängigen Erkrankungen zurückhaltend eingesetzt werden.`
+Wer das Sammeln in diesem Geist angeht, gewinnt weit mehr als nur einige Kräuter. Er gewinnt einen wachen, dankbaren Blick auf die Natur vor der eigenen Haustür und ein Gespür für die Jahreszeiten, das sich mit jedem Spaziergang vertieft.`,
         },
         {
           id: 'N02-M3-L2',
-          titel: 'Lavendel, Passionsblume & Melisse — Die Beruhiger',
-          inhalt: `## Die Beruhiger
+          titel: 'Sichere Bestimmung — die wichtigste Regel überhaupt',
+          inhalt: `Die sichere Bestimmung von Pflanzen ist die mit Abstand wichtigste Sicherheitsfrage beim Sammeln — und sie ist anspruchsvoller, als viele zunächst denken. Zahlreiche essbare oder harmlose Pflanzen haben giftige Doppelgänger, die ihnen zum Verwechseln ähnlich sehen. Verwechslungen gehören zu den häufigsten Ursachen ernster Vergiftungen. Diese Lektion ist daher der Sicherheitskern des ganzen Sammel-Themas.
 
-### Lavendel — Königin der Ruhe
+Es gilt eine unbedingte, nicht verhandelbare Grundregel: Nur sammeln und verwenden, was man zweifelsfrei und sicher bestimmt hat. Bei der geringsten Unsicherheit lässt man eine Pflanze stehen. Diese Regel ist nicht übertrieben vorsichtig, sondern schlicht notwendig — gerade bei Pflanzen, die man verzehren möchte. Im Zweifel gilt immer: lieber stehen lassen als riskieren.
 
-Lavendel (Lavandula angustifolia) ist die vielseitigste Beruhigungspflanze der europäischen Heilkunde. Sein ätherisches Öl — bestehend hauptsächlich aus Linalool und Linalylacetat — wirkt anxiolytisch (angstlösend), sedierend, krampflösend und stimmungsaufhellend.
+Sichere Bestimmung stützt sich auf mehrere Merkmale gleichzeitig: Blattform und -anordnung, Blüten, Stängel, Geruch, Standort und Jahreszeit. Ein einzelnes Foto oder eine Bestimmungs-App allein reichen nicht aus — sie können in die Irre führen und ersetzen kein solides Wissen. Wer ernsthaft sammeln möchte, eignet sich fundiertes Bestimmungswissen an, idealerweise mit Begleitung durch kundige Personen und mit geprüfter Bestimmungsliteratur.
 
-Klinische Studien zeigen, dass oral eingenommenes Lavendelöl bei Angststörungen ähnlich wirksam sein kann wie niedrig dosierte Benzodiazepine — ohne deren Suchtpotenzial und Nebenwirkungen.
+Besondere Vorsicht ist bei Pflanzengruppen geboten, die für ihre gefährlichen Verwechslungen bekannt sind. Manche essbare Wildpflanze hat einen giftigen Verwandten, der ihr verblüffend ähnelt — hier braucht es echtes Fachwissen oder kundige Anleitung. Solange dieses Wissen nicht sicher vorhanden ist, beschränkt man sich besser auf wenige, eindeutig erkennbare Arten oder bezieht Kräuter aus sicheren Quellen.
 
-**Anwendungsformen:**
-
-Innerlich: Als Tee (1–2 TL Blüten, 8 Min. zugedeckt ziehen), als Tinktur oder als Lavendelöl-Kapseln (standardisierte Präparate).
-
-Äußerlich: 3–5 Tropfen ätherisches Lavendelöl ins Badewasser (emulgiert in Sahne oder Meersalz), als Massageöl (in Trägeröl verdünnt), oder einfach ein paar Tropfen auf das Kopfkissen vor dem Schlafengehen.
-
-Aromatherapeutisch: In der Duftlampe oder im Diffuser. Lavendelduft im Schlafzimmer verbessert nachweislich die Schlafqualität — das zeigen mehrere Studien in Krankenhäusern und Pflegeeinrichtungen.
-
-**Energetische Qualität:** Lavendel schwingt auf der Frequenz des Kronenchakras und des dritten Auges. Er beruhigt nicht nur das Nervensystem, sondern auch das Energiefeld — deshalb ist er ideal für die Vorbereitung von Meditationen und energetischen Sitzungen.
-
-### Passionsblume — Die Gedankenberuhigerin
-
-Die Passionsblume (Passiflora incarnata) ist spezialisiert auf ein bestimmtes Symptom: das Gedankenkarussell. Wenn der Geist nicht aufhört zu kreisen, wenn du im Bett liegst und der Kopf nicht zur Ruhe kommt, wenn Grübeln dich vom Schlafen abhält — dann ist Passionsblume deine Pflanze.
-
-Ihre Flavonoide (besonders Chrysin) wirken auf den GABA-A-Rezeptor und beruhigen die übermäßige neuronale Aktivität, die das Grübeln antreibt. Im Gegensatz zu Baldrian, der eher körperlich sediert, arbeitet Passionsblume gezielt auf der mentalen Ebene.
-
-**Anwendung:** Als Tee (2 TL Kraut, 10 Min.), als Tinktur (30 Tropfen abends), oder in Kombinationspräparaten mit Baldrian und Hopfen. Auch tagsüber bei Prüfungsangst, Nervosität vor Vorträgen oder genereller Anspannung.
-
-**Besonderheit:** Passionsblume macht nicht müde im eigentlichen Sinne — sie nimmt die mentale Überaktivität weg, sodass der natürliche Schlaf einsetzen kann. Das macht sie ideal für Menschen, die "zu wach zum Schlafen" sind.
-
-### Melisse — Die Lichtbringerin
-
-Die Zitronenmelisse (Melissa officinalis) ist eine der freundlichsten Heilpflanzen überhaupt. Ihr frischer, zitroniger Duft hebt die Stimmung, ihre Wirkstoffe beruhigen Magen und Nerven gleichzeitig.
-
-Melisse enthält ätherische Öle (Citral, Citronellal), Rosmarinsäure und Flavonoide. Sie wirkt beruhigend, krampflösend, antiviral (besonders gegen Herpes-simplex-Viren) und mild verdauungsfördernd.
-
-**Anwendung:** Als Tee ist Melisse Alltagsmedizin — mild genug für täglichen Genuss, wirksam genug für therapeutischen Einsatz. Bei Nervosität, Einschlafproblemen, nervösen Magenbeschwerden und Spannungskopfschmerzen.
-
-Äußerlich als Melissengeist (alkoholischer Auszug) bei Spannungskopfschmerz — auf die Schläfen tupfen. Als Creme bei Lippenherpes — die antiviralen Eigenschaften der Rosmarinsäure verkürzen die Heilungsdauer nachweislich.
-
-**Für Kinder:** Melisse ist eine der sichersten Heilpflanzen für Kinder — als Tee bei Bauchschmerzen, Unruhe und Einschlafproblemen. Schmeckt gut, wirkt sanft, hat praktisch keine Nebenwirkungen.`
+Eine besondere Mahnung gilt bei Kindern und Haustieren: Sie nehmen Pflanzen unbeaufsichtigt in den Mund, und manche Zier- und Wildpflanze ist giftig. Bei Verdacht auf eine Vergiftung gilt ausnahmslos: keine Eigenversuche, sondern sofort den ärztlichen Notdienst oder eine Giftnotruf-Stelle kontaktieren. Diese Nummer griffbereit zu haben, gehört zur Grundausstattung jedes verantwortlichen Sammlers.`,
         },
         {
           id: 'N02-M3-L3',
-          titel: 'Ashwagandha, Rhodiola & Adaptogene — Stresskraft aus der Natur',
-          inhalt: `## Adaptogene
+          titel: 'Wo, wann und wie viel — nachhaltig sammeln',
+          inhalt: `Hat man die Sicherheit der Bestimmung gemeistert, geht es um die Frage des nachhaltigen und legalen Sammelns: wo man überhaupt sammeln darf, zu welcher Zeit es sinnvoll ist und wie viel man entnehmen sollte. Diese Punkte machen aus dem Sammeln eine respektvolle, dauerhaft mögliche Tätigkeit.
 
-### Was Adaptogene sind
+Beim Wo gilt zuerst die rechtliche Seite: Nicht überall darf gesammelt werden. In Naturschutzgebieten, auf fremdem Grund ohne Erlaubnis und bei geschützten Arten ist das Sammeln untersagt oder eingeschränkt. Wer sich unsicher ist, informiert sich vorab über die örtlichen Regelungen. Daneben zählt die Sauberkeit des Standorts: fernab von Straßen, gespritzten Feldern und Belastungsquellen.
 
-Adaptogene sind eine besondere Klasse von Heilpflanzen, die den Körper bei der Anpassung an Stress unterstützen — physischen, emotionalen und mentalen Stress gleichermaßen. Sie wirken nicht wie ein Beruhigungsmittel (das dämpft) oder ein Stimulans (das aufputscht), sondern regulierend: Sie bringen den Körper zurück in die Balance, egal aus welcher Richtung er aus dem Gleichgewicht geraten ist.
+Beim Wann richtet man sich nach der Pflanze und dem gewünschten Teil. Viele Blätter und Triebe sammelt man im Frühjahr und Frühsommer, wenn sie jung und aromatisch sind. Blüten erntet man zur Blütezeit, Samen bei der Reife. Ein trockener Tag und der späte Vormittag sind oft günstig. Der Jahreszeitenrhythmus gibt den Takt vor — und macht das Sammeln zu einem Erleben der Natur im Wandel.
 
-Der Begriff wurde in den 1940er Jahren vom russischen Pharmakologen Nikolai Lazarev geprägt und später von seinem Schüler Israel Brekhman präzisiert. Drei Kriterien definieren ein Adaptogen: Es muss unspezifisch wirken (den gesamten Organismus stärken, nicht nur ein Organ), es muss normalisierend wirken (zu hohe Werte senken, zu niedrige anheben) und es muss bei normaler Dosierung ungiftig und nebenwirkungsarm sein.
+Beim Wie viel lautet die Devise Maß und Respekt: Immer nur einen kleinen Teil eines Bestandes entnehmen, nie eine Stelle „abräumen". Eine verbreitete Faustregel rät, höchstens einen kleinen Anteil dessen zu nehmen, was vorhanden ist, damit sich der Bestand erholt und auch Tiere versorgt bleiben. Was man nicht zeitnah verbraucht, sollte man ohnehin nicht sammeln.
 
-### Ashwagandha — Die Kraftwurzel
-
-Ashwagandha (Withania somnifera), auch Schlafbeere oder indischer Ginseng genannt, ist eines der zentralen Heilmittel der ayurvedischen Medizin — seit über 3000 Jahren. Sein Name bedeutet im Sanskrit "Geruch des Pferdes" — was sich sowohl auf seinen erdigen Geruch als auch auf die Vorstellung bezieht, dass es dem Anwender die Stärke eines Pferdes verleiht.
-
-Die Hauptwirkstoffe — Withanolide — beeinflussen das Stresshormon Cortisol, modulieren das Immunsystem und unterstützen die Schilddrüsenfunktion. Klinische Studien zeigen signifikante Senkung von Cortisol-Spiegeln, Verbesserung der Schlafqualität und Reduktion von Angstsymptomen.
-
-**Anwendung:** Als Pulver (3–6 Gramm täglich in warmer Milch — das traditionelle "Moon Milk"), als Kapsel (standardisierter Extrakt, typisch 300–600 mg) oder als Tinktur. Traditionell wird Ashwagandha abends eingenommen, da es den Schlaf fördert.
-
-**Besonderheit:** Ashwagandha gehört zur Familie der Nachtschattengewächse. Menschen mit Autoimmunerkrankungen der Schilddrüse sollten vor der Einnahme ärztlichen Rat einholen, da die Pflanze die Schilddrüsenfunktion stimuliert.
-
-### Rhodiola — Die arktische Rose
-
-Rhodiola rosea wächst in den extremsten Umgebungen der Erde — in der Arktis, in Höhen über 3000 Metern, auf windgepeitschten Felsen. Und genau diese Anpassungsfähigkeit an extreme Bedingungen scheint sie an den Anwender weiterzugeben.
-
-Die Wikinger nutzten Rhodiola für Kraft und Ausdauer. In der russischen und skandinavischen Volksmedizin ist sie seit Jahrhunderten bei Erschöpfung, Höhenkrankheit und Müdigkeit im Einsatz. Moderne Studien bestätigen: Rhodiola verbessert die kognitive Leistung unter Stress, reduziert Müdigkeit und unterstützt die Erholung nach körperlicher Belastung.
-
-**Anwendung:** Als standardisierter Extrakt (200–400 mg, Rosavin-Gehalt mindestens 3 Prozent), morgens auf nüchternen Magen. Rhodiola wirkt aktivierend — abendliche Einnahme kann den Schlaf stören.
-
-### Weitere wichtige Adaptogene
-
-**Ginseng** (Panax ginseng) — der König der Adaptogene in der ostasiatischen Medizin. Steigert Energie, Konzentration und Immunfunktion. Achtung: Kann den Blutdruck erhöhen — bei Bluthochdruck zurückhaltend einsetzen.
-
-**Tulsi** (Ocimum tenuiflorum) — Heiliges Basilikum der ayurvedischen Tradition. Beruhigend und klärend zugleich. Als Tee täglich trinkbar — mild, aromatisch, stressreduzierend.
-
-**Schisandra** — die "Fünf-Geschmäcker-Beere" der chinesischen Medizin (süß, sauer, salzig, bitter, scharf in einer Frucht). Stärkt Leber, Nieren und Nervensystem gleichzeitig. Als Tee, Tinktur oder getrocknete Beeren.`
-        }
-      ]
+Nachhaltiges Sammeln ist letztlich Ausdruck einer Haltung: Man nimmt sich als Gast in der Natur, nicht als Besitzer. Wer maßvoll, legal und respektvoll sammelt, sichert sich und anderen die Freude an diesen Pflanzen auch in Zukunft — und leistet zugleich einen kleinen Beitrag zum Schutz der Lebensräume.`,
+        },
+      ],
     },
-
-    // ============================================================
-    // MODUL 4 — Die großen Heilpflanzen — Teil 2
-    // ============================================================
     {
       id: 'N02-M4',
-      titel: 'Die großen Heilpflanzen — Verdauung, Immunsystem & Schmerz',
-      beschreibung: 'Die wichtigsten Heilpflanzen für Magen-Darm-Beschwerden, Immunstärkung und natürliche Schmerzlinderung kennenlernen — mit praktischen Anwendungsanleitungen.',
+      titel: 'Verarbeiten & Haltbarmachen',
       lektionen: [
         {
           id: 'N02-M4-L1',
-          titel: 'Kamille, Pfefferminze & Ingwer — Die Verdauungshelfer',
-          inhalt: `## Die Verdauungshelfer
+          titel: 'Trocknen — die klassische Haltbarmachung',
+          inhalt: `Das Trocknen ist die älteste und einfachste Art, Kräuter haltbar zu machen — und für den Hausgebrauch oft die beste. Richtig getrocknete Kräuter bewahren einen Großteil ihres Aromas über Monate und stehen jederzeit für die Küche bereit. Es ist ein dankbares Handwerk, das kaum Ausrüstung braucht.
 
-### Kamille — Die Allheilerin
+Das Grundprinzip ist einfach: Kräuter müssen schonend und vollständig getrocknet werden, bevor Feuchtigkeit Schimmel verursachen kann. Bewährt hat sich das luftige Aufhängen kleiner Sträuße an einem warmen, schattigen, gut belüfteten Ort. Direkte Sonne ist zu vermeiden, weil sie Aroma und Farbe ausbleichen lässt. Alternativ breitet man die Kräuter locker auf einem Tuch oder Gitter aus und wendet sie gelegentlich.
 
-Die Echte Kamille (Matricaria chamomilla) ist die meistverwendete Heilpflanze Europas — und das aus gutem Grund. Ihre Kombination aus ätherischen Ölen (Bisabolol, Chamazulen), Flavonoiden und Schleimstoffen macht sie zur universellsten Heilpflanze für den gesamten Verdauungstrakt.
+Wichtig ist die richtige Vorbereitung: Kräuter werden vor dem Trocknen nur bei Bedarf vorsichtig gereinigt und gut abgetrocknet, da zusätzliche Feuchtigkeit den Prozess stört. Blattreiche Kräuter trocknet man oft am Stängel und zupft die Blätter erst nach dem Trocknen ab — das erhält das Aroma besser.
 
-Kamille wirkt entzündungshemmend, krampflösend, wundheilend, antimikrobiell und beruhigend — gleichzeitig. Diese Vielseitigkeit macht sie zur ersten Wahl bei fast allen Magen-Darm-Beschwerden: Gastritis, Sodbrennen, Blähungen, Krämpfe, Reizdarmsyndrom, Übelkeit.
+Vollständig getrocknet sind Kräuter, wenn die Blätter rascheln und beim Zerreiben zerbröseln, ohne sich biegsam oder feucht anzufühlen. Erst dann sind sie lagerfähig. Wer hier zu früh aufhört, riskiert Schimmel im Vorratsglas — im Zweifel lieber etwas länger trocknen lassen.
 
-**Anwendung als Tee:** 2 TL Kamillenblüten mit kochendem Wasser übergießen, zugedeckt 10 Minuten ziehen lassen. Zudecken ist hier besonders wichtig — das Chamazulen, einer der stärksten entzündungshemmenden Stoffe, ist flüchtig und entweicht sonst mit dem Dampf.
+Das getrocknete Gut bewahrt man am besten ganz auf und zerkleinert es erst beim Gebrauch, da ganze Blätter ihr Aroma länger halten. Die Lagerung selbst — der nächste wichtige Punkt — entscheidet darüber, wie lange die mühevoll getrocknete Ernte ihre Qualität behält.
 
-**Rollkur bei Magenschleimhautentzündung:** Eine Tasse starken Kamillentee nüchtern trinken. Dann nacheinander jeweils 5 Minuten auf dem Rücken, der linken Seite, dem Bauch und der rechten Seite liegen. So erreicht der Tee alle Bereiche der Magenwand. 2 bis 3 Wochen lang täglich durchführen.
-
-**Äußerlich:** Als Sitzbad bei Hämorrhoiden und Entzündungen im Analbereich. Als Spülung bei Zahnfleischentzündungen. Als Wickel bei Hautekzemen und Wunden.
-
-### Pfefferminze — Die Entkrampferin
-
-Pfefferminze (Mentha piperita) verdankt ihre Wirkung hauptsächlich dem Menthol — einem ätherischen Öl, das krampflösend auf die glatte Muskulatur des Verdauungstrakts wirkt. Bei Reizdarmsyndrom mit Blähungen und Krämpfen gehört Pfefferminzöl zu den am besten untersuchten pflanzlichen Mitteln.
-
-**Anwendung:** Als Tee (2 TL Blätter, 8 Min.) bei Blähungen, Völlegefühl und Verdauungskrämpfen. Als magensaftresistente Kapseln mit Pfefferminzöl bei Reizdarmsyndrom — die Kapseln lösen sich erst im Darm auf und wirken dort direkt entkrampfend.
-
-**Äußerlich:** Pfefferminzöl auf die Schläfen bei Spannungskopfschmerz — klinisch nachgewiesen so wirksam wie Paracetamol. Einige Tropfen auf die Brust bei Erkältung und verstopfter Nase.
-
-**Achtung:** Pfefferminztee kann bei Sodbrennen kontraproduktiv sein — das Menthol entspannt den unteren Speiseröhrenschließmuskel und kann den Rückfluss von Magensäure verstärken. Bei Sodbrennen besser Kamille verwenden.
-
-### Ingwer — Das Feuer im Bauch
-
-Ingwer (Zingiber officinale) ist eine der ältesten Gewürz- und Heilpflanzen der Welt. In der ayurvedischen Medizin gilt er als "universelle Medizin", in der chinesischen Tradition als einer der wichtigsten Wärmer.
-
-Seine Scharfstoffe — Gingerole und Shogaole — regen die Durchblutung an, fördern die Magensaftproduktion, wirken antiemetisch (gegen Übelkeit) und entzündungshemmend. Bei Reiseübelkeit, Schwangerschaftsübelkeit und postoperativer Übelkeit ist die Wirksamkeit von Ingwer in zahlreichen Studien belegt.
-
-**Anwendung:** Frisch als Tee — 1 bis 2 cm frische Ingwerwurzel in Scheiben schneiden, mit kochendem Wasser übergießen, 10 bis 15 Minuten ziehen lassen. Je länger, desto schärfer und wärmender. Bei Übelkeit: pur kauen oder als kandierten Ingwer lutschen. Als Gewürz in Speisen — regelmäßiger Ingwerkonsum unterstützt die gesamte Verdauungsfunktion.
-
-**Energetische Qualität:** Ingwer ist eine Feuerpflanze. Er wärmt von innen, aktiviert den Solarplexus und stärkt die persönliche Willenskraft. In der energetischen Arbeit kann Ingwertee vor einer Sitzung das eigene Energiefeld aktivieren und stärken.`
+Mit ein wenig Übung wird das Trocknen zur selbstverständlichen Routine. Schon nach der ersten gelungenen Charge stellt sich das gute Gefühl ein, einen Vorrat selbst gezogener, aromatischer Kräuter angelegt zu haben, der die Küche über Monate bereichert.`,
         },
         {
           id: 'N02-M4-L2',
-          titel: 'Echinacea, Holunder & Thymian — Die Immunstärker',
-          inhalt: `## Die Immunstärker
+          titel: 'Kräutersalze, -öle und -essige für die Küche',
+          inhalt: `Neben dem Trocknen gibt es eine ganze Welt genussvoller Verarbeitungsformen, die Kräuter in die alltägliche Küche bringen. Kräutersalze, aromatisierte Öle und Essige sind einfach herzustellen, machen Freude und veredeln viele Gerichte. Sie sind reines Küchen- und Genusshandwerk.
 
-### Echinacea — Der Immunmodulator
+Ein Kräutersalz entsteht, indem man frische oder getrocknete Kräuter mit grobem Salz vermengt und zerkleinert — von Hand, im Mörser oder kurz im Mixer. Das Salz konserviert die Kräuter und nimmt ihr Aroma auf. Solche Mischungen sind monatelang haltbar und eine schöne Möglichkeit, die Ernte zu bewahren. Der Fantasie sind bei den Kombinationen kaum Grenzen gesetzt.
 
-Der Sonnenhut (Echinacea purpurea und Echinacea angustifolia) ist die bekannteste immunstimulierende Pflanze der westlichen Welt. Nordamerikanische Ureinwohner nutzten ihn seit Jahrhunderten bei Infekten, Wunden und Schlangenbissen. In den 1930er Jahren wurde er in Europa populär und ist seitdem eines der meistverkauften pflanzlichen Erkältungsmittel.
+Aromatisierte Öle entstehen, indem man Kräuter in ein gutes Speiseöl einlegt. Hier ist allerdings Sorgfalt gefragt: Da Kräuter Wasser enthalten, können sich in selbst gemachten Kräuterölen unter ungünstigen Bedingungen unerwünschte Keime bilden. Sicherer ist es, gut getrocknete Kräuter zu verwenden, das Öl kühl und dunkel zu lagern und es zeitnah zu verbrauchen. Bei Unsicherheit greift man besser zu gekauften, fachgerecht hergestellten Produkten.
 
-Echinacea wirkt immunmodulierend — nicht einfach immunstimulierend. Das ist ein wichtiger Unterschied: Sie steigert nicht blind die Immunantwort (was bei Autoimmunerkrankungen problematisch wäre), sondern reguliert sie. Alkylamide, Polysaccharide und Cichoriensäure aktivieren Makrophagen (Fresszellen) und natürliche Killerzellen und verbessern die Kommunikation zwischen Immunzellen.
+Kräuteressige sind weniger heikel, da der saure Essig konservierend wirkt. Man gibt frische Kräuter in eine saubere Flasche, füllt mit Essig auf und lässt das Ganze einige Zeit ziehen. Das Ergebnis verfeinert Salate und Dressings mit feinem Kräuteraroma.
 
-**Anwendung bei Erkältung:** Bei den ersten Anzeichen — Halskratzen, Frösteln, Abgeschlagenheit — sofort beginnen. Hochdosiert in den ersten 3 bis 5 Tagen (Tinktur: 30–50 Tropfen alle 2–3 Stunden am ersten Tag, dann 3x täglich). Echinacea wirkt am besten, wenn sie früh und intensiv eingesetzt wird — bei einer voll entwickelten Erkältung ist der Effekt deutlich geringer.
+Bei all diesen Zubereitungen gilt das Gebot der Sauberkeit: saubere Gefäße, frische Zutaten, kühle und dunkle Lagerung. Es handelt sich um Lebensmittel, die wie alle selbst gemachten Lebensmittel sorgfältig behandelt werden wollen. Wer hygienisch arbeitet und im Zweifel zurückhaltend bleibt, hat lange Freude an diesen aromatischen Küchenschätzen.
 
-**Nicht zur Daueranwendung:** Echinacea ist ein Akutmittel. Dauerhafte Einnahme (über 8 Wochen) kann den Immuneffekt abschwächen statt verstärken. Einsetzen bei Bedarf, dann pausieren.
-
-### Holunder — Die Fliederbeere
-
-Der Schwarze Holunder (Sambucus nigra) ist eine der ältesten Heilpflanzen Europas — in der Volksmedizin fast heilig verehrt. Sowohl die Blüten als auch die Beeren sind medizinisch wertvoll, aber auf unterschiedliche Weise.
-
-**Holunderblüten** werden als schweißtreibender Tee bei fieberhaften Erkältungen eingesetzt. Sie öffnen die Poren, fördern das Schwitzen und unterstützen so die natürliche Fieberregulation des Körpers. Klassische Anwendung: Holunderblüten-Lindenblüten-Mischung als heißer Tee bei Fieber — dann warm zugedeckt ins Bett.
-
-**Holunderbeeren** (nur gekocht verwenden — roh sind sie leicht giftig) enthalten hohe Mengen an Anthocyanen — dunkle Pflanzenfarbstoffe mit starker antiviraler und antioxidativer Wirkung. Holunderbeer-Extrakte zeigen in Studien signifikante Wirkung gegen Influenza-Viren: Sie können die Dauer und Schwere von Grippeinfekten reduzieren.
-
-**Zubereitung:** Holunderbeer-Sirup ist die gebräuchlichste Form — 1–2 Esslöffel in heißes Wasser oder Tee. Auch als Saft, als Mus oder als selbstgemachter Holunderbeer-Essig.
-
-### Thymian — Der Bronchien-Spezialist
-
-Thymian (Thymus vulgaris) ist die wichtigste Heilpflanze für die Atemwege. Sein ätherisches Öl — dominiert von Thymol und Carvacrol — wirkt stark antimikrobiell (antibakteriell und antiviral), schleimlösend, krampflösend und auswurffördernd.
-
-Bei Bronchitis, Husten, Keuchhusten und Atemwegsinfekten ist Thymian die erste Wahl. Er löst festsitzenden Schleim, beruhigt den Hustenreiz und bekämpft gleichzeitig die Erreger.
-
-**Anwendung:** Als Tee (2 TL, 10 Min. zugedeckt, 3–4 Tassen täglich bei akutem Infekt). Als Dampfinhalation bei verstopften Bronchien. Als Thymian-Honig: frischen Thymian in Honig einlegen und 2 Wochen ziehen lassen — löffelweise bei Husten einnehmen.
-
-**In der Küche:** Tägliches Kochen mit Thymian ist bereits Gesundheitsprävention. Die ätherischen Öle stärken die Atemwege kontinuierlich — deshalb haben die Mittelmeerländer, wo Thymian Alltagsgewürz ist, traditionell weniger Atemwegserkrankungen.`
+Solche selbst gemachten Spezialitäten sind zudem ein schönes, persönliches Geschenk. Ein hübsch beschriftetes Glas Kräutersalz oder eine Flasche Kräuteressig aus eigener Herstellung erfreut Beschenkte oft mehr als manch Gekauftes.`,
         },
         {
           id: 'N02-M4-L3',
-          titel: 'Weidenrinde, Teufelskralle & Arnika — Die Schmerzlinderer',
-          inhalt: `## Die Schmerzlinderer
+          titel: 'Lagerung und Qualität bewahren',
+          inhalt: `Die beste Ernte und sorgfältigste Verarbeitung nützen wenig, wenn die Lagerung nicht stimmt. Richtig gelagert behalten getrocknete Kräuter und selbst gemachte Zubereitungen lange ihr Aroma und ihre Qualität; falsch gelagert verlieren sie schnell oder verderben. Wissen über die Lagerung ist daher der letzte, entscheidende Schritt der Verarbeitung.
 
-### Weidenrinde — Der Urahn des Aspirins
+Die vier großen Feinde von getrockneten Kräutern sind Licht, Luft, Feuchtigkeit und Wärme. Daraus folgt das ideale Lager: dunkel, luftdicht, trocken und kühl. Gut verschlossene, lichtgeschützte Gefäße an einem dunklen, trockenen Ort sind optimal. In durchsichtigen Gläsern am sonnigen Fenster verblassen Kräuter und verlieren rasch Aroma — ein häufiger Fehler.
 
-Die Weidenrinde (Salix alba und andere Salix-Arten) ist die historische Quelle der Acetylsalicylsäure — dem Wirkstoff in Aspirin. Schon Hippokrates empfahl um 400 v. Chr. einen Aufguss aus Weidenrinde bei Fieber und Schmerzen. Im 19. Jahrhundert wurde der Wirkstoff Salicin isoliert und daraus synthetisch Acetylsalicylsäure hergestellt.
+Eine gute Gewohnheit ist das Beschriften mit Inhalt und Datum. So behält man den Überblick, welche Kräuter wie alt sind. Getrocknete Kräuter halten ihr Aroma meist über viele Monate, lassen aber mit der Zeit nach. Was nur noch schwach duftet, hat oft den Großteil seines Aromas verloren und darf bedenkenlos durch frische Vorräte ersetzt werden.
 
-Doch die ganze Rinde wirkt anders als der isolierte Stoff: Neben Salicin enthält sie Flavonoide, Gerbstoffe und weitere Polyphenole, die synergistisch wirken. Die Schmerzlinderung setzt langsamer ein als bei Aspirin (etwa 1–2 Stunden statt 30 Minuten), hält aber länger an. Und die Nebenwirkungen auf den Magen sind deutlich geringer, weil die Gerbstoffe die Schleimhaut schützen.
+Selbst gemachte Zubereitungen wie Öle oder feuchte Mischungen verderben schneller als trockene Kräuter und gehören oft kühl gelagert und zeitnah verbraucht. Hier lohnt es, kleine Mengen herzustellen und sie frisch zu genießen, statt große Vorräte anzulegen, die verderben könnten.
 
-**Anwendung:** Als Abkochung (1–2 TL geschnittene Rinde, 10 Min. köcheln, 2–3 Tassen täglich) bei Kopfschmerzen, Rückenschmerzen, rheumatischen Beschwerden und leichtem Fieber. Als Tinktur oder standardisierter Extrakt (entsprechend 120–240 mg Salicin pro Tag).
+Ein klarer Sicherheitsgrundsatz schließt das Thema ab: Verdorbene, schimmelige oder unangenehm riechende Vorräte gehören nicht verwendet, sondern entsorgt. Im Zweifel gilt auch hier — lieber wegwerfen als riskieren. Wer sauber arbeitet und richtig lagert, wird mit aromatischen, sicheren Vorräten belohnt, die die Küche das ganze Jahr bereichern.
 
-**Hinweis:** Wer allergisch auf Aspirin reagiert, sollte auch Weidenrinde meiden. Bei Kindern unter 12 Jahren nicht anwenden (Reye-Syndrom-Risiko wie bei Aspirin).
-
-### Teufelskralle — Die afrikanische Schmerzpflanze
-
-Die Teufelskralle (Harpagophytum procumbens) stammt aus den Savannen des südlichen Afrika und ist eine der wirksamsten pflanzlichen Optionen bei Gelenkschmerzen, Arthrose und chronischen Rückenschmerzen.
-
-Ihre Hauptwirkstoffe — Harpagosid und Harpagid — hemmen Entzündungsprozesse und reduzieren die Produktion von Schmerzmediatoren. Mehrere klinische Studien zeigen bei Arthrose-Patienten eine signifikante Schmerzreduktion und verbesserte Gelenkbeweglichkeit — teilweise vergleichbar mit niedrig dosierten nicht-steroidalen Entzündungshemmern.
-
-**Anwendung:** Als Tee (1 TL Wurzel, 8 Stunden kalt ansetzen, dann leicht erwärmen) oder als standardisierter Extrakt in Kapseln (entsprechend 50–100 mg Harpagosid täglich). Die Wirkung baut sich über 2–4 Wochen auf — Teufelskralle ist kein Akut-Schmerzmittel, sondern eine Langzeitbehandlung.
-
-**Wichtig:** Teufelskralle regt die Magensaftproduktion an — bei Magengeschwüren nicht geeignet. Bei Gallensteinleiden ebenfalls zurückhaltend einsetzen.
-
-### Arnika — Nur äußerlich
-
-Arnika (Arnica montana) ist die klassische Erste-Hilfe-Pflanze bei stumpfen Verletzungen: Prellungen, Verstauchungen, Zerrungen, Blutergüssen und Schwellungen. Ihre Sesquiterpenlactone (besonders Helenalin) wirken stark entzündungshemmend, abschwellend und schmerzlindernd.
-
-**Anwendung ausschließlich äußerlich:** Als Arnika-Tinktur (verdünnt, 1:5 mit Wasser) für Umschläge. Als Arnika-Salbe oder -Gel auf die betroffene Stelle. Als Arnika-Öl für Massagen bei Muskelkater und Verspannungen.
-
-**Innerliche Anwendung ist nicht empfohlen** — Arnika enthält toxische Substanzen, die bei oraler Einnahme Magen-Darm-Reizungen und Herzrhythmusstörungen verursachen können. Die homöopathische Anwendung (Arnica-Globuli) arbeitet mit Verdünnungen, bei denen diese Stoffe nicht mehr in relevanter Menge vorhanden sind — das ist ein anderes Therapieprinzip.
-
-**Nicht auf offene Wunden auftragen** — Arnika gehört nur auf intakte Haut über stumpfen Verletzungen.`
-        }
-      ]
+Ein gut sortierter, sauber beschrifteter Kräutervorrat ist eine kleine Schatzkammer. Er erinnert bei jedem Öffnen an den Garten oder den Sammelspaziergang und bringt ein Stück Sommer auch in die graue Jahreszeit.`,
+        },
+      ],
     },
-
-    // ============================================================
-    // MODUL 5 — Heimische Kräuterkunde & Räucherpflanzen
-    // ============================================================
     {
       id: 'N02-M5',
-      titel: 'Heimische Kräuterkunde & Räucherpflanzen',
-      beschreibung: 'Die wichtigsten heimischen Wildkräuter und Räucherpflanzen kennenlernen, sicher sammeln und für energetische und heilkundliche Zwecke einsetzen.',
+      titel: 'Genuss & Küche',
       lektionen: [
         {
           id: 'N02-M5-L1',
-          titel: 'Wildkräuter vor deiner Tür — Brennnessel, Löwenzahn, Spitzwegerich',
-          inhalt: `## Wildkräuter vor deiner Tür
+          titel: 'Kräuter in der Küche — sensorisch einsetzen',
+          inhalt: `Der eigentliche Sinn all der Mühe ums Ziehen, Sammeln und Verarbeiten ist der Genuss in der Küche. Kräuter und Gewürzpflanzen verwandeln einfache Gerichte in aromatische Erlebnisse. Sie richtig einzusetzen ist weniger eine Frage starrer Regeln als des Schmeckens, Probierens und Erfahrens — ein sinnliches Handwerk.
 
-### Die vergessene Hausapotheke
+Ein grundlegendes Wissen hilft beim Einstieg: Manche Kräuter geben ihr Aroma am besten frisch und erst zum Schluss zugegeben, weil ihr feines Aroma beim Kochen verfliegt. Andere, robustere Kräuter vertragen Kochzeit und entfalten sich erst durch Hitze. Wer diese Unterscheidung kennt, weiß, wann ein Kraut in den Topf gehört — früh zum Mitkochen oder frisch über das fertige Gericht.
 
-Einige der potentesten Heilpflanzen wachsen buchstäblich am Wegesrand — kostenlos, unkompliziert und in Mengen, die jeden Kräutergarten beschämen. Unsere Urgroßeltern wussten das noch. Wir haben es vergessen und kaufen stattdessen Nahrungsergänzungsmittel, die einen Bruchteil dessen leisten, was diese Pflanzen kostenlos bieten.
+Die Menge ist Geschmackssache und am besten durch Probieren zu finden. Ein behutsamer Anfang mit der Möglichkeit, nachzuwürzen, ist klüger als ein zu großzügiger Start. Manche Kräuter sind kräftig und dominant, andere mild — ein Gefühl dafür entwickelt sich mit der Übung. Hier geht es um Genuss und persönlichen Geschmack, nicht um Vorschriften.
 
-### Brennnessel — Das grüne Multitalent
+Auch die Kombination lohnt das Experiment: Welche Kräuter harmonieren miteinander, welche mit welchen Speisen? Viele klassische Küchen haben über Generationen bewährte Kombinationen entwickelt, die als Inspiration dienen. Doch der eigene Geschmack darf führen — die Küche ist ein Ort des Ausprobierens.
 
-Die Brennnessel (Urtica dioica) ist vermutlich die unterschätzteste Heilpflanze Europas. Was die meisten Menschen als lästiges Unkraut betrachten, ist tatsächlich ein Nährstoff-Kraftwerk: mehr Eisen als Spinat, mehr Vitamin C als Orangen, dazu Kalzium, Magnesium, Kieselsäure, Flavonoide und Chlorophyll in beeindruckenden Mengen.
+Das Schöne am Kochen mit eigenen Kräutern ist die Unmittelbarkeit: frisch geerntet, sofort verwendet, in vollem Aroma. Diese Frische schmeckt man. Wer einmal mit selbst gezogenen Kräutern gekocht hat, mag die fade Alternative aus dem Tütchen kaum mehr. Genuss, Frische und das gute Gefühl des Selbstgemachten kommen hier zusammen.
 
-**Heilwirkungen:** Blutbildend (bei Eisenmangel), harntreibend (bei Blasenentzündung und Rheuma — spült Harnsäure aus), entzündungshemmend (Arthritis, Allergien), stoffwechselanregend (Frühjahrskur), prostatastärkend (Brennnesselwurzel bei gutartiger Prostatavergrößerung).
-
-**Anwendung:** Als Tee (2–3 TL, 10 Min., 3 Tassen täglich für eine 4-Wochen-Kur). Als Frischpflanzenpresssaft (1–2 EL täglich). Als Gemüse — junge Brennnessel-Triebspitzen im Frühjahr wie Spinat zubereiten: blanchieren, dünsten, als Suppe. Schmeckt hervorragend und liefert mehr Nährstoffe als jedes Superfood.
-
-**Sammeltipp:** Junge Triebspitzen im Frühling (April–Mai) sind am zartesten und wirkstoffreichsten. Handschuhe beim Sammeln tragen. Nach dem Trocknen, Kochen oder Einfrieren verlieren die Brennhaare ihre Wirkung.
-
-### Löwenzahn — Leberkraft
-
-Der Löwenzahn (Taraxacum officinale) ist eine der besten Leberpflanzen der europäischen Heilkunde. Alle Teile sind verwendbar: Blätter, Blüten, Wurzel und sogar der milchige Stängelsaft.
-
-**Blätter:** Reich an Bitterstoffen, Kalium und Vitaminen. Wirken stark harntreibend (daher der Volksname "Bettnässer") und regen Leber und Galle an. Als Salat im Frühling — die jungen Blätter sind nur leicht bitter und sehr schmackhaft.
-
-**Wurzel:** Enthält Inulin (prebiotisch, nährt die Darmflora), Bitterstoffe und Taraxacin. Regt die Gallenproduktion an, unterstützt die Entgiftung und fördert die Verdauung. Als Abkochung (1 TL Wurzel, 10 Min. köcheln) oder geröstet als koffeinfreier Kaffeeersatz — der traditionelle "Muckefuck".
-
-### Spitzwegerich — Das Pflaster aus der Natur
-
-Der Spitzwegerich (Plantago lanceolata) ist die Erste-Hilfe-Pflanze für unterwegs. Seine Blätter enthalten Schleimstoffe, Gerbstoffe, Iridoide und das antibiotisch wirkende Aucubin.
-
-**Bei Insektenstichen und kleinen Verletzungen:** Ein frisches Blatt zwischen den Fingern zerreiben, bis der Saft austritt, und direkt auf die Stelle pressen. Die Schwellung geht zurück, der Juckreiz lässt nach, die Wundheilung wird beschleunigt. Das funktioniert zuverlässig — Spitzwegerich ist die natürliche Outdoor-Apotheke.
-
-**Bei Husten:** Spitzwegerich-Sirup (frische Blätter mit Honig schichten, einige Wochen ziehen lassen) ist eines der besten natürlichen Hustenmittel — besonders bei trockenem Reizhusten. Die Schleimstoffe legen eine schützende Schicht über die gereizten Schleimhäute, das Aucubin bekämpft Bakterien.`
+Mit der Zeit entwickelt jeder seinen eigenen Stil und seine Lieblingskombinationen. Genau diese persönliche Handschrift macht das Kochen mit eigenen Kräutern so befriedigend — es ist Ausdruck und Genuss zugleich.`,
         },
         {
           id: 'N02-M5-L2',
-          titel: 'Räucherpflanzen — Salbei, Beifuß, Wacholder & Weihrauch',
-          inhalt: `## Räucherpflanzen
+          titel: 'Genusstees und Aufgüsse zubereiten',
+          inhalt: `Der Kräuter- und Früchtetee ist die wohl bekannteste und alltäglichste Art, Pflanzen zu genießen. Als Genussgetränk betrachtet, ist er ein wunderbares, sicheres Kulturgut: wärmend, aromatisch, in unzähligen Varianten und seit Jahrhunderten geschätzt. In genau diesem Sinne — als wohlschmeckendes Getränk, nicht als Arznei — widmen wir uns hier dem Tee.
 
-### Die Brücke zwischen Pflanzenheilkunde und Energiearbeit
+Die Zubereitung ist ein kleines, lohnendes Handwerk. Man übergießt die Kräuter mit Wasser passender Temperatur, lässt sie die richtige Zeit ziehen und seiht dann ab. Zarte Blüten und Blätter vertragen oft etwas weniger heißes Wasser und kürzere Ziehzeiten als robuste Wurzeln oder Samen, die mehr Hitze und Zeit brauchen, um ihr Aroma abzugeben.
 
-Räucherpflanzen stehen an einem einzigartigen Schnittpunkt: Ihre Wirkstoffe wirken gleichzeitig auf der physischen Ebene (antimikrobiell, beruhigend, anregend) und auf der energetischen Ebene (reinigend, schützend, bewusstseinsverändernd). Für energetisch Praktizierende sind sie deshalb eines der wichtigsten Werkzeuge.
+Wer experimentiert, findet schnell seine bevorzugten Mischungen und Stärken. Ein einzelnes Kraut kann pur genossen werden oder die Basis einer Mischung bilden. Das Kombinieren verschiedener Genusskräuter, vielleicht ergänzt durch Früchte oder ein wärmendes Gewürz, eröffnet eine ganze Welt an Geschmacksvariationen — für jede Tageszeit und Stimmung die passende Tasse.
 
-### Salbei — Der große Reiniger
+Es gibt viele klassische Genusstees aus Kräutern, Früchten und Gewürzen, die einfach gut schmecken: ein erfrischender Aufguss im Sommer, ein wärmender am Winterabend. Das ist gelebte Genusskultur, die Ruhe und Wohlbefinden begleiten kann — ein Moment des Innehaltens im Alltag.
 
-Salbei (Salvia officinalis — Gartensalbei, oder Salvia apiana — Weißer Salbei) ist die weltweit bekannteste Räucherpflanze. Sein lateinischer Name "Salvia" kommt von "salvare" — heilen, retten.
-
-**Gartensalbei** wächst in Europa, ist leicht zu kultivieren und in seiner Räucherwirkung dem Weißen Salbei in nichts nachstehend. Er reinigt schwere, stagnante Energien, klärt die Atmosphäre nach Konflikten und schafft einen neutralen, frischen Raum.
-
-**Weißer Salbei** stammt aus Kalifornien und dem Südwesten der USA. Er wird traditionell von nordamerikanischen indigenen Völkern für zeremonielle Räucherungen ("Smudging") verwendet. Die Nachfrage hat allerdings zu ökologischen Problemen geführt — Wildbestände werden übermäßig geerntet. Wenn du Weißen Salbei verwendest, achte auf nachhaltige, ethische Quellen. Besser noch: Pflanze heimischen Salbei an.
-
-**Räucheranwendung:** Getrocknete Blätter in einer feuerfesten Schale anzünden, kurz brennen lassen, dann ausblasen, sodass der Salbei glimmt und räuchert. Mit einer Feder oder der Hand den Rauch im Raum verteilen — besonders in Ecken, hinter Möbeln und an Stellen, die sich energetisch schwer anfühlen.
-
-### Beifuß — Der Traumöffner
-
-Beifuß (Artemisia vulgaris) ist die wichtigste europäische Räucherpflanze. In der keltischen und germanischen Tradition galt er als "Mutter aller Kräuter". Sein Name verweist auf Artemis, die Mondgöttin — und tatsächlich ist Beifuß eng mit den lunaren, intuitiven, traumhaften Qualitäten des Bewusstseins verbunden.
-
-**Energetische Wirkung:** Beifuß öffnet die Wahrnehmungskanäle. Er fördert luzide Träume, verstärkt die intuitive Wahrnehmung und unterstützt die schamanische Reise. Viele Praktizierende räuchern vor Meditationen oder Reisen mit Beifuß, um den Übergang in veränderte Bewusstseinszustände zu erleichtern.
-
-**Als Traumpflanze:** Ein Beutel mit getrocknetem Beifuß unter dem Kopfkissen oder ein leichtes Räuchern im Schlafzimmer vor dem Einschlafen kann die Traumintensität und Traumerinnerung deutlich verstärken.
-
-### Wacholder — Der Beschützer
-
-Wacholder (Juniperus communis) hat in der europäischen Volkstradition eine uralte Schutzfunktion. Wacholderbusch vor dem Haus, Wacholderbeeren im Krankenzimmer, Wacholderräucherung bei Seuchen — überall dort, wo Schutz gebraucht wurde, war Wacholder präsent.
-
-**Energetische Wirkung:** Reinigend und schützend zugleich. Wacholder räumt nicht nur auf — er baut einen energetischen Schutzwall auf. Ideal nach der Salbei-Reinigung, um den gereinigten Raum zu versiegeln.
-
-### Weihrauch — Der Erheber
-
-Weihrauch (Boswellia sacra/serrata) ist das Harz des Weihrauchbaums. Seine Verwendung als Räucherstoff ist über 5000 Jahre dokumentiert — in Ägypten, Mesopotamien, Indien und der christlichen Liturgie.
-
-**Energetische Wirkung:** Weihrauch hebt die Schwingung an. Er erzeugt eine Atmosphäre von Sakralität, Würde und spiritueller Öffnung. Ideal für Zeremonien, tiefe Meditationen und die Verbindung mit höheren Bewusstseinsebenen.
-
-**Physisch:** Die Boswelliasäuren im Weihrauch sind stark entzündungshemmend. Weihrauch-Extrakte werden zunehmend bei chronisch-entzündlichen Erkrankungen wie Rheuma und Morbus Crohn eingesetzt.`
+Die klare Grenze bleibt auch hier bestehen: Wir betrachten Tee als Genussgetränk, nicht als Heilmittel. Aussagen, ein bestimmter Tee „helfe gegen" eine Beschwerde, gehören nicht hierher. Wer einen Tee aus gesundheitlichen Gründen gezielt einsetzen möchte oder Beschwerden hat, bespricht das mit Arzt oder Apotheke — gerade weil auch scheinbar harmlose Kräuter Wechselwirkungen haben können. Als Genuss aber steht der Tee jedem offen.`,
         },
         {
           id: 'N02-M5-L3',
-          titel: 'Sicher Sammeln — Bestimmung, Standorte & Trocknung',
-          inhalt: `## Sicher Sammeln
+          titel: 'Saisonale Küche und Tafelkultur',
+          inhalt: `Kräuter und Genusspflanzen verbinden uns auf besonders schöne Weise mit den Jahreszeiten und mit der Kultur des gemeinsamen Essens. Eine saisonale, kräuterreiche Küche ist nicht nur abwechslungsreich und aromatisch, sondern auch ein Stück gelebte Naturverbundenheit und Tafelkultur.
 
-### Kräuter sammeln — die ursprünglichste Form der Heilkunde
+Der Jahreslauf bringt unterschiedliche Kräuter und Aromen hervor. Das junge Grün des Frühlings, die Fülle des Sommers, die reifen Aromen des Herbstes — wer mit dem saisonalen Angebot kocht, erlebt eine natürliche Abwechslung und nutzt die Pflanzen, wenn sie am besten sind. Diese Verbindung zum Rhythmus der Natur bereichert das Kochen über den reinen Geschmack hinaus.
 
-Es gibt einen qualitativen Unterschied zwischen einer Pflanze, die du selbst an einem sonnigen Morgen gesammelt hast, und einem Teebeutel aus dem Supermarkt. Nicht nur in der Wirkstoffkonzentration — auch in der Beziehung, die du zu dieser Pflanze aufbaust. Selbst sammeln ist Verbindungsarbeit: Du lernst die Pflanzen dort kennen, wo sie leben, erkennst ihre Standortvorlieben, spürst ihre Energie direkt.
+Kräuter spielen seit jeher eine Rolle in Festen und Bräuchen rund ums Essen. Manche Gerichte, manche Kräuterkombinationen sind mit Jahreszeiten, Feiertagen oder Traditionen verbunden. Diese kulturelle Dimension — die Geschichten und Bräuche hinter den Pflanzen — macht das Kochen mit Kräutern zu mehr als bloßer Nahrungszubereitung; es wird zu einem Stück gelebter Kultur.
 
-### Grundregeln der sicheren Bestimmung
+Auch die Gestaltung der Tafel profitiert von Kräutern und essbaren Blüten. Ein Strauß frischer Küchenkräuter, essbare Blüten als Dekoration eines Gerichts, ein selbst gemachtes Kräuteröl als Mitbringsel — all das bringt Schönheit und Persönlichkeit auf den Tisch und in die Gastfreundschaft. Es sind die kleinen Gesten, die eine Mahlzeit besonders machen.
 
-**Regel Nummer 1: Hundertprozentige Sicherheit.** Sammle nur Pflanzen, die du absolut sicher bestimmst. Keine Wahrscheinlichkeiten, keine "könnte sein", keine Verwechslung riskieren. Einige Giftpflanzen sehen ihren essbaren Verwandten zum Verwechseln ähnlich — Schierling und Wilde Möhre, Herbstzeitlose und Bärlauch, Fingerhut und Beinwell.
-
-**Regel Nummer 2: Drei-Sinne-Bestimmung.** Nutze mindestens drei Merkmale zur Identifikation: Blattform, Blütenform/Farbe, Geruch, Standort, Wuchshöhe, Stängelform. Ein einzelnes Merkmal reicht nie aus.
-
-**Regel Nummer 3: Lerne von einem Menschen.** Bücher und Apps sind Hilfsmittel, aber kein Ersatz für die Begleitung durch jemanden, der die Pflanzen kennt. Eine geführte Kräuterwanderung oder ein Bestimmungskurs ist die beste Investition für sichere Wildkräutersammlung.
-
-### Standortwahl und Sammelethik
-
-**Wo nicht sammeln:** Direkt an Straßen und viel befahrenen Wegen (Schadstoffbelastung). An Feldrändern konventioneller Landwirtschaft (Pestizide). In Naturschutzgebieten (verboten). An Hundewegen (Kontamination).
-
-**Wo sammeln:** Auf eigenen Grundstücken und Gärten. In naturnahen Wäldern und Wiesen abseits von Straßen. Auf Almwiesen und in Mittelgebirgslagen. An sauberen Bachufern.
-
-**Sammelethik:** Nimm nie mehr als ein Drittel des Bestandes an einem Standort. Lasse immer genug stehen, damit sich die Population regeneriert. Bedanke dich — innerlich oder laut. Das klingt esoterisch, ist aber eine Haltung der Achtsamkeit, die dich automatisch zu einem nachhaltigeren Sammler macht.
-
-### Trocknung und Lagerung
-
-Die meisten Heilkräuter werden getrocknet aufbewahrt. Richtige Trocknung bewahrt die Wirkstoffe, falsche zerstört sie.
-
-**Grundprinzip:** Schnell trocknen, aber nicht mit Hitze. Idealtemperatur: 25 bis 35 Grad Celsius, bei guter Luftzirkulation. Nicht in der direkten Sonne — UV-Strahlung zerstört ätherische Öle und Farbstoffe. Nicht im Backofen — die Hitze zerstört empfindliche Wirkstoffe.
-
-**Methode:** Kräuter in kleinen Sträußen kopfüber aufhängen (Stängelpflanzen wie Salbei, Thymian, Beifuß) oder auf einem Gitter/Tuch ausbreiten (Blüten wie Kamille, Ringelblume, Lavendel). Ein luftiger, warmer, dunkler Raum ist ideal — Dachboden, überdachte Terrasse, Trocknungsschrank.
-
-**Lagerung:** Vollständig getrocknete Kräuter in dunklen Gläsern mit Schraubverschluss aufbewahren. Beschriften mit Pflanzenname und Sammeldatum. Lagerort: dunkel, kühl, trocken. Haltbarkeit: Blätter und Blüten 1 Jahr, Wurzeln und Rinden 2 bis 3 Jahre.
-
-**Qualitätskontrolle:** Gute Trocknungsqualität erkennst du daran, dass die Kräuter beim Zerbröseln noch intensiv duften und ihre Farbe weitgehend behalten haben. Wenn sie staubig riechen, farblos sind oder Schimmelflecken zeigen — entsorgen.`
-        }
-      ]
+Im Kern geht es bei all dem um Freude: an der Vielfalt, am Selbstgemachten, am Teilen mit anderen. Die saisonale Kräuterküche lädt ein, langsamer und bewusster zu genießen, mit den Jahreszeiten zu leben und die einfachen, sicheren Schätze der Pflanzenwelt mit Menschen zu teilen, die einem wichtig sind. Genau das ist der Geist dieses Kurses.`,
+        },
+      ],
     },
-
-    // ============================================================
-    // MODUL 6 — Heilpflanzen in der energetischen Praxis
-    // ============================================================
     {
       id: 'N02-M6',
-      titel: 'Heilpflanzen in der energetischen Praxis',
-      beschreibung: 'Pflanzen gezielt in der energetischen Arbeit einsetzen, eine persönliche Kräuter-Hausapotheke aufbauen und Pflanzenheilkunde sicher und verantwortungsvoll anwenden.',
+      titel: 'Sicherheit & Verantwortung',
       lektionen: [
         {
           id: 'N02-M6-L1',
-          titel: 'Pflanzen & Chakren — Energetische Zuordnungen',
-          inhalt: `## Pflanzen & Chakren
+          titel: 'Der Irrtum „natürlich = harmlos"',
+          inhalt: `Auch in einem Kurs über Genuss- und Küchenpflanzen gehört ein klarer Blick auf die Sicherheit zum Kern — denn ein verbreiteter Irrtum kann auch beim genussvollen Umgang mit Pflanzen zu Sorglosigkeit verleiten: die Annahme, „natürlich" bedeute automatisch „harmlos". Dieser Denkfehler ist falsch und verdient eine klare Richtigstellung.
 
-### Jedes Chakra hat seine Pflanzen
+Tatsächlich sagt die Herkunft einer Substanz nichts über ihre Sicherheit aus. Viele der stärksten bekannten Gifte sind natürlichen, pflanzlichen Ursprungs. Die Natur bildet ihre Stoffe zu eigenen Zwecken, nicht zu unserem Nutzen. Eine Pflanze kann wohlschmeckend und sicher sein — oder eben nicht. „Natürlich" ist kein Sicherheitsversprechen.
 
-In der energetischen Heilarbeit lassen sich Heilpflanzen gezielt den Energiezentren des Körpers zuordnen. Diese Zuordnung basiert auf jahrhundertealter Erfahrung und der Beobachtung, welche Pflanzen auf welche Körperbereiche, Emotionen und Bewusstseinsqualitäten wirken.
+Für den Genusskurs heißt das vor allem zweierlei. Erstens: Auch beliebte Genusspflanzen sollten in üblichen, lebensmitteltypischen Mengen genossen werden, nicht in konzentrierter Form oder im Übermaß. Was als Gewürz oder gelegentlicher Tee unbedenklich ist, muss das in großen Mengen nicht bleiben. Maß und übliche Verwendung sind die sichere Leitlinie.
 
-### Wurzelchakra — Erdung und Sicherheit
+Zweitens: Gerade weil „natürlich" nicht „harmlos" bedeutet, ist die sichere Bestimmung beim Sammeln so entscheidend — ein Punkt, den wir bereits ausführlich behandelt haben. Der Irrtum von der grundsätzlichen Harmlosigkeit ist es, der Menschen unbekannte Wildpflanzen sorglos probieren lässt. Genau davor schützt ein waches Bewusstsein.
 
-Das Wurzelchakra (Muladhara) am Beckenboden steht für Verwurzelung, Sicherheit und physische Vitalität. Pflanzen für dieses Zentrum sind stark erdend, nährend und kräftigend.
+Die richtige Haltung ist nicht Misstrauen gegen die Natur, sondern Respekt. Wer die Pflanzenwelt wirklich schätzt, nimmt auch ihre Kraft ernst. Wertschätzung und Vorsicht gehören zusammen. Mit dieser reifen Haltung lässt sich die Welt der Genusspflanzen frei, freudvoll und zugleich sicher genießen — und das ist das Ziel dieses Kurses.
 
-**Angelikawurzel** — die große Schutzpflanze der europäischen Tradition. Ihre massive Wurzel verankert in der Erde. Stärkt das Immunsystem, wärmt von innen, gibt ein Gefühl von Sicherheit.
-
-**Ashwagandha** — adaptogen, erdend, stärkend. Die ideale Pflanze für Menschen, die sich entwurzelt oder erschöpft fühlen.
-
-**Vetiver** — das ätherische Öl wird aus den Wurzeln gewonnen und hat einen der tiefsten, erdigsten Düfte überhaupt. In der Aromatherapie der stärkste Erder.
-
-### Sakralchakra — Kreativität und Lebensfreude
-
-Das Sakralchakra (Svadhisthana) im Unterbauch steht für Emotionen, Kreativität, Sinnlichkeit und Fluss. Pflanzen für dieses Zentrum sind oft sinnlich, wärmend und emotional öffnend.
-
-**Damiana** — traditionelles Aphrodisiakum und Stimmungsaufheller. Löst emotionale Blockaden und fördert den Zugang zu Freude und Sinnlichkeit.
-
-**Ylang-Ylang** — das ätherische Öl ist einer der sinnlichsten Düfte der Pflanzenwelt. Öffnet das Herz für Genuss und emotionalen Ausdruck.
-
-**Calendula** — die Ringelblume heilt auf der physischen Ebene Wunden und auf der emotionalen Ebene Verletzlichkeit. Ihre leuchtend orangene Farbe korrespondiert mit der Farbe des Sakralchakras.
-
-### Solarplexus — Kraft und Selbstvertrauen
-
-Das Solarplexus-Chakra (Manipura) steht für Willenskraft, Selbstvertrauen und Identität. Die zugehörigen Pflanzen aktivieren, stärken und fördern die Verdauungskraft — physisch wie metaphorisch.
-
-**Ingwer** — Feuer im Bauch. Aktiviert die Verdauungskraft und stärkt den persönlichen Willen.
-
-**Rosmarin** — klärt den Geist, stärkt das Selbstvertrauen, fördert die Durchsetzungskraft. Sein ätherisches Öl ist eines der besten für die Morgenstärkung.
-
-**Kurkuma** — reinigend, entzündungshemmend, lichtbringend. Die goldene Farbe des Kurkuma korrespondiert direkt mit der Solarplexus-Energie.
-
-### Herzchakra — Liebe und Mitgefühl
-
-**Rose** — die Königin der Herzpflanzen. Rosenöl hat die höchste Schwingungsfrequenz aller ätherischen Öle. Öffnet das Herz für Liebe, Mitgefühl und Vergebung.
-
-**Weißdorn** — physisch stärkt er das Herz (klinisch nachgewiesen bei Herzinsuffizienz). Energetisch heilt er das gebrochene Herz.
-
-**Melisse** — die Lichtbringerin, die Herz und Nerven gleichzeitig beruhigt.
-
-### Halschakra, Stirnchakra, Kronenchakra
-
-**Halschakra:** Salbei (reinigt die Stimme, physisch und energetisch), Eukalyptus (öffnet den Atem, klärt die Kommunikation).
-
-**Stirnchakra (Drittes Auge):** Beifuß (öffnet die Wahrnehmung, fördert Visionen), Gotu Kola (stärkt die kognitive Klarheit und die Meditation).
-
-**Kronenchakra:** Lavendel (verbindet Erde und Himmel), Weihrauch (öffnet die Verbindung zum Göttlichen, hebt die Schwingung an).`
+Sicherheitsbewusstsein und Genuss sind dabei keine Gegensätze. Wer die wenigen wichtigen Grundregeln verinnerlicht hat, muss nicht ständig daran denken — sie werden zur selbstverständlichen Grundlage eines entspannten, freudvollen Umgangs.`,
         },
         {
           id: 'N02-M6-L2',
-          titel: 'Deine Kräuter-Hausapotheke — 12 Pflanzen für alles',
-          inhalt: `## Deine Kräuter-Hausapotheke
+          titel: 'Wechselwirkungen, Risikogruppen und die Arzt-Grenze',
+          inhalt: `So sicher der Genuss bekannter Küchen- und Teekräuter in üblichen Mengen ist — es gibt Situationen, in denen besondere Aufmerksamkeit geboten ist. Diese ehrlich zu benennen gehört zu einem verantwortlichen Kurs und schützt die Menschen, die dieses Wissen anwenden oder weitergeben.
 
-### 12 Pflanzen, die alles abdecken
+Ein wichtiger Punkt sind mögliche Wechselwirkungen. Auch alltägliche Pflanzenstoffe können in bestimmten Fällen die Wirkung von Medikamenten beeinflussen. Das ist bei den hier behandelten Genusspflanzen in lebensmitteltypischen Mengen meist kein Thema — aber wer regelmäßig Medikamente einnimmt und größere Mengen bestimmter Kräuter oder Tees genießen möchte, klärt das im Zweifel mit Arzt oder Apotheke ab. Die Apotheke ist dafür eine niedrigschwellige, kompetente Anlaufstelle.
 
-Du brauchst keine hundert verschiedenen Kräuter. Mit den folgenden 12 Pflanzen deckst du die häufigsten Beschwerden und energetischen Bedürfnisse ab — eine kompakte, vielseitige Hausapotheke, die in ein einziges Regal passt.
+Besondere Zurückhaltung gilt für einige Personengruppen: in Schwangerschaft und Stillzeit, bei Säuglingen und kleinen Kindern, bei älteren Menschen und bei chronischen Erkrankungen. In diesen Lebenslagen kann manches anders oder stärker wirken, und vieles, was sonst unbedenklich genossen wird, ist hier mit mehr Vorsicht zu behandeln. Im Zweifel gilt der Vorrang fachlicher Beratung.
 
-**1. Kamille** (Matricaria chamomilla)
-Einsatz: Magen-Darm-Beschwerden, Entzündungen, Wundheilung, Beruhigung, Hautprobleme.
-Vorrat: Getrocknete Blüten im Glas. Reicht für Tee, Dampfbäder, Wickel und Sitzbäder.
+Die wichtigste Grenze bleibt durch den ganzen Kurs unverändert: Bei gesundheitlichen Beschwerden sind Arzt und Apotheker die richtigen Ansprechpartner — nicht Genusspflanzen und nicht dieser Kurs. Wer Beschwerden hat, lässt sie ärztlich abklären, statt zu versuchen, sie mit Kräutern zu „behandeln". Anhaltende, starke oder ungewöhnliche Beschwerden gehören grundsätzlich in fachkundige Hände.
 
-**2. Salbei** (Salvia officinalis)
-Einsatz: Halsschmerzen, übermäßiges Schwitzen, Zahnfleischentzündung, Räuchern, Raumreinigung.
-Vorrat: Getrocknete Blätter für Tee und Gurgellösung. Räucherbündel für energetische Reinigung.
-
-**3. Thymian** (Thymus vulgaris)
-Einsatz: Husten, Bronchitis, Erkältung, Immunstärkung. Der Atemwegsspezialist.
-Vorrat: Getrocknetes Kraut für Tee und Dampfinhalation.
-
-**4. Pfefferminze** (Mentha piperita)
-Einsatz: Blähungen, Verdauungskrämpfe, Kopfschmerzen, Übelkeit, Erkältung.
-Vorrat: Getrocknete Blätter. Ätherisches Öl für Stirn-Anwendung bei Kopfschmerz.
-
-**5. Johanniskraut** (Hypericum perforatum)
-Einsatz: Leichte Depression, Nervosität, Nervenschmerzen, Wundheilung.
-Vorrat: Getrocknetes Kraut für Tee. Johanniskrautöl (Rotöl) für äußere Anwendung.
-
-**6. Baldrian** (Valeriana officinalis)
-Einsatz: Schlafstörungen, innere Unruhe, nervöse Anspannung.
-Vorrat: Getrocknete Wurzel oder Tinktur.
-
-**7. Ringelblume** (Calendula officinalis)
-Einsatz: Wundheilung, Hautpflege, Ekzeme, rissige Haut, Narbenpflege.
-Vorrat: Ringelblumensalbe. Getrocknete Blüten für Tee und Umschläge.
-
-**8. Ingwer** (Zingiber officinale)
-Einsatz: Übelkeit, Verdauungsschwäche, Erkältung, Durchblutungsförderung.
-Vorrat: Frische Wurzel (hält wochenlang im Kühlschrank). Getrocknetes Pulver als Backup.
-
-**9. Brennnessel** (Urtica dioica)
-Einsatz: Eisenmangel, Frühjahrskur, Entgiftung, Rheuma, Harnwegsinfekte.
-Vorrat: Getrocknete Blätter für Tee. Im Frühling frisch sammeln für Gemüse.
-
-**10. Holunder** (Sambucus nigra)
-Einsatz: Erkältung, Fieber, Grippe, Immunstärkung.
-Vorrat: Holunderblüten (getrocknet) für schweißtreibenden Tee. Holunderbeer-Sirup für die Grippezeit.
-
-**11. Lavendel** (Lavandula angustifolia)
-Einsatz: Schlafstörungen, Angst, Unruhe, Hautpflege, energetische Arbeit.
-Vorrat: Getrocknete Blüten. Ätherisches Öl (das vielseitigste aller ätherischen Öle).
-
-**12. Beifuß** (Artemisia vulgaris)
-Einsatz: Räuchern, Traumarbeit, Verdauungsförderung, Frauenheilkunde (Menstruationsbeschwerden).
-Vorrat: Getrocknetes Kraut für Tee und Räucherung.
-
-### Organisation
-
-Bewahre alles in dunklen Schraubgläsern auf, beschriftet mit Name und Datum. Stelle die Gläser zusammen in einem Schrank oder Regal — idealerweise kühl, dunkel und trocken. Überprüfe einmal jährlich: Kräuter, die über ein Jahr alt sind (Blüten und Blätter) oder über zwei Jahre (Wurzeln), durch frische Bestände ersetzen.`
+Diese Grenze ist keine Einschränkung des Genusses, sondern sein sicherer Rahmen. Innerhalb dieses Rahmens — übliche Mengen, bekannte Pflanzen, Genuss statt Behandlung — steht die ganze Vielfalt der Küchen- und Genusspflanzen offen. Wer die Grenze kennt und achtet, kann diese Welt mit gutem Gewissen und ohne Sorge erkunden.`,
         },
         {
           id: 'N02-M6-L3',
-          titel: 'Verantwortung, Grenzen & Weiterentwicklung',
-          inhalt: `## Verantwortung & Grenzen
+          titel: 'Wissen weitergeben — die eigene Rolle',
+          inhalt: `Wer die Freude an Küchen- und Genusspflanzen teilt und dieses Wissen an andere weitergibt — in der Familie, im Freundeskreis oder im Rahmen einer Begleitung —, sollte die eigene Rolle klar verstehen. Diese Rollenklarheit macht die Weitergabe wertvoll, sicher und vertrauenswürdig.
 
-### Pflanzenheilkunde ist kein Ersatz für medizinische Behandlung
+Man vermittelt praktisches Natur-, Garten- und Genusswissen: wie man Kräuter zieht, sicher sammelt, verarbeitet und genießt. Man fördert Naturverbundenheit, Achtsamkeit und Freude an der Pflanzenwelt. Was man ausdrücklich nicht tut: Beschwerden behandeln, Diagnosen stellen, Pflanzen „gegen" Leiden empfehlen oder Mengen zur gesundheitlichen Anwendung angeben. Diese Trennung ist rechtlich und ethisch entscheidend.
 
-Dieser Grundsatz muss am Ende dieses Kurses stehen — klar und unmissverständlich. Heilpflanzen sind mächtige Werkzeuge. Sie können lindern, unterstützen, heilen und transformieren. Aber sie haben Grenzen.
+Im Rahmen nicht-heilkundlicher Tätigkeit ist die Weitergabe von Garten-, Küchen- und Genusswissen unproblematisch und bereichernd. Sobald man jedoch beginnt, Pflanzen zur Linderung von Beschwerden zu empfehlen oder gesundheitliche Wirkungen zu versprechen, überschreitet man die Grenze zur Heilkunde — mit allen rechtlichen Folgen. Diese Linie im Blick zu behalten, schützt einen selbst und die Menschen, denen man etwas weitergibt.
 
-**Wann Pflanzenheilkunde die erste Wahl ist:**
-Leichte bis mittlere Alltagsbeschwerden — Erkältungen, Verdauungsprobleme, Schlafstörungen, Anspannung, Kopfschmerzen, Hautprobleme, Menstruationsbeschwerden. Bei chronischen Erkrankungen als Ergänzung zur schulmedizinischen Behandlung — immer in Absprache mit dem behandelnden Arzt.
+Eine hilfreiche innere Leitfrage lautet: „Bewege ich mich noch im Bereich von Genuss, Küche und Garten — oder betrete ich gerade gesundheitliches Gebiet?" Sobald eine Frage in Richtung Beschwerden, Behandlung oder gezielte gesundheitliche Wirkung geht, ist der freundliche Verweis an Arzt oder Apotheke der richtige Weg.
 
-**Wann du zum Arzt musst:**
-Starke oder unklare Schmerzen. Hohes Fieber über mehrere Tage. Atemnot. Blut im Stuhl oder Urin. Plötzliche, unerklärliche Symptome. Psychische Krisen. Verdacht auf ernsthafte Erkrankung. Kinder unter einem Jahr — hier nur nach ärztlicher Rücksprache Heilpflanzen einsetzen.
+So verstanden, ist die Weitergabe von Pflanzenwissen ein schönes Geschenk: Sie verbindet Menschen mit der Natur, weckt Freude und Wissensdurst und fördert einen mündigen, sicheren Umgang mit der Pflanzenwelt. Diese Verbindung aus Begeisterung und Verantwortung ist das Beste, was man weitergeben kann — und der bleibende Wert dieses Kurses.
 
-### Wechselwirkungen ernst nehmen
-
-Heilpflanzen sind nicht automatisch harmlos, nur weil sie natürlich sind. Einige der stärksten Gifte der Welt sind pflanzlichen Ursprungs. Und auch mild wirkende Heilpflanzen können mit Medikamenten interagieren — manchmal mit ernsthaften Konsequenzen.
-
-Die wichtigsten Wechselwirkungen:
-Johanniskraut schwächt die Wirkung der Antibabypille, von Blutverdünnern, HIV-Medikamenten und Immunsuppressiva. Grapefruit (streng genommen eine Frucht, aber das Prinzip gilt) hemmt den Abbau zahlreicher Medikamente in der Leber und kann deren Spiegel gefährlich erhöhen. Ginkgo verstärkt die Wirkung von Blutverdünnern. Baldrian kann die Wirkung von Beruhigungsmitteln und Alkohol verstärken. Süßholz erhöht den Blutdruck bei Langzeitanwendung.
-
-Grundregel: Wer regelmäßig Medikamente einnimmt, sollte vor der Anwendung von Heilpflanzen den Arzt oder Apotheker informieren.
-
-### Besondere Vorsicht
-
-**Schwangerschaft:** Viele Heilpflanzen sind in der Schwangerschaft kontraindiziert — Beifuß, Salbei in hohen Dosen, Beinwell, Mutterkorn, zahlreiche ätherische Öle. Im Zweifel nicht anwenden.
-
-**Kinder:** Dosierung grundsätzlich reduzieren (Faustregel: Erwachsenendosis × Körpergewicht des Kindes ÷ 70 kg). Keine ätherischen Öle im Gesichtsbereich von Säuglingen und Kleinkindern — Menthol und Eukalyptol können Atemkrämpfe auslösen.
-
-**Allergien:** Korbblütler-Allergie (Beifuß, Kamille, Arnika, Ringelblume, Echinacea gehören alle zur selben Pflanzenfamilie). Wer auf einen reagiert, sollte bei allen vorsichtig sein.
-
-### Dein Weg weiter
-
-Pflanzenheilkunde ist ein lebenslanger Lernweg. Dieser Kurs gibt dir ein solides Fundament — aber die tiefste Lehrerin ist die Pflanze selbst. Geh raus. Sammle. Rieche. Schmecke. Bereite zu. Beobachte die Wirkung in deinem Körper. Führe ein Kräutertagebuch.
-
-Die nächsten Schritte könnten sein: Phytotherapie vertiefen (die systematische therapeutische Anwendung). Aromatherapie (die Welt der ätherischen Öle — Kurs N01). Ayurvedische oder TCM-Pflanzenheilkunde (N07, N08). Oder der schamanische Weg der Pflanzenkommunikation — das direkte Gespräch mit dem Wesen der Pflanze.
-
-Jede Pflanze, die du kennenlernst, ist ein neuer Verbündeter. Jedes Kraut, das du zubereitest, ist ein Akt der Verbindung mit der Erde. In einer Welt, die zunehmend von der Natur entfremdet ist, ist Pflanzenheilkunde nicht nur Medizin — sie ist ein Weg zurück.`
-        }
-      ]
-    }
-  ]
+Wer Menschen für Kräuter und Genusspflanzen begeistert, schenkt ihnen einen Zugang, der ein Leben lang trägt: zur Natur, zur eigenen Küche und zu einem achtsamen, selbstbestimmten Alltag. Das ist ein Geschenk, das weiterwirkt.`,
+        },
+      ],
+    },
+  ],
+  quiz: [
+    {
+      frage: 'Wie versteht sich dieser Kurs?',
+      antworten: [
+        'Als Anleitung, Pflanzen gegen Beschwerden einzusetzen',
+        'Als praktischer Kurs über Anbau, Sammeln, Verarbeiten und Genuss sicherer Pflanzen — ohne Heilversprechen',
+        'Als Ersatz für Arzt und Apotheke',
+        'Als Sammlung von Dosierungen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was ist die wichtigste Regel beim Sammeln in der Natur?',
+      antworten: [
+        'Möglichst viel mitnehmen',
+        'Nur verwenden, was man zweifelsfrei und sicher bestimmt hat',
+        'Sich auf ein einzelnes Foto in einer App verlassen',
+        'Auch Unbekanntes probieren',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Worauf sollte man beim Trocknen von Kräutern besonders achten?',
+      antworten: [
+        'In direkter Sonne trocknen für mehr Aroma',
+        'Schonend und vollständig trocknen, bevor Feuchtigkeit Schimmel verursacht',
+        'Kräuter feucht ins Vorratsglas geben',
+        'Möglichst schnell bei großer Hitze',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie lagert man getrocknete Kräuter ideal?',
+      antworten: [
+        'In durchsichtigen Gläsern am sonnigen Fenster',
+        'Offen an der warmen Heizung',
+        'Dunkel, luftdicht, trocken und kühl',
+        'Im feuchten Keller',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie ist der Kräutertee in diesem Kurs gemeint?',
+      antworten: [
+        'Als Heilmittel gegen bestimmte Beschwerden',
+        'Als Genussgetränk — wohlschmeckend, ohne Heilanspruch',
+        'Als Ersatz für ärztliche Behandlung',
+        'Als Mittel mit fester Dosierung',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was bedeutet „natürlich ist nicht automatisch harmlos"?',
+      antworten: [
+        'Alle Pflanzen sind gefährlich',
+        'Die Herkunft sagt nichts über die Sicherheit — auch übliche Mengen und sichere Bestimmung zählen',
+        'Man sollte gar keine Pflanzen verwenden',
+        'Natürliche Stoffe wirken nie',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wann ist beim Genuss von Kräutern besondere Zurückhaltung angebracht?',
+      antworten: [
+        'Nie, Genusspflanzen sind immer unbedenklich',
+        'Nur bei Wildpflanzen',
+        'In Schwangerschaft/Stillzeit, bei Kindern, älteren Menschen, chronischen Erkrankungen und Medikamenteneinnahme',
+        'Nur im Winter',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie gibt man dieses Pflanzenwissen verantwortlich weiter?',
+      antworten: [
+        'Als Empfehlung „gegen" Beschwerden mit Mengenangaben',
+        'Als Garten-, Küchen- und Genusswissen, mit Verweis an Arzt/Apotheke bei Gesundheitsfragen',
+        'Mit Heilversprechen, um zu überzeugen',
+        'Indem man vom Arztbesuch abrät',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default N02;

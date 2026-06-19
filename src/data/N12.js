@@ -675,11 +675,11 @@ Formuliere für jede Stelle einen freundlichen Beispielsatz:
     },
 
     // ============================================================
-    // MODUL 6 — Deine Rolle in der Praxis
+    // MODUL 6 — Deine Rolle in der Begleitung
     // ============================================================
     {
       id: 'N12-M6',
-      titel: 'Deine Rolle in der Praxis',
+      titel: 'Deine Rolle in der Begleitung',
       beschreibung: 'Aufklären und sensibilisieren statt empfehlen, Klient:innen vor Fehlkäufen und Risiken schützen und ein klares Selbstverständnis als mündig machende Begleiter:in entwickeln.',
       lektionen: [
         {
@@ -709,7 +709,7 @@ Diese Haltung schützt nicht nur die Menschen, sondern auch dich: Du übernimmst
 
 ### Die praktische Haltung
 
-In der Praxis bedeutet das: Wenn das Thema Nahrungsergänzung aufkommt, fragst du nicht "Was soll ich empfehlen?", sondern "Wie kann ich diese Person befähigen und sensibilisieren — und wohin verweise ich sie für die eigentliche Entscheidung?". Diese innere Umstellung ist der Kern deiner Rolle.
+Im Alltag bedeutet das: Wenn das Thema Nahrungsergänzung aufkommt, fragst du nicht "Was soll ich empfehlen?", sondern "Wie kann ich diese Person befähigen und sensibilisieren — und wohin verweise ich sie für die eigentliche Entscheidung?". Diese innere Umstellung ist der Kern deiner Rolle.
 
 ### Übung: Aufklären statt empfehlen
 

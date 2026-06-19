@@ -672,7 +672,7 @@ Diese klare Trennung ist kein bürokratisches Hindernis — sie ist Schutz. Sie 
 3. klar und freundlich an Arzt oder Apotheke verweist,
 4. ohne belehrend oder abweisend zu wirken.
 
-Übe diese Haltung, bis sie sich natürlich anfühlt — sie ist eines der wertvollsten Werkzeuge deiner Praxis.`
+Übe diese Haltung, bis sie sich natürlich anfühlt — sie ist eines der wertvollsten Werkzeuge deiner Begleitung.`
         },
         {
           id: 'N10-M5-L2',

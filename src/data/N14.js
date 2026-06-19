@@ -1,9 +1,9 @@
 // N14 — Schilddrüsengesundheit ganzheitlich
 // Bereich: naturheilkunde · Niveau: ★★☆ · Format: ◈◈ Standard-Kurs · Status: live
 // Gebaut nach KURS_UMFANG_STANDARD (03.06.2026): 6 Module / 18 Lektionen / je 250+ Wörter.
-// ⚠️ HEIKLES THEMA (Diagnostik/Hormone/Medikation): Zuschnitt-Standard streng angewendet.
+// ⚠ ï¸ HEIKLES THEMA (Diagnostik/Hormone/Medikation): Zuschnitt-Standard streng angewendet.
 // Tiefe kommt aus dem SICHEREN KERN (Verständnis, Ernährung, Lebensstil, Stress,
-// Selbstwahrnehmung, energetisch-symbolisch, Sicherheit) — NICHT aus Diagnostik/Dosierung.
+// Selbstwahrnehmung, seelisch-symbolisch, Sicherheit) — NICHT aus Diagnostik/Dosierung.
 // Keine Laborwert-Deutung, keine Therapie, durchgängige harte Arzt-Verweisgrenze.
 // Quellenschutz-Audit bestanden — markenfrei, keine Autoren/Schulen/Werke/Methoden. Keine Health-Claims.
 
@@ -135,7 +135,7 @@ Bei tastbaren Veränderungen, Schwellungen, Knoten oder einem Engegefühl am Hal
     },
     {
       id: 'N14-M4',
-      titel: 'Die Schilddrüse energetisch betrachten',
+      titel: 'Die Schilddrüse seelisch-symbolisch betrachten',
       lektionen: [
         {
           id: 'N14-M4-L1',
@@ -162,7 +162,7 @@ In der Begleitung anderer Menschen lassen sie sich als achtsame Impulse anbieten
         {
           id: 'N14-M4-L3',
           titel: 'Innere Balance und Selbstwahrnehmung',
-          inhalt: `Die energetische Betrachtung mündet in eine größere Frage: die nach dem inneren Gleichgewicht. So wie die Schilddrüse den körperlichen Takt reguliert, suchen wir auch seelisch nach einem gesunden Maß zwischen Antrieb und Ruhe, zwischen Tun und Sein. Dieses Bild kann helfen, das eigene Leben achtsamer zu betrachten.
+          inhalt: `Die seelisch-symbolische Betrachtung mündet in eine größere Frage: die nach dem inneren Gleichgewicht. So wie die Schilddrüse den körperlichen Takt reguliert, suchen wir auch seelisch nach einem gesunden Maß zwischen Antrieb und Ruhe, zwischen Tun und Sein. Dieses Bild kann helfen, das eigene Leben achtsamer zu betrachten.
 
 Viele Menschen leben dauerhaft „auf Hochtouren" oder umgekehrt in einem Zustand der Erschöpfung und Antriebslosigkeit. Die symbolische Frage lautet: Wo stehe ich gerade? Gönne ich mir genug Ruhe, oder treibe ich mich ständig an? Habe ich den Antrieb verloren, oder finde ich zurück in meine Kraft? Solche Reflexionen sind ein Weg zu mehr Selbstkenntnis.
 
@@ -242,7 +242,7 @@ Diese Haltung schützt die begleiteten Menschen, schützt dich rechtlich und mac
           titel: 'Zusammenfassung: ganzheitlich und verantwortlich',
           inhalt: `Zum Abschluss lohnt der Blick auf das Ganze. Dieser Kurs hat die Schilddrüse als kleines Organ mit großer Wirkung vorgestellt, ihren Regelkreis verständlich gemacht und gezeigt, wie ein schilddrüsenfreundlicher Lebensstil aussehen kann — über ausgewogene Ernährung, maßvolle Bewegung, Stressbalance und achtsame Selbstwahrnehmung.
 
-Die energetisch-symbolische Ebene hat den Hals als Ort von Ausdruck und Stimme beleuchtet und zu mehr Selbstkenntnis und innerem Gleichgewicht eingeladen — stets als seelische Reflexion, nie als medizinisches Erklärungsmodell. Und durchgehend zog sich die wichtigste Linie: die klare Grenze zur ärztlichen Behandlung.
+Die seelisch-symbolische Ebene hat den Hals als Ort von Ausdruck und Stimme beleuchtet und zu mehr Selbstkenntnis und innerem Gleichgewicht eingeladen — stets als seelische Reflexion, nie als medizinisches Erklärungsmodell. Und durchgehend zog sich die wichtigste Linie: die klare Grenze zur ärztlichen Behandlung.
 
 Der ganzheitliche Wert liegt genau in dieser Kombination: Wissen und Selbstfürsorge auf der einen Seite, klare Demut vor der medizinischen Zuständigkeit auf der anderen. Menschen, die ihren Körper verstehen, gut für sich sorgen und wissen, wann ärztlicher Rat gefragt ist, sind mündige, gut aufgestellte Menschen.
 
@@ -303,7 +303,7 @@ Wer dieses Wissen weitergibt, leistet einen echten Beitrag — vorausgesetzt, er
       richtig: 2,
     },
     {
-      frage: 'Wie ist die energetisch-symbolische Betrachtung des Halses gemeint?',
+      frage: 'Wie ist die seelisch-symbolische Betrachtung des Halses gemeint?',
       antworten: [
         'Als medizinische Ursache von Krankheit',
         'Als seelische Einladung zur Selbstreflexion, ohne Heilanspruch',

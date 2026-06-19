@@ -2,7 +2,7 @@
 // Bereich: naturheilkunde · Niveau: ★☆☆ (Marktpotenzial) · Format: ◈◈ Standard-Kurs · Status: live
 // Gebaut nach KURS_UMFANG_STANDARD (03.06.2026): 6 Module / 18 Lektionen / je 250+ Wörter.
 // ★☆☆ betrifft NUR das Marktpotenzial, NICHT den Umfang — voller ◈◈-Umfang.
-// ⚠️ HEIKEL: Curriculum nannte "Beschwerden & Empfehlungen" = Indikationslogik (HeilprG/HWG).
+// ⚠ ï¸ HEIKEL: Curriculum nannte "Beschwerden & Empfehlungen" = Indikationslogik (HeilprG/HWG).
 // Zuschnitt-Standard streng: Indikations-/"Kraut-gegen-Krankheit"-Logik ENTFERNT.
 // Sicherer Kern = Pflanzenkunde, Botanik, Kultur-/Traditionswissen, Küchenkräuter,
 // Zubereitungsformen allgemein, VERBRAUCHERSICHERHEIT. Keine Dosierung, keine Heilversprechen.
@@ -338,4 +338,3 @@ Wer Pflanzen in diesem Geist versteht — mit Wissen, Wertschätzung, kritischem
 };
 
 export default N15;
-

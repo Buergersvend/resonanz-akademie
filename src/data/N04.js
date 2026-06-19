@@ -1,7 +1,7 @@
-// N04 — Heilpflanzen verstehen: Wirkprinzipien & Sicherheit
-// Bereich: naturheilkunde · Niveau: ★★☆ · Format: ◈◈ Standard-Kurs · Zielgruppe: Praktiker · Status: live
+// N04 — Pflanzenwirkung verstehen: Wirkprinzipien & Sicherheit
+// Bereich: naturheilkunde · Niveau: ★★☆ · Format: ◈◈ Standard-Kurs · Zielgruppe: Interessierte · Status: live
 // Gebaut nach KURS_UMFANG_STANDARD (03.06.2026): 6 Module / 18 Lektionen / je 250+ Wörter.
-// ⚠️ SEHR HEIKEL: Curriculum nannte "Indikationen · Dosierung & Sicherheit" = Heilkunde pur.
+// ⚠ ï¸ SEHR HEIKEL: Curriculum nannte "Indikationen · Dosierung & Sicherheit" = Heilkunde pur.
 // Zuschnitt-Standard streng: INDIKATIONS- und DOSIERUNGSLOGIK VOLLSTÄNDIG ENTFERNT.
 // Sicherer Kern = VERSTÄNDNIS, warum Pflanzen wirken (Inhaltsstoffgruppen allgemein),
 // Geschichte/Kultur der Pflanzenkunde, kritische Einordnung, SICHERHEIT/WECHSELWIRKUNGEN.
@@ -13,7 +13,7 @@
 const N04 = {
   id: 'N04',
   bereich: 'naturheilkunde',
-  titel: 'Heilpflanzen verstehen: Wirkprinzipien & Sicherheit',
+  titel: 'Pflanzenwirkung verstehen: Wirkprinzipien & Sicherheit',
   kuerzel: 'N04',
   niveau: '★★☆',
   beschreibung: 'Ein fundiertes Verständnis dafür, warum Pflanzen überhaupt wirken, welche Stoffgruppen sie enthalten und wie man ihnen mit kritischem Blick und Sicherheitsbewusstsein begegnet. Ohne Indikationslisten, ohne Dosierungen — mit klarer Grenze zu Arzt und Apotheke.',
@@ -26,13 +26,13 @@ const N04 = {
         {
           id: 'N04-M1-L1',
           titel: 'Pflanzen als Quelle wirksamer Stoffe',
-          inhalt: `Pflanzen sind weit mehr als grünes Beiwerk der Natur — sie sind komplexe biochemische Fabriken. Im Lauf der Evolution haben sie eine Fülle von Stoffen entwickelt, mit denen sie sich schützen, kommunizieren und überleben. Viele dieser Stoffe wirken auch auf den menschlichen Körper, und genau das macht die Beschäftigung mit Heilpflanzen so faszinierend wie verantwortungsvoll.
+          inhalt: `Pflanzen sind weit mehr als grünes Beiwerk der Natur — sie sind komplexe biochemische Fabriken. Im Lauf der Evolution haben sie eine Fülle von Stoffen entwickelt, mit denen sie sich schützen, kommunizieren und überleben. Viele dieser Stoffe wirken auch auf den menschlichen Körper, und genau das macht die Beschäftigung mit wirksamen Pflanzen so faszinierend wie verantwortungsvoll.
 
 Dieser Kurs widmet sich dem Verständnis: Warum wirken Pflanzen überhaupt? Welche Arten von Inhaltsstoffen gibt es? Wie ist ihre Wirkung einzuordnen, und worauf muss man dabei achten? Es geht um das Begreifen von Prinzipien — nicht um Anleitungen zur Selbstbehandlung.
 
 Diese Rahmung ist von Anfang an entscheidend, und sie unterscheidet diesen Kurs von einem Behandlungsratgeber: Wir besprechen keine „Pflanze gegen Beschwerde"-Listen, keine Dosierungen und keine Anwendungen zur Behandlung von Krankheiten. Solche Fragen gehören in ärztliche und apothekerliche Hände. Was wir vermitteln, ist Hintergrundwissen, das zu einem mündigen, kritischen Umgang befähigt.
 
-Gerade weil Pflanzen echte, oft starke Wirkungen haben können, ist Verstehen wichtiger als Rezepte. Wer begreift, dass eine Pflanze wirksame Stoffe enthält, versteht zugleich, warum Vorsicht, Fachwissen und im Zweifel ärztlicher Rat nötig sind. Dieses Verständnis ist der rote Faden des Kurses — und die Grundlage jeder verantwortlichen Haltung gegenüber Heilpflanzen.`,
+Gerade weil Pflanzen echte, oft starke Wirkungen haben können, ist Verstehen wichtiger als Rezepte. Wer begreift, dass eine Pflanze wirksame Stoffe enthält, versteht zugleich, warum Vorsicht, Fachwissen und im Zweifel ärztlicher Rat nötig sind. Dieses Verständnis ist der rote Faden des Kurses — und die Grundlage jeder verantwortlichen Haltung gegenüber wirksamen Pflanzen.`,
         },
         {
           id: 'N04-M1-L2',
@@ -182,13 +182,13 @@ Diese Sicherheitskompetenz ist ein echter Wert — für einen selbst und für di
         {
           id: 'N04-M5-L1',
           titel: 'Was „Wirksamkeit belegen" bedeutet',
-          inhalt: `Rund um Heilpflanzen kursieren unzählige Wirkbehauptungen — von gut belegten bis zu völlig haltlosen. Ein zentraler, schützender Kern dieses Kurses ist die Fähigkeit, solche Behauptungen kritisch einzuordnen. Dazu lohnt ein Verständnis davon, was es heißt, eine Wirkung zu „belegen".
+          inhalt: `Rund um wirksame Pflanzen kursieren unzählige Wirkbehauptungen — von gut belegten bis zu völlig haltlosen. Ein zentraler, schützender Kern dieses Kurses ist die Fähigkeit, solche Behauptungen kritisch einzuordnen. Dazu lohnt ein Verständnis davon, was es heißt, eine Wirkung zu „belegen".
 
 Eine Wirkung gilt dann als gut belegt, wenn sie in sorgfältigen, wiederholten Untersuchungen gezeigt wurde, die Zufall und Täuschung möglichst ausschließen. Eine einzelne Erfahrung, ein Erfahrungsbericht oder eine lange Tradition sind dagegen keine Belege im strengen Sinn — sie können Hinweise sein, aber auch täuschen. Der Unterschied zwischen „jemand hat es erlebt" und „es ist nachgewiesen" ist groß.
 
 Dieses Wissen schützt vor Trugschlüssen. Dass sich nach der Einnahme einer Pflanze etwas gebessert hat, beweist nicht, dass die Pflanze die Ursache war — Beschwerden bessern sich oft auch von allein, und die Erwartung allein kann Wirkungen vortäuschen. Solche Zusammenhänge zu durchschauen, ist anspruchsvoll und wertvoll.
 
-Für eine verantwortliche Haltung bedeutet das: ehrlich zu unterscheiden zwischen dem, was gut belegt ist, dem, was plausibel, aber unbewiesen ist, und dem, was widerlegt oder haltlos ist. Diese Differenzierung macht niemanden zum Gegner der Pflanzenheilkunde — im Gegenteil, sie ist die Grundlage, um ihr seriös und glaubwürdig zu begegnen.`,
+Für eine verantwortliche Haltung bedeutet das: ehrlich zu unterscheiden zwischen dem, was gut belegt ist, dem, was plausibel, aber unbewiesen ist, und dem, was widerlegt oder haltlos ist. Diese Differenzierung macht niemanden zum Gegner der Pflanzenkunde — im Gegenteil, sie ist die Grundlage, um ihr seriös und glaubwürdig zu begegnen.`,
         },
         {
           id: 'N04-M5-L2',
@@ -204,13 +204,13 @@ Diese kritische Kompetenz ist einer der wertvollsten Inhalte des Kurses. Sie erl
         {
           id: 'N04-M5-L3',
           titel: 'Tradition und Wissenschaft im Dialog',
-          inhalt: `Heilpflanzen stehen im Spannungsfeld zwischen alter Tradition und moderner Wissenschaft. Eine reife Haltung verfällt weder in unkritische Traditionsgläubigkeit noch in pauschale Ablehnung alles Überlieferten, sondern bringt beide Perspektiven in einen ehrlichen Dialog.
+          inhalt: `Wirksame Pflanzen stehen im Spannungsfeld zwischen alter Tradition und moderner Wissenschaft. Eine reife Haltung verfällt weder in unkritische Traditionsgläubigkeit noch in pauschale Ablehnung alles Überlieferten, sondern bringt beide Perspektiven in einen ehrlichen Dialog.
 
 Die Tradition verdient Respekt: Jahrhundertealtes Erfahrungswissen hat viele tatsächlich wirksame Pflanzen identifiziert, und nicht selten hat die moderne Forschung überlieferte Beobachtungen bestätigt. Tradition ist eine wertvolle Quelle von Hinweisen und ein bedeutendes kulturelles Erbe, das es zu bewahren lohnt.
 
 Zugleich gilt: Tradition allein beweist nichts. Manches überlieferte Wissen hat sich als zutreffend, anderes als unwirksam oder schädlich erwiesen. Erst die kritische Prüfung trennt das Bewährte vom Irrtum. Wissenschaft und Tradition sind keine Gegner, sondern können sich ergänzen — die Tradition liefert Hinweise, die Forschung prüft sie.
 
-Für die Praxis bedeutet dieser Dialog eine ausgewogene, glaubwürdige Haltung: das kulturelle Erbe der Pflanzenkunde würdigen und weitergeben, überlieferte Wirkbehauptungen aber kritisch einordnen und nicht als gesicherte Tatsachen verkaufen. Diese Verbindung aus Wertschätzung und Nüchternheit ist das Kennzeichen eines verantwortlichen, reifen Umgangs mit Heilpflanzen — und genau das, was dieser Kurs vermitteln möchte.`,
+Für die Praxis bedeutet dieser Dialog eine ausgewogene, glaubwürdige Haltung: das kulturelle Erbe der Pflanzenkunde würdigen und weitergeben, überlieferte Wirkbehauptungen aber kritisch einordnen und nicht als gesicherte Tatsachen verkaufen. Diese Verbindung aus Wertschätzung und Nüchternheit ist das Kennzeichen eines verantwortlichen, reifen Umgangs mit wirksamen Pflanzen — und genau das, was dieser Kurs vermitteln möchte.`,
         },
       ],
     },
@@ -227,7 +227,7 @@ Diese Grenze ist klar und sinnvoll. Ärztinnen und Ärzte können Beschwerden un
 
 Gerade weil Pflanzen echte Wirkungen haben, ist diese Grenze wichtig. Wer ernste Beschwerden mit Pflanzen selbst behandeln will, riskiert, schwere Ursachen zu übersehen und nötige Hilfe zu verzögern. Anhaltende, starke, ungewöhnliche oder sich verschlimmernde Beschwerden gehören grundsätzlich ärztlich abgeklärt.
 
-Wer diese Linie kennt und kommuniziert, kann das faszinierende Wissen über Heilpflanzen mit gutem Gewissen weitergeben — als Bildung, die zu Verständnis, Sicherheitsbewusstsein und kritischem Denken befähigt. Die Verbindung aus Begeisterung für die Pflanzenwelt und klarer Grenze zur Heilkunde ist das Fundament verantwortlicher Arbeit.`,
+Wer diese Linie kennt und kommuniziert, kann das faszinierende Wissen über wirksame Pflanzen mit gutem Gewissen weitergeben — als Bildung, die zu Verständnis, Sicherheitsbewusstsein und kritischem Denken befähigt. Die Verbindung aus Begeisterung für die Pflanzenwelt und klarer Grenze zur Heilkunde ist das Fundament verantwortlicher Arbeit.`,
         },
         {
           id: 'N04-M6-L2',
@@ -238,18 +238,18 @@ Diese Rollenklarheit ist rechtlich und ethisch entscheidend. Im Rahmen nicht-hei
 
 Konkret bedeutet das eine klare Praxis: über Pflanzen und ihre Wirkprinzipien als Wissensgebiet sprechen, Sicherheits- und Verbraucherwissen vermitteln, kritisches Denken gegenüber Wirkversprechen fördern — und bei jeder gesundheitlichen Frage freundlich, aber bestimmt an Arzt und Apotheker verweisen.
 
-Diese Haltung ist keine Einschränkung, sondern eine Stärke. Sie macht die Arbeit seriös und vertrauenswürdig, schützt die begleiteten Menschen und einen selbst. Das reiche Wissen über Heilpflanzen lässt sich in diesem klaren Rahmen mit Freude und gutem Gewissen weitergeben — als Beitrag zu mehr Verständnis und Mündigkeit.`,
+Diese Haltung ist keine Einschränkung, sondern eine Stärke. Sie macht die Arbeit seriös und vertrauenswürdig, schützt die begleiteten Menschen und einen selbst. Das reiche Wissen über wirksame Pflanzen lässt sich in diesem klaren Rahmen mit Freude und gutem Gewissen weitergeben — als Beitrag zu mehr Verständnis und Mündigkeit.`,
         },
         {
           id: 'N04-M6-L3',
           titel: 'Zusammenfassung und Haltung',
-          inhalt: `Zum Abschluss der Blick auf das Ganze. Dieser Kurs hat Heilpflanzen aus einer bewusst gewählten Perspektive betrachtet: nicht als Sammlung von Mitteln „gegen" Beschwerden, sondern als faszinierendes Wissensgebiet, das verstanden, eingeordnet und sicher gehandhabt werden will.
+          inhalt: `Zum Abschluss der Blick auf das Ganze. Dieser Kurs hat wirksame Pflanzen aus einer bewusst gewählten Perspektive betrachtet: nicht als Sammlung von Mitteln „gegen" Beschwerden, sondern als faszinierendes Wissensgebiet, das verstanden, eingeordnet und sicher gehandhabt werden will.
 
 Wir haben gesehen, warum Pflanzen wirken, welche Stoffgruppen es gibt und warum die Menge über Nutzen und Schaden entscheidet. Wir haben Darreichungsformen und Verbraucherwissen verstanden, die zentrale Sicherheitskunde rund um den Irrtum „natürlich = harmlos", Wechselwirkungen und Warnzeichen behandelt und das kritische Denken gegenüber Wirkversprechen und Evidenz geschult.
 
 Durchgehend zog sich die klare Grenze zur Heilkunde: keine Indikationen, keine Dosierungen, keine Heilversprechen — und bei gesundheitlichen Fragen der Verweis an Arzt und Apotheker. Diese Grenze ist nicht Schwäche, sondern das Fundament eines seriösen, verantwortlichen Umgangs.
 
-Die Haltung, die dieser Kurs vermitteln will, verbindet zwei Dinge, die zusammengehören: echte Begeisterung und Wertschätzung für die Pflanzenwelt und ein nüchternes, kritisches Sicherheitsbewusstsein. Wer Heilpflanzen so versteht — mit Wissen, Respekt, kritischem Blick und klarer Grenze —, gewinnt einen tiefen, mündigen Bezug zu ihnen und kann dieses Wissen verantwortlich weitergeben. Das ist der bleibende Wert dieses Kurses.`,
+Die Haltung, die dieser Kurs vermitteln will, verbindet zwei Dinge, die zusammengehören: echte Begeisterung und Wertschätzung für die Pflanzenwelt und ein nüchternes, kritisches Sicherheitsbewusstsein. Wer wirksame Pflanzen so versteht — mit Wissen, Respekt, kritischem Blick und klarer Grenze —, gewinnt einen tiefen, mündigen Bezug zu ihnen und kann dieses Wissen verantwortlich weitergeben. Das ist der bleibende Wert dieses Kurses.`,
         },
       ],
     },
@@ -339,4 +339,3 @@ Die Haltung, die dieser Kurs vermitteln will, verbindet zwei Dinge, die zusammen
 };
 
 export default N04;
-

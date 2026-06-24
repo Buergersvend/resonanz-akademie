@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════════════
-// Dashboard — Akademie Startseite (eingeloggt)
+// Dashboard — Lernwelt Startseite (eingeloggt)
 // Zeigt echten Fortschritt aus Firestore
 // Saniert 11.06.2026: Featured-Kurs dynamisch aus Kursdaten,
 // Zähler dynamisch, Teilnahmezertifikate, Markenname korrigiert
@@ -83,7 +83,7 @@ export default function Dashboard() {
           <h1 style={s.greeting}>
             Willkommen, <span style={s.gold}>{displayName}</span>
           </h1>
-          <p style={s.sub}>Dein persönlicher Lernraum in der Human Resonanz Akademie.</p>
+          <p style={s.sub}>Dein persönlicher Lernraum in der Human Resonanz Lernwelt.</p>
         </div>
 
         {/* Weiter lernen — wenn aktiver Kurs vorhanden */}

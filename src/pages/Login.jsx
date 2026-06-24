@@ -1,5 +1,5 @@
 // 
-// Login / Register  Resonanz Akademie
+// Login / Register  Resonanz Lernwelt
 // Dark/Gold Auth Screen
 // 
 

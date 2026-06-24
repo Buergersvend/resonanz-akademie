@@ -103,7 +103,7 @@ export default function Navbar() {
         <Link to="/" style={styles.logo}>
           <img src="/logo-siegel.png" alt="Human Resonanz Siegel" style={styles.logoMark} />
           <span style={styles.logoText}>
-            Human Resonanz <span style={styles.logoAccent}>Akademie</span>
+            Human Resonanz <span style={styles.logoAccent}>Lernwelt</span>
           </span>
         </Link>
         

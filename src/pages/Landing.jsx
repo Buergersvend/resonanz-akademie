@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════════════
-// Landing Page — Human Resonanz Akademie
+// Landing Page — Human Resonanz Lernwelt
 // Das Netflix der Resonanz
 // v5 — 12.06.2026: Original-Supernova von human-resonanz.de
 // 1:1 portiert (Canvas-Partikel, Klick aufs Siegel + Auto-Zündung)
@@ -436,7 +436,7 @@ export default function Landing() {
             <img
               ref={logoRef}
               src="/logo-siegel.png"
-              alt="Human Resonanz Akademie — Siegel (anklicken!)"
+              alt="Human Resonanz Lernwelt — Siegel (anklicken!)"
               title="Klick mich ✦"
               className="siegel-breathe"
               style={hero.logoImg}
@@ -563,7 +563,7 @@ export default function Landing() {
           <div style={unterschied.table}>
             <div style={unterschied.headerRow}>
               <div style={unterschied.headerCell}>Andere Anbieter</div>
-              <div style={{ ...unterschied.headerCell, color: '#D4AF37' }}>Human Resonanz Akademie</div>
+              <div style={{ ...unterschied.headerCell, color: '#D4AF37' }}>Human Resonanz Lernwelt</div>
             </div>
             {UNTERSCHIEDE.map((u, i) => (
               <div key={i} style={unterschied.row}>

@@ -1,7 +1,7 @@
 // ═══════════════════════════════════════════════════════════
 // AppShell — Layout für eingeloggte Seiten
 // Sidebar + Content Area
-// Saniert 11.06.2026: Markenname "Human Resonanz Akademie"
+// Saniert 11.06.2026: Markenname "Human Resonanz Lernwelt"
 // ═══════════════════════════════════════════════════════════
 
 import { NavLink, useNavigate } from 'react-router-dom'
@@ -132,7 +132,7 @@ export default function AppShell({ children }) {
             }}
           />
           <span style={s.logoText}>
-            Human Resonanz <span style={s.logoAccent}>Akademie</span>
+            Human Resonanz <span style={s.logoAccent}>Lernwelt</span>
           </span>
         </div>
 

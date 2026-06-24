@@ -84,7 +84,7 @@ export default function Footer() {
       <div style={s.inner}>
         <div>
           <div style={s.brand}>
-            Human Resonanz <span style={s.accent}>Akademie</span>
+            Human Resonanz <span style={s.accent}>Lernwelt</span>
           </div>
           <p style={s.tagline}>
             Das Netflix der Resonanz. Kurse, persönliche Lernpfade 

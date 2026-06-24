@@ -415,7 +415,7 @@ Du bist jetzt in der Lage, dein Energiesystem selbstständig wahrzunehmen und zu
 
 Zur Erinnerung: Dieser Kurs ist ein Weg der Selbsterfahrung und Achtsamkeit. Er dient deinem persönlichen Wohlbefinden und ersetzt keine medizinische oder therapeutische Behandlung. Bei körperlichen oder seelischen Beschwerden wende dich bitte an eine Ärztin, einen Arzt, eine Heilpraktikerin oder eine Psychotherapeutin.
 
-Die Resonanz Akademie bietet vertiefende Kurse, die an dieses Wissen anschließen: Organsprache (K02), Schutzarbeit & Energiehygiene (G11) für fortgeschrittene Schutztechniken oder die Meditationskurse für mehr innere Ruhe.
+Es gibt vertiefende Kurse, die an dieses Wissen anschließen: Organsprache (K02), Schutzarbeit & Energiehygiene (G11) für fortgeschrittene Schutztechniken oder die Meditationskurse für mehr innere Ruhe.
 
 Dein Energiesystem ist dein wertvollstes Instrument der Selbstwahrnehmung. Pflege es täglich.`,
           uebung: {

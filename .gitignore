@@ -25,3 +25,6 @@ Thumbs.db
 
 # Sanierungs-Pruefdateien (nie committen)
 *_pruef.txt
+
+# Logo-Archiv
+public/_archiv_logos/

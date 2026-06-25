@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════════
 // Landing Page — Human Resonanz Lernwelt
-// Das Netflix der Resonanz
+// Eine Welt. Unendlich viele Wege zu dir.
 // v5 — 12.06.2026: Original-Supernova von human-resonanz.de
 // 1:1 portiert (Canvas-Partikel, Klick aufs Siegel + Auto-Zündung)
 // Quelle: human-resonanz-web/index.html — identische Parameter
@@ -40,7 +40,7 @@ const FORMATE = [
 const UNTERSCHIEDE = [
   { andere: 'Starre Kurs-Struktur', hr: 'Persönliches Assessment → individueller Lernpfad' },
   { andere: 'Generische Inhalte', hr: 'Praxisnah aufgebaute, eigenständige Inhalte' },
-  { andere: 'Überladene Plattformen', hr: 'Netflix-Feeling: klar, schnell, intuitiv' },
+  { andere: 'Überladene Plattformen', hr: 'Klar, schnell, intuitiv' },
   { andere: 'Manuelle Prüfungsbewertung', hr: 'Automatische Quiz & Teilnahmebestätigungen' },
   { andere: 'Theorie ohne Anwendung', hr: 'Brücke zwischen Energetik, Bewusstsein & Technologie' },
   { andere: 'Keine Community', hr: 'Resonanz-Netzwerk: Gleichgesinnte verbinden sich' },
@@ -450,8 +450,8 @@ export default function Landing() {
           </div>
           
           <h1 className="hero-rise d1" style={hero.title}>
-            Das <span style={hero.gold}>Netflix</span> der
-            <br />Resonanz
+            Eine Welt.
+            <br />Unendlich viele <span style={hero.gold}>Wege zu dir.</span>
           </h1>
           
           <p className="hero-rise d2" style={hero.subtitle}>

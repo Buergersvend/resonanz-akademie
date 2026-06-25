@@ -87,7 +87,7 @@ export default function Footer() {
             Human Resonanz <span style={s.accent}>Lernwelt</span>
           </div>
           <p style={s.tagline}>
-            Das Netflix der Resonanz. Kurse, persönliche Lernpfade 
+            Eine Welt, unendlich viele Wege zu dir. Kurse, persönliche Lernpfade
             und Teilnahmezertifikate für bewusste Entwicklung.
           </p>
         </div>

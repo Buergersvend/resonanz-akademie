@@ -493,7 +493,7 @@ export default function Landing() {
         <div style={bereiche.container}>
           <div style={bereiche.header}>
             <span style={bereiche.overline}>11 Themen-Bereiche</span>
-            <h2 style={bereiche.title}>Dein Wissen. Dein Weg.</h2>
+            <h2 style={bereiche.title}>Dein Wissen. Deine Tiefe. Dein Tempo.</h2>
             <p style={bereiche.subtitle}>
               Jeder Bereich ist eine eigenständige Lernwelt — vom 
               Schnupperkurs bis zum umfassenden Vertiefungsweg.
@@ -580,7 +580,7 @@ export default function Landing() {
         <div style={cta.glow} />
         <div style={cta.content}>
           <h2 style={cta.title}>
-            Bereit für <span style={{ color: '#D4AF37' }}>deinen Weg</span>?
+            Press Play auf <span style={{ color: '#D4AF37' }}>dein Leben.</span>
           </h2>
           <p style={cta.subtitle}>
             5 Fragen. Dein persönlicher Lernpfad. Sofort starten.

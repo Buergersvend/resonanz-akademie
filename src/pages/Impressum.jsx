@@ -71,7 +71,7 @@ export default function Impressum() {
 
         <h2 style={s.heading}>Hinweis zu den Inhalten</h2>
         <p style={s.text}>
-          Die Inhalte der Human Resonanz Akademie dienen der persönlichen 
+          Die Inhalte der Human Resonanz Lernwelt dienen der persönlichen
           Weiterbildung und Selbsterfahrung. Sie stellen keine medizinische, 
           psychotherapeutische oder heilkundliche Beratung dar und ersetzen 
           keinen Besuch bei Ärztin/Arzt, Therapeutin/Therapeut oder 

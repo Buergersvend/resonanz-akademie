@@ -112,8 +112,8 @@ Die Vier ist die Zahl der Struktur, der Ordnung, des Fundaments. Sie steht für 
 ### 5 — Der Freigeist
 Die Fünf ist die Zahl der Veränderung, der Freiheit, der Erfahrung. Sie steht für Abenteuerlust, Vielseitigkeit, Sinnlichkeit und Anpassungsfähigkeit. Im Schatten kann die 5 rastlos, unverbindlich oder süchtig nach Stimulation werden. Ihr Lernthema: Freiheit mit Verantwortung.
 
-### 6 — Der Heiler
-Die Sechs ist die Zahl der Verantwortung, der Liebe, der Harmonie. Sie steht für Fürsorge, Schönheitssinn, familiäre Bindung und das Bedürfnis zu heilen. Im Schatten kann die 6 aufopfernd, kontrollierend aus Sorge oder perfektionistisch werden. Ihr Lernthema: Fürsorge ohne Selbstvernachlässigung.
+### 6 — Der Nährende
+Die Sechs ist die Zahl der Verantwortung, der Liebe, der Harmonie. Sie steht für Fürsorge, Schönheitssinn, familiäre Bindung und das Bedürfnis zu umsorgen. Im Schatten kann die 6 aufopfernd, kontrollierend aus Sorge oder perfektionistisch werden. Ihr Lernthema: Fürsorge ohne Selbstvernachlässigung.
 
 ### 7 — Der Sucher
 Die Sieben ist die Zahl der Tiefe, der Analyse, der Spiritualität. Sie steht für Forscherdrang, Innerlichkeit, Weisheit und das Streben nach Wahrheit. Im Schatten kann die 7 isoliert, misstrauisch oder intellektuell abgehoben werden. Ihr Lernthema: Innere Tiefe mit äußerer Verbindung.

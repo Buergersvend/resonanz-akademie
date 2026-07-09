@@ -221,9 +221,8 @@ export default function Teilnahmebescheinigung({
               <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "8px", letterSpacing: "1.5px", color: t.label }}>Nr. {data.nummer} · {data.monatJahr}</div>
             </div>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "center", flex: 1 }}>
-              <div style={{ height: "8mm" }} />
-              <div style={{ width: "58mm", height: "0.5px", background: t.lineSoft }} />
-              <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "9px", letterSpacing: "1.5px", color: t.inkSoft, marginTop: "1.5mm" }}>{data.datum}</div>
+              <div style={{ display: "flex", alignItems: "center", justifyContent: "center", height: "8mm", fontFamily: '"Raleway", sans-serif', fontSize: "9px", letterSpacing: "1.5px", color: t.inkSoft }}>{data.datum}</div>
+              <div style={{ width: "58mm", height: "0.5px", background: t.lineSoft, marginTop: "1mm" }} />
               <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "8px", letterSpacing: "1px", color: t.label, marginTop: "0.5mm" }}>Ausstellungsdatum</div>
             </div>
           </div>

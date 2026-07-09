@@ -209,14 +209,14 @@ export default function Teilnahmebescheinigung({
             <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "10px", letterSpacing: "3px", textTransform: "uppercase", color: t.label }}>Human Resonanz Lernwelt &nbsp;·&nbsp; Bereich {data.bereich}</div>
           </div>
 
-          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", width: "100%", gap: "10mm" }}>
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", width: "100%", gap: "10mm" }}>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "center", flex: 1 }}>
               <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "center", height: "8mm", paddingBottom: "0.5mm", fontFamily: '"Great Vibes", cursive', fontSize: "27px", color: t.ink, lineHeight: 1, filter: t.bloom }}>Sven Donath</div>
               <div style={{ width: "58mm", height: "0.5px", background: t.lineSoft, marginTop: "1mm" }} />
               <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "9px", letterSpacing: "1.5px", color: t.inkSoft, marginTop: "1.5mm" }}>Sven Donath</div>
               <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "8px", letterSpacing: "1px", color: t.label, marginTop: "0.5mm" }}>Gründer · Human Resonanz</div>
             </div>
-            <div style={{ display: "flex", flexDirection: "column", alignItems: "center", paddingBottom: "2mm" }}>
+            <div style={{ display: "flex", flexDirection: "column", alignItems: "center", alignSelf: "flex-end", paddingBottom: "2mm" }}>
               <div style={{ width: "5px", height: "5px", background: t.line, transform: "rotate(45deg)", filter: t.bloom, marginBottom: "3mm" }} />
               <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "8px", letterSpacing: "1.5px", color: t.label }}>Nr. {data.nummer} · {data.monatJahr}</div>
             </div>

@@ -76,7 +76,7 @@ Bestimmte zweistellige Zahlen werden in der Numerologie NICHT weiter reduziert �
 
 **22** — Die Meisterzahl des Baumeisters. Sie vereint die 2 (Kooperation, Diplomatie) in verdoppelter Form und reduziert sich auf 4 (Struktur, Fundament). Die 22 hat das Potenzial, Visionen in große, dauerhafte Formen zu bringen.
 
-**33** — Die Meisterzahl des Meisterlehrers. Sie vereint die 3 (Kreativität, Ausdruck) in verdoppelter Form und reduziert sich auf 6 (Verantwortung, Heilung). Die 33 ist die seltenste Meisterzahl und steht für dienende Liebe und spirituelles Lehren auf höchster Ebene.
+**33** — Die Meisterzahl des Meisterlehrers. Sie vereint die 3 (Kreativität, Ausdruck) in verdoppelter Form und reduziert sich auf 6 (Verantwortung, Fürsorge). Die 33 ist die seltenste Meisterzahl und steht für dienende Liebe und spirituelles Lehren auf höchster Ebene.
 
 Wichtig: Eine Meisterzahl zu haben bedeutet nicht, automatisch "besser" zu sein. Meisterzahlen bringen sowohl höheres Potenzial als auch größere innere Spannung mit sich. Sie werden oft als Herausforderung erlebt, nicht als Geschenk.
 
@@ -225,7 +225,7 @@ Typische Lebensmuster: Unruhe und Bewegungsdrang seit der Kindheit, viele Umzüg
 
 ### Lebenszahl 6 — Der Weg der Verantwortung
 
-Die 6 ist hier, um zu heilen, zu nähren und Verantwortung für Gemeinschaft und Familie zu übernehmen. Ihr Lebensweg führt durch intensive Beziehungen — vor allem familiäre — und das ständige Thema: Wie viel Verantwortung ist gesund?
+Die 6 ist hier, um zu umsorgen, zu nähren und Verantwortung für Gemeinschaft und Familie zu übernehmen. Ihr Lebensweg führt durch intensive Beziehungen — vor allem familiäre — und das ständige Thema: Wie viel Verantwortung ist gesund?
 
 Typische Lebensmuster: Frühe Rolle als Kümmerer in der Familie, starkes Gerechtigkeitsempfinden, Anziehung zu helfenden Berufen, Perfektionismus in häuslichen und ästhetischen Dingen. Die größte Herausforderung: Die Grenze zwischen Fürsorge und Kontrolle. Die 6 will, dass alles gut ist — und kann dabei übergriffig werden, ohne es zu merken.
 

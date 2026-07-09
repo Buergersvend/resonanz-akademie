@@ -211,7 +211,7 @@ export default function Teilnahmebescheinigung({
 
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", width: "100%", gap: "10mm" }}>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "center", flex: 1 }}>
-              <div style={{ fontFamily: '"Great Vibes", cursive', fontSize: "38px", color: t.ink, lineHeight: 1, filter: t.bloom }}>Sven Donath</div>
+              <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "center", height: "8mm", paddingBottom: "0.5mm", fontFamily: '"Great Vibes", cursive', fontSize: "27px", color: t.ink, lineHeight: 1, filter: t.bloom }}>Sven Donath</div>
               <div style={{ width: "58mm", height: "0.5px", background: t.lineSoft, marginTop: "1mm" }} />
               <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "9px", letterSpacing: "1.5px", color: t.inkSoft, marginTop: "1.5mm" }}>Sven Donath</div>
               <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "8px", letterSpacing: "1px", color: t.label, marginTop: "0.5mm" }}>Gründer · Human Resonanz</div>
@@ -221,7 +221,7 @@ export default function Teilnahmebescheinigung({
               <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "8px", letterSpacing: "1.5px", color: t.label }}>Nr. {data.nummer} · {data.monatJahr}</div>
             </div>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "center", flex: 1 }}>
-              <div style={{ display: "flex", alignItems: "center", justifyContent: "center", height: "8mm", fontFamily: '"Raleway", sans-serif', fontSize: "9px", letterSpacing: "1.5px", color: t.inkSoft }}>{data.datum}</div>
+              <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "center", height: "8mm", paddingBottom: "0.5mm", fontFamily: '"Raleway", sans-serif', fontSize: "9px", letterSpacing: "1.5px", color: t.inkSoft }}>{data.datum}</div>
               <div style={{ width: "58mm", height: "0.5px", background: t.lineSoft, marginTop: "1mm" }} />
               <div style={{ fontFamily: '"Raleway", sans-serif', fontSize: "8px", letterSpacing: "1px", color: t.label, marginTop: "0.5mm" }}>Ausstellungsdatum</div>
             </div>

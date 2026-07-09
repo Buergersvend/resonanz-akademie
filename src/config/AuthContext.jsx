@@ -43,8 +43,14 @@ export function AuthProvider({ children }) {
     return signOut(auth)
   }
 
+  const setDisplayName = async (name) => {
+    if (!user) return;
+    await updateProfile(user, { displayName: name });
+    setUser({ ...user, displayName: name });
+  };
+
   return (
-    <AuthContext.Provider value={{ user, loading, login, register, logout }}>
+    <AuthContext.Provider value={{ user, loading, login, register, logout, setDisplayName }}>
       {children}
     </AuthContext.Provider>
   )

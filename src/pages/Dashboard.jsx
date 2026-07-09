@@ -17,11 +17,12 @@ const LIVE_COUNT = KURSE.filter(k => (k.status ?? 'live') === 'live').length
 const FEATURED_ID = 'B10'
 
 export default function Dashboard() {
-  const { user } = useAuth()
+  const { user, setDisplayName } = useAuth()
   const displayName = user?.displayName || user?.email?.split('@')[0] || 'Reisender'
 
   const [progressData, setProgressData] = useState({})
   const [loaded, setLoaded] = useState(false)
+  const [nameEingabe, setNameEingabe] = useState('')
 
   // Fortschritt für alle Live-Kurse laden
   useEffect(() => {
@@ -127,6 +128,25 @@ export default function Dashboard() {
 
         {/* Quick Actions */}
         <div style={s.grid}>
+          {user && !user.displayName && (
+            <div style={{ ...s.card, borderColor: s.gold.color }}>
+              <h3 style={s.cardTitle}>Dein Name für Bescheinigungen</h3>
+              <p style={s.cardDesc}>Hinterlege deinen vollständigen Namen — er erscheint auf deinen Teilnahmebescheinigungen.</p>
+              <div style={{ display: 'flex', gap: '10px', marginTop: '8px' }}>
+                <input
+                  type="text"
+                  value={nameEingabe}
+                  onChange={e => setNameEingabe(e.target.value)}
+                  placeholder="Vor- und Nachname"
+                  style={{ flex: 1, padding: '8px 12px', borderRadius: '8px', border: `1px solid ${s.gold.color}`, background: 'transparent', color: s.cardTitle.color, fontFamily: 'Raleway, sans-serif', fontSize: '14px' }}
+                />
+                <button
+                  onClick={async () => { if (nameEingabe.trim()) { await setDisplayName(nameEingabe.trim()); setNameEingabe(''); } }}
+                  style={{ fontFamily: 'Raleway, sans-serif', fontSize: '13px', fontWeight: 600, color: s.gold.color, background: 'transparent', border: `1px solid ${s.gold.color}`, borderRadius: '8px', padding: '8px 16px', cursor: 'pointer', whiteSpace: 'nowrap' }}
+                >Speichern</button>
+              </div>
+            </div>
+          )}
           {/* Kurse Card */}
           <Link to="/kurse" style={{ textDecoration: 'none' }}>
             <div style={{ ...s.card, cursor: 'pointer' }}>

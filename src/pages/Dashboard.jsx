@@ -8,9 +8,10 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { useAuth } from '../config/AuthContext'
-import { KURSE, getGesamtLektionen } from '../data/kurse'
+import { KURSE, getGesamtLektionen, BEREICHE } from '../data/kurse'
 import { getProgress, getProgressPercent, isKursComplete } from '../config/progress'
 import AppShell from '../components/AppShell'
+import Teilnahmebescheinigung from '../components/Teilnahmebescheinigung'
 
 const LIVE_COUNT = KURSE.filter(k => (k.status ?? 'live') === 'live').length
 const FEATURED_ID = 'B10'
@@ -46,6 +47,8 @@ export default function Dashboard() {
   const totalLektionen = liveKurse.reduce((sum, k) => sum + getGesamtLektionen(k.id), 0)
   const completedLektionen = Object.values(progressData).reduce((sum, arr) => sum + arr.length, 0)
   const completedKurse = liveKurse.filter(k => isKursComplete(progressData[k.id] || [], k.id)).length
+  const abgeschlosseneKurse = liveKurse.filter(k => isKursComplete(progressData[k.id] || [], k.id))
+  const [zeigeKurs, setZeigeKurs] = useState(null)
   const activeKurse = liveKurse.filter(k => {
     const c = progressData[k.id] || []
     return c.length > 0 && !isKursComplete(c, k.id)
@@ -179,15 +182,23 @@ export default function Dashboard() {
 
           {/* Teilnahmezertifikate Card */}
           <div style={s.card}>
-            <div style={s.cardIcon}>◈◈◈◈</div>
-            <h3 style={s.cardTitle}>Teilnahmezertifikate</h3>
-            <p style={s.cardDesc}>
-              Deine Teilnahmebestätigungen für abgeschlossene Kurse 
-              erscheinen hier — bereit zum Download und Teilen.
-            </p>
-            <span style={s.emptyState}>
-              {completedKurse > 0 ? 'Teilnahmezertifikate werden bald verfügbar' : 'Noch keine Teilnahmezertifikate'}
-            </span>
+            <div style={s.cardIcon}>🎓</div>
+            <h3 style={s.cardTitle}>Teilnahmebescheinigungen</h3>
+            {abgeschlosseneKurse.length > 0 ? (
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', marginTop: '8px' }}>
+                {abgeschlosseneKurse.map(k => (
+                  <div key={k.id} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '12px' }}>
+                    <span style={{ fontFamily: 'Cormorant Garamond, serif', fontSize: '16px', color: s.cardTitle.color }}>{k.titel}</span>
+                    <button onClick={() => setZeigeKurs(k)} style={{ fontFamily: 'Raleway, sans-serif', fontSize: '12px', fontWeight: 600, letterSpacing: '0.5px', color: s.gold.color, background: 'transparent', border: `1px solid ${s.gold.color}`, borderRadius: '8px', padding: '6px 12px', cursor: 'pointer', whiteSpace: 'nowrap' }}>Bescheinigung ansehen</button>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <>
+                <p style={s.cardDesc}>Deine Teilnahmebescheinigungen für abgeschlossene Kurse erscheinen hier — bereit zum Ansehen und Speichern.</p>
+                <span style={s.emptyState}>Noch keine abgeschlossenen Kurse</span>
+              </>
+            )}
           </div>
         </div>
 
@@ -222,6 +233,17 @@ export default function Dashboard() {
           </div>
         )}
       </div>
+      {zeigeKurs && (
+        <Teilnahmebescheinigung
+          name={displayName}
+          kursTitel={zeigeKurs.titel}
+          bereich={BEREICHE.find(b => b.id === zeigeKurs.bereich)?.name || ''}
+          datum={new Date().toLocaleDateString('de-DE', { day: 'numeric', month: 'long', year: 'numeric' })}
+          monatJahr={new Date().toLocaleDateString('de-DE', { month: 'long', year: 'numeric' })}
+          nummer={('HR-' + zeigeKurs.id + '-' + Math.abs([...(user?.uid || 'anon')].reduce((a, c) => (a * 31 + c.charCodeAt(0)) | 0, 7)).toString(36).toUpperCase()).slice(0, 16)}
+          onClose={() => setZeigeKurs(null)}
+        />
+      )}
     </AppShell>
   )
 }

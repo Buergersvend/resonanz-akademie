@@ -1,0 +1,21 @@
+{
+  "name": "Human Resonanz Lernwelt",
+  "short_name": "Lernwelt",
+  "description": "Die freie Lernwelt von Human Resonanz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#C9A84C",
+  "icons": [
+    {
+      "src": "/hr_siegel_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/hr_siegel_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -90,39 +90,44 @@ Das Muster ist einfach: Die Buchstaben werden in Neunergruppen aufgeteilt und zy
         },
         {
           id: 'Z01-M1-L3',
-          titel: 'Die neun Archetypen — Was jede Kernzahl bedeutet',
-          inhalt: `## Die neun Archetypen
+          titel: 'Die Archetypen im Human-Resonanz-System',
+          inhalt: `## Die Archetypen im Human-Resonanz-System
 
-### Jede Zahl erzählt eine Geschichte
+Jede Lebenszahl trägt im Human-Resonanz-System einen Archetyp — ein symbolisches Bild, das die Qualität einer Zahl verdichtet und greifbar macht. Ein Archetyp ist keine Schublade und keine Festlegung: Er ist eine Betrachtungssprache, die dir hilft, Muster in dir selbst zu erkennen und in Worte zu fassen.
 
-Die Zahlen 1 bis 9 bilden den kompletten Zyklus der numerologischen Archetypen. Jede Zahl steht für eine bestimmte Energie, ein Lebensthema, eine Qualität des Seins. Sie sind nicht gut oder schlecht — sie sind Frequenzen, die in verschiedenen Kontexten verschiedene Ausdrucksformen annehmen.
+### Die neun Grundzahlen
 
-### 1 — Der Pionier
-Die Eins ist der Anfang, der Ursprung, der Impuls. Sie steht für Unabhängigkeit, Individualität, Führungskraft und den Mut, neue Wege zu gehen. Im Schatten kann die 1 egozentrisch, dominant oder einsam werden. Ihr Lernthema: Selbstständigkeit ohne Isolation, Führung ohne Kontrolle.
+**Der Pionier (1)** steht für Unabhängigkeit, Führung und Innovation — den Impuls, neue Wege zu gehen.
 
-### 2 — Der Diplomat
-Die Zwei ist die Zahl der Dualität, der Partnerschaft, der Empfänglichkeit. Sie steht für Kooperation, Sensibilität, Intuition und die Fähigkeit, Gegensätze zu verbinden. Im Schatten kann die 2 überangepasst, konfliktscheu oder emotional abhängig werden. Ihr Lernthema: Miteinander ohne Selbstaufgabe.
+**Der Diplomat (2)** verkörpert Harmonie, Partnerschaft und Sensibilität — die Gabe, Brücken zu bauen.
 
-### 3 — Der Kreative
-Die Drei ist die Zahl des Ausdrucks, der Freude, der Kreativität. Sie steht für Kommunikation, Lebensfreude, künstlerische Begabung und Optimismus. Im Schatten kann die 3 oberflächlich, zerstreut oder emotional flüchtig werden. Ihr Lernthema: Tiefe im Ausdruck, nicht nur Breite.
+**Der Kreative (3)** lebt Ausdruck, Freude und Kommunikation — das Leben will sich durch ihn zeigen.
 
-### 4 — Der Baumeister
-Die Vier ist die Zahl der Struktur, der Ordnung, des Fundaments. Sie steht für Disziplin, Verlässlichkeit, Ausdauer und praktische Umsetzungskraft. Im Schatten kann die 4 starr, kontrollierend oder workaholic werden. Ihr Lernthema: Stabilität ohne Rigidität.
+**Der Baumeister (4)** bringt Struktur, Stabilität und Ausdauer — er errichtet solide Fundamente.
 
-### 5 — Der Freigeist
-Die Fünf ist die Zahl der Veränderung, der Freiheit, der Erfahrung. Sie steht für Abenteuerlust, Vielseitigkeit, Sinnlichkeit und Anpassungsfähigkeit. Im Schatten kann die 5 rastlos, unverbindlich oder süchtig nach Stimulation werden. Ihr Lernthema: Freiheit mit Verantwortung.
+**Der Freigeist (5)** sucht Freiheit, Wandel und Erfahrung — alle Facetten des Lebens.
 
-### 6 — Der Nährende
-Die Sechs ist die Zahl der Verantwortung, der Liebe, der Harmonie. Sie steht für Fürsorge, Schönheitssinn, familiäre Bindung und das Bedürfnis zu umsorgen. Im Schatten kann die 6 aufopfernd, kontrollierend aus Sorge oder perfektionistisch werden. Ihr Lernthema: Fürsorge ohne Selbstvernachlässigung.
+**Der Nährende (6)** trägt Liebe, Verantwortung und Fürsorge in die Welt.
 
-### 7 — Der Sucher
-Die Sieben ist die Zahl der Tiefe, der Analyse, der Spiritualität. Sie steht für Forscherdrang, Innerlichkeit, Weisheit und das Streben nach Wahrheit. Im Schatten kann die 7 isoliert, misstrauisch oder intellektuell abgehoben werden. Ihr Lernthema: Innere Tiefe mit äußerer Verbindung.
+**Der Mystiker (7)** folgt Weisheit, Analyse und Spiritualität — der Suche nach Wahrheit.
 
-### 8 — Die Kraft
-Die Acht ist die Zahl der Manifestation, der Macht, des materiellen Erfolgs. Sie steht für Durchsetzungsvermögen, Fülle, Organisationstalent und Autorität. Im Schatten kann die 8 gierig, machtbesessen oder materialistisch werden. Ihr Lernthema: Macht im Dienst, nicht im Eigennutz.
+**Der Souverän (8)** meistert Macht, Fülle und Manifestation auf materieller wie geistiger Ebene.
 
-### 9 — Der Weise
-Die Neun ist die Zahl der Vollendung, der Weisheit, des Dienens. Sie steht für Mitgefühl, Idealismus, universelle Liebe und die Fähigkeit loszulassen. Im Schatten kann die 9 weltfremd, märtyrerhaft oder emotional distanziert werden. Ihr Lernthema: Universelle Liebe beginnt bei sich selbst.`
+**Der Weise (9)** vereint Vollendung, Mitgefühl und Transformation.
+
+### Die drei Meisterzahlen
+
+**Der Inspirierte (11)** trägt Intuition, Inspiration und spirituelle Führung.
+
+**Der Meisterbaumeister (22)** verbindet Vision, Manifestation und globalen Einfluss — die 4 auf Meisterebene.
+
+**Der Meisterlehrer (33)** steht für bedingungslose Liebe und nährende Präsenz — die seltenste Meisterzahl.
+
+### Arbeiten mit den Archetypen
+
+Kein Mensch ist nur sein Archetyp. Die Lebenszahl beschreibt eine Grundschwingung — wie ein Grundton, über dem viele weitere Stimmen klingen. Nutze die Bilder als Einladung zur Selbstreflexion: Wo erkenne ich die Qualität meines Archetyps in meinem Alltag? Wo lebe ich sie bereits, wo wartet sie noch darauf, entfaltet zu werden?
+
+Die Archetypen begegnen dir auch in der Lichtkern-Numerologie wieder — dort erscheinen sie direkt auf deiner Lebenszahl-Karte. App und Lernwelt sprechen dieselbe Sprache.`
         }
       ]
     },

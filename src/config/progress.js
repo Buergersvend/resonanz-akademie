@@ -65,7 +65,7 @@ export function isModulUnlocked(completedLektionen, kurs, modulNr) {
   // Modul 1 ist immer frei
   if (modulNr === 1) return true
   // Alle vorherigen Module müssen abgeschlossen sein
-  const vorherigesModul = kurs.module.find(m => m.nr === modulNr - 1)
+  const vorherigesModul = kurs.module[modulNr - 2]
   if (!vorherigesModul) return false
   return isModulComplete(completedLektionen, vorherigesModul)
 }

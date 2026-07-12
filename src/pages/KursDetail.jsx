@@ -34,10 +34,10 @@ export default function KursDetail() {
       
       // Auto-expand: erstes nicht-abgeschlossenes Modul
       if (kurs.module.length > 0) {
-        const firstIncomplete = kurs.module.find(
+        const firstIncompleteIdx = kurs.module.findIndex(
           m => !m.lektionen.every(l => (data.completedLektionen || []).includes(l.id))
         )
-        setExpandedModul(firstIncomplete ? firstIncomplete.nr : kurs.module[0].nr)
+        setExpandedModul(firstIncompleteIdx >= 0 ? firstIncompleteIdx + 1 : 1)
       }
     })
   }, [user, kursId])
@@ -126,21 +126,21 @@ export default function KursDetail() {
         <div style={s.moduleSection}>
           <h2 style={s.sectionTitle}>Module</h2>
           <div style={s.moduleList}>
-            {kurs.module.map(m => {
-              const unlocked = isModulUnlocked(completedLektionen, kurs, m.nr)
+            {kurs.module.map((m, mi) => {
+              const unlocked = isModulUnlocked(completedLektionen, kurs, mi + 1)
               const complete = isModulComplete(completedLektionen, m)
-              const isExpanded = expandedModul === m.nr
+              const isExpanded = expandedModul === mi + 1
               const completedInModul = m.lektionen.filter(l => completedLektionen.includes(l.id)).length
 
               return (
-                <div key={m.nr} style={{
+                <div key={mi + 1} style={{
                   ...s.moduleCard,
                   ...(unlocked ? {} : s.moduleCardLocked),
                   ...(complete ? s.moduleCardComplete : {}),
                 }}>
                   {/* Modul-Header */}
                   <button
-                    onClick={() => unlocked && setExpandedModul(isExpanded ? null : m.nr)}
+                    onClick={() => unlocked && setExpandedModul(isExpanded ? null : mi + 1)}
                     style={s.moduleHeader}
                     disabled={!unlocked}
                   >
@@ -149,7 +149,7 @@ export default function KursDetail() {
                         ...s.moduleNr,
                         color: complete ? '#4CAF50' : unlocked ? 'rgba(212, 175, 55, 0.5)' : 'rgba(212, 175, 55, 0.15)',
                       }}>
-                        {complete ? '✓' : String(m.nr).padStart(2, '0')}
+                        {complete ? '✓' : String(mi + 1).padStart(2, '0')}
                       </span>
                       <div>
                         <div style={{

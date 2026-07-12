@@ -12,7 +12,7 @@ const E01 = {
   level: 'Einsteiger',
   voraussetzungen: 'Keine',
   beschreibung: `Alles ist Energie. Dein Körper, deine Gedanken, deine Emotionen, der Raum um dich herum — alles schwingt, alles strahlt, alles kommuniziert auf einer Ebene jenseits der fünf Sinne. In diesem Kurs lernst du die Grundlagen der Energiearbeit: Was das menschliche Energiefeld ist, wie Chakren und Aura funktionieren, wie du feinstoffliche Energie wahrnehmen und lenken kannst und wie du diese Fähigkeit in dein Leben und deine Praxis integrierst. Dies ist der Grundstein für alle weiteren energetischen Modalitäten.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

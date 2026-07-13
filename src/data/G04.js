@@ -1,17 +1,17 @@
 // G04.js — Atemtechniken Komplett
 // Standard ◈◈ · 6 Module · 18 Lektionen
-// Human Resonanz Akademie · Mai 2026
+// Human Resonanz Lernwelt · Mai 2026 · Saniert Juli 2026
 
 const G04 = {
   id: 'G04',
   titel: 'Atemtechniken Komplett',
-  untertitel: 'Pranayama · Holotropes Atmen · Wim Hof · Breathwork · Atemmeditation',
+  untertitel: 'Pranayama · Intensives Atmen · Kälte-Atem-Praxis · Breathwork · Atemmeditation',
   bereich: 'grundlagen',
   format: 'standard',
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
-  beschreibung: `Der Atem ist die einzige Körperfunktion, die sowohl automatisch als auch bewusst gesteuert werden kann — und genau das macht ihn zur mächtigsten Brücke zwischen Körper und Geist. In diesem Kurs lernst du die wichtigsten Atemtechniken der Welt kennen: von den jahrtausendealten Pranayama-Praktiken des Yoga über die intensiven Methoden des holotropen und verbundenen Atmens bis zur Wim-Hof-Methode und modernem Breathwork. Du verstehst die Physiologie hinter jeder Technik und kannst sie sicher in deiner eigenen Praxis und in der Arbeit mit Klienten einsetzen.`,
+  beschreibung: `Der Atem ist die einzige Körperfunktion, die sowohl automatisch als auch bewusst gesteuert werden kann — und genau das macht ihn zur mächtigsten Brücke zwischen Körper und Geist. In diesem Kurs lernst du die wichtigsten Atemtechniken der Welt kennen: von den jahrtausendealten Pranayama-Praktiken des Yoga über intensive Formen des verbundenen Atmens bis zu Kälte-Atem-Praktiken und modernem Breathwork. Du verstehst die Physiologie hinter jeder Technik und kannst sie sicher in deiner eigenen Praxis anwenden. Dieser Kurs vermittelt Selbsterfahrung und ersetzt keine medizinische oder therapeutische Behandlung.`,
   status: 'live',
 
   module: [
@@ -46,7 +46,7 @@ Sauerstoff ist lebensnotwendig — aber er ist nur die halbe Geschichte. Kohlend
 
 Deshalb ist Hyperventilation — zu schnelles, zu tiefes Atmen — kontraproduktiv: Du atmest zu viel CO2 aus, der pH-Wert steigt (respiratorische Alkalose), die Blutgefäße im Gehirn verengen sich, und du fühlst Schwindel, Kribbeln, manchmal Ohnmacht. Das ist keine "Entgiftung" — das ist Biochemie.
 
-Dieses Wissen ist wichtig, weil einige Atemtechniken (Holotropes Atmen, Wim Hof) bewusst mit Hyperventilation arbeiten — und du verstehen musst, was dabei physiologisch geschieht, um sicher zu praktizieren.
+Dieses Wissen ist wichtig, weil einige Atemtechniken (intensives verbundenes Atmen, Kälte-Atem-Praxis) bewusst mit Hyperventilation arbeiten — und du verstehen musst, was dabei physiologisch geschieht, um sicher zu praktizieren.
 
 ### Die Atemfrequenz und ihre Wirkung
 
@@ -77,11 +77,11 @@ Dein autonomes Nervensystem hat zwei Hauptzweige:
 
 **Der Sympathikus** ist dein Gaspedal. Er aktiviert, mobilisiert, beschleunigt. Herzschlag hoch, Blutdruck hoch, Muskeln angespannt, Verdauung gestoppt, Adrenalin und Cortisol im Blut. Das ist die Kampf-oder-Flucht-Reaktion — überlebenswichtig in Gefahr, zerstörerisch im Dauerbetrieb.
 
-**Der Parasympathikus** ist deine Bremse. Er beruhigt, regeneriert, heilt. Herzschlag runter, Verdauung aktiv, Immunsystem arbeitet, Wachstumsprozesse laufen, der Körper repariert sich. Das ist der Ruhe-und-Verdauungs-Modus.
+**Der Parasympathikus** ist deine Bremse. Er beruhigt und regeneriert. Herzschlag runter, Verdauung aktiv, Immunsystem arbeitet, Wachstumsprozesse laufen, der Körper repariert sich. Das ist der Ruhe-und-Verdauungs-Modus.
 
 Der Schlüssel: Die Einatmung aktiviert den Sympathikus leicht (Herzschlag steigt messbar). Die Ausatmung aktiviert den Parasympathikus (Herzschlag sinkt). Deshalb beruhigen Techniken mit verlängerter Ausatmung — und aktivieren Techniken mit betonter Einatmung.
 
-### Der Vagusnerv — Dein innerer Therapeut
+### Der Vagusnerv — Dein innerer Ruhenerv
 
 Der Vagusnerv ist der Hauptnerv des Parasympathikus — der längste Hirnnerv, der vom Stammhirn durch Hals, Brust und Bauch bis zu den Eingeweiden verläuft. Er reguliert Herzschlag, Atmung, Verdauung, Immunfunktion und Entzündungsreaktionen.
 
@@ -104,7 +104,7 @@ Diese 6-Atemzüge-Frequenz ist kein Zufall — sie entspricht dem natürlichen E
 
 ### Bevor du Techniken lernst — atme richtig
 
-Es macht keinen Sinn, fortgeschrittene Atemtechniken auf einem dysfunktionalen Atemmuster aufzubauen. Bevor du Pranayama, Wim Hof oder Holotropes Atmen praktizierst, muss die Basis stimmen: natürliche Bauchatmung durch die Nase.
+Es macht keinen Sinn, fortgeschrittene Atemtechniken auf einem dysfunktionalen Atemmuster aufzubauen. Bevor du Pranayama, Kälte-Atem-Praxis oder intensives verbundenes Atmen praktizierst, muss die Basis stimmen: natürliche Bauchatmung durch die Nase.
 
 ### Nasenatmung — Warum die Nase der richtige Eingang ist
 
@@ -282,23 +282,23 @@ Fortgeschritten: Steigere die Haltezeit graduell — 4:8:4:8, dann 4:12:4:12, da
     },
 
     // ============================================================
-    // MODUL 3 — Holotropes & verbundenes Atmen
+    // MODUL 3 — Intensives & verbundenes Atmen
     // ============================================================
     {
       id: 'G04-M3',
-      titel: 'Holotropes & verbundenes Atmen',
+      titel: 'Intensives & verbundenes Atmen',
       beschreibung: 'Die transformativen Atemtechniken kennenlernen, die tiefe emotionale und spirituelle Erfahrungen auslösen — ihre Wirkweise verstehen, sicher praktizieren und verantwortungsvoll einsetzen.',
       lektionen: [
         {
           id: 'G04-M3-L1',
-          titel: 'Holotropes Atmen — Atem als Bewusstseinsreise',
-          inhalt: `## Holotropes Atmen
+          titel: 'Intensives verbundenes Atmen — Atem als Bewusstseinsreise',
+          inhalt: `## Intensives verbundenes Atmen
 
-### Was Holotropes Atmen ist
+### Was intensives verbundenes Atmen ist
 
-Das Holotrope Atmen wurde in den 1970er Jahren von Stanislav und Christina Grof entwickelt — als legale, nicht-pharmakologische Methode, um veränderte Bewusstseinszustände zu erreichen, die denen psychedelischer Erfahrungen ähneln.
+Diese Form des intensiven, beschleunigten Atmens wurde in den 1970er Jahren als nicht-pharmakologischer Weg entwickelt, um veränderte Bewusstseinszustände zu erreichen, die denen psychedelischer Erfahrungen ähneln können. Der Name leitet sich vom griechischen "holos" (ganz) ab — das Streben, sich dem Ganzen zuzuwenden.
 
-Der Name kommt aus dem Griechischen: "holos" (ganz) und "trepein" (sich hinwenden) — sich dem Ganzen zuwenden. Es ist eine Methode der Selbsterforschung, die über den gewöhnlichen Bewusstseinszustand hinausgeht und Zugang zu tiefen Schichten der Psyche ermöglicht.
+Es ist eine Methode der Selbsterforschung, die über den gewöhnlichen Bewusstseinszustand hinausgeht und Zugang zu tiefen Schichten der eigenen Erlebniswelt ermöglichen kann.
 
 ### Die Technik
 
@@ -320,22 +320,22 @@ Die Bandbreite ist enorm: Intensive emotionale Entladungen (Weinen, Schreien, La
 
 ### Sicherheit — Nicht alleine praktizieren
 
-Holotropes Atmen ist keine Technik für zu Hause in Eigenregie. Es erfordert einen geschulten Facilitator und einen Sitter — eine Person, die während deiner Erfahrung bei dir ist, deinen physischen Körper schützt und bei intensiven emotionalen Prozessen unterstützt.
+Diese Form des intensiven Atmens ist keine Technik für zu Hause in Eigenregie. Es erfordert einen geschulten Facilitator und einen Sitter — eine Person, die während deiner Erfahrung bei dir ist, deinen physischen Körper schützt und bei intensiven emotionalen Prozessen unterstützt.
 
 **Kontraindikationen:** Schwangerschaft, Herz-Kreislauf-Erkrankungen, Epilepsie, schwere psychische Erkrankungen (Psychosen, schwere Traumatisierung ohne therapeutische Begleitung), Netzhautablösung, akute Infektionskrankheiten.
 
-Das Holotrope Atmen ist ein mächtiges Werkzeug — und wie jedes mächtige Werkzeug verlangt es Respekt, Vorbereitung und verantwortungsvolle Anleitung.`
+Diese Praxis ist ein mächtiges Werkzeug — und wie jedes mächtige Werkzeug verlangt sie Respekt, Vorbereitung und verantwortungsvolle Anleitung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
         {
           id: 'G04-M3-L2',
-          titel: 'Verbundenes Atmen (Rebirthing) — Der Kreislauf des Atems',
+          titel: 'Verbundenes Atmen — Der Kreislauf des Atems',
           inhalt: `## Verbundenes Atmen
 
 ### Das Prinzip — Keine Pause
 
-Verbundenes Atmen — auch als "Conscious Connected Breathing" oder historisch als "Rebirthing" bekannt — basiert auf einem einzigen Prinzip: Es gibt keine Pause zwischen Einatmung und Ausatmung. Der Atem fließt in einem durchgehenden Kreis — Einatmen geht nahtlos in Ausatmen über, Ausatmen nahtlos in Einatmen.
+Verbundenes Atmen — auch als "bewusstes verbundenes Atmen" bekannt — basiert auf einem einzigen Prinzip: Es gibt keine Pause zwischen Einatmung und Ausatmung. Der Atem fließt in einem durchgehenden Kreis — Einatmen geht nahtlos in Ausatmen über, Ausatmen nahtlos in Einatmen.
 
-Diese Technik wurde in den 1970er Jahren von Leonard Orr unter dem Namen "Rebirthing" bekannt gemacht — basierend auf der Idee, dass das verbundene Atmen Zugang zu Geburtstraumata ermöglicht. Heute wird die Technik unter verschiedenen Namen praktiziert (Transformational Breath, Clarity Breathwork, Integrative Breathwork) und hat sich von der ursprünglichen Rebirthing-Philosophie weitgehend gelöst.
+Diese Technik wurde in den 1970er Jahren populär — ursprünglich verbunden mit der Idee, dass durchgehendes Atmen Zugang zu sehr frühen Prägungen ermöglicht. Heute wird sie in vielen Varianten praktiziert und hat sich von ihren ursprünglichen Deutungen weitgehend gelöst; im Vordergrund steht die Selbsterfahrung.
 
 ### Technik
 
@@ -343,7 +343,7 @@ Lege dich auf den Rücken. Schließe die Augen. Beginne mit einem entspannten, r
 
 Das Entscheidende: Verbinde Einatmung und Ausatmung zu einem ununterbrochenen Kreislauf. Keine Pause oben (volle Lunge). Keine Pause unten (leere Lunge). Der Atem rollt — wie eine Welle, die nie aufhört.
 
-Die Ausatmung ist passiv — du lässt los, statt aktiv auszupressen. Die Einatmung ist aktiv, aber nicht forciert. Der Rhythmus ist schneller als normal, aber nicht so intensiv wie beim Holotropen Atmen.
+Die Ausatmung ist passiv — du lässt los, statt aktiv auszupressen. Die Einatmung ist aktiv, aber nicht forciert. Der Rhythmus ist schneller als normal, aber nicht so intensiv wie beim sehr intensiven Atmen.
 
 Eine typische Sitzung dauert 45 bis 75 Minuten.
 
@@ -351,11 +351,11 @@ Eine typische Sitzung dauert 45 bis 75 Minuten.
 
 Das verbundene Atemmuster erzeugt mehrere parallele Prozesse:
 
-**Physiologisch:** Ähnlich wie beim Holotropen Atmen sinkt der CO2-Spiegel, der pH-Wert steigt. Aber weil das Tempo moderater ist, sind die Effekte weniger extrem und besser steuerbar.
+**Physiologisch:** Ähnlich wie beim intensiven Atmen sinkt der CO2-Spiegel, der pH-Wert steigt. Aber weil das Tempo moderater ist, sind die Effekte weniger extrem und besser steuerbar.
 
 **Energetisch:** Das pausenlose Atmen "füllt" den Energiekörper kontinuierlich auf. Blockaden, die den Energiefluss normalerweise unterbrechen, werden mit jedem Atemzug konfrontiert. Irgendwann "bricht" die Blockade — und die Energie fließt frei durch die zuvor blockierte Zone. Dieser Moment wird oft als intensive körperliche oder emotionale Empfindung erlebt.
 
-**Emotional:** Verbundenes Atmen bringt unterdrückte Emotionen an die Oberfläche — sanfter als Holotropes Atmen, aber oft mit überraschender Präzision. Der Körper "wählt", welche Blockade als nächstes gelöst wird — du musst nichts steuern.
+**Emotional:** Verbundenes Atmen bringt unterdrückte Emotionen an die Oberfläche — sanfter als das sehr intensive Atmen, aber oft mit überraschender Präzision. Der Körper "wählt", welche Blockade als nächstes gelöst wird — du musst nichts steuern.
 
 ### Integration
 
@@ -363,9 +363,9 @@ Nach einer Sitzung ist Ruhe und Integration wichtig. Bleibe mindestens 15 Minute
 
 Verbundenes Atmen kann intensive Nachprozesse auslösen — emotionale Wellen, lebhafte Träume, vorübergehende Müdigkeit oder ungewöhnliche Klarheit. Das alles ist normal und Teil des Integrationsprozesses.
 
-### Verbundenes Atmen in der Praxis
+### Verbundenes Atmen in deiner eigenen Praxis
 
-Für energetisch Praktizierende bietet sich verbundenes Atmen als Werkzeug in der Klientenarbeit an — mit entsprechender Ausbildung. Es ermöglicht tiefe Prozesse ohne invasive Techniken und gibt dem Klienten die volle Kontrolle: Er atmet selbst, er steuert die Intensität, er kann jederzeit pausieren.`
+Verbundenes Atmen ist ein kraftvolles Werkzeug der Selbsterfahrung. Es kann tiefe Prozesse anstoßen — und du behältst dabei die volle Kontrolle: Du atmest selbst, steuerst die Intensität und kannst jederzeit pausieren. Für intensivere Sitzungen gilt: Erfahrene Begleitung und ein sicherer Rahmen sind wichtig. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
         {
           id: 'G04-M3-L3',
@@ -374,7 +374,7 @@ Für energetisch Praktizierende bietet sich verbundenes Atmen als Werkzeug in de
 
 ### Intensive Atemarbeit ist kein Spielzeug
 
-Die Techniken in diesem Modul — Holotropes Atmen, verbundenes Atmen und alle Formen intensiven Breathworks — sind kraftvoll. Sie können tiefe Heilung ermöglichen, aber sie können auch destabilisieren, wenn sie ohne Wissen, ohne Begleitung oder bei falscher Indikation eingesetzt werden.
+Die Techniken in diesem Modul — intensives verbundenes Atmen und alle Formen intensiven Breathworks — sind kraftvoll. Sie können tiefe innere Prozesse anstoßen, aber sie können auch destabilisieren, wenn sie ohne Wissen, ohne Begleitung oder bei falscher Indikation eingesetzt werden.
 
 ### Absolute Kontraindikationen
 
@@ -396,9 +396,9 @@ Folgende Zustände schließen intensive Atemarbeit grundsätzlich aus:
 
 **Traumatisierung** — Menschen mit schwerem Trauma können durch intensive Atemarbeit retraumatisiert werden, wenn die Arbeit nicht in einem sicheren, therapeutischen Setting stattfindet. Trauma-sensibles Breathwork erfordert spezielle Ausbildung.
 
-**Angststörungen** — Paradoxerweise kann Atemarbeit Angst sowohl heilen als auch auslösen. Die Empfindungen der Hyperventilation (Kribbeln, Schwindel, Enge) können eine Panikattacke triggern. Beginne sehr sanft und steigere graduell.
+**Angststörungen** — Paradoxerweise kann Atemarbeit Angst sowohl lindern als auch auslösen. Die Empfindungen der Hyperventilation (Kribbeln, Schwindel, Enge) können eine Panikattacke triggern. Beginne sehr sanft und steigere graduell.
 
-**Asthma** — Manche Atemtechniken können Asthmaanfälle auslösen, andere (besonders Buteyko-Methode und Nasenatmung) können Asthma verbessern. Individuelle Beurteilung erforderlich.
+**Asthma & Atemwegserkrankungen** — Manche Atemtechniken können Atemwegsbeschwerden verstärken. Bei Asthma oder anderen Atemwegserkrankungen gilt: nur in Absprache mit dem behandelnden Arzt üben und niemals Medikamente eigenmächtig verändern.
 
 ### Zeichen, die zum Abbruch auffordern
 
@@ -416,37 +416,37 @@ Wenn du Atemarbeit in deine Praxis integrieren möchtest, investiere in eine fun
     },
 
     // ============================================================
-    // MODUL 4 — Wim Hof & moderne Atemtechniken
+    // MODUL 4 — Kälte-Atem & moderne Atemtechniken
     // ============================================================
     {
       id: 'G04-M4',
-      titel: 'Wim Hof & moderne Atemtechniken',
-      beschreibung: 'Die Wim-Hof-Methode verstehen und sicher praktizieren, weitere moderne Atemtechniken kennenlernen und die Verbindung zwischen Atem und Immunsystem begreifen.',
+      titel: 'Kälte-Atem & moderne Atemtechniken',
+      beschreibung: 'Die Kälte-Atem-Methode verstehen und sicher praktizieren, weitere moderne Atemtechniken kennenlernen und ihre Wirkung auf Wachheit und Wohlbefinden erleben.',
       lektionen: [
         {
           id: 'G04-M4-L1',
-          titel: 'Die Wim-Hof-Methode — Atem, Kälte, Mindset',
-          inhalt: `## Die Wim-Hof-Methode
+          titel: 'Kälte-Atem-Methode — Atem, Kälte, Mindset',
+          inhalt: `## Die Kälte-Atem-Methode
 
-### Wer Wim Hof ist und warum seine Methode funktioniert
+### Was diese Methode ausmacht
 
-Wim Hof — bekannt als "The Iceman" — hat über Jahrzehnte Dutzende Kälte-Weltrekorde aufgestellt: Schwimmen unter Eis, barfuß im Schnee auf den Kilimanjaro, stundenlanges Stehen in Eiswasser. Was ihn besonders macht, ist nicht nur die persönliche Leistung, sondern der wissenschaftliche Nachweis, dass seine Methode trainierbar ist.
+Eine der bekanntesten modernen Atem-Praktiken kombiniert eine intensive Atemtechnik mit Kälteexposition und mentalem Fokus. Bekannt wurde sie durch spektakuläre Kälte-Leistungen einzelner Pioniere — Schwimmen unter Eis, Barfußwanderungen im Schnee, langes Verweilen in Eiswasser.
 
-In einer bahnbrechenden Studie an der Radboud University in den Niederlanden konnte nachgewiesen werden, dass Teilnehmer nach nur 10 Tagen Training mit der Wim-Hof-Methode ihr autonomes Nervensystem und ihre Immunreaktion bewusst beeinflussen konnten — etwas, das die Medizin zuvor für unmöglich hielt. Die Teilnehmer zeigten eine reduzierte Entzündungsreaktion bei einer Injektion mit bakteriellem Endotoxin — sie hatten gelernt, ihr Immunsystem willentlich zu regulieren.
+Es gibt Studien, die nahelegen, dass Menschen nach kurzem Training mit dieser Methode Einfluss auf ihr autonomes Nervensystem nehmen können. Solche Einzelstudien sind interessant, aber kein Wirknachweis im medizinischen Sinne — betrachte sie als Hinweise, nicht als Heilversprechen. Für dich zählt die eigene Erfahrung: mehr Wachheit, bessere Kälteverträglichkeit, ein Gefühl von Selbstwirksamkeit.
 
 ### Die drei Säulen
 
 **Säule 1: Die Atemtechnik**
 
-Die Wim-Hof-Atemtechnik ist eine Form der kontrollierten Hyperventilation, gefolgt von Atemanhalten.
+Diese Kälte-Atem-Technik ist eine Form der kontrollierten Hyperventilation, gefolgt von Atemanhalten.
 
 Runde: 30 bis 40 tiefe, kräftige Atemzüge — vollständig einatmen (Brust und Bauch), passiv ausatmen (nicht forciert). Durch Nase oder Mund. Nach dem letzten Atemzug: vollständig ausatmen und den Atem anhalten — so lange wie angenehm (typisch 1–3 Minuten). Dann: tief einatmen, Atem 15 Sekunden halten, loslassen. Das ist eine Runde. Typisch: 3 bis 4 Runden.
 
-Was passiert: Durch die Hyperventilation sinkt der CO2-Spiegel, die Sauerstoffsättigung steigt auf nahezu 100 Prozent. Wenn du dann den Atem nach der Ausatmung anhältst, ist der normale Atemdrang (ausgelöst durch steigendes CO2) verzögert — deshalb kannst du ungewöhnlich lange halten. Gleichzeitig schüttet der Körper Adrenalin aus, die Milz setzt zusätzliche Blutkörperchen frei, und das Immunsystem wird kurzzeitig aktiviert.
+Was passiert: Durch die Hyperventilation sinkt der CO2-Spiegel, die Sauerstoffsättigung steigt auf nahezu 100 Prozent. Wenn du dann den Atem nach der Ausatmung anhältst, ist der normale Atemdrang (ausgelöst durch steigendes CO2) verzögert — deshalb kannst du ungewöhnlich lange halten. Gleichzeitig schüttet der Körper Adrenalin aus — viele Übende erleben dabei einen Schub an Wachheit und Klarheit.
 
 **Säule 2: Kälteexposition**
 
-Kalte Duschen, Eisbäder, Kälteschwimmen. Die Kälte trainiert die Blutgefäße (Wechsel zwischen Verengung und Erweiterung), aktiviert braunes Fettgewebe (Thermogenese), stärkt das Immunsystem und baut mentale Resilienz auf.
+Kalte Duschen, Eisbäder, Kälteschwimmen. Die Kälte fordert die Blutgefäße (Wechsel zwischen Verengung und Erweiterung), spricht das Kälteempfinden an und kann helfen, mentale Widerstandskraft aufzubauen. Wichtig: Kälteexposition hat eigene Risiken (Kreislauf, Herz) — taste dich vorsichtig heran und kläre bei Vorerkrankungen vorab ab. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 Einstieg: Am Ende jeder Dusche 30 Sekunden kaltes Wasser. Steigere auf 1, dann 2, dann 5 Minuten über Wochen. Der Schlüssel: Nicht verkrampfen, nicht den Atem anhalten — tief und ruhig weiteratmen. Die Atmung ist die Brücke, die dich durch die Kälte trägt.
 
@@ -456,7 +456,7 @@ Bewusste Entscheidung, die Praxis durchzuführen — täglich, ohne Ausrede. Der
 
 ### Sicherheitshinweise
 
-Die Wim-Hof-Atmung darf niemals im Wasser praktiziert werden — Ohnmacht durch Hyperventilation ist im Wasser tödlich. Nicht beim Autofahren, nicht beim Stehen. Immer liegend oder sitzend, in sicherer Umgebung. Die Kontraindikationen für intensive Atemarbeit (Modul 3) gelten auch hier.`
+Diese intensive Atmung darf niemals im Wasser praktiziert werden — Ohnmacht durch Hyperventilation ist im Wasser tödlich. Nicht beim Autofahren, nicht beim Stehen. Immer liegend oder sitzend, in sicherer Umgebung. Die Kontraindikationen für intensive Atemarbeit (Modul 3) gelten auch hier.`
         },
         {
           id: 'G04-M4-L2',
@@ -509,26 +509,26 @@ Diese Technik ist neurobiologisch fundiert — sie wurde von Andrew Huberman an 
         },
         {
           id: 'G04-M4-L3',
-          titel: 'Buteyko-Methode — Weniger ist mehr',
-          inhalt: `## Die Buteyko-Methode
+          titel: 'Reduziertes Atmen — Weniger ist mehr',
+          inhalt: `## Reduziertes Atmen
 
 ### Der Gegenansatz — Weniger atmen
 
-Die meisten Atemtechniken in diesem Kurs lehren dich, tiefer, bewusster oder intensiver zu atmen. Die Buteyko-Methode geht den entgegengesetzten Weg: Sie lehrt dich, weniger zu atmen — und argumentiert, dass chronisches Überatmen (Hyperventilation im Alltag) die Ursache zahlreicher Gesundheitsprobleme ist.
+Die meisten Atemtechniken in diesem Kurs laden dich ein, tiefer, bewusster oder intensiver zu atmen. Der reduzierte Ansatz geht den entgegengesetzten Weg: Er übt, weniger zu atmen — die Grundidee ist, dass chronisches Überatmen (unbemerkte Hyperventilation im Alltag) das Wohlbefinden beeinträchtigen kann.
 
-Konstantin Buteyko, ein ukrainischer Arzt, entwickelte diese Methode in den 1950er Jahren. Seine zentrale These: Die meisten Menschen in modernen Gesellschaften atmen chronisch zu viel — zu schnell, zu tief, zu häufig, durch den Mund. Das führt zu einem dauerhaft niedrigen CO2-Spiegel, was wiederum Blutgefäße verengt, die Sauerstoffabgabe an die Zellen reduziert und die glatte Muskulatur (Bronchien, Blutgefäße, Darm) in einen Zustand chronischer Verkrampfung versetzt.
+Dieser Ansatz entstand Mitte des 20. Jahrhunderts. Die zentrale Beobachtung: Viele Menschen in modernen Gesellschaften atmen tendenziell zu viel — zu schnell, zu tief, zu häufig, durch den Mund. Das kann den CO2-Haushalt verschieben und sich auf das allgemeine Wohlbefinden auswirken.
 
 ### Das Kontrollpausen-Konzept
 
-Der Schlüsselbegriff in der Buteyko-Methode ist die "Kontrollpause" (Control Pause / CP) — die Zeit in Sekunden, die du nach einer normalen Ausatmung angenehm den Atem anhalten kannst, bis der erste Atemdrang kommt (nicht bis du nicht mehr kannst).
+Der Schlüsselbegriff ist die "Kontrollpause" (Control Pause / CP) — die Zeit in Sekunden, die du nach einer normalen Ausatmung angenehm den Atem anhalten kannst, bis der erste Atemdrang kommt (nicht bis du nicht mehr kannst).
 
-CP unter 10 Sekunden: Schwere Überatmung. Typisch bei Asthma, Panikstörungen, chronischem Stress.
+CP unter 10 Sekunden: Deutliche Überatmung. Häufig bei anhaltendem Stress und Anspannung.
 
 CP 10–20 Sekunden: Moderate Überatmung. Sehr verbreitet in der Gesamtbevölkerung.
 
 CP 20–40 Sekunden: Normale bis gute Atemkontrolle. Weniger Stresssymptome, bessere Konzentration.
 
-CP über 40 Sekunden: Optimale Atemeffizienz. Hohes Energielevel, emotionale Stabilität, Krankheitsresistenz.
+CP über 40 Sekunden: Sehr gute Atemökonomie. Oft verbunden mit hohem Energielevel und emotionaler Stabilität.
 
 ### Die Kernübung — Reduziertes Atmen
 
@@ -538,17 +538,17 @@ Das Ziel: Ein leichtes Gefühl von Lufthunger. Nicht Atemnot — ein sanftes "Ic
 
 Halte dieses reduzierte Atmen für 3 bis 5 Minuten. Der leichte Lufthunger sollte die ganze Zeit spürbar sein, aber nie unangenehm werden.
 
-**Wirkung bei regelmäßiger Praxis:** Die Kontrollpause verlängert sich. Die Atemfrequenz sinkt dauerhaft. Die Toleranz für CO2 steigt. Die Blutgefäße erweitern sich. Die Bronchien entspannen sich.
+**Erfahrung bei regelmäßiger Praxis:** Die Kontrollpause verlängert sich, die Atemfrequenz wird ruhiger, viele Übende erleben mehr Gelassenheit im Alltag.
 
-### Buteyko bei Asthma
+### Ein wichtiger Hinweis zu Atemwegsthemen
 
-Der bekannteste Anwendungsbereich der Buteyko-Methode ist Asthma. Mehrere klinische Studien zeigen, dass regelmäßiges Buteyko-Training die Asthmasymptome signifikant reduziert und den Bedarf an Notfall-Inhalatoren um bis zu 90 Prozent senken kann. Das funktioniert, weil chronisches Überatmen die Bronchien verkrampft — und reduziertes Atmen sie entspannt.
+Bei Atemwegserkrankungen wie Asthma kursieren viele Versprechen rund um Atemtechniken. Wichtig: Solche Erkrankungen gehören in ärztliche Hand. Atemübungen können begleitend zum Wohlbefinden beitragen, ersetzen aber niemals eine ärztliche Behandlung oder verordnete Medikamente — setze nie eigenmächtig Medikamente ab. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Die Integration beider Ansätze
 
-Buteyko widerspricht nicht den aktivierenden Techniken (Wim Hof, Kapalabhati, Holotropes Atmen) — er ergänzt sie. Die aktivierenden Techniken nutzen bewusst kurzzeitige Hyperventilation als therapeutisches Werkzeug. Buteyko optimiert die Alltagsatmung — das, was du die restlichen 23 Stunden am Tag tust.
+Der reduzierte Ansatz widerspricht nicht den aktivierenden Techniken (intensives Atmen, Kapalabhati) — er ergänzt sie. Die aktivierenden Techniken nutzen bewusst kurzzeitige Hyperventilation als Übungsimpuls. Das reduzierte Atmen kümmert sich um die Alltagsatmung — das, was du die restlichen 23 Stunden am Tag tust.
 
-Die ideale Praxis kombiniert beides: kurze intensive Atemsessions (Pranayama, Wim Hof) plus eine optimierte Alltagsatmung (Nasenatmung, reduziertes Volumen, Bauchatmung). Die Sessions aktivieren und transformieren — die Alltagsatmung stabilisiert und heilt.`
+Die ausgewogene Praxis kombiniert beides: kurze intensive Atemsessions plus eine ruhige, ökonomische Alltagsatmung (Nasenatmung, reduziertes Volumen, Bauchatmung). Die Sessions aktivieren — die Alltagsatmung stabilisiert.`
         }
       ]
     },
@@ -590,7 +590,7 @@ Das ist keine Theorie — es ist Physiologie. Dein Gehirn prüft ständig den Zu
 
 ### Emotionale Atemmuster aufspüren
 
-Eine der wertvollsten Fähigkeiten, die du als Praktizierender entwickeln kannst: Emotionen am Atemmuster erkennen — bei dir selbst und bei Klienten.
+Eine der wertvollsten Fähigkeiten, die du entwickeln kannst: Emotionen am eigenen Atemmuster erkennen — als Weg zu mehr Selbstwahrnehmung.
 
 **Übung — Emotionale Atem-Kartierung:**
 
@@ -598,7 +598,7 @@ Setze dich ruhig hin. Erinnere dich an eine Situation, in der du starke Angst er
 
 Wechsle zu: Wut. Trauer. Scham. Freude. Liebe. Beobachte jedes Mal, was dein Atem tut.
 
-Du wirst feststellen, dass jede Emotion ein einzigartiges, wiedererkennbares Atemmuster hat. Dieses Wissen wird zum diagnostischen Werkzeug: Wenn du siehst, wie ein Klient atmet, weißt du, in welchem emotionalen Zustand er sich befindet — manchmal bevor er es selbst weiß.`
+Du wirst feststellen, dass jede Emotion ein einzigartiges, wiedererkennbares Atemmuster hat. Dieses Wissen wird zu einem feinen Selbstwahrnehmungs-Instrument: Wenn du bemerkst, wie du gerade atmest, erkennst du, in welchem emotionalen Zustand du bist — oft bevor der Verstand es benennt. Und im Miteinander schärft es deine Präsenz: Ein veränderter Atem beim Gegenüber ist kein Befund, den du stellst, sondern eine leise Einladung, aufmerksamer und mitfühlender da zu sein.`
         },
         {
           id: 'G04-M5-L2',
@@ -639,32 +639,30 @@ Nutze die Technik des verbundenen Atmens (Modul 3), aber mit einer spezifischen 
         },
         {
           id: 'G04-M5-L3',
-          titel: 'Atem in der energetischen Sitzung — Integration für Praktizierende',
-          inhalt: `## Atem in der energetischen Sitzung
+          titel: 'Atem in deiner Praxis & in achtsamer Begegnung',
+          inhalt: `## Atem in deiner Praxis & in achtsamer Begegnung
 
 ### Atem als universelles Werkzeug
 
-Unabhängig davon, welche energetische Modalität du praktizierst — Reiki, Chakra-Arbeit, Aurahealing, schamanische Praxis — der Atem kann jede Sitzung vertiefen und verstärken.
+Unabhängig davon, welchen inneren Weg du gehst — Meditation, Chakra-Selbstwahrnehmung, schamanische Praxis — der Atem kann jede deiner Übungen vertiefen und verstärken.
 
-### Für den Praktizierenden — Dein eigener Atem
+### Dein eigener Atem als Fundament
 
-Dein Atem als Praktizierender ist dein wichtigstes Werkzeug. Er bestimmt, in welchem Zustand du arbeitest — und dieser Zustand überträgt sich auf den Klienten.
+Dein Atem ist dein wichtigstes Werkzeug. Er bestimmt, in welchem Zustand du bist — und wie präsent du dir selbst und anderen begegnest.
 
-Vor der Sitzung: 5 Minuten Kohärenzatmung (5,5 Sekunden ein, 5,5 Sekunden aus). Das bringt dich in einen Zustand optimaler Balance — geerdet, klar, empathisch, nicht reaktiv.
+Vor einer Übung: 5 Minuten Kohärenzatmung (5,5 Sekunden ein, 5,5 Sekunden aus). Das bringt dich in einen Zustand optimaler Balance — geerdet, klar, empathisch, nicht reaktiv.
 
-Während der Sitzung: Ujjayi-Atmung hält dich fokussiert und verbunden. Der hörbare Atem gibt dem Klienten einen unbewussten Rhythmus — viele Klienten synchronisieren ihren Atem spontan mit dem des Praktizierenden.
+Während der Übung: Ujjayi-Atmung hält dich fokussiert und verbunden. Der hörbare Atem gibt dir einen tragenden Rhythmus.
 
-Nach der Sitzung: Drei tiefe Seufzer zur Entladung. Dann Erdungsatmung — bewusst in den Bauch und die Beine atmen, um die Energie, die du während der Sitzung bewegt hast, nicht in deinem eigenen System zu halten.
+Nach der Übung: Drei tiefe Seufzer zur Entladung. Dann Erdungsatmung — bewusst in den Bauch und die Beine atmen, um wieder ganz im Alltag anzukommen.
 
-### Für den Klienten — Atem als Zugang
+### Atem in der Begegnung — Präsenz statt Eingriff
 
-Du kannst den Klienten einfache Atemanweisungen geben, die die Sitzung unterstützen:
+Wenn du deine eigene Atemwahrnehmung geschult hast, verändert das auch, wie du anderen begegnest. Du wirst feinfühliger dafür, wenn jemand angespannt oder aufgewühlt ist. Wichtig ist die Haltung: Du arbeitest nicht am Atem eines anderen Menschen und stellst keine Diagnosen — du bist einfach präsenter und mitfühlender da.
 
-"Atme tief in den Bereich, in dem du die Blockade spürst." — Der Atem bringt Bewusstsein und Energie direkt an die blockierte Stelle.
+Was du im geteilten Raum tun kannst, ist immer eine Einladung, nie eine Anweisung: gemeinsam ein paar ruhige Atemzüge nehmen, selbst ruhig und tief atmen (Menschen synchronisieren sich oft spontan mit einem ruhigen Gegenüber), oder jemandem anbieten, für einen Moment zusammen zur Ruhe zu kommen. Der Atem des anderen gehört immer ihm allein.
 
-"Atme ein, was du brauchst. Atme aus, was du loslassen willst." — Diese einfache Anweisung gibt dem Klienten eine aktive Rolle in seinem eigenen Heilungsprozess.
-
-"Lass den Atem machen, was er will." — Manchmal ist der freiste Atem der heilsamste. Der Körper weiß, wie er atmen muss, um zu heilen — wenn wir aufhören, ihn zu kontrollieren.
+Wenn ein Mensch dir von seelischer oder körperlicher Belastung erzählt, ist die klarste Hilfe oft der Hinweis auf die richtige Stelle: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Atem als Brücke zwischen den Welten
 
@@ -708,7 +706,7 @@ Für akuten Stress, Panik, Nervosität, Ärger:
 
 Für langfristige Gesundheit, emotionale Balance und energetische Klarheit:
 
-**Morgens (aktivierend):** 3 Runden Wim-Hof-Atmung (15 Minuten) oder Kapalabhati (5 Minuten). Weckt auf, energetisiert, stärkt das Immunsystem.
+**Morgens (aktivierend):** 3 Runden Kälte-Atem-Atmung (15 Minuten) oder Kapalabhati (5 Minuten). Weckt auf und energetisiert.
 
 **Mittags (balancierend):** 5 Minuten Nadi Shodhana (Wechselatmung). Balanciert die Gehirnhälften, löst die Mittagsträgheit, klärt den Geist für den Nachmittag.
 
@@ -718,7 +716,7 @@ Für langfristige Gesundheit, emotionale Balance und energetische Klarheit:
 
 Einmal pro Woche eine längere Atempraxis. Optionen:
 
-20 Minuten Pranayama-Sequenz (Kapalabhati, Nadi Shodhana, Ujjayi, Bhramari in Folge). 30 Minuten verbundenes Atmen (in sicherer Umgebung). 15 Minuten Wim Hof + kalte Dusche. 45 Minuten Atemmeditation (einfach sitzen und den natürlichen Atem beobachten — die älteste und tiefste Praxis).
+20 Minuten Pranayama-Sequenz (Kapalabhati, Nadi Shodhana, Ujjayi, Bhramari in Folge). 30 Minuten verbundenes Atmen (in sicherer Umgebung). 15 Minuten Kälte-Atem-Praxis + kalte Dusche. 45 Minuten Atemmeditation (einfach sitzen und den natürlichen Atem beobachten — die älteste und tiefste Praxis).
 
 ### Situationsbezogene Anwendungen
 
@@ -768,15 +766,15 @@ Atemtechniken sind mächtige Werkzeuge — und Macht erfordert Verantwortung. Ei
 
 **Kenne deine Grenzen.** Nicht jede Technik ist für jeden Menschen geeignet. Nicht jede Situation erlaubt intensive Atemarbeit. Bevor du eine Technik empfiehlst oder anleitest — prüfe die Kontraindikationen. Jedes Mal.
 
-**Weniger ist oft mehr.** Die Versuchung ist groß, die intensivsten Techniken einzusetzen, weil die Effekte dramatischer sind. Aber für die meisten Menschen in den meisten Situationen sind die sanften Techniken wirksamer — und sicherer. Ein Klient, der seit 40 Jahren flach atmet, braucht keine Holotrope Session — er braucht erst einmal Bauchatmung.
+**Weniger ist oft mehr.** Die Versuchung ist groß, gleich zu den intensivsten Techniken zu greifen, weil die Effekte dramatischer sind. Aber in den meisten Situationen sind die sanften Techniken wirksamer — und sicherer. Wer seit 40 Jahren flach atmet, braucht keine intensive Session — sondern erst einmal Bauchatmung.
 
-**Der Atem gehört dem Klienten.** Wenn du Atemarbeit anleitest, gibst du Anweisungen — aber der Klient atmet. Er hat jederzeit das Recht, die Intensität zu reduzieren, eine Pause zu machen oder die Sitzung zu beenden. Niemals jemanden drängen, "durchzuatmen" wenn er nicht will.
+**Der Atem gehört dir.** In deiner eigenen Praxis bestimmst allein du das Tempo. Du hast jederzeit das Recht, die Intensität zu reduzieren, eine Pause zu machen oder aufzuhören. Und wo du je gemeinsam mit anderen atmest, gilt dasselbe für sie: niemals jemanden drängen, "durchzuatmen", der nicht will.
 
-**Nachsorge ernst nehmen.** Intensive Atemarbeit kann Prozesse auslösen, die Tage oder Wochen nachwirken. Stelle sicher, dass der Klient weiß, was nach einer Sitzung geschehen kann, und dass er Unterstützung hat, wenn er sie braucht.
+**Nachsorge ernst nehmen.** Intensive Atemarbeit kann Prozesse auslösen, die Tage oder Wochen nachwirken. Sorge für dich: Wisse, was nach einer intensiven Session auftauchen kann, und hol dir Unterstützung, wenn du sie brauchst. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Was der Atem nicht kann
 
-Atemarbeit ist kein Ersatz für Psychotherapie bei schweren psychischen Erkrankungen. Sie ist kein Ersatz für medizinische Behandlung bei organischen Krankheiten. Sie kann begleiten, unterstützen, ergänzen — aber nicht alles heilen. Die Behauptung, Atemtechniken könnten jede Krankheit heilen, ist unseriös und potenziell gefährlich.
+Atemarbeit ist kein Ersatz für Psychotherapie bei schweren psychischen Erkrankungen. Sie ist kein Ersatz für medizinische Behandlung bei organischen Krankheiten. Sie kann begleiten, unterstützen, ergänzen — aber sie ist kein Heilmittel. Die Behauptung, Atemtechniken könnten Krankheiten heilen, ist unseriös und potenziell gefährlich. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Dein Weg weiter
 
@@ -784,11 +782,11 @@ Die nächsten Schritte nach diesem Kurs können sein:
 
 Vertiefung in eine spezifische Tradition — klassisches Pranayama unter einem qualifizierten Yogalehrer. Fortgeschrittene Kumbhaka-Praxis (langes Atemanhalten) erfordert persönliche Anleitung.
 
-Ausbildung zum Breathwork-Facilitator — wenn du Atemarbeit professionell in deine Praxis integrieren möchtest. Es gibt seriöse Ausbildungen in Holotropem Atmen, Rebirthing/Conscious Connected Breathing und Transformational Breath.
+Vertiefung im Breathwork — wenn du intensiver mit Atemarbeit gehen möchtest, gibt es seriöse, mehrtägige Weiterbildungen bei erfahrenen Anleitern. Solche intensiven Formen lernt man nicht aus einem Kurs, sondern in persönlicher Begleitung und mit sicherem Rahmen.
 
 Integration mit anderen Modalitäten — Atem und Klang (Trommel-Atmung, Gong-Atmung). Atem und Bewegung (Yoga, Qigong, Tanz). Atem und Meditation (Vipassana, Zen). Atem und Natur (Waldbaden mit bewusstem Atmen).
 
-Der Atem ist der rote Faden, der alle Praktiken verbindet. Er ist die universellste, zugänglichste und wirksamste Methode der Selbstheilung, die der Menschheit zur Verfügung steht. Und er ist kostenlos, immer verfügbar und gehört dir — von deinem ersten bis zu deinem letzten Atemzug.`
+Der Atem ist der rote Faden, der alle Praktiken verbindet. Er ist die universellste, zugänglichste und kraftvollste Methode der Selbstfürsorge, die jedem Menschen zur Verfügung steht. Und er ist kostenlos, immer verfügbar und gehört dir — von deinem ersten bis zu deinem letzten Atemzug.`
         }
       ]
     }

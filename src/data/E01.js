@@ -1,6 +1,6 @@
 // E01.js — Einführung Energiearbeit
 // Standard ◈◈ · 6 Module · 18 Lektionen
-// Human Resonanz Akademie · Mai 2026
+// Human Resonanz Lernwelt · Mai 2026 · Saniert Juli 2026
 
 const E01 = {
   id: 'E01',
@@ -11,8 +11,8 @@ const E01 = {
   dauer: '4–6 Stunden',
   level: 'Einsteiger',
   voraussetzungen: 'Keine',
-  beschreibung: `Alles ist Energie. Dein Körper, deine Gedanken, deine Emotionen, der Raum um dich herum — alles schwingt, alles strahlt, alles kommuniziert auf einer Ebene jenseits der fünf Sinne. In diesem Kurs lernst du die Grundlagen der Energiearbeit: Was das menschliche Energiefeld ist, wie Chakren und Aura funktionieren, wie du feinstoffliche Energie wahrnehmen und lenken kannst und wie du diese Fähigkeit in dein Leben und deine Praxis integrierst. Dies ist der Grundstein für alle weiteren energetischen Modalitäten.`,
-  status: 'coming',
+  beschreibung: `Alles ist Energie. Dein Körper, deine Gedanken, deine Emotionen, der Raum um dich herum — alles schwingt, alles strahlt, alles kommuniziert auf einer Ebene jenseits der fünf Sinne. In diesem Kurs lernst du die Grundlagen der Energiearbeit: Was das menschliche Energiefeld ist, wie Chakren und Aura funktionieren, wie du feinstoffliche Energie wahrnehmen und lenken kannst und wie du diese Fähigkeit in dein Leben integrierst. Dies ist der Grundstein für alle weiteren energetischen Modalitäten.`,
+  status: 'live',
 
   module: [
     // ============================================================
@@ -21,7 +21,7 @@ const E01 = {
     {
       id: 'E01-M1',
       titel: 'Was ist Energie?',
-      beschreibung: 'Den Energiebegriff im Kontext der Heilarbeit verstehen, die Brücke zwischen Physik und Metaphysik schlagen und die Grundlagen des menschlichen Energiefeldes kennenlernen.',
+      beschreibung: 'Den Energiebegriff im Kontext der energetischen Arbeit verstehen, die Brücke zwischen Physik und Metaphysik schlagen und die Grundlagen des menschlichen Energiefeldes kennenlernen.',
       lektionen: [
         {
           id: 'E01-M1-L1',
@@ -34,9 +34,9 @@ Die Physik sagt es seit über einem Jahrhundert: Materie ist nicht fest. Was wir
 
 Einstein formulierte es in seiner berühmten Gleichung E=mc²: Energie und Materie sind austauschbar. Materie ist verdichtete Energie. Energie ist befreite Materie. Zwischen deinem Körper und dem Licht einer Kerze gibt es keinen fundamentalen Unterschied — nur einen graduellen. Dein Körper ist Licht, das sich verlangsamt hat.
 
-### Der Energiebegriff in der Heilarbeit
+### Der Energiebegriff in der energetischen Arbeit
 
-Wenn wir in der energetischen Heilarbeit von "Energie" sprechen, meinen wir etwas Spezifischeres: die feinstoffliche Lebensenergie, die alle lebenden Systeme durchdringt und organisiert.
+Wenn wir in der energetischen Arbeit von "Energie" sprechen, meinen wir etwas Spezifischeres: die feinstoffliche Lebensenergie, die alle lebenden Systeme durchdringt und organisiert.
 
 Verschiedene Kulturen haben diese Energie unabhängig voneinander erkannt und benannt:
 
@@ -44,7 +44,7 @@ Verschiedene Kulturen haben diese Energie unabhängig voneinander erkannt und be
 
 **Qi (Chi)** — in der chinesischen Tradition: die Lebensenergie, die durch die Meridiane fließt und durch Akupunktur, Qigong und Tai Chi kultiviert wird.
 
-**Ki** — in der japanischen Tradition: die Lebenskraft, die in Reiki ("universelle Lebensenergie") und anderen Heilmethoden genutzt wird.
+**Ki** — in der japanischen Tradition: die Lebenskraft, die in Reiki ("universelle Lebensenergie") und anderen energetischen Traditionen im Zentrum steht.
 
 **Ruach** — im Hebräischen: der göttliche Atem, der Lebenskraft gibt.
 
@@ -75,7 +75,7 @@ Die Aura ist kein esoterisches Konzept — sie ist ein wahrnehmbares Phänomen. 
 
 Verschiedene Traditionen beschreiben unterschiedlich viele Auraschichten. Das verbreitetste Modell kennt sieben — korrespondierend mit den sieben Hauptchakren:
 
-**1. Ätherischer Körper** (1–5 cm vom physischen Körper) — Die dichteste feinstoffliche Schicht. Ein Energiedoppel des physischen Körpers. Hier zeigen sich energetische Vorläufer physischer Krankheiten. Hellsichtige nehmen ihn oft als bläulich-grauen Schimmer wahr.
+**1. Ätherischer Körper** (1–5 cm vom physischen Körper) — Die dichteste feinstoffliche Schicht. Ein Energiedoppel des physischen Körpers. In den traditionellen Beschreibungen gilt er als die Schicht, die am engsten mit dem Körperempfinden verbunden ist. Hellsichtige nehmen ihn oft als bläulich-grauen Schimmer wahr.
 
 **2. Emotionaler Körper** (5–15 cm) — Die Schicht der Emotionen. Sie verändert sich ständig — mit jeder Stimmung, jedem Gefühl, jeder Reaktion. Hier speichern sich emotionale Muster und Blockaden. Farben variieren stark: dunkle, dichte Bereiche bei unterdrückten Emotionen; leuchtende, klare Bereiche bei freiem emotionalen Ausdruck.
 
@@ -83,7 +83,7 @@ Verschiedene Traditionen beschreiben unterschiedlich viele Auraschichten. Das ve
 
 **4. Astraler Körper** (30–60 cm) — Die Brücke zwischen den unteren (persönlichen) und oberen (transpersonalen) Schichten. Hier findet die energetische Verbindung zwischen Menschen statt — "Herzensverbindungen", die als farbige Bänder zwischen den Auren zweier Menschen wahrgenommen werden können.
 
-**5. Ätherische Matrix** (60–90 cm) — Die Blaupause des physischen Körpers auf einer höheren Ebene. Enthält das "Ideal" des gesunden Zustandes. In der energetischen Heilarbeit wird oft mit dieser Schicht gearbeitet, um den physischen Körper zur Heilung "zurückzuführen".
+**5. Ätherische Matrix** (60–90 cm) — Die Blaupause des physischen Körpers auf einer höheren Ebene. In den traditionellen Modellen gilt sie als ordnende Ebene, die dem Ganzen Struktur und Ausrichtung gibt.
 
 **6. Himmlischer Körper** (90–120 cm) — Die Ebene der spirituellen Emotionen — Ekstase, bedingungslose Liebe, Einheitserleben. In tiefer Meditation oder spirituellen Erfahrungen leuchtet diese Schicht auf.
 
@@ -201,7 +201,7 @@ Hellsehen kann trainiert werden — besonders durch Übungen mit peripherem Sehe
 
 ### Kanal 3: Hellwissen (Claircognizance)
 
-Du weißt etwas — ohne zu wissen, wie du es weißt. Keine Stimme, kein Bild, kein Gefühl — einfach ein plötzliches, klares Wissen. "Ich weiß, dass er lügt." "Ich weiß, dass ich dort nicht hingehen sollte." "Ich weiß, was dieses Symptom bedeutet."
+Du weißt etwas — ohne zu wissen, wie du es weißt. Keine Stimme, kein Bild, kein Gefühl — einfach ein plötzliches, klares Wissen. "Ich weiß, dass er lügt." "Ich weiß, dass ich dort nicht hingehen sollte." "Ich weiß, dass dieses Gespräch wichtig ist."
 
 Hellwissen ist der subtilste Kanal — und deshalb der am leichtesten zu übersehen oder abzutun ("Das bilde ich mir ein"). Es ist auch der Kanal, der am schwierigsten von eigenen Projektionen zu unterscheiden ist. Mit Übung lernst du den Unterschied: Echtes Hellwissen kommt plötzlich, ist klar und trägt keine emotionale Ladung. Eigene Projektion kommt graduell, ist unklar und trägt Emotion (Angst, Wunsch, Erwartung).
 
@@ -236,7 +236,7 @@ Mache das jeden Tag in einem anderen Raum. Über Wochen wird deine Fähigkeit, d
 
 Wenn du jemandem begegnest — im Supermarkt, auf der Straße, bei der Arbeit — nimm dir einen Moment und spüre: Was für eine Energie hat diese Person? Nicht beurteilen — wahrnehmen. Ist ihre Energie weit oder eng? Hell oder dunkel? Ruhig oder aufgewühlt? Wo spürst du ihre Energie am stärksten?
 
-Tu das beiläufig, ohne Stare — ein kurzer innerer Scan. Es geht nicht darum, "Diagnosen" zu stellen, sondern deine Wahrnehmung zu kalibrieren. Je mehr Menschen du energetisch wahrnimmst, desto differenzierter wird deine Wahrnehmung.
+Tu das beiläufig, ohne Stare — ein kurzer innerer Scan. Es geht nicht darum, andere zu beurteilen oder zu deuten, sondern deine Wahrnehmung zu kalibrieren. Je mehr Menschen du energetisch wahrnimmst, desto differenzierter wird deine Wahrnehmung.
 
 ### Übung 3 — Natur-Meditation (10 Minuten)
 
@@ -278,15 +278,15 @@ Wenn du nur eine Sache aus diesem gesamten Kurs behältst, dann diese: Wohin dei
 
 Wenn du an deinen rechten Fuß denkst — ihn dir vorstellst, ihn innerlich spürst — fließt Prana dorthin. Die Durchblutung steigt leicht. Die Nervenaktivität nimmt zu. Die Temperatur kann sich messbar verändern. Dein Geist hat die Energie gelenkt — ohne physische Handlung.
 
-Dieses Prinzip funktioniert auch auf größerer Distanz und bei komplexeren Anwendungen: Wenn du deine Aufmerksamkeit auf das Herzchakra eines Klienten richtest und dort Heilungsenergie "siehst", fließt Energie dorthin. Wenn du dich auf eine Person in einem anderen Raum fokussierst und ihr Energie sendest, fließt sie — unabhängig von physischer Distanz.
+Dieses Prinzip funktioniert auch bei feineren Anwendungen: Wenn du deine Aufmerksamkeit auf dein eigenes Herzchakra richtest und dort warmes Licht "siehst", verändert sich dein Empfinden in diesem Bereich spürbar. Aufmerksamkeit und Vorstellung arbeiten zusammen — das ist die Grundlage jeder energetischen Übung.
 
 ### Absicht als Lenkrad
 
 Aufmerksamkeit bestimmt die Richtung. Absicht bestimmt die Qualität.
 
-Wenn du deine Aufmerksamkeit auf eine Körperstelle richtest mit der Absicht zu heilen, fließt heilende Energie. Wenn du mit der Absicht zu reinigen fokussierst, fließt reinigende Energie. Die Absicht formt die Energie — wie eine Düse den Wasserstrahl formt.
+Wenn du deine Aufmerksamkeit auf eine Körperstelle richtest mit der Absicht zu nähren, fließt nährende Energie. Wenn du mit der Absicht zu reinigen fokussierst, fließt reinigende Energie. Die Absicht formt die Energie — wie eine Düse den Wasserstrahl formt.
 
-Deshalb beginnt jede energetische Sitzung mit einer klaren Absicht: "Ich sende heilende Energie." "Ich reinige diesen Raum." "Ich öffne dieses Chakra." Die Absicht muss klar, positiv und frei von Eigeninteresse sein.
+Deshalb beginnt jede energetische Übung mit einer klaren Absicht: "Ich verbinde mich mit nährender Energie." "Ich reinige diesen Raum." "Ich öffne mich für Klarheit." Die Absicht muss klar, positiv und frei von Eigeninteresse sein.
 
 ### Übung — Energie lenken mit Aufmerksamkeit
 
@@ -323,13 +323,13 @@ Aufgenommene Energie muss gehalten und verdichtet werden können — sonst flie�
 
 **Übung — Das Untere Dantian füllen:** Lege eine Hand auf den Unterbauch (etwa drei Fingerbreit unter dem Nabel). Atme Prana ein — und lenke es in diesen Bereich. Stelle dir vor, dass dort ein glühender Ball aus goldener Energie wächst — mit jedem Atemzug größer, dichter, wärmer. 5 Minuten. Spüre die Wärme unter deiner Hand.
 
-Dieser energetische "Akku" versorgt dich den ganzen Tag — und ist die Quelle, aus der du in der Heilarbeit schöpfst.
+Dieser energetische "Akku" versorgt dich den ganzen Tag — und ist die Quelle, aus der du in deiner täglichen Übungspraxis schöpfst.
 
 ### Energie abgeben
 
 In der Energiearbeit gibst du Energie primär über die Hände ab — aber auch über den Atem, den Blick und die Absicht.
 
-**Übung — Energie senden über die Hände:** Aktiviere deine Handchakren (Hände reiben, Energieball formen). Halte die Hände über einen Gegenstand — ein Glas Wasser, einen Stein, eine Pflanze. Setze die Absicht: "Ich sende heilende, nährende Energie." Spüre, wie die Energie aus deinen Handflächen strömt — warm, pulsierend, lebendig.
+**Übung — Energie senden über die Hände:** Aktiviere deine Handchakren (Hände reiben, Energieball formen). Halte die Hände über einen Gegenstand — ein Glas Wasser, einen Stein, eine Pflanze. Setze die Absicht: "Ich sende nährende, klärende Energie." Spüre, wie die Energie aus deinen Handflächen strömt — warm, pulsierend, lebendig.
 
 Nach 2 bis 3 Minuten: Trinke das Wasser, halte den Stein, berühre die Pflanze. Viele Menschen berichten, dass "aufgeladenes" Wasser anders schmeckt — weicher, lebendiger. Pflanzen, die regelmäßig Energie empfangen, wachsen in informellen Experimenten oft schneller.
 
@@ -362,7 +362,7 @@ Visualisiere diese Blase jeden Morgen für 30 Sekunden. Stelle sie dir solide, l
 
 **2. Salzwasser:** Wasche deine Hände und Unterarme mit kaltem Salzwasser. Salz reinigt energetisch — das wissen alle Traditionen weltweit. Ein Salzbad (Meersalz oder Epsom-Salz) reinigt den gesamten Körper.
 
-**3. Räuchern:** Salbei, Palo Santo, Weihrauch — der Rauch reinigt dein Energiefeld und den Raum. Besonders wichtig nach der Arbeit mit Klienten oder nach dem Aufenthalt in energetisch schweren Umgebungen.
+**3. Räuchern:** Salbei, Palo Santo, Weihrauch — der Rauch reinigt dein Energiefeld und den Raum. Besonders wohltuend nach intensiven Begegnungen oder nach dem Aufenthalt in energetisch schweren Umgebungen.
 
 ### Die tägliche Praxis
 
@@ -386,11 +386,11 @@ Morgens: Schutz aufbauen (Goldene Blase, 30 Sekunden). Tagsüber: Bewusste Wahrn
 
 ### Chakren spüren und balancieren
 
-Die Arbeit mit den Chakren ist die häufigste und zugänglichste Form der Energiearbeit. Du brauchst dafür keine Jahre der Ausbildung — du brauchst sensible Hände, eine klare Absicht und die Bereitschaft, wahrzunehmen.
+Die Arbeit mit den Chakren ist die häufigste und zugänglichste Form der Energiearbeit. Du brauchst dafür keine jahrelange Vorerfahrung — du brauchst sensible Hände, eine klare Absicht und die Bereitschaft, wahrzunehmen.
 
 ### Chakra-Scan — Den Zustand wahrnehmen
 
-Lege oder setze dich bequem hin (oder arbeite mit einem Klienten, der liegt). Halte deine aktivierte Hand (Handchakra geöffnet durch Reiben und Energieball-Übung) über das erste Chakra (Wurzelchakra am Becken), etwa 10–15 cm vom Körper entfernt.
+Lege oder setze dich bequem hin. Halte deine aktivierte Hand (Handchakra geöffnet durch Reiben und Energieball-Übung) über das erste Chakra (Wurzelchakra am Becken), etwa 10–15 cm vom Körper entfernt.
 
 Spüre: Was nimmst du wahr? Wärme oder Kälte? Stärke oder Schwäche des Energieflusses? Gleichmäßigkeit oder Unregelmäßigkeit? Offenheit oder Blockade? Notiere deine Eindrücke (mental oder schriftlich).
 
@@ -404,7 +404,7 @@ Wenn du ein blockiertes oder unbalanciertes Chakra identifiziert hast:
 
 **Schritt 1: Erdung.** Verbinde dich mit der Erde (Wurzeln visualisieren) und mit der kosmischen Energie (Licht durch den Scheitel). Du arbeitest als Kanal — nicht aus deiner eigenen Reserve.
 
-**Schritt 2: Absicht.** Setze die klare Absicht: "Ich bringe Heilung und Balance zu diesem Chakra."
+**Schritt 2: Absicht.** Setze die klare Absicht: "Ich bringe Ruhe und Balance in diesen Bereich."
 
 **Schritt 3: Energie senden.** Halte beide Hände über das betroffene Chakra (10–15 cm Abstand). Lass Energie durch deine Hände fließen. Visualisiere die Farbe des Chakras — rot für Wurzel, orange für Sakral, gelb für Solarplexus und so weiter. Stelle dir vor, wie das Chakra sich öffnet, klärt, in seiner natürlichen Farbe strahlt.
 
@@ -418,7 +418,7 @@ Du kannst diese Technik auch an dir selbst durchführen: Lege deine Hände nache
         },
         {
           id: 'E01-M4-L2',
-          titel: 'Aura-Arbeit — Reinigen, Stärken, Reparieren',
+          titel: 'Aura-Arbeit — Reinigen, Stärken, Pflegen',
           inhalt: `## Aura-Arbeit
 
 ### Die Aura als dynamisches Schutzsystem
@@ -427,7 +427,7 @@ Die Aura ist nicht nur ein Energiefeld, das du wahrnimmst — sie ist ein aktive
 
 ### Aura-Reinigung — Energie-Hygiene
 
-**Technik — Aura-Streichen:** Halte deine aktivierten Hände 15–20 cm vom Körper des Klienten (oder deinem eigenen) entfernt. Streiche in langen, fließenden Bewegungen vom Kopf zu den Füßen — als würdest du einen unsichtbaren Umhang glattstreichen. Bei jedem Strich visualisiere, dass du stagnante, schwere oder fremde Energie abstreifst und in die Erde leitest.
+**Technik — Aura-Streichen:** Halte deine aktivierten Hände 15–20 cm von deinem Körper entfernt. Streiche in langen, fließenden Bewegungen vom Kopf zu den Füßen — als würdest du einen unsichtbaren Umhang glattstreichen. Bei jedem Strich visualisiere, dass du stagnante, schwere oder fremde Energie abstreifst und in die Erde leitest.
 
 7 bis 10 Striche pro Seite (vorne, hinten, seitlich). Danach die Hände schütteln oder in Salzwasser reinigen.
 
@@ -443,7 +443,7 @@ Ein geschwächtes Aurafeld — erkennbar an Müdigkeit, erhöhter Anfälligkeit 
 
 ### Löcher und Risse
 
-Energetische "Löcher" in der Aura können entstehen durch Trauma, Schock, Substanzmissbrauch, Energieraub durch andere Menschen oder chronischen Stress. Sie zeigen sich als kalte Stellen, als Bereiche, in denen die Energie "abzufließen" scheint, oder als wiederkehrende Beschwerden in der zugehörigen Körperregion.
+Energetische "Löcher" in der Aura können nach diesem Modell entstehen durch starke Erschütterungen, Schock, chronischen Stress oder das Gefühl, sich nicht abgrenzen zu können. Sie zeigen sich als kalte Stellen oder als Bereiche, in denen die Energie "abzufließen" scheint. Wichtig: Das ist ein Wahrnehmungsmodell, keine Aussage über den Körper. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 **Technik — Löcher reparieren:** Halte die Hände über den betroffenen Bereich. Visualisiere das Loch als dunkle Öffnung im Energiefeld. Dann visualisiere, wie goldenes Licht aus deinen Händen das Loch füllt, schließt und versiegelt — wie geschmolzenes Gold, das eine Fuge schließt. Halte, bis die Stelle sich warm, vollständig und glatt anfühlt.`
         },
@@ -454,7 +454,7 @@ Energetische "Löcher" in der Aura können entstehen durch Trauma, Schock, Subst
 
 ### Die drei Grundpositionen jeder Energiearbeit
 
-Bevor du irgendetwas tust — ob Chakra-Arbeit, Aura-Reinigung, Fernheilung oder Raumklärung — stellst du drei Grundbedingungen her: Erdung, Zentrierung und Kanalisierung. Sie sind das Fundament, auf dem alles steht. Ohne sie ist Energiearbeit bestenfalls wirkungslos, schlimmstenfalls schädlich.
+Bevor du irgendetwas tust — ob Chakra-Arbeit, Aura-Reinigung oder Raumklärung — stellst du drei Grundbedingungen her: Erdung, Zentrierung und Kanalisierung. Sie sind das Fundament, auf dem alles steht. Ohne sie ist Energiearbeit bestenfalls wirkungslos, schlimmstenfalls schädlich.
 
 ### Erdung — Verbindung nach unten
 
@@ -470,9 +470,9 @@ Zentrierung bringt dich in deine Mitte — den Punkt, von dem aus du klar wahrni
 
 ### Kanalisierung — Verbindung nach oben und nach unten gleichzeitig
 
-Kanalisierung stellt die Verbindung her, die dich zum Instrument der Heilung macht: Du verbindest dich gleichzeitig mit der Erde (Quelle der erdenden, nährenden Energie) und mit der kosmischen Quelle (Quelle der lichtenden, transformierenden Energie). Du stehst dazwischen — als Kanal, als Brücke, als Röhre, durch die die Energie fließt.
+Kanalisierung stellt die Verbindung her, die dich zu einem klaren, stabilen Kanal macht: Du verbindest dich gleichzeitig mit der Erde (Quelle der erdenden, nährenden Energie) und mit der kosmischen Quelle (Quelle der lichtenden, transformierenden Energie). Du stehst dazwischen — als Kanal, als Brücke, als Röhre, durch die die Energie fließt.
 
-**Kanalisierung herstellen (1 Minute):** Stehe oder sitze aufrecht. Spüre die Wurzeln nach unten (Erdung). Spüre gleichzeitig eine Öffnung am Scheitel — ein Strahl aus Licht, der von oben einströmt. Lass die Erdenergie von unten aufsteigen und die kosmische Energie von oben herabfließen. Sie treffen sich in deinem Herzen und vermischen sich zu einer goldenen, heilenden Qualität.
+**Kanalisierung herstellen (1 Minute):** Stehe oder sitze aufrecht. Spüre die Wurzeln nach unten (Erdung). Spüre gleichzeitig eine Öffnung am Scheitel — ein Strahl aus Licht, der von oben einströmt. Lass die Erdenergie von unten aufsteigen und die kosmische Energie von oben herabfließen. Sie treffen sich in deinem Herzen und vermischen sich zu einer goldenen, nährenden Qualität.
 
 Von diesem Punkt aus — geerdet, zentriert, kanalisierend — beginnst du jede energetische Arbeit. Es ist deine Startposition. Dein Standpunkt. Dein Zuhause in der energetischen Welt.`
         }
@@ -480,115 +480,103 @@ Von diesem Punkt aus — geerdet, zentriert, kanalisierend — beginnst du jede 
     },
 
     // ============================================================
-    // MODUL 5 — Energiearbeit an anderen
+    // MODUL 5 — Energiearbeit im Alltag & in Beziehung
     // ============================================================
     {
       id: 'E01-M5',
-      titel: 'Energiearbeit an anderen',
-      beschreibung: 'Die Grundlagen der Energiearbeit mit Klienten erlernen — Sitzungsaufbau, Kommunikation, Wahrnehmung und grundlegende Techniken der Behandlung.',
+      titel: 'Energiearbeit im Alltag & in Beziehung',
+      beschreibung: 'Die eigene energetische Wahrnehmung ins tägliche Leben tragen — Begegnungen bewusst erleben, achtsam über Wahrnehmungen sprechen und die eigene Energie in fordernden Situationen pflegen.',
       lektionen: [
         {
           id: 'E01-M5-L1',
-          titel: 'Die energetische Sitzung — Aufbau und Struktur',
-          inhalt: `## Die energetische Sitzung
+          titel: 'Energetische Wahrnehmung im Miteinander',
+          inhalt: `## Energetische Wahrnehmung im Miteinander
 
-### Ein klarer Rahmen gibt Sicherheit
+### Jede Begegnung hat eine Qualität
 
-Eine energetische Sitzung ist kein mystisches Ritual — sie ist eine strukturierte, professionelle Begegnung mit einem klaren Ablauf. Struktur gibt sowohl dir als auch dem Klienten Sicherheit und ermöglicht es der Energie, innerhalb eines sicheren Rahmens zu wirken.
+Du kennst das: Mit manchen Menschen fühlst du dich nach einem Gespräch belebt, klar und leicht. Nach anderen Begegnungen bist du erschöpft, obwohl nichts Schlimmes passiert ist. In der energetischen Betrachtungsweise ist das kein Zufall — Begegnungen haben eine spürbare Qualität, die über Worte und Körpersprache hinausgeht.
 
-### Phase 1: Vorbereitung (5 Minuten)
+In diesem Modul geht es darum, diese Qualität bewusst wahrzunehmen — nicht, um andere Menschen zu verändern oder an ihnen zu arbeiten, sondern um dich selbst besser zu verstehen: Was geschieht in dir, wenn du anderen begegnest?
 
-Bereite den Raum vor — physisch und energetisch. Sauber, aufgeräumt, angenehme Temperatur, gedämpftes Licht. Räuchere den Raum (optional). Zentriere und erde dich. Stelle die Kanalisierung her. Setze deine Absicht für die Sitzung.
+### Resonanz — das Grundphänomen
 
-### Phase 2: Vorgespräch (5–10 Minuten)
+Wenn zwei Menschen sich begegnen, treten ihre Energiefelder in Kontakt. Was du dabei wahrnimmst, ist immer eine Mischung: deine eigene Verfassung, die Ausstrahlung des anderen und das, was zwischen euch entsteht. Diese drei Ebenen zu unterscheiden ist eine der wertvollsten Fähigkeiten der energetischen Selbstwahrnehmung.
 
-Begrüße den Klienten. Frage nach seinem Anliegen: "Warum bist du heute hier? Wo fühlst du Beschwerden oder Ungleichgewicht?" Höre aktiv zu — nicht nur auf die Worte, sondern auf die Energie dahinter. Erkläre kurz, was du tun wirst und was der Klient erwarten kann.
+**Eine einfache Frage hilft:** "Gehört das, was ich gerade spüre, zu mir — oder habe ich es aus der Begegnung mitgenommen?" Allein die Frage schafft Abstand und Klarheit. Du wirst überrascht sein, wie oft die Antwort lautet: "Das war heute Morgen noch nicht da."
 
-Kläre: "Ich arbeite im Energiefeld — 10 bis 15 Zentimeter über dem Körper. Ich werde dich nicht berühren (oder nur mit Erlaubnis). Du liegst bequem, die Augen sind geschlossen. Alles, was du während der Sitzung spürst — Wärme, Kribbeln, Emotionen, Bilder — ist Information. Lass es zu."
+### Wahrnehmen ohne zu deuten
 
-### Phase 3: Behandlung (20–40 Minuten)
+Die wichtigste Haltung im Miteinander: Du nimmst wahr — du deutest nicht. Wenn du in der Nähe eines Menschen Schwere spürst, weißt du nicht, warum. Vielleicht trägt er etwas. Vielleicht spiegelst du dich selbst. Vielleicht ist es die Situation. Deine Wahrnehmung ist eine Information über dein eigenes Erleben — keine Aussage über den anderen.
 
-Der Klient liegt auf einer Liege oder sitzt bequem. Du stehst oder sitzt daneben.
+Diese Haltung schützt beide Seiten: Sie bewahrt dich vor Projektionen und den anderen vor ungebetenen Zuschreibungen. Was ein anderer Mensch in sich trägt, gehört ihm — und nur er selbst kann es erforschen.
 
-Ablauf: Beginne mit einem Gesamtscan — einmal langsam mit der Hand vom Kopf bis zu den Füßen, 15 cm Abstand. Nimm wahr, wo Blockaden, Verdichtungen oder Leere sind. Arbeite dann gezielt an den Bereichen, die Aufmerksamkeit brauchen — mit Chakra-Balancing, Aura-Reinigung, Energielenkung. Wechsle zwischen aktiven Phasen (Energie senden) und passiven Phasen (wahrnehmen, halten, präsent sein). Schließe mit einer Aura-Glättung ab — einmal über das gesamte Feld streichen, um es zu harmonisieren.
+### Übung — Der Begegnungs-Rückblick
 
-### Phase 4: Integration (5–10 Minuten)
+Nimm dir am Abend fünf Minuten. Gehe drei Begegnungen des Tages durch — kurz oder lang, flüchtig oder tief. Frage dich bei jeder:
 
-Lass den Klienten langsam zurückkommen. Kein abruptes Ende. "Nimm dir einen Moment. Komm langsam zurück. Bewege deine Finger und Zehen. Öffne die Augen, wenn du bereit bist."
+1. Wie war mein Energielevel vor der Begegnung — und danach?
+2. Was habe ich körperlich wahrgenommen (Enge, Weite, Wärme, Müdigkeit)?
+3. Was davon gehörte vermutlich zu mir, was habe ich aufgenommen?
 
-Biete Wasser an. Frage: "Wie fühlst du dich? Was hast du wahrgenommen?" Höre zu, ohne zu interpretieren. Der Klient braucht Raum, seine eigene Erfahrung zu verarbeiten — nicht deine Deutung.
-
-Gib kurze Empfehlungen: "Trinke heute viel Wasser. Gönne dir Ruhe. Beobachte, was sich in den nächsten Tagen verändert."
-
-### Phase 5: Nachbereitung (für dich)
-
-Nach dem Abschied des Klienten: Reinige dein Energiefeld (Hände schütteln, Salzwasser, Räuchern). Reinige den Raum. Notiere deine Wahrnehmungen — was hast du gespürt, gesehen, gewusst? Diese Notizen werden über die Zeit zu einem wertvollen Erfahrungsschatz.`
+Notiere die Antworten stichpunktartig in deinem Energie-Tagebuch. Nach zwei Wochen wirst du Muster erkennen: welche Begegnungen dich nähren, welche dich fordern — und wie du selbst in Begegnungen wirkst.`
         },
         {
           id: 'E01-M5-L2',
-          titel: 'Kommunikation & Grenzen in der Energiearbeit',
-          inhalt: `## Kommunikation & Grenzen
+          titel: 'Achtsame Sprache & eigene Grenzen',
+          inhalt: `## Achtsame Sprache & eigene Grenzen
 
-### Was du sagst — und was du nicht sagst
+### Über Wahrnehmungen sprechen — mit Sorgfalt
 
-Die Kommunikation in der Energiearbeit ist eine Kunst. Du nimmst Dinge wahr, die der Klient nicht sieht — Blockaden, emotionale Muster, energetische Zusammenhänge. Aber wie du diese Wahrnehmungen kommunizierst, macht den Unterschied zwischen einer heilsamen und einer verletzenden Sitzung.
+Je feiner deine Wahrnehmung wird, desto eher kommst du in Situationen, in denen du etwas spürst und darüber sprechen möchtest — mit dem Partner, einer Freundin, in einer Lerngruppe. Wie du über energetische Wahrnehmungen sprichst, entscheidet darüber, ob deine Worte verbinden oder verletzen.
 
-### Grundregeln der Kommunikation
+**Sprich von dir, nicht über den anderen.** Nicht: "Dein Herz ist verschlossen." Sondern: "In deiner Nähe nehme ich gerade etwas Zurückhaltendes wahr — das ist meine Wahrnehmung, sie kann auch mit mir zu tun haben."
 
-**Formuliere als Angebot, nicht als Diagnose.** Nicht: "Dein Herzchakra ist blockiert, weil du nicht vergeben kannst." Sondern: "Im Bereich des Herzens nehme ich eine Verdichtung wahr. Magst du fühlen, was dort gerade ist?"
+**Formuliere als Frage, nicht als Feststellung.** "Ich spüre gerade eine Schwere im Raum — geht es dir gut?" lädt ein. "Du hast eine Blockade" schreibt zu.
 
-**Stelle Fragen statt Behauptungen.** "Ich spüre etwas Schweres im unteren Rücken. Gibt es gerade ein Thema, das dir auf der Seele liegt?" Der Klient findet seine eigene Wahrheit — du gibst nur den Hinweis.
+**Erzeuge keine Angst.** Sätze wie "da hängt etwas Dunkles an dir" oder "dein Feld ist beschädigt" haben in keinem Gespräch etwas verloren — sie verunsichern, ohne zu helfen. Wenn dich eine Wahrnehmung beunruhigt, behalte sie bei dir und prüfe zuerst deine eigene Projektion.
 
-**Keine medizinischen Diagnosen.** Du bist kein Arzt. Sage niemals: "Du hast ein Problem mit der Leber" oder "Deine Schilddrüse ist gestört." Du kannst sagen: "Energetisch nehme ich im Bereich der rechten Seite eine Verdichtung wahr." Wenn du den Verdacht auf ein körperliches Problem hast, empfiehl den Arztbesuch — ohne eigene Diagnose.
+**Keine körperlichen oder seelischen Zuschreibungen.** Du bist kein Arzt und stellst keine Diagnosen — auch nicht in freundschaftlicher Verpackung. Sage niemals "das kommt bestimmt von deiner Leber" oder "du hast ein Trauma". Wenn jemand dir von Beschwerden erzählt, gibt es genau eine gute Antwort: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-**Vermeide Angst.** Sage niemals: "Da ist eine dunkle Energie, die an dir haftet" oder "Dein Energiefeld ist beschädigt." Selbst wenn du so etwas wahrnimmst — der Klient braucht keine Angst, er braucht Unterstützung. Formuliere neutral: "Da ist ein Bereich, der mehr Aufmerksamkeit braucht."
+### Die unverhandelbare Grenze: Einwilligung
 
-### Grenzen in der Energiearbeit
+Arbeite nie energetisch an einem anderen Menschen — weder in seiner Gegenwart noch aus der Ferne, weder "nur mal kurz schauen" noch mit bester Absicht. Energetische Grenzen sind so real wie physische Grenzen und verdienen denselben Respekt. Dieser Kurs vermittelt Selbsterfahrung — die Arbeit mit anderen Menschen ist ein eigenes Feld mit eigenen rechtlichen und ethischen Rahmenbedingungen, das hier bewusst nicht gelehrt wird.
 
-**Einwilligung ist unverhandelbar.** Arbeite nie energetisch an jemandem ohne dessen Wissen und Zustimmung. Auch nicht "aus der Ferne". Auch nicht "nur mal kurz schauen". Energetische Grenzen sind so real wie physische Grenzen — und sie verdienen denselben Respekt.
+### Deine eigenen Grenzen
 
-**Körperliche Berührung nur mit Erlaubnis.** Frage immer, bevor du den Körper berührst — auch am Arm, auch am Kopf, auch scheinbar harmlos. Manche Klienten haben Trauma-Hintergründe, die du nicht kennst.
+Achtsamkeit gilt auch in die andere Richtung. Du darfst Nein sagen — zu Gesprächen, die dich leeren, zu Menschen, die ungefragt an dir "arbeiten" wollen, zu Umgebungen, die dir nicht guttun. Eine klare, freundliche Grenze ist keine Härte. Sie ist Selbstfürsorge — und oft das energetisch Klarste, was du in einer Situation tun kannst.
 
-**Keine Abhängigkeit erzeugen.** Der Klient muss ohne dich klarkommen. Dein Ziel ist, seine eigene Kraft zu stärken — nicht ihn von dir abhängig zu machen. Wenn ein Klient sagt "Ohne dich geht es mir nicht gut", ist das ein Warnsignal, nicht ein Kompliment.
+### Übung — Der Grenz-Satz
 
-**Eigene Projektionen erkennen.** Nicht alles, was du wahrnimmst, gehört dem Klienten. Manchmal projizierst du eigene Themen. Regelmäßige Selbstreflexion und Supervision (Austausch mit erfahreneren Praktizierenden) sind unverzichtbar.`
+Formuliere drei Sätze, mit denen du freundlich und klar Grenzen setzen kannst. Zum Beispiel: "Das möchte ich gerade nicht vertiefen." — "Ich merke, ich brauche einen Moment für mich." — "Danke, aber das passt für mich nicht." Sprich sie laut aus. Spüre, wie sich dein Energiefeld dabei verhält — die meisten Menschen erleben ein deutliches Gefühl von Sammlung und Stabilität.`
         },
         {
           id: 'E01-M5-L3',
-          titel: 'Fernheilung & Energiearbeit auf Distanz',
-          inhalt: `## Fernheilung
+          titel: 'Energiehygiene in Alltagssituationen',
+          inhalt: `## Energiehygiene in Alltagssituationen
 
-### Energie kennt keine Entfernung
+### Dein Feld im Alltag
 
-Eines der faszinierendsten Phänomene der Energiearbeit: Sie funktioniert auf Distanz. Fernheilung — die Arbeit mit einem Klienten, der nicht physisch anwesend ist — ist in allen Traditionen weltweit dokumentiert und wird von zahlreichen Praktizierenden regelmäßig eingesetzt.
+Menschenmengen, Großraumbüro, volle Bahn, schwierige Gespräche, stundenlange Bildschirmzeit — der Alltag fordert dein Energiesystem ständig. Energiehygiene bedeutet: Du pflegst dein Feld so selbstverständlich, wie du deine Zähne putzt. Kurz, regelmäßig, unaufgeregt.
 
-Die Quantenphysik bietet einen theoretischen Rahmen: Quantenverschränkung zeigt, dass verbundene Teilchen instantan aufeinander reagieren, unabhängig von der Entfernung. Das Energiefeld scheint ähnlichen Prinzipien zu folgen — Verbindung geschieht über Resonanz, nicht über räumliche Nähe.
+### Situation 1: Menschenmengen & volle Räume
 
-### Wie Fernheilung funktioniert
+Bevor du einen vollen Raum betrittst: 30 Sekunden Erdung (Füße spüren, Wurzeln visualisieren) und die goldene Blase aufbauen. In der Menge: Aufmerksamkeit immer wieder zum eigenen Atem und in den Bauch bringen — das hält dein Feld gesammelt statt zerstreut. Danach: Hände schütteln, frische Luft, ein Glas Wasser.
 
-Das Prinzip ist dasselbe wie bei direkter Arbeit: Aufmerksamkeit und Absicht lenken Energie. Statt deine Hände physisch über den Klienten zu halten, hältst du den Klienten "energetisch" — durch Visualisierung, Absicht und Verbindung.
+### Situation 2: Fordernde Gespräche
 
-**Grundtechnik:**
+Vor dem Gespräch: Zentrierung (drei tiefe Atemzüge ins Hara). Während des Gesprächs: Kontakt zum eigenen Körper halten — Füße am Boden, Rücken gespürt. Das klingt banal, ist aber der wirksamste Schutz: Wer bei sich bleibt, nimmt weniger ungefiltert auf. Nach dem Gespräch: bewusst abschließen. "Ich lasse da, was nicht zu mir gehört." Kaltes Wasser über die Unterarme wirkt wie ein Reset.
 
-Setze oder lege dich ruhig hin. Erde und zentriere dich. Stelle die Kanalisierung her.
+### Situation 3: Digitale Räume
 
-Rufe den Klienten innerlich auf — stelle dir ihn so lebendig wie möglich vor. Sein Gesicht, seine Gestalt, seine Energie. Du kannst auch ein Foto verwenden, um die Verbindung zu stärken.
+Auch Bildschirmzeit hat eine energetische Qualität — Nachrichtenflut, soziale Medien und Videocalls können das Feld genauso zerstreuen wie ein voller Bahnhof. Baue Mini-Pausen ein: einmal pro Stunde aufstehen, ans Fenster, drei Atemzüge, kurz die Hände reiben und das eigene Feld spüren. Am Abend: bewusster digitaler Feierabend als kleines Ritual.
 
-Bitte um Erlaubnis — auch auf der energetischen Ebene. "Ich bitte um Erlaubnis, mit [Name] zu arbeiten, zu seinem/ihrem höchsten Wohl." Spüre, ob die Erlaubnis kommt — als Öffnung, als Wärme, als "Ja".
+### Verbundenheit über Distanz — ohne Eingriff
 
-Arbeite nun genauso wie in einer direkten Sitzung: Scanne das Energiefeld (in deiner Visualisierung), identifiziere Blockaden, sende Heilenergie, balanciere Chakren, reinige die Aura.
+Vielleicht denkst du an einen geliebten Menschen, der weit weg ist, und wünschst dir, ihm nah zu sein. Das ist ein zutiefst menschliches Bedürfnis — und du darfst es leben: als Gedanke der Verbundenheit, als gutes Wünschen, als Gebet, wenn das zu deiner Spiritualität gehört. Wichtig ist die Unterscheidung: Verbundenheit fühlen ist etwas anderes als gezielt energetisch an jemandem zu arbeiten. Das eine ist Herzenshaltung — das andere wäre ein Eingriff, der ohne Wissen und Einverständnis des anderen eine Grenzüberschreitung darstellt und in diesem Kurs bewusst nicht gelehrt wird.
 
-Beende die Sitzung mit einer bewussten Trennung: "Ich löse die energetische Verbindung. [Name] ist in seiner/ihrer eigenen Kraft." Reinige dein Feld.
+### Übung — Dein Tages-Hygieneplan
 
-### Wirksamkeit
-
-Die subjektiven Berichte über Fernheilung sind beeindruckend — Klienten berichten über Wärmeempfindungen, emotionale Prozesse, Trauminhalte oder physische Veränderungen zum Zeitpunkt der Fernbehandlung, ohne zu wissen, dass sie stattfand.
-
-Die wissenschaftliche Evidenz ist gemischt — einige Studien zeigen signifikante Effekte, andere nicht. Was feststeht: Die Erfahrung ist real, die Praxis ist alt, und die Klienten berichten konsistent über Wirkungen. Ob die Mechanismen eines Tages vollständig wissenschaftlich erklärt werden, bleibt offen — aber das hindert nicht an der Praxis.
-
-### Ethik der Fernheilung
-
-Die wichtigste Regel: Sende nie Energie an jemanden, der nicht darum gebeten hat. "Ich schicke dir mal Licht" ohne Zustimmung ist eine energetische Grenzüberschreitung — auch wenn die Absicht gut ist. Ausnahme: Allgemeine Gebete und Segnungen, die keine gezielte energetische Intervention darstellen, sind ethisch unbedenklich.`
+Erstelle deinen persönlichen Mini-Plan mit je einem Element für morgens (z.B. Erdung + Blase), tagsüber (z.B. Atem-Reset vor Terminen) und abends (z.B. Abschütteln + Energie-Tagebuch). Klein anfangen: Drei Gewohnheiten, die du wirklich hältst, wirken mehr als zehn, die du nach einer Woche aufgibst. Teste den Plan sieben Tage und passe ihn dann an.`
         }
       ]
     },
@@ -618,7 +606,7 @@ Eine 15-minütige tägliche Praxis wirkt langfristig mehr als ein einmaliges Dre
 
 **Minuten 9–12: Chakra-Check** — Lege die Hände nacheinander auf jedes Chakra (oder halte sie darüber). 30 Sekunden pro Chakra. Nicht "reparieren" — nur wahrnehmen. Wie fühlt sich heute jedes Zentrum an? Wo ist Offenheit, wo Enge?
 
-**Minuten 13–15: Absicht setzen** — Hände auf Herz und Bauch. Atme tief. Setze eine Absicht für den Tag — eine energetische Qualität, die du verkörpern möchtest. "Heute bringe ich Klarheit in meine Kommunikation." "Heute halte ich mein Herz offen." "Heute bin ich ein Kanal für Heilung."
+**Minuten 13–15: Absicht setzen** — Hände auf Herz und Bauch. Atme tief. Setze eine Absicht für den Tag — eine energetische Qualität, die du verkörpern möchtest. "Heute bringe ich Klarheit in meine Kommunikation." "Heute halte ich mein Herz offen." "Heute begegne ich allem mit einem offenen Herzen."
 
 ### Abendpraxis (5 Minuten)
 
@@ -626,34 +614,34 @@ Eine 15-minütige tägliche Praxis wirkt langfristig mehr als ein einmaliges Dre
 
 **Reflexion** — Was habe ich heute energetisch wahrgenommen? Wo war ich offen, wo verschlossen? Was hat mein Energielevel gehoben, was hat es gesenkt? 3 Sätze im Energie-Tagebuch.
 
-**Dankbarkeit** — Drei Dinge, für die du heute energetisch dankbar bist. Dankbarkeit ist der stärkste Energieheber, den es gibt — sie öffnet das Herzchakra instantan.`
+**Dankbarkeit** — Drei Dinge, für die du heute energetisch dankbar bist. Dankbarkeit ist der stärkste Energieheber, den es gibt — sie öffnet das Herzchakra spürbar.`
         },
         {
           id: 'E01-M6-L2',
-          titel: 'Energiearbeit & Lichtkern — Integration in deine Praxis',
+          titel: 'Energiearbeit & Lichtkern — Integration in deinen Alltag',
           inhalt: `## Energiearbeit & Lichtkern
 
 ### Das Gesamtbild
 
-Energiearbeit existiert nicht isoliert — sie ist die Grundlage, auf der alle anderen Modalitäten aufbauen. Human Design, Numerologie, Chakra-Diagnose, Aura-Reading, Heilarbeit — all das nutzt die Prinzipien, die du in diesem Kurs gelernt hast: Energiewahrnehmung, Energielenkung, Schutz und Reinigung.
+Energiearbeit existiert nicht isoliert — sie ist die Grundlage, auf der alle anderen Modalitäten aufbauen. Human Design, Numerologie, Aura- und Chakra-Arbeit — all das nutzt die Prinzipien, die du in diesem Kurs gelernt hast: Energiewahrnehmung, Energielenkung, Schutz und Reinigung.
 
 ### Integration mit Human Design
 
-Wenn du die Human Design Chart eines Klienten kennst, weißt du, welche Energiezentren definiert und welche offen sind. Offene Zentren sind empfänglicher, sensibler und anfälliger für Überstimulation. In der Energiearbeit kannst du gezielt an offenen Zentren arbeiten — sie stärken, reinigen und stabilisieren.
+Wenn du deine eigene Human Design Chart kennst, weißt du, welche deiner Energiezentren definiert und welche offen sind. Offene Zentren sind empfänglicher, sensibler und anfälliger für Überstimulation. In deiner Energiepraxis kannst du gezielt mit deinen offenen Zentren arbeiten — sie stärken, klären und stabilisieren.
 
-Ein Klient mit offenem Solarplexus (emotionales Zentrum) absorbiert ständig die Emotionen anderer. Energetische Arbeit an diesem Zentrum — Aura-Stärkung, Grenz-Aufbau — kann transformativ wirken.
+Wer mit einem offenen Solarplexus (emotionales Zentrum) lebt, nimmt die Emotionen anderer stark auf. Energetische Selbstarbeit an diesem Zentrum — Aura-Stärkung, Grenz-Aufbau — kann das eigene Erleben spürbar verändern.
 
 ### Integration mit Numerologie
 
-Die Lebenszahl gibt Hinweise auf die energetische Grunddisposition. Lebenszahl 1 steht für starke Individualenergie — Wurzel- und Solarplexuschakra sind oft dominant. Lebenszahl 7 steht für den spirituellen Sucher — Stirn- und Kronenchakra sind sensibel. Dieses Wissen hilft dir, die Energiearbeit individuell auszurichten.
+Die Lebenszahl gibt Hinweise auf die energetische Grunddisposition. Lebenszahl 1 steht für starke Individualenergie — Wurzel- und Solarplexuschakra sind oft dominant. Lebenszahl 7 steht für den spirituellen Sucher — Stirn- und Kronenchakra sind sensibel. Dieses Wissen hilft dir, deine eigene Energiepraxis individuell auszurichten.
 
 ### Dokumentation in Lichtkern
 
-Wenn du Lichtkern nutzt, kannst du energetische Befunde systematisch dokumentieren: Chakra-Status, Aura-Qualität, identifizierte Blockaden, durchgeführte Interventionen. Über die Zeit entsteht ein energetisches Profil des Klienten — eine zusätzliche Dimension neben HD-Chart und numerologischem Profil.
+Wenn du Lichtkern nutzt, kannst du deine eigenen energetischen Erfahrungen systematisch festhalten: Wie fühlen sich deine Zentren über die Wochen an? Welche Übungen tragen dich? Über die Zeit entsteht dein persönliches energetisches Tagebuch — eine zusätzliche Dimension neben deiner HD-Chart und deinem numerologischen Profil.
 
 ### Der Mehrwert der Integration
 
-Das Besondere an der Human-Resonanz-Philosophie ist die Integration: Du arbeitest nicht mit einem einzigen System — du arbeitest mit dem Zusammenspiel von Human Design (wer du bist), Numerologie (welche Zahlen dein Leben tragen) und Energiearbeit (wie dein Energiefeld funktioniert). Jedes System beleuchtet einen anderen Aspekt desselben Menschen — und zusammen ergeben sie ein Bild von außergewöhnlicher Tiefe und Präzision.`
+Das Besondere an der Human-Resonanz-Philosophie ist die Integration: Du arbeitest nicht mit einem einzigen System — du arbeitest mit dem Zusammenspiel von Human Design (wer du bist), Numerologie (welche Zahlen dein Leben tragen) und Energiearbeit (wie dein Energiefeld funktioniert). Jedes System beleuchtet einen anderen Aspekt deines Erlebens — und zusammen ergeben sie ein Bild von außergewöhnlicher Tiefe.`
         },
         {
           id: 'E01-M6-L3',
@@ -662,15 +650,15 @@ Das Besondere an der Human-Resonanz-Philosophie ist die Integration: Du arbeites
 
 ### Die ethischen Grundpfeiler
 
-Energiearbeit ist Vertrauensarbeit. Der Klient öffnet sich — physisch, emotional, energetisch — und vertraut darauf, dass du diese Öffnung mit Respekt, Integrität und Kompetenz behandelst. Dieses Vertrauen ist heilig.
+Energiearbeit ist Vertrauensarbeit — zuallererst Vertrauen in dich selbst und deine eigene Wahrnehmung. Und wo Menschen dir von ihren Erfahrungen erzählen, verdient diese Offenheit Respekt, Integrität und Sorgfalt.
 
 **Integrität.** Sei ehrlich über deine Fähigkeiten und Grenzen. Übertreibe nicht, was du wahrnimmst. Verspreche keine Heilung. Arbeite aus dem Herzen, nicht aus dem Ego.
 
-**Respekt.** Der Klient ist der Experte für sein eigenes Leben. Du bist ein Begleiter, kein Guru. Deine Wahrnehmungen sind Angebote, keine Wahrheiten.
+**Respekt.** Jeder Mensch ist der Experte für sein eigenes Leben. Du bist ein Begleiter, kein Guru. Deine Wahrnehmungen sind Angebote, keine Wahrheiten.
 
-**Grenzen.** Energiearbeit ersetzt keine medizinische oder psychotherapeutische Behandlung. Empfiehl weiter, wenn die Situation über deine Kompetenz hinausgeht.
+**Grenzen.** Energiearbeit ersetzt keine medizinische oder psychotherapeutische Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-**Selbstfürsorge.** Du kannst nicht geben, was du nicht hast. Pflege dein eigenes Energiesystem mit derselben Sorgfalt, mit der du an anderen arbeitest.
+**Selbstfürsorge.** Du kannst nicht geben, was du nicht hast. Pflege dein eigenes Energiesystem mit derselben Sorgfalt, mit der du anderen begegnest.
 
 ### Der Weg weiter
 
@@ -678,15 +666,15 @@ Dieser Kurs ist der Grundstein — die Basis, auf der alles Weitere aufbaut. Von
 
 **Reiki** — Ein strukturiertes System der Energieübertragung mit Einweihungen und festgelegten Handpositionen. Vertieft die Kanalarbeit.
 
-**Pranic Healing** — Ein detailliertes System der Aura- und Chakra-Reinigung mit spezifischen Protokollen für verschiedene Beschwerden.
+**Strukturierte Aura- & Chakra-Systeme** — Detaillierte Ansätze der Reinigung und Pflege des eigenen Energiefeldes mit klaren Abläufen.
 
 **Schamanische Energiearbeit** — Die Verbindung von Energiearbeit mit schamanischer Reise, Krafttierarbeit und Ritualgestaltung.
 
-**Quantenheilung** — Moderne Ansätze, die Prinzipien der Quantenphysik mit energetischer Intention verbinden.
+**Bewusstseinsbasierte Ansätze** — Moderne Wege, die Intention, Aufmerksamkeit und Wahrnehmung ins Zentrum stellen.
 
 **Medialität** — Die Verfeinerung der feinstofflichen Wahrnehmung bis zur bewussten Kommunikation mit nicht-physischen Ebenen.
 
-Welchen Weg du auch wählst — die Grundlagen bleiben dieselben: Erdung, Zentrierung, Kanalisierung, klare Absicht, Respekt, Demut. Wenn du diese Prinzipien lebst, wirst du in jeder Modalität effektiv, sicher und zum Wohl derer arbeiten, die zu dir kommen.
+Welchen Weg du auch wählst — die Grundlagen bleiben dieselben: Erdung, Zentrierung, Kanalisierung, klare Absicht, Respekt, Demut. Wenn du diese Prinzipien lebst, wirst du in jeder Modalität sicher, klar und zu deinem eigenen Wohl und dem deines Umfelds wirken.
 
 Du hast jetzt die Werkzeuge, um mit Energie zu arbeiten. Nutze sie — mit Weisheit, mit Herz und mit der Ehrfurcht vor einer Kraft, die älter ist als die Menschheit und größer als jedes System, das versucht, sie zu beschreiben.`
         }

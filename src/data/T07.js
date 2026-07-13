@@ -2,7 +2,7 @@ const T07 = {
   id: 'T07',
   titel: 'Hausreinigung & Raumenergetik',
   bereich: 'energie',
-  beschreibung: 'Lerne, Räume energetisch zu lesen, zu reinigen und zu harmonisieren. Diese Ausbildung verbindet uraltes Wissen über Raumreinigung mit modernen Ansätzen der Raumenergetik und befähigt dich, Wohn- und Arbeitsräume in Kraftorte zu verwandeln.',
+  beschreibung: 'Lerne, deine eigenen Räume energetisch wahrzunehmen, zu reinigen und zu harmonisieren. Dieser Kurs verbindet uraltes Wissen über Raumreinigung mit modernen Ansätzen der Raumenergetik — damit dein Zuhause und dein Arbeitsplatz zu Kraftorten für dich werden.',
   status: 'live',
   module: [
     {
@@ -18,14 +18,14 @@ Du hast es selbst erlebt: Du betrittst ein Haus und fühlst dich sofort wohl —
 
 Die Quellen von Raumenergie sind vielfältig: Die Bewohner selbst — ihre Emotionen, Gedanken und Lebensgewohnheiten prägen den Raum täglich. Die Geschichte des Raumes — frühere Bewohner, vergangene Ereignisse, die Nutzungsgeschichte des Gebäudes. Das Land — die Erde, auf der das Gebäude steht, trägt eigene Qualitäten, geologische Formationen und historische Ereignisse. Die Architektur — Form, Material, Proportionen und Ausrichtung beeinflussen den Energiefluss. Elektromagnetische Felder — technische Geräte, Leitungen und Sendemasten erzeugen messbare Felder, die den Raum beeinflussen.
 
-Die Auswirkungen von Raumenergie auf die Bewohner: Schlafprobleme in bestimmten Zimmern, die nach einem Umzug verschwinden. Chronische Streitigkeiten in einer Wohnung, die bei jedem Mieterwechsel auftreten. Energielosigkeit und Depression in Räumen, die nie Sonnenlicht empfangen. Kreativitätsschübe in bestimmten Arbeitsräumen. Diese Zusammenhänge sind nicht mystisch — sie sind der Ausdruck einer Wechselwirkung zwischen Mensch und Raum, die wir in der Raumenergetik systematisch verstehen und gestalten lernen.
+Viele Menschen kennen solche Erfahrungen: In manchen Zimmern schläft man einfach nicht gern. In bestimmten Räumen fällt das Arbeiten leicht, in anderen schwer. Ein sonnendurchfluteter Raum hebt die Stimmung, ein dunkler drückt sie. Diese Alltagserfahrungen sind der Ausgangspunkt der Raumenergetik: eine Wechselwirkung zwischen Mensch und Raum, die wir bewusst wahrnehmen und gestalten lernen. Wichtig zur Einordnung: Das ist ein Wahrnehmungs- und Gestaltungsmodell — keine Aussage über Krankheitsursachen. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-Dein Wirkungsbereich als Raumenergeteriker: Du liest die energetische Qualität von Räumen, identifizierst Störquellen, reinigst belastete Energien und harmonisierst den Raum durch gezielte Maßnahmen. Du arbeitest nicht als Handwerker, Architekt oder Baubiologe — obwohl du mit diesen Berufsgruppen kooperieren kannst. Dein Fokus liegt auf der feinstofflichen Ebene — der Energie, die kein Messgerät erfasst, die aber jeder Mensch spüren kann.`
+Worum es in diesem Kurs geht: Du lernst, die energetische Qualität deiner eigenen Räume zu lesen, stagnierende Bereiche zu erkennen und deine Wohn- und Arbeitsräume durch gezielte Maßnahmen zu klären und zu harmonisieren. Das ersetzt weder Handwerker noch Architekten oder Baubiologen — dein Fokus liegt auf der feinstofflichen Ebene: der Atmosphäre, die kein Messgerät erfasst, die aber jeder Mensch spüren kann.`
         },
         {
           id: 'T07-M1-L2',
           titel: 'Raumwahrnehmung schulen',
-          inhalt: `Die Fähigkeit, Raumenergie wahrzunehmen, ist trainierbar — wie jede feinstoffliche Wahrnehmung. Die folgenden Übungen schulen deine Sensitivität für die energetischen Qualitäten von Räumen und bereiten dich auf die professionelle Raumarbeit vor.
+          inhalt: `Die Fähigkeit, Raumenergie wahrzunehmen, ist trainierbar — wie jede feinstoffliche Wahrnehmung. Die folgenden Übungen schulen deine Sensitivität für die energetischen Qualitäten von Räumen und bilden die Grundlage deiner eigenen Raumpraxis.
 
 Die Eingangsübung: Betritt einen Raum, den du nicht kennst, und bleibe an der Schwelle stehen. Schließe die Augen für einige Sekunden. Nimm wahr, was du fühlst — ohne nachzudenken, ohne zu interpretieren. Welcher erste Eindruck entsteht? Leichtigkeit oder Schwere? Wärme oder Kälte? Weite oder Enge? Ruhe oder Unruhe? Dieser erste Eindruck ist oft der genaueste — bevor der Verstand ihn überlagert und rationalisiert.
 
@@ -35,24 +35,24 @@ Die Handwahrnehmung: Halte deine Handflächen in verschiedenen Bereichen des Rau
 
 Die emotionale Resonanz: Setze dich in die Mitte eines Raumes und beobachte, welche Emotionen auftauchen. Traurigkeit, Unruhe, Zufriedenheit, Angst oder Freude — Räume erzeugen emotionale Resonanz. Prüfe, ob diese Emotionen deine eigenen sind oder vom Raum stammen — indem du den Raum verlässt und beobachtest, ob die Emotion verschwindet.
 
-Die historische Wahrnehmung: In manchen Räumen empfängst du Eindrücke, die sich auf vergangene Bewohner oder Ereignisse beziehen — Bilder, Stimmen, Atmosphären aus einer anderen Zeit. Diese Eindrücke sind keine Fantasien — sie sind gespeicherte Informationen im Energiefeld des Raumes. Nimm sie wahr, ohne dich in ihnen zu verlieren, und nutze sie als diagnostische Information.
+Die historische Wahrnehmung: In manchen Räumen empfängst du Eindrücke, die sich auf vergangene Bewohner oder Ereignisse beziehen — Bilder, Stimmen, Atmosphären aus einer anderen Zeit. Diese Eindrücke sind keine Fantasien — sie sind gespeicherte Informationen im Energiefeld des Raumes. Nimm sie wahr, ohne dich in ihnen zu verlieren — als zusätzliche Wahrnehmungsebene, nicht als feststehende Wahrheit.
 
 Die tägliche Übung: Beginne, jeden Raum, den du betrittst, bewusst wahrzunehmen — im Café, im Büro, im Supermarkt, bei Freunden. Was erzählt dir dieser Raum? Wie fühlt er sich an? Mit der Zeit wird diese Wahrnehmung zur zweiten Natur — einer erweiterten Sinnesfähigkeit, die dir ständig zur Verfügung steht.`
         },
         {
           id: 'T07-M1-L3',
-          titel: 'Energetische Raumanalyse durchführen',
-          inhalt: `Die professionelle Raumanalyse ist ein systematischer Prozess, der deine intuitive Wahrnehmung mit einem strukturierten Vorgehen verbindet. Sie bildet die Grundlage für jede Reinigung und Harmonisierung — ohne genaue Analyse riskierst du, an den falschen Stellen zu arbeiten.
+          titel: 'Die energetische Bestandsaufnahme deiner Räume',
+          inhalt: `Die energetische Bestandsaufnahme ist ein systematischer Prozess, der deine intuitive Wahrnehmung mit einem strukturierten Vorgehen verbindet. Sie bildet die Grundlage für jede Reinigung und Harmonisierung deiner eigenen Räume — ohne genaues Hinspüren riskierst du, an den falschen Stellen anzusetzen.
 
-Die Vorbereitung: Vor dem Besuch der Räumlichkeit erfragst du beim Auftraggeber die Grunddaten: Art des Gebäudes, Baujahr, Nutzungsgeschichte, aktuelle Probleme, Bewohnerzahl und -zusammensetzung. Was ist das Anliegen? Schlafprobleme? Streit? Energielosigkeit? Unwohlsein in bestimmten Räumen? Diese Vorinformationen geben dir Orientierung, ohne deine Wahrnehmung zu verengen.
+Die Vorbereitung: Bevor du beginnst, sammle bewusst, was du über deine Räume weißt: Wie lange wohnst du hier? Was hast du hier erlebt? Welche Räume nutzt du gern, welche meidest du? Wo fühlst du dich wohl, wo unruhig? Diese Selbstbefragung gibt dir Orientierung, ohne deine Wahrnehmung zu verengen.
 
-Der Erstbegehungsrundgang: Du betrittst das Gebäude oder die Wohnung und gehst systematisch durch jeden Raum — langsam, aufmerksam, mit offenen Sinnen. Du notierst oder diktierst deine Eindrücke: Erste Wahrnehmung an der Eingangstür. Qualität jedes einzelnen Raumes. Auffällige Bereiche — Ecken, Schwellen, Treppen, Kellerräume. Bereiche, die sich besonders belastet oder besonders lebendig anfühlen. Der gesamte Rundgang dauert dreißig bis sechzig Minuten, je nach Größe.
+Der Bestandsaufnahme-Rundgang: Du gehst systematisch durch jeden Raum deiner Wohnung — langsam, aufmerksam, mit offenen Sinnen. Du notierst deine Eindrücke: Erste Wahrnehmung an der Eingangstür. Qualität jedes einzelnen Raumes. Auffällige Bereiche — Ecken, Schwellen, Kellerräume, Abstellkammern. Bereiche, die sich schwer oder besonders lebendig anfühlen. Der gesamte Rundgang dauert dreißig bis sechzig Minuten, je nach Größe.
 
-Die Detailanalyse der Problemzonen: An den Stellen, die im Rundgang aufgefallen sind, vertiefst du die Wahrnehmung. Du hältst deine Hände in den Bereich und spürst nach. Du fragst innerlich: Was ist hier gespeichert? Was braucht dieser Bereich? Manchmal tauchen Bilder, Emotionen oder historische Eindrücke auf — nimm sie als Information, nicht als absolute Wahrheit.
+Die Vertiefung an auffälligen Stellen: An den Bereichen, die dir im Rundgang aufgefallen sind, vertiefst du die Wahrnehmung. Du hältst deine Hände in den Bereich und spürst nach. Du fragst innerlich: Was nehme ich hier wahr? Was braucht dieser Bereich? Manchmal tauchen Bilder oder Emotionen auf — nimm sie als Anregung, nicht als absolute Wahrheit.
 
-Die Dokumentation: Du erstellst eine Raumkarte — einen Grundriss, in den du deine Wahrnehmungen einträgst: Bereiche der Stagnation, der Belastung, des guten Flusses. Diese visuelle Dokumentation ist das Kernstück deines Berichts an den Auftraggeber und die Grundlage für den Reinigungsplan.
+Die Raumkarte: Du erstellst eine einfache Skizze deiner Wohnung, in die du deine Wahrnehmungen einträgst: Bereiche der Stagnation, der Schwere, des guten Flusses. Diese visuelle Übersicht ist die Grundlage für deinen persönlichen Reinigungs- und Gestaltungsplan — und ein spannendes Dokument, wenn du sie nach einigen Monaten Raumpraxis erneut anfertigst und vergleichst.
 
-Das Analysegespräch mit dem Bewohner: Du teilst deine Wahrnehmungen mit und bittest um Feedback. Oft bestätigen die Bewohner deine Eindrücke: „Ja, in dieser Ecke schläft niemand gern." „In diesem Zimmer hat der Vormieter sich umgebracht." „An dieser Wand hing das Bild meiner verstorbenen Mutter." Diese Rückmeldungen validieren deine Wahrnehmung und vervollständigen das Bild.`
+Der Austausch mit Mitbewohnern: Wenn du nicht allein wohnst, sprich mit den Menschen, die den Raum mit dir teilen. Oft decken sich die Eindrücke überraschend: \"Ja, in dieser Ecke sitze ich auch nie gern.\" Solche Gespräche schärfen die gemeinsame Achtsamkeit für den geteilten Raum — und machen die Raumpflege zu einem verbindenden Projekt.`
         }
       ]
     },
@@ -65,9 +65,9 @@ Das Analysegespräch mit dem Bewohner: Du teilst deine Wahrnehmungen mit und bit
           titel: 'Räuchern — Die klassische Reinigungsmethode',
           inhalt: `Räuchern ist die älteste und universellste Methode der Raumreinigung — praktiziert in allen Kulturen der Welt, von sibirischen Schamanen über indianische Medizinleute bis zu katholischen Priestern mit Weihrauch. Der Rauch reinigt, transformiert und segnet den Raum auf der feinstofflichen Ebene — und seine Wirkung ist weit mehr als symbolisch.
 
-Die Wirkungsprinzipien des Räucherns: Der Rauch bindet und transportiert stagnierende, belastete Energien — er nimmt sie auf und trägt sie durch das Öffnen der Fenster aus dem Raum. Die Pflanzenwirkstoffe im Rauch — ätherische Öle, Harze, Alkaloide — haben nachweislich antibakterielle und luftreinigende Wirkungen. Der Duft verändert die Raumatmosphäre sofort und spürbar. Und die Intention, mit der geräuchert wird, potenziert die energetische Wirkung.
+Die Wirkungsprinzipien des Räucherns: Der Rauch bindet und transportiert stagnierende, belastete Energien — er nimmt sie auf und trägt sie durch das Öffnen der Fenster aus dem Raum. Dem Rauch vieler traditioneller Räucherpflanzen wird seit jeher eine klärende, luftauffrischende Qualität zugeschrieben. Der Duft verändert die Raumatmosphäre sofort und spürbar. Und die Intention, mit der geräuchert wird, potenziert die energetische Wirkung.
 
-Die wichtigsten Räuchermaterialien: Weißer Salbei ist der bekannteste Reinigungsräucher — kräftig, durchdringend, hochwirksam bei starker Belastung. Beachte: Weißer Salbei aus Wildsammlung in Nordamerika ist ökologisch problematisch — verwende angebauten Salbei oder heimische Alternativen. Palo Santo — süßer, milder als Salbei — eignet sich für leichtere Reinigungen und zum anschließenden Segnen. Weihrauch — der Klassiker der europäischen Tradition — wirkt erhebend, klärend und verbindend. Beifuß — die heimische Alternative zum Salbei — reinigt kraftvoll und ist in Europa seit Jahrtausenden in Gebrauch. Wacholder — stark reinigend, schützend — ideal für Räume mit schwerer Belastung.
+Die wichtigsten Räuchermaterialien: Weißer Salbei ist der bekannteste Reinigungsräucher — kräftig, durchdringend, traditionell bei starker Belastung eingesetzt. Beachte: Weißer Salbei aus Wildsammlung in Nordamerika ist ökologisch problematisch — verwende angebauten Salbei oder heimische Alternativen. Palo Santo — süßer, milder als Salbei — eignet sich für leichtere Reinigungen und zum anschließenden Segnen. Weihrauch — der Klassiker der europäischen Tradition — wirkt erhebend, klärend und verbindend. Beifuß — die heimische Alternative zum Salbei — reinigt kraftvoll und ist in Europa seit Jahrtausenden in Gebrauch. Wacholder — stark reinigend, schützend — ideal für Räume mit schwerer Belastung.
 
 Das Räucherritual Schritt für Schritt: Fenster öffnen — der Rauch braucht einen Ausgang, und die alte Energie muss abziehen können. Räuchergefäß mit Sand oder Kohle vorbereiten. Räuchermaterial entzünden und die Flamme ausblasen, sodass es glimmt und raucht. Mit einer Feder oder der Hand den Rauch in alle Bereiche des Raumes fächeln — besonders in Ecken, hinter Möbeln, unter Treppen. Beginne an der Eingangstür und arbeite im Uhrzeigersinn durch den gesamten Raum. Sprich dabei — laut oder innerlich — deine Reinigungsintention: „Alles, was diesem Raum nicht dient, darf jetzt gehen." Nach dem Durchgang: Fenster für zehn bis fünfzehn Minuten offen lassen.
 
@@ -78,7 +78,7 @@ Sicherheitshinweise: Nicht in Räumen mit Rauchmeldern ohne Vorkehrungen räuche
         {
           id: 'T07-M2-L2',
           titel: 'Klang, Wasser und Licht — Alternative Reinigungsmethoden',
-          inhalt: `Neben dem Räuchern gibt es zahlreiche weitere Reinigungsmethoden, die je nach Situation, Vorliebe und Raumtyp eingesetzt werden. Ein vielseitiges Repertoire gibt dir Flexibilität und ermöglicht es dir, für jeden Raum und jeden Auftraggeber die passende Methode zu finden.
+          inhalt: `Neben dem Räuchern gibt es zahlreiche weitere Reinigungsmethoden, die je nach Situation, Vorliebe und Raumtyp eingesetzt werden. Ein vielseitiges Repertoire gibt dir Flexibilität und ermöglicht es dir, für jeden Raum und jede Situation die passende Methode zu finden.
 
 Klangreinigung nutzt die physikalische Wirkung von Schallwellen, um stagnierende Energie in Bewegung zu bringen. Klangschalen — tibetische Metallschalen — erzeugen tiefe, lang anhaltende Schwingungen, die den Raum durchdringen und energetische Verdichtungen auflösen. Glocken und Zimbeln erzeugen hohe, klare Töne, die besonders in Ecken und an Decken wirksam sind, wo schwere Energie sich sammelt. Trommeln erzeugen rhythmische, erdende Vibrationen, die besonders in Kellerräumen und erdnahen Bereichen wirken. Stimmgabeln — auf bestimmte Frequenzen gestimmt — ermöglichen präzise Arbeit an spezifischen Punkten.
 
@@ -101,9 +101,9 @@ Die Atemreinigung: Stehe im Raum und atme bewusst ein und aus. Mit jeder Einatmu
 
 Die Intentionsreinigung: Du sprichst — laut oder innerlich — eine klare Reinigungsintention: „Alles, was diesem Raum und seinen Bewohnern nicht dient, möge sich jetzt auflösen und transformieren. Dieser Raum ist jetzt frei, klar und voller Lebensenergie." Die Kraft der gesprochenen oder gedachten Intention ist nicht zu unterschätzen — sie richtet die Raumenergie auf eine bestimmte Qualität aus und setzt einen Transformationsprozess in Gang.
 
-Die Handarbeit: Du gehst mit ausgestreckten Händen durch den Raum und spürst die Energiequaliäten. An belasteten Stellen hältst du inne und sendest durch deine Hände reinigende Energie — wie in der Energieheilung am menschlichen Körper. Du „bürstest" die stagnierende Energie aus dem Raum, sammelst sie in deiner Vorstellung und lässt sie über deine Füße in die Erde fließen, wo sie transformiert wird.
+Die Handarbeit: Du gehst mit ausgestreckten Händen durch den Raum und spürst die Energiequaliäten. An belasteten Stellen hältst du inne und sendest durch deine Hände klärende Energie in den Raum. Du „bürstest" die stagnierende Energie aus dem Raum, sammelst sie in deiner Vorstellung und lässt sie über deine Füße in die Erde fließen, wo sie transformiert wird.
 
-Die Kombination mit physischer Reinigung: Die energetische Wirkung wird verstärkt, wenn sie mit einer gründlichen physischen Reinigung einhergeht — Putzen, Aufräumen, Ausmisten. Ein physisch sauberer Raum ist leichter energetisch zu reinigen als ein verschmutzter. Empfiehl deinen Klienten, vor deinem Besuch gründlich zu putzen und auszumisten — das ist ihr Beitrag zum Reinigungsprozess.`
+Die Kombination mit physischer Reinigung: Die energetische Wirkung wird verstärkt, wenn sie mit einer gründlichen physischen Reinigung einhergeht — Putzen, Aufräumen, Ausmisten. Ein physisch sauberer Raum ist leichter energetisch zu reinigen als ein verschmutzter. Putze und miste gründlich aus, bevor du energetisch reinigst — die physische Klärung ist die halbe Arbeit.`
         }
       ]
     },
@@ -120,16 +120,16 @@ Die Grundprinzipien des Energieflusses: Energie folgt der Aufmerksamkeit — woh
 
 Stagnationszonen identifizieren und aktivieren: Ecken, tote Winkel, Bereiche hinter Türen, unter Treppen und in selten genutzten Räumen neigen zur Stagnation. Aktivierungsmaßnahmen: Licht in dunkle Ecken bringen — eine Lampe, eine Kerze, ein Spiegel, der Licht reflektiert. Bewegung einbringen — eine Pflanze, ein Mobile, ein Windspiel. Klang — eine kleine Glocke, die bei Luftzug klingt. Farbe — ein helles Kissen, ein Bild, ein farbiger Gegenstand. Diese einfachen Maßnahmen bringen Energie in Bereiche, die sonst tot bleiben.
 
-Die Eingangssituation: Die Haustür ist der Mund des Raumes — hier tritt die Hauptenergie ein. Ein einladender, freier, heller Eingangsbereich unterstützt den Energiefluss. Ein vollgestopfter, dunkler, enger Eingang blockiert ihn. Empfiehl deinen Klienten: Freiräumen, erhellen, begrüßen. Ein schöner Gegenstand, eine Pflanze, ein angenehmer Duft — der Eingang setzt den Ton für den gesamten Raum.
+Die Eingangssituation: Die Haustür ist der Mund des Raumes — hier tritt die Hauptenergie ein. Ein einladender, freier, heller Eingangsbereich unterstützt den Energiefluss. Ein vollgestopfter, dunkler, enger Eingang blockiert ihn. Für deinen eigenen Eingang gilt: Freiräumen, erhellen, begrüßen. Ein schöner Gegenstand, eine Pflanze, ein angenehmer Duft — der Eingang setzt den Ton für den gesamten Raum.
 
-Das Schlafzimmer als sensibelster Raum: Hier regenerieren wir uns, hier sind wir am durchlässigsten für Raumenergien. Das Bett steht idealerweise so, dass der Schlafende die Tür sehen kann, ohne direkt im Energiestrom zwischen Tür und Fenster zu liegen. Keine elektronischen Geräte am Bett — sie erzeugen elektromagnetische Felder, die den Schlaf stören. Sanfte, warme Farben und natürliche Materialien unterstützen die Regeneration.
+Das Schlafzimmer als sensibelster Raum: Hier regenerieren wir uns, hier sind wir am durchlässigsten für Raumenergien. Das Bett steht idealerweise so, dass der Schlafende die Tür sehen kann, ohne direkt im Energiestrom zwischen Tür und Fenster zu liegen. Keine elektronischen Geräte am Bett — viele Menschen empfinden sie in Bettnähe als unruhig machend. Sanfte, warme Farben und natürliche Materialien unterstützen die Regeneration.
 
 Der Arbeitsraum braucht andere Qualitäten als das Schlafzimmer: Klarheit, Fokus, Energie. Der Schreibtisch steht idealerweise so, dass der Arbeitende die Tür sieht und Rückendeckung durch eine Wand hat — das gibt dem Nervensystem Sicherheit. Gute Beleuchtung, frische Luft und eine aufgeräumte Oberfläche unterstützen die Konzentration auf der physischen und energetischen Ebene.`
         },
         {
           id: 'T07-M3-L2',
           titel: 'Raumschutz und energetische Grenzen',
-          inhalt: `Nach der Reinigung und Harmonisierung folgt der Schutz — Maßnahmen, die verhindern, dass der Raum erneut belastet wird. Raumschutz ist besonders wichtig in Praxisräumen, in denen täglich Klienten mit schweren Themen arbeiten, in Wohnungen an stark befahrenen Straßen oder in Gebäuden mit belasteter Geschichte.
+          inhalt: `Nach der Reinigung und Harmonisierung folgt der Schutz — Maßnahmen, die verhindern, dass der Raum erneut belastet wird. Raumschutz ist besonders hilfreich in Räumen mit viel Durchgang und Besuch, in Wohnungen an stark befahrenen Straßen, im Homeoffice mit vielen fordernden Videocalls oder in Gebäuden mit bewegter Geschichte.
 
 Kristalle als Raumschützer: Schwarzer Turmalin an der Eingangstür absorbiert negative Energien, bevor sie den Raum betreten. Bergkristall in der Raummitte verstärkt und klärt die Gesamtenergie. Amethyst im Schlafzimmer fördert Ruhe und spirituelle Klarheit. Rosenquarz im Wohnbereich stärkt die Herzenergie und die Harmonie. Die Kristalle werden regelmäßig — monatlich oder bei Bedarf — gereinigt und aufgeladen: unter fließendem Wasser, im Sonnenlicht oder im Vollmondlicht.
 
@@ -139,16 +139,16 @@ Pflanzenschutz: Lebende Pflanzen reinigen nicht nur die Luft, sondern auch die R
 
 Das Schwellenritual: Ein einfaches tägliches Ritual beim Verlassen und Betreten der Wohnung: Beim Gehen — „Ich schließe diesen Raum und lasse nur Gutes zurück." Beim Kommen — „Ich betrete diesen Raum und bringe nur Gutes mit." Diese kurzen Intentionssetzungen — fünf Sekunden, kein Aufwand — halten das Bewusstsein für die Raumenergie wach und stärken den Schutz durch regelmäßige Wiederholung.
 
-Der Schutz von Praxisräumen erfordert besondere Aufmerksamkeit: Zwischen den Klientensitzungen — Fenster öffnen, Klangschale anschlagen, kurze Lichtflutung. Wöchentlich — gründlichere Reinigung mit Räuchern oder Klangritual. Monatlich — vollständige Reinigung und Erneuerung des Schutzes. Dein Praxisraum ist dein wichtigstes Werkzeug — seine energetische Qualität beeinflusst die Wirksamkeit deiner gesamten Arbeit.`
+Räume, in denen du intensiv arbeitest, brauchen besondere Aufmerksamkeit: Nach fordernden Terminen oder Gesprächen — Fenster öffnen, Klangschale anschlagen, kurze Lichtflutung. Wöchentlich — gründlichere Reinigung mit Räuchern oder Klangritual. Monatlich — vollständige Reinigung und Erneuerung des Schutzes. Dein Arbeitsraum trägt dich durch den Tag — seine energetische Qualität wirkt auf deine Konzentration und dein Wohlbefinden.`
         },
         {
           id: 'T07-M3-L3',
           titel: 'Raumgestaltung mit Intention',
-          inhalt: `Über Reinigung und Schutz hinaus kannst du Räume bewusst mit bestimmten Qualitäten aufladen — sie zu Orten der Kreativität, der Heilung, der Liebe oder der Klarheit machen. Diese intentionale Raumgestaltung verbindet energetische Arbeit mit praktischer Einrichtungsberatung und gibt deinen Klienten Werkzeuge für die dauerhafte Pflege ihrer Lebensräume.
+          inhalt: `Über Reinigung und Schutz hinaus kannst du Räume bewusst mit bestimmten Qualitäten aufladen — sie zu Orten der Kreativität, der Erholung, der Verbundenheit oder der Klarheit machen. Diese intentionale Raumgestaltung verbindet energetische Arbeit mit praktischer Gestaltung und gibt dir Werkzeuge für die dauerhafte Pflege deiner Lebensräume.
 
 Die Qualitäts-Intention: Jeder Raum hat einen Zweck — und die energetische Gestaltung unterstützt diesen Zweck. Ein Meditationsraum braucht Stille, Klarheit und Tiefe. Ein Kinderzimmer braucht Lebendigkeit, Sicherheit und Freude. Ein Büro braucht Fokus, Kreativität und Produktivität. Ein Schlafzimmer braucht Geborgenheit, Regeneration und Intimität. Bevor du gestalterische Empfehlungen gibst, klärst du mit dem Bewohner: Welche Qualität soll dieser Raum ausstrahlen?
 
-Die Farbwirkung: Farben sind sichtbare Frequenzen — sie beeinflussen Stimmung, Energie und Physiologie direkt. Warme Erdtöne — Terrakotta, Ocker, Sandstein — erden und geben Geborgenheit. Kühle Blautöne beruhigen und vertiefen. Grün harmonisiert und verbindet mit der Natur. Gelb belebt und fördert die Geistesaktivität. Weiß klärt und weitet. Rot aktiviert und wärmt — in kleinen Dosen. Schwarz verdichtet und begrenzt — sparsam einsetzen. Deine Farbempfehlungen basieren auf der gewünschten Raumqualität und der individuellen Resonanz des Bewohners.
+Die Farbwirkung: Farben sind sichtbare Frequenzen — sie beeinflussen Stimmung, Energie und Physiologie direkt. Warme Erdtöne — Terrakotta, Ocker, Sandstein — erden und geben Geborgenheit. Kühle Blautöne beruhigen und vertiefen. Grün harmonisiert und verbindet mit der Natur. Gelb belebt und fördert die Geistesaktivität. Weiß klärt und weitet. Rot aktiviert und wärmt — in kleinen Dosen. Schwarz verdichtet und begrenzt — sparsam einsetzen. Deine Farbwahl richtet sich nach der gewünschten Raumqualität und deiner ganz persönlichen Resonanz.
 
 Die Materialwirkung: Naturmaterialien — Holz, Stein, Wolle, Baumwolle, Leinen — tragen eine lebendige Energie, die synthetische Materialien nicht haben. Ein Holzboden schwingt anders als Laminat. Ein Wolleppich fühlt sich anders an als Polyester. Diese Materialqualitäten wirken auf der Körperebene — Berührung, Temperatur, Textur — und auf der energetischen Ebene gleichzeitig.
 
@@ -160,136 +160,138 @@ Die saisonale Raumanpassung: Räume profitieren davon, mit den Jahreszeiten gest
     },
     {
       id: 'T07-M4',
-      titel: 'Spezielle Anwendungsfelder',
+      titel: 'Besondere Räume & Übergänge',
       lektionen: [
         {
           id: 'T07-M4-L1',
           titel: 'Umzug und Neuanfang energetisch begleiten',
-          inhalt: `Ein Umzug ist nicht nur ein logistisches Ereignis — er ist ein energetischer Übergang: Du verlässt ein Energiefeld, das dich über Jahre geprägt hat, und trittst in ein neues ein, das seine eigene Geschichte mitbringt. Die energetische Begleitung von Umzügen ist eines der dankbarsten und häufigsten Anwendungsfelder der Raumenergetik.
+          inhalt: `Ein Umzug ist nicht nur ein logistisches Ereignis — er ist ein energetischer Übergang: Du verlässt ein Energiefeld, das dich über Jahre geprägt hat, und trittst in ein neues ein, das seine eigene Geschichte mitbringt. Den eigenen Umzug energetisch bewusst zu gestalten ist eine der schönsten Anwendungen der Raumenergetik.
 
-Die Verabschiedung des alten Raumes: Bevor der Umzugswagen kommt, wird der alte Raum verabschiedet — ein Ritual, das den Abschluss markiert und verhindert, dass energetische Fäden zum alten Ort bestehen bleiben. Der Bewohner geht durch jeden Raum und dankt für die Zeit, die er hier verbracht hat — für die schönen Momente und die schwierigen. Er löst bewusst seine energetische Verbindung zum Raum: „Ich gehe und nehme alles mit, was mir gehört. Alles, was hierher gehört, lasse ich zurück." Abschließend: einmal durchräuchern und Fenster öffnen.
+Die Verabschiedung des alten Raumes: Bevor der Umzugswagen kommt, wird der alte Raum verabschiedet — ein Ritual, das den Abschluss markiert und verhindert, dass energetische Fäden zum alten Ort bestehen bleiben. Du gehst durch jeden Raum und dankst für die Zeit, die du hier verbracht hast — für die schönen Momente und die schwierigen. Du löst bewusst deine energetische Verbindung zum Raum: „Ich gehe und nehme alles mit, was mir gehört. Alles, was hierher gehört, lasse ich zurück." Abschließend: einmal durchräuchern und Fenster öffnen.
 
-Die Reinigung des neuen Raumes: Vor dem Einzug — idealerweise am Tag vor dem Umzug — wird der neue Raum gründlich gereinigt: physisch und energetisch. Alle Spuren der Vormieter werden gelöst — ihre Emotionen, ihre Gewohnheiten, ihre Konflikte. Die Reinigung schafft ein leeres Gefäß, das die neuen Bewohner mit ihrer eigenen Energie füllen können.
+Die Reinigung des neuen Raumes: Vor dem Einzug — idealerweise am Tag vor dem Umzug — wird der neue Raum gründlich gereinigt: physisch und energetisch. Alle Spuren der Vormieter werden gelöst — ihre Emotionen, ihre Gewohnheiten, ihre Konflikte. Die Reinigung schafft ein leeres Gefäß, das du mit deiner eigenen Energie füllen kannst.
 
-Das Einzugsritual: Am Tag des Einzugs wird der Raum gesegnet und mit der Intention der neuen Bewohner aufgeladen. Was soll dieses Zuhause sein? Ein Ort der Familie? Der Kreativität? Der Heilung? Der Ruhe? Die Bewohner sprechen ihre Intention laut aus und entzünden eine Kerze als Symbol des neuen Beginns. Ein traditionelles Element: Brot und Salz in die Küche stellen — Symbol für Nahrung und Reinigung.
+Das Einzugsritual: Am Tag des Einzugs wird der Raum gesegnet und mit deiner Intention aufgeladen. Was soll dieses Zuhause sein? Ein Ort der Familie? Der Kreativität? Der Erholung? Der Ruhe? Sprich deine Intention laut aus und entzünde eine Kerze als Symbol des neuen Beginns. Ein traditionelles Element: Brot und Salz in die Küche stellen — Symbol für Nahrung und Reinigung.
 
-Die Eingewöhnungsphase: Der neue Raum braucht Zeit, sich an seine Bewohner anzupassen — und umgekehrt. Empfiehl deinen Klienten, in den ersten Wochen besonders achtsam mit dem Raum umzugehen: Regelmäßig lüften, frische Blumen aufstellen, den Raum bewusst begrüßen und verabschieden, die eigene Präsenz in jeden Raum tragen. Nach etwa sechs bis acht Wochen hat der Raum die Energie seiner neuen Bewohner aufgenommen und fühlt sich vertraut an.`
+Die Eingewöhnungsphase: Der neue Raum braucht Zeit, sich an dich anzupassen — und umgekehrt. Gehe in den ersten Wochen besonders achtsam mit dem Raum um: Regelmäßig lüften, frische Blumen aufstellen, den Raum bewusst begrüßen und verabschieden, deine Präsenz in jeden Raum tragen. Nach etwa sechs bis acht Wochen hat der Raum deine Energie aufgenommen und fühlt sich vertraut an.`
         },
         {
           id: 'T07-M4-L2',
-          titel: 'Praxisräume, Geschäftsräume und Büros',
-          inhalt: `Geschäftsräume und Praxen haben spezifische energetische Anforderungen — sie müssen nicht nur die Bewohner unterstützen, sondern auch auf Klienten, Kunden und Mitarbeiter einladend, vertrauensfördernd und funktional wirken. Die energetische Gestaltung von Arbeitsräumen ist ein wachsendes Feld mit konkretem geschäftlichem Nutzen.
+          titel: 'Arbeitsplatz, Homeoffice & geteilte Räume',
+          inhalt: `Nicht alle Räume gehören dir allein — und nicht alle Räume dienen der Erholung. Arbeitsplätze, das Homeoffice und geteilte Wohnräume haben eigene energetische Anforderungen. Hier lernst du, auch diese Räume bewusst zu gestalten, soweit sie in deinem Einflussbereich liegen.
 
-Der Praxisraum für Heilberufe: Dein eigener Praxisraum — oder der deiner Klienten aus Heilberufen — muss mehrere Qualitäten gleichzeitig tragen: Sicherheit für den Klienten, Klarheit für die Arbeit, Regeneration für den Praktizierenden. Die energetische Gestaltung umfasst: Sanfte, warme Beleuchtung. Naturmaterialien und erdige Farben. Keine scharfen Kanten oder bedrängenden Möbel. Eine klare Energiegrenze zwischen Warte- und Behandlungsbereich. Regelmäßige Reinigung zwischen den Sitzungen.
+Das Homeoffice: Seit Arbeit und Wohnen sich denselben Raum teilen, ist die energetische Trennung wichtiger denn je. Der Arbeitsbereich braucht Klarheit und Fokus, der Wohnbereich Weichheit und Loslassen — wenn beides ununterschieden ineinanderfließt, leidet beides. Hilfreiche Maßnahmen: Ein fester, abgegrenzter Arbeitsplatz — und sei es nur eine Tischhälfte, die abends leergeräumt wird. Ein kleines Übergangsritual zum Feierabend: Rechner zu, Kerze an oder kurz lüften — \"die Arbeit ist beendet.\" Nach fordernden Videocalls: Fenster auf, drei tiefe Atemzüge, einmal Klangschale.
 
-Geschäftsräume und Büros: Die Raumenergie beeinflusst Produktivität, Kreativität und Mitarbeiterzufriedenheit direkt. Typische Probleme: Großraumbüros mit Energiechaos — zu viele Menschen, zu viele Felder, keine Rückzugsmöglichkeit. Kellerbüros ohne natürliches Licht — energetisch erstickend. Besprechungsräume mit Konfliktatmosphäre — gespeicherte Streitenergie aus zahllosen Meetings. Deine Empfehlungen: Pflanzen als natürliche Energiefilter. Persönliche Rückzugsbereiche für Mitarbeiter. Regelmäßiges Lüften und Klangreinigung. Bewusste Farbgestaltung nach Raumfunktion.
+Der Arbeitsplatz außer Haus: Im Büro, das du dir mit anderen teilst, ist dein Gestaltungsspielraum kleiner — aber nicht null. Dein Schreibtisch ist dein Territorium: eine Pflanze, ein Stein, ein persönlicher Gegenstand als energetischer Anker. Regelmäßig lüften, wo möglich. Kurze Zentrierung vor schwierigen Terminen. Und die wichtigste Erkenntnis: Deinen inneren Zustand nimmst du in jeden Raum mit — je stabiler dein eigenes Feld, desto weniger wirft dich eine schwierige Büroatmosphäre um.
 
-Ladengeschäfte und Verkaufsräume: Die Raumenergie beeinflusst das Kaufverhalten direkt — Kunden, die sich wohlfühlen, bleiben länger und kaufen mehr. Der Eingangsbereich muss einladend sein, der Kassenbereich klar, die Auslage ansprechend. Energetische Stagnation in Ecken des Ladens führt dazu, dass Ware dort schlecht verkauft wird. Maßnahmen: Licht und Bewegung in alle Bereiche bringen. Regelmäßige Reinigung, besonders nach schwierigen Tagen.
+Geteilte Wohnräume: In einer Familie oder Wohngemeinschaft gehört der Raum allen — energetische Gestaltung ist hier Gemeinschaftssache. Sprich mit deinen Mitbewohnern, bevor du gemeinsame Räume räucherst oder umgestaltest; nicht jeder mag Salbeirauch im Wohnzimmer. Gute gemeinsame Rituale: das Wohnzimmer nach einem Streit gemeinsam lüften und neu \"eröffnen\". Ein Jahreszeiten-Putztag als Familienritual. Eine Ecke, die jedem Familienmitglied als persönlicher Rückzugsort gehört.
 
-Die energetische Geschäftsberatung positioniert dich im Business-Bereich und erreicht eine zahlungskräftige Zielgruppe. Unternehmer, die an die Wirkung von Raumenergie glauben, investieren bereitwillig in die Optimierung ihrer Geschäftsräume — die Ergebnisse sind oft unmittelbar und messbar in Mitarbeiterzufriedenheit und Umsatz.`
+Das Gästezimmer und der Empfang von Besuch: Wer zu Besuch kommt, bringt seine Energie mit — meistens bereichernd, manchmal fordernd. Vor Besuch: den Raum lüften und bewusst öffnen. Nach Besuch: einmal durchlüften, gegebenenfalls Klang oder ein kurzes Abschlussritual. Das ist keine Abwehr — es ist Raumhygiene, so selbstverständlich wie frische Bettwäsche für den nächsten Gast.`
         },
         {
           id: 'T07-M4-L3',
           titel: 'Grundstücke, Gärten und die Energie des Landes',
           inhalt: `Die Erde unter einem Gebäude trägt ihre eigene Energie — geologische Formationen, Wasseradern, historische Nutzung und natürliche Kraftpunkte beeinflussen alles, was auf dem Land steht. Die Arbeit mit der Landenergie ist die tiefste Ebene der Raumenergetik und verbindet dich mit den Kräften der Erde selbst.
 
-Geologische Einflüsse: Wasseradern — unterirdische Wasserläufe — erzeugen messbare Veränderungen im elektromagnetischen Feld an der Erdoberfläche. Über Kreuzungspunkten zweier Wasseradern ist die Feldstörung besonders stark und kann Schlafstörungen, Unruhe und chronische Beschwerden verursachen. Geologische Bruchzonen und Verwerfungen erzeugen ähnliche Störzonen. Die Wahrnehmung dieser Störzonen geschieht durch Intuition, durch Wünschelrutenarbeit oder durch die Beobachtung natürlicher Indikatoren: Bäume mit Drehwuchs, Ameisenhaufen und bestimmte Pflanzen wachsen bevorzugt auf Störzonen.
+Geologische Einflüsse: Wasseradern — unterirdische Wasserläufe — erzeugen messbare Veränderungen im elektromagnetischen Feld an der Erdoberfläche. In der radiästhetischen Tradition gelten Kreuzungspunkte zweier Wasseradern als besonders unruhige Zonen, die als Schlafplatz gemieden werden. Wichtig zur Einordnung: Das ist ein traditionelles Deutungsmodell, kein wissenschaftlich gesicherter Zusammenhang — und keine Erklärung für gesundheitliche Beschwerden. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Die Wahrnehmung dieser Störzonen geschieht durch Intuition, durch Wünschelrutenarbeit oder durch die Beobachtung natürlicher Indikatoren: Bäume mit Drehwuchs, Ameisenhaufen und bestimmte Pflanzen wachsen bevorzugt auf Störzonen.
 
 Die Geschichte des Landes: Was auf einem Grundstück geschehen ist — vor Jahrzehnten, Jahrhunderten oder Jahrtausenden — hinterlässt energetische Spuren im Boden. Schlachtfelder tragen Schwere und Schmerz. Friedhöfe tragen Trauer und Übergang. Kultstätten tragen spirituelle Kraft. Industriegelände tragen Verdichtung und Entfremdung von der Natur. Diese historischen Schichten wahrzunehmen und gegebenenfalls zu reinigen, gehört zur fortgeschrittenen Raumarbeit.
 
 Die Gartengestaltung als Energiearbeit: Ein bewusst gestalteter Garten ist ein lebendiger Energiekörper, der das Haus und seine Bewohner umgibt und schützt. Bäume als Energieanker — große, alte Bäume sind die kraftvollsten Energieträger in der Landschaft. Wasserelemente als Energieaktivator — ein Brunnen, ein Teich, ein Bach bringt Lebendigkeit. Steine als Energiespeicher — bewusst gesetzte Steine bilden energetische Ankerpunkte. Blühende Pflanzen als Frequenzträger — jede Blüte schwingt auf einer eigenen Frequenz und bereichert das energetische Spektrum.
 
-Die Verbindung von Haus und Land: Ein Haus, das im Einklang mit seinem Land steht, ist ein kraftvoller Ort. Ein Haus, das gegen die natürliche Landenergie arbeitet — etwa gebaut auf einer Störzone, ohne Verbindung zur Umgebung —, erzeugt chronische Dissonanz. Deine Arbeit als Raumenergeteikerin umfasst beide Ebenen: das Haus und das Land, auf dem es steht.`
+Die Verbindung von Haus und Land: Ein Haus, das im Einklang mit seinem Land steht, ist ein kraftvoller Ort. Ein Haus, das gegen die natürliche Landenergie arbeitet — etwa gebaut auf einer Störzone, ohne Verbindung zur Umgebung —, erzeugt chronische Dissonanz. Deine eigene Raumbetrachtung umfasst beide Ebenen: das Haus und das Land, auf dem es steht.`
         }
       ]
     },
     {
       id: 'T07-M5',
-      titel: 'Ethik und Professionalität',
+      titel: 'Ethik, Grenzen & Selbstschutz',
       lektionen: [
         {
           id: 'T07-M5-L1',
           titel: 'Grenzen und Verantwortung',
-          inhalt: `Die Raumenergetik berührt den intimsten Bereich deiner Klienten — ihr Zuhause, ihren Schutzraum, ihre Privatsphäre. Diese Intimität erfordert höchste ethische Standards, klare Grenzen und einen respektvollen Umgang mit den Menschen, die dich in ihre Räume einladen.
+          inhalt: `Raumenergetik berührt einen intimen Bereich — das Zuhause, den Schutzraum, die Privatsphäre. Auch in der eigenen Praxis braucht diese Arbeit klare Grenzen und einen ehrlichen Blick auf das, was sie leisten kann und was nicht.
 
-Deine Kompetenz hat klare Grenzen: Du bist keine Baubiologin — bei Verdacht auf Schimmelpilz, Schadstoffbelastung oder elektrobiologische Probleme verweist du an Fachleute. Du bist keine Architektin — du empfiehlst keine baulichen Veränderungen, die fachliche Planung erfordern. Du bist keine Therapeutin — wenn die Raumprobleme Symptom einer psychischen Erkrankung sind, verweist du an einen Therapeuten. Du bist keine Magierin — du gibst keine Garantien und machst keine Heilversprechen.
+Die Raumenergetik hat klare Grenzen: Sie ist keine Baubiologie — bei Verdacht auf Schimmelpilz, Schadstoffbelastung oder elektrobiologische Probleme gehört die Sache in fachkundige Hände. Sie ist keine Architektur — bauliche Veränderungen erfordern fachliche Planung. Und sie ist keine Medizin oder Therapie: Wenn du dich in deinen Räumen dauerhaft unwohl, erschöpft oder niedergeschlagen fühlst, kann Raumgestaltung dein Wohlbefinden unterstützen — aber sie erklärt und behandelt keine Beschwerden. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-Keine Panikmache: Wenn du in einem Raum schwere Belastung wahrnimmst, kommunizierst du das sachlich und lösungsorientiert — nie dramatisch oder angstmachend. Sage nicht: „In diesem Raum wohnt eine dunkle Energie, die Sie krank macht." Sage: „Ich nehme eine Belastung wahr, die wir durch eine Reinigung auflösen können." Die erste Formulierung erzeugt Angst, die zweite gibt Handlungsfähigkeit.
+Keine Angst-Deutungen — auch dir selbst gegenüber: Wenn du in einem Raum Schwere wahrnimmst, deute sie sachlich und lösungsorientiert — nie dramatisch. Nicht: \"Hier wohnt eine dunkle Energie, die mir schadet.\" Sondern: \"Dieser Bereich fühlt sich stagnierend an — ich kläre ihn.\" Die erste Deutung erzeugt Angst und Ohnmacht, die zweite gibt Handlungsfähigkeit. Was du über deine Räume denkst, prägt, wie du dich in ihnen fühlst.
 
-Der Respekt vor der Privatsphäre: Du betrittst die Räume deiner Klienten mit Respekt und Diskretion. Was du dort siehst, hörst und wahrnimmst, bleibt vertraulich. Du kommentierst nicht den Einrichtungsstil, du urteilst nicht über Sauberkeit und du teilst deine Eindrücke nur mit den Bewohnern selbst — nie mit Dritten.
+Der Respekt vor den Räumen anderer: Die wichtigste ethische Grenze der Raumarbeit ist dieselbe wie in aller energetischen Arbeit — Einwilligung. Reinige oder \"behandle\" niemals die Räume anderer Menschen ohne deren Wissen und ausdrücklichen Wunsch: nicht die Wohnung der Nachbarin, nicht das Büro des Kollegen, nicht das Haus der Eltern. Auch gut gemeinte energetische Eingriffe in fremde Lebensräume sind Grenzüberschreitungen. Was du tun darfst und was verbindet: dein Wissen teilen, wenn jemand danach fragt — und dein eigenes Zuhause so gestalten, dass andere sich darin wohlfühlen.
 
-Die Preistransparenz: Kommuniziere deine Preise klar vorab und halte keine versteckten Kosten bereit. Die Raumreinigung und -harmonisierung hat einen klar definierten Umfang — Analyse, Reinigung, Harmonisierung, Nachbesprechung. Zusätzliche Sitzungen oder Materialkosten werden vorher besprochen.`
+Die Ehrlichkeit mit dir selbst: Raumenergetik ist Selbsterfahrung und Wohnkultur — keine Garantieleistung und kein Allheilmittel. Manche Räume werden durch alle Reinigung der Welt nicht gemütlich, weil schlicht das Licht, der Schnitt oder der Lärm dagegenstehen. Ein ehrlicher Blick unterscheidet: Was ist energetisch gestaltbar — und was ist eine praktische Tatsache, die eine praktische Lösung braucht?`
         },
         {
           id: 'T07-M5-L2',
           titel: 'Selbstschutz bei der Raumarbeit',
-          inhalt: `Die Arbeit in belasteten Räumen exponiert dich gegenüber Energien, die nicht deine eigenen sind — Trauer, Angst, Wut, Stagnation oder schwere historische Lasten. Ohne konsequenten Selbstschutz übernimmst du diese Energien in dein eigenes System und trägst sie nach Hause.
+          inhalt: `Die Arbeit in belasteten Räumen — etwa beim Klären einer lange verschlossenen Wohnung, eines Kellers oder eines Ortes mit schwerer Vorgeschichte — bringt dich in Kontakt mit Energien, die nicht deine eigenen sind. Ohne bewussten Selbstschutz nimmst du diese Eindrücke in dein eigenes System auf und trägst sie mit dir herum.
 
-Die Vorbereitung vor jedem Raumeinsatz: Eigene Zentrierung und Erdung — fünf Minuten Meditation im Auto, bevor du das Gebäude betrittst. Energetischer Schutzmantel — visualisiere eine Lichthülle um deinen Körper, die durchlässig für Wahrnehmung, aber undurchlässig für Übernahme ist. Klare Intention — „Ich reinige diesen Raum und bleibe dabei in meinem eigenen Feld geschützt."
+Die Vorbereitung vor jeder intensiven Raumarbeit: Eigene Zentrierung und Erdung — fünf Minuten Stille, bevor du beginnst. Energetischer Schutzmantel — visualisiere eine Lichthülle um deinen Körper, die durchlässig für Wahrnehmung, aber undurchlässig für Übernahme ist. Klare Intention — „Ich reinige diesen Raum und bleibe dabei in meinem eigenen Feld geschützt."
 
-Die Nachbereitung nach jedem Einsatz: Körperliches Schütteln — dreißig Sekunden Ganzkörperschütteln entlädt übernommene Raumenergie. Händewaschen — symbolisch und physisch. Kleidungswechsel — die Kleidung, die du bei der Arbeit trägst, nimmt Raumenergie auf. Eigene Raumreinigung — reinige regelmäßig dein eigenes Zuhause und deinen Praxisraum. Erdung in der Natur — nach einem intensiven Einsatz: zwanzig Minuten barfuß auf der Erde oder ein Spaziergang im Wald.
+Die Nachbereitung nach jeder intensiven Raumarbeit: Körperliches Schütteln — dreißig Sekunden Ganzkörperschütteln entlädt übernommene Raumenergie. Händewaschen — symbolisch und physisch. Kleidungswechsel — die Kleidung, die du bei der Arbeit trägst, nimmt Raumenergie auf. Erdung in der Natur — nach einer intensiven Raumarbeit: zwanzig Minuten barfuß auf der Erde oder ein Spaziergang im Wald.
 
-Die Begrenzung der Einsatzhäufigkeit: Intensive Raumreinigungen — maximal zwei bis drei pro Woche. Mehr belastet dein System über Gebühr. Zwischen den Einsätzen: ausreichend Erholungszeit, eigene Energiepflege und Aktivitäten, die dich nähren und aufladen.
+Das rechte Maß: Intensive Raumreinigungen brauchen Kraft — plane sie nicht im Wochentakt, sondern gönn dir dazwischen Erholungszeit, eigene Energiepflege und Aktivitäten, die dich nähren und aufladen.
 
-Dein eigenes Zuhause als Kraftort: Wenn du anderen hilfst, ihre Räume zu harmonisieren, darf dein eigener Raum nicht vernachlässigt werden. Dein Zuhause ist dein Regenerationsfeld — es muss energetisch gepflegt, regelmäßig gereinigt und bewusst gestaltet sein. Ein Raumenergetiker, dessen eigener Raum belastet ist, arbeitet aus der Erschöpfung heraus — das spüren die Klienten.`
+Dein Zuhause als Regenerationsfeld: Der Raum, in dem du schläfst und auftankst, verdient die größte Sorgfalt. Er muss energetisch gepflegt, regelmäßig gereinigt und bewusst gestaltet sein — denn aus diesem Feld schöpfst du die Kraft für alles andere in deinem Leben.`
         },
         {
           id: 'T07-M5-L3',
-          titel: 'Integration ins ganzheitliche Angebot',
-          inhalt: `Die Raumenergetik integriert sich natürlich in dein ganzheitliches Beratungsrepertoire und erweitert deinen Wirkungsbereich in den physischen Lebensraum deiner Klienten. Die Verbindung von persönlicher Energiearbeit und Raumarbeit erzeugt einen umfassenden Ansatz, der in dieser Form selten zu finden ist.
+          titel: 'Raum und Innenwelt — die Wechselwirkung',
+          inhalt: `Dein Raum und deine Innenwelt stehen in ständigem Austausch: Der Raum prägt, wie du dich fühlst — und wie du dich fühlst, prägt den Raum. Diese Wechselwirkung zu verstehen macht die Raumarbeit zu einem Werkzeug der Selbsterkenntnis.
 
-Die Verbindung mit Coaching: Wenn ein Coaching-Klient über Blockaden klagt, die sich trotz intensiver Arbeit nicht lösen, könnte die Ursache in seinem Lebensraum liegen — ein belasteter Raum sabotiert die innere Arbeit. Die Frage „Wie fühlt sich Ihr Zuhause an?" kann eine Tür öffnen, die sonst verschlossen bleibt.
+Der Raum als Spiegel: Schau dich in deiner Wohnung um, als wärst du ein Gast: Was erzählt dieser Raum über den Menschen, der hier lebt? Die überquellende Abstellkammer, das seit Monaten halbfertige Projekt in der Ecke, das Zimmer, das du meidest — oft spiegeln solche Raumzustände innere Themen: Aufgeschobenes, Festgehaltenes, Unentschiedenes. Das ist keine Diagnose, sondern eine Reflexionsfrage: \"Wenn dieser Raum ein Teil von mir wäre — welcher wäre es?\"
 
-Die Verbindung mit Familienarbeit: Die Raumenergie eines Familienhauses spiegelt die Familiendynamik — und beeinflusst sie gleichzeitig. Streit im Wohnzimmer hinterlässt Streitenergie, die weitere Konflikte begünstigt. Eine Raumreinigung nach schweren Familienkonflikten kann den Neuanfang unterstützen — auf der physischen und der feinstofflichen Ebene.
+Innere Arbeit über den Raum: Manchmal ist der Umweg über den Raum der leichteste Zugang zu einem inneren Thema. Wer sich von einem alten Lebensabschnitt nicht lösen kann, dem hilft es oft, die dazugehörigen Gegenstände bewusst zu verabschieden. Wer einen Neuanfang sucht, kann ihn räumlich vorbereiten: umräumen, klären, Platz schaffen. Der Raum wird zum begehbaren Symbol — Veränderung, die du anfassen kannst.
 
-Angebotsformate: Einzelne Raumanalyse und Reinigung als Dienstleistung — typisch drei bis vier Stunden, inklusive Analyse, Reinigung, Harmonisierung und Nachbesprechung. Regelmäßige Raumpflege — vierteljährliche Reinigung für Stammkunden. Umzugsbegleitung — Verabschiedung des alten und Begrüßung des neuen Raumes. Workshops — „Dein Zuhause als Kraftort" für sechs bis zwölf Teilnehmer. Online-Beratung — Raumanalyse anhand von Fotos und Grundrissen für Fernklienten.
+Wenn sich etwas trotz innerer Arbeit nicht löst: Falls du an einem Lebensthema arbeitest und trotz aller Bemühung das Gefühl hast, nicht voranzukommen, lohnt der Blick auf deinen Raum: Unterstützt dein Umfeld die Veränderung — oder hält es das Alte fest? Ein Arbeitszimmer voller Erinnerungen an den alten Job macht den beruflichen Neuanfang schwerer. Ein Schlafzimmer voller ungelöster Unordnung macht das Loslassen am Abend schwerer. Räum den Raum — oft folgt das Innere nach.
 
-Die Preisgestaltung: Einzelne Raumreinigung für eine Wohnung — zweihundert bis vierhundert Euro. Einfamilienhaus — dreihundert bis sechshundert Euro. Geschäftsräume — nach Aufwand. Workshops — dreißig bis sechzig Euro pro Teilnehmer. Diese Preise reflektieren deine Ausbildung, deine Erfahrung und den konkreten Mehrwert, den du lieferst.
+Die Familiendimension: Die Raumenergie eines Familienzuhauses spiegelt die Familiendynamik — und beeinflusst sie. Streit im Wohnzimmer hinterlässt Spannung, die weitere Konflikte begünstigt. Ein gemeinsames Reinigungs- oder Neuordnungs-Ritual nach schweren Zeiten kann den Neuanfang für alle sichtbar und spürbar machen — auf der physischen wie der feinstofflichen Ebene.
 
-Dein Weg als Raumenergeteikerin ist ein Weg, der deine Wahrnehmung für die feinstoffliche Dimension des Lebens ständig vertieft. Jeder Raum, den du betrittst, lehrt dich etwas über die Beziehung zwischen Mensch und Ort, zwischen Innen und Außen, zwischen Sichtbarem und Unsichtbarem. Diese Sensibilität ist ein Geschenk — und eine Verantwortung, die du mit Demut, Kompetenz und Hingabe trägst.`
+Die Grenze der Raumdeutung: So wertvoll der Spiegel-Blick ist — er bleibt ein Reflexionswerkzeug, keine Wahrheit über dich. Nicht jede unaufgeräumte Ecke ist ein Seelenthema; manchmal fehlte einfach die Zeit. Nimm die Impulse ernst, aber leicht. Und bei anhaltender seelischer Belastung gilt: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         }
       ]
     },
     {
       id: 'T07-M6',
-      titel: 'Praxis aufbauen',
+      titel: 'Deine Raumpraxis vertiefen',
       lektionen: [
         {
           id: 'T07-M6-L1',
-          titel: 'Positionierung und Zielgruppe',
-          inhalt: `Raumenergetik spricht eine breite und wachsende Zielgruppe an — von spirituell orientierten Menschen über gesundheitsbewusste Familien bis zu geschäftsorientierten Unternehmern. Deine Positionierung bestimmt, welches Segment du ansprichst und wie du kommunizierst.
+          titel: 'Dein Zuhause als Kraftort-Projekt',
+          inhalt: `Alles, was du in diesem Kurs gelernt hast, verdichtet sich in einem Projekt: dein eigenes Zuhause Raum für Raum zu einem Kraftort zu machen. Nicht an einem Wochenende — sondern als bewusster Prozess über mehrere Wochen, der deine Wahrnehmung schult und dein Zuhause verwandelt.
 
-Mögliche Nischen: Raumreinigung für Immobilien — Makler und Eigentümer, die Objekte energetisch aufwerten wollen. Praxisraumgestaltung für Heilberufe — Therapeuten, Coaches und Heiler, die ihren Arbeitsraum optimieren wollen. Umzugsbegleitung — Familien und Einzelpersonen, die bewusst in ihr neues Zuhause einziehen wollen. Geschäftsraumoptimierung — Unternehmer, die die Produktivität und Atmosphäre ihrer Arbeitsräume verbessern wollen.
+Die Projektstruktur: Nimm dir pro Woche einen Raum vor. Beginne mit dem Raum, der sich am schwersten anfühlt — oder, wenn dir das zu viel ist, mit dem leichtesten, um Schwung zu holen. Jeder Raum durchläuft denselben Vierschritt: Wahrnehmen (Bestandsaufnahme mit allen Sinnen, Eintrag in die Raumkarte), Klären (physisch ausmisten und putzen, dann energetisch reinigen mit der Methode deiner Wahl), Gestalten (Energiefluss optimieren, Stagnationszonen aktivieren, Intention setzen), Verankern (ein kleines Element, das die neue Qualität hält — eine Pflanze, ein Kristall, ein Symbol, ein Duft).
 
-Dein Alleinstellungsmerkmal: Die Verbindung von Raumarbeit mit deinem ganzheitlichen Wissen. Du reinigst nicht nur Räume — du verstehst die Zusammenhänge zwischen Raum, Mensch und Lebensthema. Ein Coach, der sowohl mit dem Menschen als auch mit seinem Lebensraum arbeiten kann, bietet einen Mehrwert, den reine Raumreiniger nicht liefern.
+Das Raum-Tagebuch: Notiere zu jedem Raum drei Dinge: Wie hat er sich vorher angefühlt? Was hast du getan? Wie fühlt er sich eine Woche später an? Diese Dokumentation ist mehr als Erinnerung — sie trainiert deine Wahrnehmung für feine Veränderungen und zeigt dir schwarz auf weiß, was deine Arbeit bewirkt.
 
-Kooperationen: Immobilienmakler — Raumreinigung als Mehrwert für schwer verkäufliche Objekte. Innenarchitekten — energetische Beratung als Ergänzung zur Gestaltung. Umzugsunternehmen — Empfehlung als Zusatzservice. Baubiologen — gegenseitige Verweisung bei physischen und energetischen Themen.`
+Die schwierigen Kandidaten: Fast jedes Zuhause hat sie — die Abstellkammer, den Keller, die Schublade des Grauens. Diese Bereiche sind energetische Sedimentschichten: Hier lagert, was du nicht entscheiden konntest oder wolltest. Nimm sie zuletzt, aber nimm sie. Oft sind es genau diese Räume, deren Klärung die spürbarste Veränderung bringt — als würde das ganze Zuhause aufatmen.
+
+Der Abschluss: Wenn alle Räume durchlaufen sind, mache einen abschließenden Gesamtrundgang — denselben wie bei deiner ersten Bestandsaufnahme. Vergleiche deine neue Wahrnehmung mit der alten Raumkarte. Feiere den Abschluss mit einem kleinen Ritual: eine Kerze in jedem Raum, ein Dank an dein Zuhause, ein bewusster Moment des Ankommens. Du wohnst jetzt in einem Raum, den du kennst — und der dich kennt.`
         },
         {
           id: 'T07-M6-L2',
-          titel: 'Formate und Durchführung',
-          inhalt: `Die professionelle Raumarbeit folgt einem klaren Ablauf, der Vertrauen schafft und Qualität sichert.
+          titel: 'Raumrituale im Jahreskreis',
+          inhalt: `Raumpflege ist keine einmalige Aktion — sie ist ein Rhythmus. Wer seine Räume im Takt des Jahres pflegt, verbindet Wohnkultur mit Naturverbundenheit und sorgt dafür, dass sich nie wieder jahrelange energetische Sedimente ansammeln.
 
-Der Standardablauf einer Raumreinigung: Vorgespräch — telefonisch oder per Video, fünfzehn bis dreißig Minuten. Anliegen klären, Grunddaten erfassen, Erwartungen abstimmen. Vor-Ort-Termin — drei bis fünf Stunden, je nach Raumgröße. Analyse, Reinigung, Harmonisierung. Abschlussgespräch — im Raum, dreißig Minuten. Ergebnisse teilen, Empfehlungen geben, Nachsorge besprechen. Nachbericht — schriftlich, innerhalb einer Woche. Dokumentation der Analyse, durchgeführte Maßnahmen, Empfehlungen für die Bewohner.
+Die vier Jahreszeiten-Reinigungen: Zu jedem Jahreszeitenbeginn eine gründliche Reinigung — physisch und energetisch. Der Frühjahrsputz ist der bekannteste und kraftvollste: Loslassen des Winters, Öffnen für das neue Jahr, gründliches Ausmisten. Der Sommer lädt zum Lichten und Leichtermachen ein. Der Herbst zum Einholen, Verdichten und Gemütlichmachen. Der Winter zur stillen Pflege des Innenraums, in dem du nun mehr Zeit verbringst.
 
-Der Workshop: Ein Tagesworkshop „Dein Zuhause als Kraftort" vermittelt die Grundlagen der Raumwahrnehmung, einfache Reinigungstechniken und Tipps zur energetischen Raumgestaltung. Die Teilnehmer lernen, ihre eigenen Räume bewusst wahrzunehmen und einfache Reinigungsrituale selbstständig durchzuführen. Sechs bis zwölf Teilnehmer, sechs Stunden, inklusive praktischer Übungen.
+Die Mondrhythmen: Wer feiner arbeiten mag, nutzt den Mondzyklus: Neumond für Neubeginn — ein guter Zeitpunkt, um Intentionen für einen Raum zu setzen oder etwas Neues zu beginnen. Vollmond für Abschluss und Loslassen — ideal für Reinigungsrituale und das Verabschieden von Altem. Diese Rhythmen sind keine Vorschrift, sondern ein Angebot: Sie geben deiner Raumpraxis einen natürlichen Takt, an den du dich anlehnen kannst.
 
-Die Online-Beratung: Raumanalyse anhand von Fotos, Videos und Grundrissen. Reinigungsanleitung per Video für den Bewohner. Nachbesprechung per Videocall. Dieses Format erreicht Klienten außerhalb deines Einzugsgebiets und ist besonders für leichtere Anliegen geeignet — schwere Belastungen erfordern den Vor-Ort-Einsatz.
+Die Lebensübergänge: Bestimmte Momente verdienen besondere Raumrituale: Nach einer Trennung — das gemeinsame Schlafzimmer klären und neu gestalten, damit es wieder ganz deins wird. Nach einer überstandenen schweren Zeit — ein bewusstes Abschluss- und Neuanfangsritual im ganzen Zuhause. Vor einem wichtigen neuen Kapitel — Prüfung, neuer Job, Familienzuwachs — den Raum vorbereiten, der das neue Kapitel tragen soll. Der Raum wird so zum Verbündeten deiner Lebensübergänge.
 
-Das Abonnement-Modell: Regelmäßige Raumpflege — vierteljährlich oder halbjährlich — für Stammkunden, die den energetischen Zustand ihres Raumes dauerhaft auf hohem Niveau halten wollen. Dieses Modell erzeugt regelmäßiges Einkommen und langfristige Klientenbindung.`
+Die kleinen täglichen Gesten: Zwischen den großen Ritualen halten Mini-Gewohnheiten die Raumqualität: Morgens einmal stoßlüften — der Atemzug des Hauses. Abends eine Fünf-Minuten-Ordnungsrunde — der Raum schließt den Tag mit dir ab. Das Schwellenritual beim Kommen und Gehen. Frische Blumen, wenn es sie gibt. Diese Gesten kosten fast nichts — und sie sind es, die ein gepflegtes Energiefeld von einem vernachlässigten unterscheiden.`
         },
         {
           id: 'T07-M6-L3',
-          titel: 'Dein Raum als Visitenkarte',
-          inhalt: `Dein eigenes Zuhause und dein Praxisraum sind deine lebendigste Visitenkarte. Klienten, die deine Räume betreten, spüren sofort, ob du lebst, was du lehrst. Ein Raumenergetiker, dessen eigener Raum disharmonisch, belastet oder lieblos ist, verliert seine Glaubwürdigkeit — unabhängig davon, wie gut er andere Räume gestalten kann.
+          titel: 'Dein Raum als Lebensbegleiter',
+          inhalt: `Dein Zuhause ist deine lebendigste Visitenkarte — vor allem dir selbst gegenüber. Wer deine Räume betritt, spürt sofort, wie du lebst. Und du selbst spürst es jeden Tag: Ein Zuhause, das gepflegt, geklärt und mit Intention gestaltet ist, trägt dich — eines, das vernachlässigt ist, zehrt an dir.
 
-Dein Praxisraum als Kraftort: Gestalte ihn bewusst mit den Qualitäten, die du vermitteln willst — Klarheit, Wärme, Lebendigkeit, Schutz. Reinige ihn regelmäßig. Pflege ihn mit frischen Blumen, guter Luft, schönem Licht. Dein Raum spricht für dich, noch bevor du ein Wort sagst.
+Dein Zuhause als Übungsfeld: Nutze deine eigenen Räume als permanentes Lern- und Übungslabor. Experimentiere mit verschiedenen Reinigungsmethoden, Raumgestaltungen und Schutzmaßnahmen. Beobachte die Auswirkungen auf dein Wohlbefinden, deine Kreativität und deine Beziehungen. Diese gelebte Erfahrung ist dein wertvollster Lehrmeister — kein Buch und kein Kurs ersetzt das eigene Wohnen im bewusst gestalteten Raum.
 
-Dein Zuhause als Übungsfeld: Nutze deine eigenen Räume als permanentes Lern- und Übungslabor. Experimentiere mit verschiedenen Reinigungsmethoden, Raumgestaltungen und Schutzmaßnahmen. Beobachte die Auswirkungen auf dein Wohlbefinden, deine Kreativität und deine Beziehungen. Diese gelebte Erfahrung ist dein wertvollstes Lehrmaterial.
+Das Teilen ohne Missionieren: Wenn Freunde und Familie die Veränderung in deinem Zuhause spüren — und sie werden es spüren —, kommen die Fragen von selbst: \"Hier fühlt es sich so gut an, was hast du gemacht?\" Dann darfst du teilen, was du gelernt hast — als Erfahrung, nicht als Lehre. Zeige, statt zu belehren. Schenke vielleicht ein Räucherbündel mit einer kleinen Anleitung. Und respektiere, wenn jemand nichts davon wissen will — jeder Mensch gestaltet seinen Raum auf seine Weise.
 
-Die saisonale Raumpflege als Lebensrhythmus: Reinige dein Zuhause mindestens zu den vier Jahreszeiten gründlich — physisch und energetisch. Diese Rhythmisierung hält deinen Raum lebendig, verbindet dich mit dem natürlichen Jahreslauf und erinnert dich vierteljährlich daran, was du anderen empfiehlst.
+Der Raum im Wandel des Lebens: Dein Zuhause ist kein fertiges Werk — es wandelt sich mit dir. Was heute stimmig ist, kann in zwei Jahren eng werden. Lebensphasen bringen neue Raumbedürfnisse: mehr Ruhe, mehr Platz zum Schaffen, mehr Offenheit für Gäste, mehr Rückzug. Die Raumpraxis, die du in diesem Kurs gelernt hast, ist deine Fähigkeit, diesen Wandel bewusst mitzugestalten — ein Leben lang.
 
-Dein Vermächtnis als Raumenergeteikerin: Jeder Raum, den du reinigst und harmonisierst, wird zu einem besseren Ort zum Leben, Arbeiten und Lieben. Jeder Mensch, der durch deine Arbeit seinen Raum bewusster wahrnimmt, beginnt achtsamer mit seiner Umgebung umzugehen. Und jede Familie, deren Zuhause von einem belasteten Ort zu einem Kraftort wird, erlebt eine Veränderung, die alle Lebensbereiche berührt. Das ist dein Beitrag — leise, konkret und wirkungsvoll.`
+Dein stiller Gewinn: Jeder Raum, den du klärst und harmonisierst, wird zu einem besseren Ort zum Leben, Arbeiten und Lieben. Jeder Mensch in deinem Umfeld, der durch dein Beispiel seinen Raum bewusster wahrnimmt, beginnt achtsamer mit seiner Umgebung umzugehen. Und ein Zuhause, das vom vernachlässigten Ort zum Kraftort wird, verändert leise alle Lebensbereiche, die es beherbergt. Das ist der Gewinn dieser Praxis — leise, konkret und wirkungsvoll.`
         }
       ]
     }

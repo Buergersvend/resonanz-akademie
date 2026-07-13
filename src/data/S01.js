@@ -1,6 +1,6 @@
 // S01.js — Schamanismus — Grundlagen & Praxis
 // Standard ◈◈ · 6 Module · 18 Lektionen
-// Human Resonanz Akademie · Mai 2026
+// Human Resonanz Lernwelt · Mai 2026 · Saniert Juli 2026
 
 const S01 = {
   id: 'S01',
@@ -142,9 +142,9 @@ Ein häufiger Anfängerfehler: Das Krafttier nach seiner "Coolness" oder kulture
 
 ### Kraftverlust und Krafttierrückholung
 
-In vielen schamanischen Traditionen wird Krankheit — physisch wie psychisch — als Kraftverlust verstanden. Wenn ein Mensch von seinem Krafttier getrennt ist, fehlt ihm buchstäblich ein Teil seiner vitalen Energie. Er fühlt sich antriebslos, verletzlich, orientierungslos.
+In vielen schamanischen Traditionen wird ein Zustand von Erschöpfung oder innerer Leere als Kraftverlust verstanden. Wenn ein Mensch das Gefühl hat, von seiner inneren Kraftquelle getrennt zu sein, fühlt er sich oft antriebslos, verletzlich oder orientierungslos. Wichtig: Das ist ein spirituelles Deutungsmodell und keine Aussage über Krankheit. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-Die Krafttierrückholung ist deshalb eine der grundlegendsten schamanischen Heilmethoden: Der Praktizierende reist in die Untere Welt, findet das Krafttier des Klienten und bringt es zurück. Nach der Rückholung fühlen sich Menschen oft unmittelbar vitaler, geerdeter und geschützter.
+Die Krafttierrückholung ist deshalb eine der ältesten überlieferten schamanischen Praktiken. In der traditionellen Form reist die schamanisch arbeitende Person in die Untere Welt, um ein verloren geglaubtes Krafttier zurückzuholen. In diesem Kurs erlebst du dieses Prinzip ausschließlich als Selbsterfahrung — als Reise zu deiner eigenen inneren Kraft.
 
 Du wirst in Modul 3 dein eigenes Krafttier auf einer geführten Reise finden. Nimm an, was sich zeigt — ohne Erwartung und ohne Bewertung.`
         },
@@ -157,13 +157,13 @@ Du wirst in Modul 3 dein eigenes Krafttier auf einer geführten Reise finden. Ni
 
 Krafttiere sind die bekannteste Form schamanischer Helfer — aber bei weitem nicht die einzige. Die nicht-alltägliche Wirklichkeit ist bevölkert von verschiedenen Wesenheiten, die als Verbündete, Lehrer und Beschützer dienen können.
 
-**Ahnen** spielen in vielen schamanischen Traditionen eine zentrale Rolle. Gemeint sind nicht nur die verstorbenen Großeltern — sondern die gesamte Linie deiner Vorfahren, zurück über Generationen. In der schamanischen Sicht existieren diese Seelen weiter und können als Berater und Beschützer wirken. Die Ahnenarbeit ist besonders kraftvoll, weil sie dich mit der Weisheit und der Kraft deiner gesamten Abstammungslinie verbindet. Wichtig: Nicht alle Ahnen sind automatisch weise Ratgeber. Manche tragen selbst noch ungelöste Muster. Deshalb arbeitet man in der schamanischen Praxis gezielt mit den "heiligen Ahnen" — jenen, die ihren eigenen Heilungsprozess abgeschlossen haben und nun als klare Führung dienen können.
+**Ahnen** spielen in vielen schamanischen Traditionen eine zentrale Rolle. Gemeint sind nicht nur die verstorbenen Großeltern — sondern die gesamte Linie deiner Vorfahren, zurück über Generationen. In der schamanischen Sicht existieren diese Seelen weiter und können als Berater und Beschützer wirken. Die Ahnenarbeit ist besonders kraftvoll, weil sie dich mit der Weisheit und der Kraft deiner gesamten Abstammungslinie verbindet. Wichtig: Nicht alle Ahnen sind automatisch weise Ratgeber. Manche tragen selbst noch ungelöste Muster. Deshalb arbeitet man in der schamanischen Praxis gezielt mit den "heiligen Ahnen" — jenen, die ihren eigenen Reifungsweg gegangen sind und nun als klare Führung dienen können.
 
 **Geistige Lehrer** erscheinen oft in menschlicher oder menschenähnlicher Gestalt. Sie können als weise Alte, als Heiler vergangener Epochen oder als archetypische Figuren auftreten. Sie sind typische Bewohner der Oberen Welt und bieten Wissen, Überblick und spirituelle Anleitung. Im Gegensatz zu Krafttieren, die oft instinkthaft und naturverbunden kommunizieren, arbeiten geistige Lehrer häufig mit Worten, Bildern oder direkter Wissensübertragung.
 
 **Naturgeister** sind die Bewusstseine der natürlichen Welt — der Geist eines bestimmten Baumes, eines Flusses, eines Berges, eines Steines. Sie sind Bewohner der Mittleren Welt und können unglaublich hilfreiche Verbündete sein, besonders wenn du in der Natur arbeitest. Viele Schamanen pflegen lebenslange Beziehungen zu bestimmten Orten in der Natur und den Geistern, die dort wohnen.
 
-**Pflanzengeister** stehen an der Schnittstelle zwischen Naturgeistern und eigenständigen Lehrern. Viele Heilpflanzen werden in schamanischen Traditionen als bewusste Wesen betrachtet, die ihre eigene Weisheit und Heilkraft teilen können — auch ohne physische Einnahme, einfach durch innere Kommunikation.
+**Pflanzengeister** stehen an der Schnittstelle zwischen Naturgeistern und eigenständigen Lehrern. Viele Pflanzen werden in schamanischen Traditionen als bewusste Wesen betrachtet, die ihre eigene Weisheit teilen können — auch ohne physische Einnahme, einfach durch innere Kommunikation.
 
 ### Die Beziehung pflegen
 
@@ -439,7 +439,7 @@ Hier geschieht das eigentliche Ritual — abhängig von deiner Absicht:
 
 *Manifestation:* Halte einen Samen oder Stein in deinen Händen. Flüstere deine Absicht hinein — ganz konkret, als wäre sie bereits Realität. Pflanze den Samen ein oder platziere den Stein an einem bedeutsamen Ort.
 
-*Heilung:* Reise zu deinem Krafttier und bitte um Heilenergie. Lege die Hände auf die Stelle deines Körpers, die Heilung braucht, und leite die empfangene Energie dorthin.
+*Selbstzuwendung:* Reise zu deinem Krafttier und bitte um nährende Energie. Lege die Hände auf eine Stelle deines Körpers, die gerade Zuwendung braucht, und richte deine liebevolle Aufmerksamkeit dorthin. (Dies ersetzt keine medizinische Behandlung — bei Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.)
 
 *Dankbarkeit:* Bereite ein Gabenbündel vor — etwas Tabak, Kornmehl, Kräuter oder Blumen — und bringe es an einem Ort in der Natur aus, der dir heilig ist. Sprich deine Dankbarkeit laut aus.
 
@@ -562,33 +562,33 @@ Wenn du keine Trommel hast, klopfe auf deine Oberschenkel. Klatsche in die Händ
     // ============================================================
     {
       id: 'S01-M6',
-      titel: 'Schamanismus in der Praxis',
-      beschreibung: 'Schamanische Methoden in die eigene Praxis und den Alltag integrieren, die Verbindung zur Energiearbeit herstellen und ethische Grundsätze verinnerlichen.',
+      titel: 'Schamanismus im eigenen Leben',
+      beschreibung: 'Schamanische Methoden in den eigenen Alltag integrieren, die Verbindung zur eigenen Energiepraxis herstellen und ethische Grundsätze verinnerlichen.',
       lektionen: [
         {
           id: 'S01-M6-L1',
-          titel: 'Schamanismus & Energiearbeit — Integration in deine Praxis',
+          titel: 'Schamanismus & Energiearbeit — Integration in deinen Weg',
           inhalt: `## Schamanismus & Energiearbeit
 
 ### Warum Schamanismus und Energiearbeit zusammengehören
 
-Schamanismus und moderne Energiearbeit sind keine getrennten Disziplinen — sie sind verschiedene Ausdrucksformen desselben Grundprinzips: dass die Wirklichkeit mehr ist als ihre physische Oberfläche und dass bewusstes Arbeiten mit feinstofflichen Energien Heilung und Transformation ermöglicht.
+Schamanismus und moderne Energiearbeit sind keine getrennten Disziplinen — sie sind verschiedene Ausdrucksformen desselben Grundprinzips: dass die Wirklichkeit mehr ist als ihre physische Oberfläche und dass bewusstes Arbeiten mit feinstofflichen Energien innere Transformation ermöglicht.
 
-Wenn du bereits energetisch arbeitest — mit Chakren, mit Aurafeldern, mit Meridianen, mit Reiki, mit Quantenheilung — dann ist Schamanismus keine Abkehr von deiner bisherigen Praxis, sondern eine Erweiterung. Er fügt Dimensionen hinzu, die andere Modalitäten nicht abdecken: die Arbeit mit geistigen Helfern, die Reise in andere Bewusstseinsebenen, die zeremonielle Gestaltung und die tiefe Naturverbindung.
+Wenn du bereits energetisch arbeitest — mit Chakren, mit Aurafeldern, mit Meridianen, mit Reiki — dann ist Schamanismus keine Abkehr von deiner bisherigen Praxis, sondern eine Erweiterung. Er fügt Dimensionen hinzu, die andere Modalitäten nicht abdecken: die Arbeit mit geistigen Helfern, die Reise in andere Bewusstseinsebenen, die zeremonielle Gestaltung und die tiefe Naturverbindung.
 
 ### Konkrete Integrationspunkte
 
-**In der Klientenarbeit:** Du kannst eine energetische Sitzung um schamanische Elemente erweitern. Zum Beispiel: Vor einer Energiebehandlung eine kurze schamanische Reise machen, um dein Krafttier um Führung für die Sitzung zu bitten. Oder nach einer Chakra-Arbeit eine Seelenrückholung durchführen, wenn du spürst, dass der Klient einen Teil seiner Lebenskraft verloren hat.
+**In der eigenen Übungspraxis:** Du kannst deine persönliche Energiepraxis um schamanische Elemente erweitern. Zum Beispiel: Vor einer Selbst-Meditation eine kurze schamanische Reise machen, um dein Krafttier um Führung zu bitten. Oder eine Chakra-Selbstwahrnehmung mit einer Reise zu deiner inneren Kraft verbinden.
 
-**In der Diagnostik:** Die schamanische Reise kann als diagnostisches Werkzeug dienen. Anstatt nur das Energiefeld des Klienten zu scannen, reist du in die Untere oder Obere Welt und fragst deine Helfer: "Was braucht dieser Mensch?" Die Antworten können Ebenen aufdecken, die eine rein energetische Diagnostik nicht erreicht — zum Beispiel karmische Zusammenhänge, Ahnenthemen oder Seelenverluste.
+**Zur inneren Orientierung:** Die schamanische Reise kann dir helfen, bei eigenen Fragen Klarheit zu finden. Anstatt nur analytisch nachzudenken, reist du in die Untere oder Obere Welt und fragst deine Helfer: "Was brauche ich gerade?" Die Antworten können Ebenen berühren, die der Verstand allein nicht erreicht. Das ist Selbstreflexion mit schamanischen Mitteln — keine Diagnose und keine Aussage über deine Gesundheit.
 
-**Im Raum:** Schamanische Rituale vor und nach der Sitzung — Räuchern, Schutzkreis, Erdung — verstärken den Rahmen und die Wirksamkeit deiner bestehenden Arbeit. Der Raum wird nicht nur physisch, sondern auch energetisch und rituell vorbereitet.
+**Im Raum:** Schamanische Rituale vor und nach deiner Übung — Räuchern, Schutzkreis, Erdung — stärken den Rahmen deiner Praxis. Dein Übungsraum wird nicht nur physisch, sondern auch energetisch und rituell vorbereitet.
 
-**In der Selbstfürsorge:** Energiearbeiter brauchen besonders gute Selbstfürsorge-Routinen, weil sie regelmäßig mit den Energiefeldern anderer Menschen in Kontakt kommen. Schamanische Praktiken — regelmäßige Erdung, Räuchern, Krafttier-Kontakt, Naturverbindung — bieten ein robustes Fundament für die eigene energetische Hygiene.
+**In der Selbstfürsorge:** Energiearbeiter brauchen besonders gute Selbstfürsorge-Routinen, weil sie regelmäßig mit den Energiefeldern anderer Menschen in Kontakt kommen. Schamanische Praktiken — regelmäßige Erdung, Räuchern, Krafttier-Kontakt, Naturverbindung — bieten ein robustes Fundament für die eigene energetische Hygiene, gerade wenn dein Alltag dich viel mit anderen Menschen in Kontakt bringt.
 
 ### Schamanismus im Lichtkern-Kontext
 
-Wenn du Lichtkern als Praxiswerkzeug nutzt, kannst du schamanische Sitzungen als eigene Kategorie dokumentieren. Notiere, welche Reise du für oder mit dem Klienten unternommen hast, welche Helfer sich gezeigt haben und welche Botschaften empfangen wurden. So entsteht über die Zeit ein schamanisches Profil des Klienten — eine zusätzliche Ebene neben Human Design und Numerologie.`
+Wenn du Lichtkern nutzt, kannst du deine eigenen schamanischen Reisen als eigene Kategorie festhalten. Notiere, welche Reise du unternommen hast, welche Helfer sich gezeigt haben und welche Botschaften du empfangen hast. So entsteht über die Zeit dein persönliches schamanisches Tagebuch — eine zusätzliche Ebene neben deiner Human-Design-Chart und deinem numerologischen Profil.`
         },
         {
           id: 'S01-M6-L2',
@@ -649,7 +649,7 @@ Du bist nicht der Heiler — du bist der Vermittler. Die Heilung kommt durch dic
 Arbeite nie an oder für jemanden ohne dessen Wissen und Einverständnis. In der schamanischen Welt ist die energetische Grenze eines Menschen genauso real wie die physische. Uneingeladene "Fernheilungen" oder "Reisen für jemanden" ohne dessen Zustimmung sind Grenzüberschreitungen — unabhängig davon, wie gut die Absicht ist.
 
 **Prinzip 3: Reziprozität**
-Die Natur funktioniert in Kreisläufen. Wenn du etwas empfängst, gib etwas zurück. Wenn du Kräuter für Räucherwerk sammelst, hinterlasse eine Gabe. Wenn dir ein Krafttier eine wichtige Erkenntnis schenkt, lebe sie. Wenn ein Klient dir sein Vertrauen schenkt, behandle es als das, was es ist: ein Geschenk.
+Die Natur funktioniert in Kreisläufen. Wenn du etwas empfängst, gib etwas zurück. Wenn du Kräuter für Räucherwerk sammelst, hinterlasse eine Gabe. Wenn dir ein Krafttier eine wichtige Erkenntnis schenkt, lebe sie. Wenn ein Mensch dir sein Vertrauen schenkt, behandle es als das, was es ist: ein Geschenk.
 
 **Prinzip 4: Verantwortung**
 Schamanische Arbeit ist keine Spielerei. Sie kann tiefe Prozesse auslösen — bei dir und bei anderen. Übernimm Verantwortung für das, was du initiierst. Stelle sicher, dass du den Raum halten kannst, den du öffnest. Und wenn eine Situation über deine Kompetenz hinausgeht — sage das ehrlich und verweise weiter.
@@ -658,17 +658,17 @@ Schamanische Arbeit ist keine Spielerei. Sie kann tiefe Prozesse auslösen — b
 
 Schamanismus ist keine Psychotherapie. Er ersetzt keinen Arztbesuch. Er ist keine Alternative zu professioneller psychologischer Behandlung bei schweren Traumata, Psychosen oder Suchterkrankungen.
 
-Er ist ein Weg der Selbsterfahrung und der spirituellen Entwicklung, der ergänzend und bereichernd wirken kann — aber er hat Grenzen. Und ein ethisch handelnder Praktiker kennt und respektiert diese Grenzen.
+Er ist ein Weg der Selbsterfahrung und der spirituellen Entwicklung, der ergänzend und bereichernd wirken kann — aber er hat Grenzen. Ein ethisch handelnder Mensch kennt und respektiert diese Grenzen — bei sich selbst und im Umgang mit anderen.
 
-Wenn ein Klient Symptome zeigt, die auf eine ernsthafte psychische oder physische Erkrankung hindeuten, ist deine Verantwortung klar: empfiehl den Gang zum Fachmann. Du kannst begleiten, unterstützen, ergänzen — aber nicht ersetzen.
+Wenn du bei dir selbst Symptome bemerkst, die auf eine ernsthafte psychische oder körperliche Belastung hindeuten, gilt: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Schamanische Praxis kann begleiten und bereichern — aber niemals eine fachliche Behandlung ersetzen.
 
 ### Dein Weg weiter
 
 Dieser Kurs gibt dir eine fundierte Grundlage. Von hier aus gibt es viele mögliche Wege der Vertiefung:
 
-Die Arbeit mit Ahnen und transgenerationalen Themen. Seelenrückholung als fortgeschrittene Heilmethode. Extraktion — das Entfernen von Fremdenergien aus dem Energiefeld. Psychopomp-Arbeit — die Begleitung Verstorbener. Schamanische Pflanzenarbeit. Zeremonielle Leitung für Gruppen.
+Die Arbeit mit Ahnen und transgenerationalen Themen. Seelenrückholung als fortgeschrittene schamanische Praxis. Das Konzept der Extraktion — in den Traditionen das Lösen belastender Fremdenergien. Psychopomp-Vorstellungen — die überlieferte Begleitung Verstorbener. Schamanische Pflanzenkunde. Zeremonielle Gestaltung für Gruppen. Diese Felder sind Gegenstand eigener, vertiefender Auseinandersetzung und werden hier nur als Ausblick benannt.
 
-Jeder dieser Wege verdient eigene Studienzeit und idealerweise die Begleitung durch einen erfahrenen Praktiker oder eine erfahrene Praktikerin. Schamanismus wird nicht nur aus Büchern oder Kursen gelernt — er wird erlebt, erfahren und verkörpert.
+Jeder dieser Wege verdient eigene Studienzeit und idealerweise die Begleitung durch einen erfahrenen Menschen, der diesen Weg selbst gegangen ist. Schamanismus wird nicht nur aus Büchern oder Kursen gelernt — er wird erlebt, erfahren und verkörpert.
 
 Dein wichtigster Lehrer auf diesem Weg ist nicht dieser Kurs, nicht ein Buch, nicht ein Mensch. Dein wichtigster Lehrer ist dein eigenes Krafttier, deine eigenen geistigen Helfer und deine eigene tiefe Verbindung zur lebendigen Erde. Vertraue darauf.`
         }

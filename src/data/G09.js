@@ -1,17 +1,17 @@
 // G09.js — Meditation Komplett
 // Standard ◈◈ · 6 Module · 18 Lektionen
-// Human Resonanz Akademie · Mai 2026
+// Human Resonanz Lernwelt · Mai 2026
 
 const G09 = {
   id: 'G09',
   titel: 'Meditation Komplett',
-  untertitel: 'Vipassana · Zen · Transzendentale Meditation · Geführte Meditation · Achtsamkeit · Kontemplation',
+  untertitel: 'Achtsamkeit · Stille-Meditation · Mantra · Kontemplation · Bewegte Meditation',
   bereich: 'grundlagen',
   format: 'standard',
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
-  beschreibung: `Meditation ist die älteste und universellste Praxis der Menschheit — eine direkte Methode, den Geist zu beruhigen, das Bewusstsein zu vertiefen und Zugang zu innerer Stille zu finden. In diesem Kurs lernst du die wichtigsten Meditationstraditionen der Welt kennen — von der buddhistischen Vipassana über Zen-Meditation und Transzendentale Meditation bis zu modernen Achtsamkeitspraktiken. Du verstehst die Unterschiede, findest deinen persönlichen Zugang und baust eine Praxis auf, die trägt.`,
+  beschreibung: `Meditation ist die älteste und universellste Praxis der Menschheit — eine direkte Methode, den Geist zu beruhigen, das Bewusstsein zu vertiefen und Zugang zu innerer Stille zu finden. In diesem Kurs lernst du die wichtigsten Meditationstraditionen der Welt kennen — von der buddhistischen Einsichtsmeditation über stille Sitzmeditation und Mantra-Praxis bis zu modernen Achtsamkeitspraktiken. Du verstehst die Unterschiede, findest deinen persönlichen Zugang und baust eine Praxis auf, die trägt.`,
   status: 'live',
 
   module: [
@@ -102,7 +102,7 @@ Hier richtest du deine Aufmerksamkeit auf ein einzelnes Objekt — und hältst s
 
 **Was trainiert wird:** Konzentrationsfähigkeit, mentale Stabilität, die Fähigkeit, den Geist zu beruhigen, Samatha (innere Ruhe). Der Geist wird wie ein Laserstrahl — fokussiert, klar, kraftvoll.
 
-**Traditionen:** Samatha-Meditation (Buddhismus), Mantra-Meditation (Hinduismus), Transzendentale Meditation, Trataka (Yoga), Centering Prayer (Christentum), Dhikr (Sufismus).
+**Traditionen:** Samatha-Meditation (Buddhismus), Mantra-Meditation (Hinduismus), Trataka (Yoga), kontemplatives Gebet (Christentum), Dhikr (Sufismus).
 
 ### 2. Offenes Gewahrsein (Beobachtung)
 
@@ -112,7 +112,7 @@ Hier gibt es kein Fokusobjekt. Du beobachtest alles, was auftaucht — Gedanken,
 
 **Was trainiert wird:** Achtsamkeit, Einsicht (Vipassana — "klares Sehen"), die Erkenntnis der Vergänglichkeit aller Phänomene, Gleichmut, die Fähigkeit, alles sein zu lassen, wie es ist.
 
-**Traditionen:** Vipassana (Buddhismus), Shikantaza (Zen — "einfach Sitzen"), Dzogchen (tibetischer Buddhismus), Advaita-Kontemplation (Hinduismus), Achtsamkeitsmeditation (MBSR).
+**Traditionen:** Vipassana (Buddhismus), Shikantaza (Zen — "einfach Sitzen"), Dzogchen (tibetischer Buddhismus), Advaita-Kontemplation (Hinduismus), moderne Achtsamkeitsmeditation.
 
 ### Die Integration — Beide zusammen
 
@@ -128,7 +128,7 @@ Viele erfahrene Meditierende beginnen ihre Sitzung mit fokussierter Aufmerksamke
     // ============================================================
     {
       id: 'G09-M2',
-      titel: 'Achtsamkeitsmeditation & Vipassana',
+      titel: 'Achtsamkeit & klares Sehen',
       beschreibung: 'Die Grundlagen der Achtsamkeit verstehen, Vipassana als systematische Einsichtspraxis kennenlernen und die Methode des Body-Scans beherrschen.',
       lektionen: [
         {
@@ -140,7 +140,7 @@ Viele erfahrene Meditierende beginnen ihre Sitzung mit fokussierter Aufmerksamke
 
 Das Pali-Wort "Sati" — übersetzt als Achtsamkeit — bedeutet wörtlich: Erinnern. Nicht Erinnern an die Vergangenheit, sondern: Sich daran erinnern, gegenwärtig zu sein. In jedem Moment vergisst der Geist, hier zu sein — er springt in die Zukunft (Sorgen, Pläne) oder in die Vergangenheit (Erinnerungen, Groll). Achtsamkeit ist das ständige, sanfte Zurückholen in den gegenwärtigen Moment.
 
-Jon Kabat-Zinn, der Achtsamkeit in den 1970er Jahren in die westliche Medizin brachte, definiert sie als: "Die Aufmerksamkeit, die entsteht, wenn wir absichtsvoll, im gegenwärtigen Moment und nicht-wertend auf den Fluss der Erfahrung achten."
+Eine verbreitete moderne Definition, die aus der Verbindung von Achtsamkeit und westlicher Medizin in den 1970er Jahren stammt, beschreibt sie so: die Aufmerksamkeit, die entsteht, wenn wir absichtsvoll, im gegenwärtigen Moment und nicht-wertend auf den Fluss der Erfahrung achten.
 
 Drei Schlüsselelemente: **Absichtsvoll** — du entscheidest dich bewusst, aufmerksam zu sein. **Gegenwärtig** — hier, jetzt, nicht gestern, nicht morgen. **Nicht-wertend** — du beobachtest, was ist, ohne es als gut oder schlecht zu bewerten.
 
@@ -179,9 +179,9 @@ Vipassana (Pali: "klares Sehen" oder "Einsicht") ist eine der ältesten Meditati
 
 **Anatta — Nicht-Selbst.** Was du für dein festes, unveränderliches "Ich" hältst, ist bei genauer Beobachtung ein ständig wechselnder Strom von Empfindungen, Gedanken und Reaktionen. Es gibt keinen festen Kern — nur Prozess. Diese Einsicht ist die tiefgreifendste und herausforderndste.
 
-### Die Vipassana-Technik nach S.N. Goenka
+### Eine verbreitete Vipassana-Technik
 
-Die heute weltweit verbreitetste Form der Vipassana-Meditation folgt der Tradition von S.N. Goenka, der sie aus Burma in den Westen brachte. Die Methode wird typischerweise in 10-tägigen Schweige-Retreats gelehrt.
+Eine der heute weltweit verbreitetsten Formen der Vipassana-Meditation stammt aus der birmanischen Übungstradition, die im 20. Jahrhundert in den Westen gelangte. Sie wird typischerweise in mehrtägigen Schweige-Retreats gelehrt.
 
 **Tage 1–3: Anapana.** Konzentration auf den Atem — speziell auf den Bereich der Nasenöffnungen und der Oberlippe. Nichts weiter als: den Atem beobachten, die Aufmerksamkeit schärfen, den Geist beruhigen. Vorbereitung.
 
@@ -195,18 +195,18 @@ Du musst kein 10-Tage-Retreat besuchen, um Vipassana zu üben (obwohl es empfehl
         },
         {
           id: 'G09-M2-L3',
-          titel: 'Body-Scan & MBSR — Meditation für den westlichen Geist',
-          inhalt: `## Body-Scan & MBSR
+          titel: 'Body-Scan — Meditation für den westlichen Geist',
+          inhalt: `## Body-Scan
 
 ### Achtsamkeit, die die Wissenschaft überzeugt hat
 
-MBSR — Mindfulness-Based Stress Reduction — wurde 1979 von Jon Kabat-Zinn an der University of Massachusetts entwickelt. Es ist das Programm, das Meditation aus den Klöstern in die Krankenhäuser, Schulen und Unternehmen gebracht hat — mit einer Fülle wissenschaftlicher Studien, die seine Wirksamkeit belegen.
+Ende der 1970er Jahre wurde an einer US-amerikanischen Universitätsklinik ein achtwöchiges, säkulares Achtsamkeitsprogramm entwickelt, das Meditation aus den Klöstern in Krankenhäuser, Schulen und Unternehmen brachte — begleitet von einer wachsenden Zahl wissenschaftlicher Studien.
 
-Das 8-Wochen-Programm kombiniert Achtsamkeitsmeditation, Body-Scan, achtsames Yoga und Achtsamkeit im Alltag. Sein Kern ist entmystifiziert, säkular und evidenzbasiert — ohne religiöse Rahmung, ohne esoterische Sprache, ohne Guru.
+Solche achtwöchigen Programme kombinieren Achtsamkeitsmeditation, Body-Scan, achtsames Yoga und Achtsamkeit im Alltag. Sein Kern ist entmystifiziert, säkular und evidenzbasiert — ohne religiöse Rahmung, ohne esoterische Sprache, ohne Guru.
 
 ### Der Body-Scan — Die Basisübung
 
-Der Body-Scan ist die erste Technik, die im MBSR-Programm gelehrt wird — und für viele Menschen der einfachste Einstieg in die Meditation.
+Der Body-Scan ist meist die erste Technik, die in solchen Programmen gelehrt wird — und für viele Menschen der einfachste Einstieg in die Meditation.
 
 **Ablauf (30–45 Minuten, Langversion):**
 
@@ -226,11 +226,11 @@ Am Ende: den ganzen Körper gleichzeitig wahrnehmen — als Ganzes, als Einheit.
 
 Auf der Oberfläche: Du lernst deinen Körper kennen — seine Spannungen, seine blinden Flecken, seine Signale. Auf der tieferen Ebene: Du trainierst die Fähigkeit, Empfindungen wahrzunehmen ohne zu reagieren. Das Knie tut weh — und du bleibst ruhig. Der Rücken ist verspannt — und du kämpfst nicht dagegen. Du lernst Gleichmut am eigenen Leib.
 
-Auf der therapeutischen Ebene: Der Body-Scan reduziert nachweislich chronische Schmerzen, Angst und Schlafstörungen. Er gibt Menschen, die sich von ihrem Körper abgeschnitten fühlen (durch Trauma, Stress oder Intellektualisierung), einen sanften Weg zurück in die Körperwahrnehmung.
+Auf der erfahrungsbezogenen Ebene: Viele Menschen erleben den Body-Scan als spürbare Entlastung — bei innerer Anspannung, Unruhe oder Schlafproblemen. Wissenschaftliche Studien untersuchen solche Zusammenhänge; eine ärztliche oder therapeutische Behandlung ersetzt das Üben jedoch nicht. Menschen, die sich von ihrem Körper abgeschnitten fühlen, finden über den Body-Scan oft einen sanften Weg zurück in die Körperwahrnehmung.
 
-### MBSR als Einstieg
+### Ein strukturierter Kurs als Einstieg
 
-Wenn du noch nie meditiert hast, ist ein 8-Wochen MBSR-Kurs einer der besten Einstiege. Er gibt dir Struktur, Begleitung und einen wissenschaftlich validierten Rahmen. Aber du brauchst den Kurs nicht, um zu beginnen — der Body-Scan, wie hier beschrieben, ist sofort praktizierbar. Heute Abend. 15 Minuten. Auf dem Rücken liegend. Augen zu. Spüren.`
+Wenn du noch nie meditiert hast, ist ein strukturierter achtwöchiger Achtsamkeitskurs einer der besten Einstiege. Er gibt dir Struktur, Begleitung und einen wissenschaftlich begleiteten Rahmen. Aber du brauchst den Kurs nicht, um zu beginnen — der Body-Scan, wie hier beschrieben, ist sofort praktizierbar. Heute Abend. 15 Minuten. Auf dem Rücken liegend. Augen zu. Spüren.`
         }
       ]
     },
@@ -295,9 +295,9 @@ Die Tradition der Mantra-Meditation ist mindestens 3500 Jahre alt — die Vedisc
 
 **Energetisch:** Jeder Klang hat eine Schwingungsfrequenz. Bestimmte Klänge resonieren mit bestimmten Energiezentren. "OM" vibriert im Scheitelbereich. "RAM" im Solarplexus. "YAM" im Herzen. Durch die Wiederholung werden die zugehörigen Chakren stimuliert und aktiviert.
 
-### Die Transzendentale Meditation (TM)
+### Personalisierte Mantra-Meditation
 
-TM ist die bekannteste Form der Mantra-Meditation im Westen. Sie wurde von Maharishi Mahesh Yogi in den 1950er Jahren systematisiert und verbreitet. Das Prinzip: Du erhältst ein persönliches Mantra (traditionell ein Sanskrit-Klang ohne Bedeutung) und wiederholst es 20 Minuten lang, zweimal täglich — morgens und abends.
+Eine der bekanntesten Formen der Mantra-Meditation im Westen wurde in den 1950er Jahren aus der indischen Übungstradition systematisiert und weltweit verbreitet. Das Prinzip: Du erhältst ein persönliches Mantra (traditionell ein Sanskrit-Klang ohne Bedeutung) und wiederholst es 20 Minuten lang, zweimal täglich — morgens und abends.
 
 Die TM-Technik zeichnet sich durch absolute Mühelosigkeit aus: Du wiederholst das Mantra nicht aktiv — du lässt es kommen und gehen. Wenn Gedanken auftauchen, kehrst du sanft zum Mantra zurück. Kein Fokus, kein Zwang, kein Kampf.
 
@@ -328,7 +328,7 @@ Kontemplation unterscheidet sich von reiner Achtsamkeit oder Konzentration durch
 
 Im kontemplativen Gebet geht es nicht darum, Gott etwas zu sagen — sondern darum, in Gottes Gegenwart still zu werden. Der mittelalterliche Mystiker Meister Eckhart sagte: "Wenn das einzige Gebet, das du je sprichst, Danke ist, wird es genügen."
 
-**Centering Prayer** (Gebet der Sammlung) nach Thomas Keating ist die moderne Form: Wähle ein "heiliges Wort" (Gott, Liebe, Stille, Ja) als Symbol deiner Bereitschaft, dich der göttlichen Gegenwart zu öffnen. Sitze still. Wenn du merkst, dass Gedanken dich mitgenommen haben, kehre sanft zum heiligen Wort zurück. 20 Minuten, zweimal täglich.
+**Das Gebet der Sammlung** (Centering Prayer) ist eine moderne Form des kontemplativen Gebets: Wähle ein "heiliges Wort" (Gott, Liebe, Stille, Ja) als Symbol deiner Bereitschaft, dich der göttlichen Gegenwart zu öffnen. Sitze still. Wenn du merkst, dass Gedanken dich mitgenommen haben, kehre sanft zum heiligen Wort zurück. 20 Minuten, zweimal täglich.
 
 Die Ähnlichkeit zur Mantra-Meditation ist kein Zufall — das Prinzip ist identisch. Nur der Rahmen unterscheidet sich: hier die Öffnung für das persönlich erfahrene Göttliche.
 
@@ -378,11 +378,11 @@ Das ist meditatives Gehen in seiner reinsten Form: Jeder einzelne Aspekt der Bew
 
 Die Alltagsversion: Wenn du irgendwohin gehst — zum Auto, zum Briefkasten, zum Meeting — gehe für 30 Sekunden bewusst. Spüre deine Füße auf dem Boden. Spüre den Rhythmus. Spüre die Luft auf deiner Haut. Du transformierst einen Alltagsvorgang in eine Meditationspraxis — ohne zusätzliche Zeit, ohne Equipment, ohne Kissen.
 
-Thich Nhat Hanh, der vietnamesische Zen-Meister, lehrte: "Gehe so, als ob du mit deinen Füßen die Erde küsst." Diese Haltung — Ehrfurcht und Aufmerksamkeit in jeder Bewegung — ist Meditation.
+Ein bekanntes Wort aus der Zen-Tradition lädt ein, so zu gehen, als ob man mit den Füßen die Erde küsst. Diese Haltung — Ehrfurcht und Aufmerksamkeit in jeder Bewegung — ist Meditation.
 
 ### Achtsames Essen
 
-Eine der kraftvollsten informellen Meditationspraktiken. Die Rosinenübung aus dem MBSR-Programm ist berühmt:
+Eine der kraftvollsten informellen Meditationspraktiken. Die bekannte Rosinenübung aus der modernen Achtsamkeitspraxis:
 
 Halte eine einzelne Rosine in der Hand. Betrachte sie — als hättest du noch nie eine gesehen. Farbe, Textur, Lichtreflexe. Spüre sie — Gewicht, Oberfläche. Rieche — bringe sie zur Nase, nimm den Duft wahr. Lege sie auf die Zunge, ohne zu kauen. Spüre die Textur im Mund. Dann: langsam kauen. Ein Biss. Spüre den Geschmack, der sich entfaltet. Kau weiter. Schlucke bewusst. Spüre nach.
 
@@ -397,7 +397,7 @@ Eine einzige Rosine — 5 Minuten Meditation. Und danach isst du nie wieder unbe
 
 Manche Menschen tragen so viel angestaute Energie in sich — Stress, Wut, Unruhe, unterdrückte Emotionen —, dass Stillsitzen sie nur frustriert. Für sie braucht es erst eine körperliche Entladung, bevor Stille möglich wird.
 
-### Dynamische Meditation (nach Osho)
+### Dynamische Meditation
 
 Die bekannteste Aktiv-Meditation besteht aus fünf Phasen (jeweils 10 Minuten, Gesamtdauer 60 Minuten):
 
@@ -421,7 +421,7 @@ Die Regel: Bewege dich, wie dein Körper sich bewegen will — nicht wie du "tan
 
 ### 5Rhythmen nach Gabrielle Roth
 
-Ein strukturiertes Tanzmeditations-System mit fünf Phasen: Flowing (fließend), Staccato (klar, scharf), Chaos (wild, unkontrolliert), Lyrical (leicht, verspielt), Stillness (still, nach innen). Jeder Rhythmus repräsentiert eine energetische Qualität — und zusammen bilden sie eine Welle (die "Wave"), die von der Erde zum Himmel führt.`
+Es gibt strukturierte Tanzmeditations-Systeme, die typischerweise in fünf Phasen durch eine Welle von Bewegungsqualitäten führen: fließend, klar und rhythmisch (Staccato), wild und ungeordnet (Chaos), leicht und verspielt, schließlich still und nach innen gewandt. Jede Phase steht für eine energetische Qualität — zusammen bilden sie einen Bogen von der Erdung zur inneren Ruhe.`
         },
         {
           id: 'G09-M4-L3',
@@ -596,80 +596,82 @@ Die Veränderungen, die jetzt geschehen, sind subtiler: Deine Reaktionen im Allt
     // ============================================================
     {
       id: 'G09-M6',
-      titel: 'Meditation in der Praxis',
-      beschreibung: 'Meditation in die energetische Praxis und den Alltag integrieren, geführte Meditationen anleiten und ethische Grundsätze verinnerlichen.',
+      titel: 'Meditation vertiefen & teilen',
+      beschreibung: 'Meditation in den eigenen Alltag und die energetische Selbstpraxis integrieren, dich selbst und – auf Augenhöhe – vertraute Menschen durch die Stille begleiten und ethische Grundsätze verinnerlichen.',
       lektionen: [
         {
           id: 'G09-M6-L1',
-          titel: 'Geführte Meditation — Andere in die Stille begleiten',
-          inhalt: `## Geführte Meditation anleiten
+          titel: 'Dich selbst und andere in die Stille begleiten',
+          inhalt: `## Geführte Meditation – für dich und im vertrauten Kreis
 
 ### Die Kunst der Anleitung
 
-Geführte Meditation ist die zugänglichste Meditationsform — und die häufigste im therapeutischen und energetischen Kontext. Der Anleitende spricht, der Meditierende folgt. Die Stimme wird zum Vehikel, das den Geist des Meditierenden in die Stille trägt.
+Geführte Meditation ist die zugänglichste Meditationsform. Eine Stimme spricht, die Aufmerksamkeit folgt – und diese Stimme kann durchaus deine eigene sein. Du kannst dich selbst durch eine Meditation führen (aufgenommen oder innerlich gesprochen), und du kannst, wenn Interesse besteht, vertraute Menschen im privaten Kreis auf Augenhöhe begleiten. Es geht nie um eine Rolle über anderen, sondern ums gemeinsame Ankommen in der Stille.
 
 ### Grundprinzipien der Anleitung
 
-**Stimme.** Langsam. Tiefer als im Gespräch. Melodisch, aber nicht theatralisch. Mit Pausen — viel mehr Pausen, als du denkst. Die Stille zwischen deinen Worten ist der Raum, in dem Meditation geschieht.
+**Stimme.** Langsam. Tiefer als im Gespräch. Melodisch, aber nicht theatralisch. Mit Pausen – viel mehr Pausen, als du denkst. Die Stille zwischen den Worten ist der Raum, in dem Meditation geschieht.
 
 **Sprache.** Einfach. Keine Fachbegriffe. Kurze Sätze. Präsens ("Du spürst..." statt "Du wirst spüren..."). Einladend, nicht befehlend ("Lass den Atem fließen" statt "Atme jetzt tief ein"). Sinnesbezogen ("Spüre die Wärme... sieh das Licht... höre die Stille").
 
-**Tempo.** Langsamer, als du denkst. Anfänger brauchen mehr verbale Führung. Fortgeschrittene brauchen mehr Stille. Allgemeine Regel: Nach jeder Anweisung 10 bis 15 Sekunden Pause.
+**Tempo.** Langsamer, als du denkst. Am Anfang braucht es mehr verbale Führung, mit Erfahrung mehr Stille. Allgemeine Regel: Nach jeder Anweisung 10 bis 15 Sekunden Pause.
 
-**Struktur.** Jede geführte Meditation hat drei Phasen: Ankommen (Erdung, Atembeobachtung, Körper spüren — 3 bis 5 Minuten). Kernphase (Visualisierung, Body-Scan, Herzmeditation, Chakra-Reise — 10 bis 30 Minuten). Rückkehr (langsam den Körper bewegen, Geräusche wahrnehmen, Augen öffnen — 3 bis 5 Minuten).
+**Struktur.** Jede geführte Meditation hat drei Phasen: Ankommen (Erdung, Atembeobachtung, Körper spüren – 3 bis 5 Minuten). Kernphase (Visualisierung, Body-Scan, Herzmeditation – 10 bis 30 Minuten). Rückkehr (langsam den Körper bewegen, Geräusche wahrnehmen, Augen öffnen – 3 bis 5 Minuten).
 
-### Beispiel — Kurze Herzmeditation (10 Minuten)
+### Beispiel – Kurze Herzmeditation (10 Minuten)
 
 "Setze dich bequem hin. Schließe die Augen. Atme dreimal tief... [Pause]
 
-Bringe deine Aufmerksamkeit zu deinem Herzen — in die Mitte deiner Brust. Lege, wenn du möchtest, eine Hand auf dein Herz... [Pause]
+Bringe deine Aufmerksamkeit zu deinem Herzen – in die Mitte deiner Brust. Lege, wenn du möchtest, eine Hand auf dein Herz... [Pause]
 
-Spüre den Herzschlag. Diesen Rhythmus, der seit dem ersten Moment deines Lebens da ist. Der nie aufgehört hat. Der dich getragen hat — durch alles... [Pause 15 Sekunden]
+Spüre den Herzschlag. Diesen Rhythmus, der seit dem ersten Moment deines Lebens da ist. Der nie aufgehört hat. Der dich getragen hat – durch alles... [Pause 15 Sekunden]
 
-Stelle dir vor, dass in deinem Herzen ein warmes Licht leuchtet — wie eine kleine Sonne. Golden, warm, strahlend. Mit jedem Einatmen wird dieses Licht ein wenig heller. Ein wenig wärmer. Ein wenig größer... [Pause 20 Sekunden]
+Stelle dir vor, dass in deinem Herzen ein warmes Licht leuchtet – wie eine kleine Sonne. Golden, warm, strahlend. Mit jedem Einatmen wird dieses Licht ein wenig heller. Ein wenig wärmer. Ein wenig größer... [Pause 20 Sekunden]
 
-Lass dieses Licht sich ausdehnen — über dein Herz hinaus. In deine Brust. In deine Schultern. In deine Arme. In deinen Bauch. In deine Beine. Dein ganzer Körper wird von diesem Herzlicht durchströmt... [Pause 30 Sekunden]
+Lass dieses Licht sich ausdehnen – über dein Herz hinaus. In deine Brust. In deine Schultern. In deine Arme. In deinen Bauch. In deine Beine. Dein ganzer Körper wird von diesem Herzlicht durchströmt... [Pause 30 Sekunden]
 
-Und wenn du möchtest, lass dieses Licht über deinen Körper hinausstrahlen — in den Raum, zu den Menschen, die du liebst, in die Welt... [Pause 45 Sekunden — Stille halten]
+Und wenn du möchtest, lass dieses Licht über deinen Körper hinausstrahlen – in den Raum, zu den Menschen, die du liebst, in die Welt... [Pause 45 Sekunden – Stille halten]
 
-Nimm einen tiefen Atemzug. Spüre dein Herz. Spüre die Wärme. Und wisse: Dieses Licht war immer da. Es ist immer da. Es ist du... [Pause]
+Nimm einen tiefen Atemzug. Spüre dein Herz. Spüre die Wärme... [Pause]
 
 Komm langsam zurück. Bewege deine Finger. Deine Zehen. Öffne die Augen, wenn du bereit bist."
 
-### Der wichtigste Tipp
+### Wenn du im vertrauten Kreis begleitest
 
-Die Qualität deiner Anleitung hängt direkt von der Qualität deiner eigenen Praxis ab. Wenn du selbst regelmäßig meditierst, tragen deine Worte eine andere Qualität — nicht weil du die richtigen Worte wählst, sondern weil du aus eigener Erfahrung sprichst. Deine Stimme wird ruhiger, deine Pausen werden natürlicher, deine Präsenz wird spürbarer.`
+Begleite nur Menschen, die von sich aus Interesse zeigen, und immer freiwillig: Jeder darf die Meditation jederzeit beenden oder die Augen öffnen. Du bist Begleiter auf Augenhöhe, keine Autorität über der Erfahrung anderer – die inneren Bilder und Einsichten gehören immer der Person selbst. Bei körperlichen oder seelischen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut; Meditation ist kein Ersatz für Behandlung.
+
+### Der wichtigste Punkt
+
+Die Qualität einer Anleitung hängt direkt von der Qualität deiner eigenen Praxis ab. Wenn du selbst regelmäßig meditierst, tragen deine Worte eine andere Qualität – nicht weil du die richtigen Worte wählst, sondern weil du aus eigener Erfahrung sprichst. Deine Stimme wird ruhiger, deine Pausen natürlicher, deine Präsenz spürbarer.`
         },
         {
           id: 'G09-M6-L2',
-          titel: 'Meditation & Energiearbeit — Synergie in der Praxis',
+          titel: 'Meditation & Energiearbeit – Synergie in der eigenen Praxis',
           inhalt: `## Meditation & Energiearbeit
 
-### Meditation als Fundament jeder energetischen Arbeit
+### Meditation als Fundament jeder energetischen Selbstarbeit
 
-Meditation und Energiearbeit sind keine getrennten Disziplinen — Meditation ist die Grundlage, auf der alle Energiearbeit aufbaut. Ohne meditative Fähigkeiten (Präsenz, Fokus, Gleichmut, Wahrnehmung) ist Energiearbeit oberflächlich. Mit ihnen wird sie tief, präzise und transformativ.
+Meditation und Energiearbeit sind keine getrennten Disziplinen – Meditation ist die Grundlage, auf der jede energetische Selbstarbeit aufbaut. Ohne meditative Fähigkeiten (Präsenz, Fokus, Gleichmut, Wahrnehmung) bleibt sie oberflächlich. Mit ihnen wird sie tief und klar.
 
-### Meditation vor der Sitzung
+### Meditation als Vorbereitung
 
-5 bis 10 Minuten Meditation vor jeder energetischen Sitzung: Atembeobachtung, Erdung, Zentrierung. Das bringt dich in den ventral-vagalen Zustand — präsent, ruhig, offen. Von dort aus arbeitest du als Kanal, nicht als Macher.
+5 bis 10 Minuten Meditation vor jeder energetischen Übung: Atembeobachtung, Erdung, Zentrierung. Das bringt dich in einen ruhigen, präsenten, offenen Zustand. Von dort aus nimmst du wahr, statt zu machen.
 
-### Meditation während der Sitzung
+### Meditation während der Übung
 
-Während du am Energiefeld eines Klienten arbeitest, bist du in einem meditativen Zustand — du beobachtest, ohne zu urteilen. Du nimmst wahr, ohne zu analysieren. Du folgst der Energie, statt sie zu steuern. Das ist angewandte Meditation — Meditation mit den Händen.
+Während du mit deinem eigenen Energiefeld arbeitest, bist du in einem meditativen Zustand – du beobachtest, ohne zu urteilen. Du nimmst wahr, ohne zu analysieren. Du folgst der Empfindung, statt sie zu steuern. Das ist angewandte Meditation – Meditation mit dem ganzen Körper.
 
-### Meditation als eigenständiges Angebot
+### Meditation als täglicher Anker
 
-Geführte Meditation kann ein eigenständiges Angebot in deiner Praxis sein — als Einzelsitzung oder in Gruppen. Viele Klienten, die sich eine energetische Sitzung "nicht zutrauen", finden über Meditation den Einstieg in die energetische Arbeit.
+Eine feste Meditationszeit – morgens zur Ausrichtung, abends zum Loslassen – gibt deiner gesamten Selbstpraxis einen Rahmen. Kombinationsformate für dich selbst: 20 Minuten stille Meditation, gefolgt von 20 Minuten Körper- oder Energieübung. Oder eine wöchentliche längere Sitzung als Vertiefung deiner täglichen kurzen Praxis.
 
-Kombinationsformate: 30 Minuten geführte Meditation + 30 Minuten energetische Sitzung. Oder: wöchentliche Meditationsgruppe als Ergänzung zur Einzelarbeit.
+### Verbindung mit Human Design und Numerologie
 
-### Integration mit Human Design und Numerologie
+Human Design beschreibt, wie ein Mensch angelegt ist – seine Stärken, seine offenen Zentren, seine Strategie. Meditation hilft dir, mit deinem eigenen Design in Kontakt zu kommen – nicht intellektuell, sondern erfahrungsbasiert.
 
-Human Design zeigt dir, wie ein Mensch "designed" ist — seine Stärken, seine offenen Zentren, seine Strategie. Meditation hilft ihm, mit diesem Design in Kontakt zu kommen — nicht intellektuell, sondern erfahrungsbasiert.
+Als Generator: Body-Scan-Meditation, um die sakrale Antwort im Körper zu spüren. Als Projektor: Kontemplation und stille Beobachtung, um die richtige Einladung wahrzunehmen. Als Manifestor: Herzmeditation, um Impulse aus dem Herzen von Mustern des Egos zu unterscheiden. Als Reflektor: Naturmeditation, um die eigene Durchlässigkeit bewusst zu nutzen.
 
-Für einen Generator: Body-Scan-Meditation, um die sakrale Antwort im Körper zu spüren. Für einen Projektor: Kontemplation und stille Beobachtung, um die richtige Einladung zu erkennen. Für einen Manifestor: Herzmeditation, um die Impulse aus dem Herzen von den Mustern des Egos zu unterscheiden. Für einen Reflektor: Naturmeditation, um die eigene Durchlässigkeit bewusst zu nutzen.
-
-Jedes Human Design Profil hat seine ideale Meditationsform — und als Praktizierender, der beides versteht, kannst du individuelle Empfehlungen geben, die auf den Kern treffen.`
+Jedes Human-Design-Profil hat seine eigene, stimmige Meditationsform – und wenn du beide Systeme für dich selbst verstehst, findest du genau die Praxis, die zu deinem Kern passt. Dieses Selbstwissen ist zugleich die beste Grundlage, um es später – wenn du diesen Weg gehen möchtest – einmal fundiert weiterzugeben.`
         },
         {
           id: 'G09-M6-L3',
@@ -684,15 +686,15 @@ Meditation ist kein Wettbewerb, keine Leistung, kein Statussymbol. Es ist eine s
 
 ### Ethik in der Meditationsanleitung
 
-Wenn du andere in Meditation anleitest, gelten klare ethische Grundsätze:
+Wenn du andere im vertrauten Kreis in Meditation begleitest, gelten klare ethische Grundsätze:
 
-**Kein Guru-Kult.** Du bist ein Begleiter, kein Meister. Du zeigst den Weg — du bist nicht der Weg. Wenn Teilnehmer beginnen, dich zu idealisieren, weise sie sanft auf ihre eigene innere Weisheit hin.
+**Kein Guru-Kult.** Auch wenn du einmal jemanden begleitest, bleibst du Begleiter, nicht Meister. Du zeigst den Weg — du bist nicht der Weg. Wenn jemand beginnt, dich zu idealisieren, weise sanft auf die eigene innere Weisheit hin.
 
-**Keine Heilversprechen.** Meditation kann Stress reduzieren, Klarheit schaffen und emotionale Balance fördern. Sie kann Depression lindern und Schmerzen reduzieren. Aber sie ist kein Allheilmittel, und sie ersetzt keine medizinische oder therapeutische Behandlung.
+**Keine Heilversprechen.** Viele Menschen erleben Meditation als hilfreich für innere Ruhe, Klarheit und emotionale Balance. Sie ist jedoch kein Allheilmittel und ersetzt keine medizinische oder therapeutische Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 **Trauma-Sensibilität.** Stille kann für traumatisierte Menschen bedrohlich sein. Der Body-Scan kann Flashbacks auslösen. Langanhaltende Stille kann Dissoziation fördern. Kenne die Zeichen und biete Alternativen an: Augen öffnen, Erdung, kürzere Sitzungen, bewegte Meditation.
 
-**Freiheit bewahren.** Jeder Teilnehmer hat das Recht, die Sitzung jederzeit zu verlassen. Keine Meditation ist so wichtig, dass sie erzwungen werden sollte.
+**Freiheit bewahren.** Jede Person hat das Recht, die Meditation jederzeit zu beenden. Keine Meditation ist so wichtig, dass sie erzwungen werden sollte.
 
 ### Der endlose Weg
 

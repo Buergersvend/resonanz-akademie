@@ -127,7 +127,7 @@ Jede Lebenszahl trägt im Human-Resonanz-System einen Archetyp — ein symbolisc
 
 Kein Mensch ist nur sein Archetyp. Die Lebenszahl beschreibt eine Grundschwingung — wie ein Grundton, über dem viele weitere Stimmen klingen. Nutze die Bilder als Einladung zur Selbstreflexion: Wo erkenne ich die Qualität meines Archetyps in meinem Alltag? Wo lebe ich sie bereits, wo wartet sie noch darauf, entfaltet zu werden?
 
-Die Archetypen begegnen dir auch in der Lichtkern-Numerologie wieder — dort erscheinen sie direkt auf deiner Lebenszahl-Karte. App und Lernwelt sprechen dieselbe Sprache.`
+Die Archetypen begegnen dir auch an anderer Stelle im Human-Resonanz-System wieder — dort erscheinen sie direkt auf deiner Lebenszahl-Karte. App und Lernwelt sprechen dieselbe Sprache.`
         }
       ]
     },

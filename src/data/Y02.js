@@ -2,7 +2,7 @@ const Y02 = {
   id: 'Y02',
   titel: 'Human Design Vertiefung',
   bereich: 'humandesign',
-  beschreibung: 'Tauche tief ein in die fortgeschrittenen Ebenen des Human Design — von Schaltkreisen und Variablen über Transite und Zyklen bis zur professionellen Chart-Analyse. Diese Ausbildung macht dich zum souveränen Analytiker komplexer Körpergrafiken.',
+  beschreibung: 'Tauche tief ein in die fortgeschrittenen Ebenen des Human Design — von Schaltkreisen und Variablen über Transite und Zyklen bis zur vertieften Chart-Analyse. Dieser Kurs führt dich in die souveräne Lesart deiner eigenen — auch komplexen — Körpergrafik.',
   status: 'live',
   module: [
     {
@@ -22,7 +22,7 @@ Der Stammes-Schaltkreis ist die älteste und körperlichste Schaltkreisgruppe. E
 
 Für die Chartanalyse bedeutet die Schaltkreisbetrachtung: Du schaust nicht mehr nur, welche Zentren definiert sind, sondern in welchem Schaltkreis die Definitionen liegen. Ein vollständig individuell definierter Mensch lebt ein fundamental anderes Leben als ein vollständig stammesdefinierter — selbst wenn beide denselben Energietyp haben. Ein Generator mit individueller Definition braucht Arbeit, die sein kreatives Feuer nährt. Ein Generator mit Stammesdefinition braucht Arbeit, die seine Gemeinschaft versorgt.
 
-Die Mischung der Schaltkreise in einem Chart erzeugt die individuelle Dynamik. Die meisten Menschen tragen Definitionen in verschiedenen Schaltkreisen — und erleben die Spannung zwischen diesen verschiedenen Antrieben. Der Mensch, der gleichzeitig seinen eigenen Weg gehen will (individuell) und sich nach Zugehörigkeit sehnt (Stamm), kennt diesen inneren Konflikt. Deine Aufgabe als Analyst ist es, diese Spannung zu benennen und als kreatives Potenzial zu rahmen.`
+Die Mischung der Schaltkreise in einem Chart erzeugt die individuelle Dynamik. Die meisten Menschen tragen Definitionen in verschiedenen Schaltkreisen — und erleben die Spannung zwischen diesen verschiedenen Antrieben. Der Mensch, der gleichzeitig seinen eigenen Weg gehen will (individuell) und sich nach Zugehörigkeit sehnt (Stamm), kennt diesen inneren Konflikt. Die Kunst der vertieften Selbstbetrachtung ist es, diese Spannung zu benennen und als kreatives Potenzial zu rahmen.`
         },
         {
           id: 'Y02-M1-L2',
@@ -33,11 +33,11 @@ Jeder der sechsunddreißig Kanäle hat ein übergeordnetes Thema, das sich aus d
 
 Die elektromagnetische Verbindung ist ein wichtiges Konzept: Wenn ein Mensch nur ein Tor eines Kanals hat, ist der Kanal offen — er wird durch andere Menschen vervollständigt, die das gegenüberliegende Tor mitbringen. In Beziehungen entsteht dann eine elektromagnetische Anziehung: Zwei Menschen, die zusammen einen Kanal vervollständigen, fühlen eine magnetische Verbindung. Diese Anziehung kann intensiv und bereichernd sein, birgt aber auch die Gefahr der Abhängigkeit — denn die Energie fließt nur in Gegenwart des anderen.
 
-Ein hängender Kanal — ein Kanal, bei dem nur ein Tor definiert ist — ist kein Defizit. Das offene Ende sucht Ergänzung und schafft damit Beziehungsdynamik, Lernfelder und Wachstumspotenzial. In der Beratung formulierst du das positiv: „Dieses Tor sucht seine Ergänzung — es zieht bestimmte Menschen und Erfahrungen in dein Leben, die dieses Thema aktivieren."
+Ein hängender Kanal — ein Kanal, bei dem nur ein Tor definiert ist — ist kein Defizit. Das offene Ende sucht Ergänzung und schafft damit Beziehungsdynamik, Lernfelder und Wachstumspotenzial. Die hilfreiche Betrachtung ist positiv: „Dieses Tor sucht seine Ergänzung — es zieht bestimmte Menschen und Erfahrungen in dein Leben, die dieses Thema aktivieren."
 
 Die Kanalanalyse in der Praxis folgt einem dreistufigen Prozess: Erstens — welche Kanäle sind vollständig definiert? Diese sind die tragenden Säulen des Charts, die stärksten und konstantesten Lebensthemen. Zweitens — welche Kanäle haben ein hängendes Tor? Hier liegen die Beziehungsmagnete und Lernfelder. Drittens — in welchem Schaltkreis liegen die Kanäle? Dies zeigt die übergeordnete Lebensrichtung.
 
-Für die Klientenarbeit übersetzt du die technische Kanalinformation in erlebbare Sprache: „Dieser Kanal ist wie ein Fluss, der ständig durch dich hindurchfließt — seine Kraft ist immer da, ob du sie nutzt oder nicht. Die Frage ist nicht, ob du diese Energie hast, sondern wie bewusst du sie lenkst." Diese metaphorische Ebene macht die abstrakte Chartinformation greifbar und alltagsrelevant.`
+Für dein eigenes Verstehen hilft es, die technische Kanalinformation in erlebbare Sprache zu übersetzen: „Dieser Kanal ist wie ein Fluss, der ständig durch dich hindurchfließt — seine Kraft ist immer da, ob du sie nutzt oder nicht. Die Frage ist nicht, ob du diese Energie hast, sondern wie bewusst du sie lenkst." Diese metaphorische Ebene macht die abstrakte Chartinformation greifbar und alltagsrelevant.`
         },
         {
           id: 'Y02-M1-L3',
@@ -52,7 +52,7 @@ Die fünfte Linie ist der Universalisierer — sie wird von anderen als Probleml
 
 In der Chartanalyse erhältst du durch die Linienbetrachtung eine deutlich feinere Auflösung. Zwei Menschen können dasselbe Tor aktiviert haben — aber in verschiedenen Linien erleben sie es völlig unterschiedlich. Tor 1 in Linie 1 sucht kreative Selbsterkenntnis durch tiefe Forschung. Tor 1 in Linie 5 wird als kreative Lösung für andere projiziert. Das Tor ist dasselbe, die gelebte Erfahrung ist grundverschieden.
 
-Für die fortgeschrittene Analyse beachtest du auch die Farbverschiebung der Linien: Jede Linie hat eine obere und untere Ausprägung, die mit der Farbe — einer noch tieferen Schicht des Charts — zusammenhängt. Diese Ebene geht über die Grundausbildung hinaus, ist aber ein Hinweis auf die Tiefe, die das Human Design System bietet. In der praktischen Beratung arbeitest du mit den sechs Linien als Hauptunterscheidung und erwähnst die tieferen Schichten als Möglichkeit für vertiefende Analysen.`
+Für die fortgeschrittene Analyse beachtest du auch die Farbverschiebung der Linien: Jede Linie hat eine obere und untere Ausprägung, die mit der Farbe — einer noch tieferen Schicht des Charts — zusammenhängt. Diese Ebene geht über die Grundlagen hinaus, ist aber ein Hinweis auf die Tiefe, die das Human Design bietet. In der praktischen Selbstbetrachtung arbeitest du mit den sechs Linien als Hauptunterscheidung — die tieferen Schichten bleiben als Raum für spätere Vertiefung.`
         }
       ]
     },
@@ -69,11 +69,11 @@ Die Variablen werden aus den Pfeilen abgelesen, die am Kopf der Körpergrafik er
 
 Der erste Pfeil links oben beschreibt die Ernährungsvariable — nicht was du isst, sondern unter welchen Bedingungen dein Körper Nahrung optimal aufnimmt. Ein linkspfeiliger Ernährungstyp profitiert von bewusstem, fokussiertem Essen — eine Mahlzeit zur Zeit, ohne Ablenkung, mit klarem Fokus auf das Essen. Ein rechtspfeiliger Ernährungstyp dagegen nimmt Nahrung besser auf, wenn er nebenbei liest, spazieren geht oder in Gesellschaft isst — sein Verdauungssystem arbeitet besser, wenn der Verstand nicht fokussiert, sondern entspannt ist.
 
-Der zweite Pfeil rechts oben beschreibt die Umgebungsvariable — welche Art von Umgebung dein Nervensystem am besten unterstützt. Manche Menschen brauchen geschlossene, geschützte Räume — Höhlen, Studierzimmer, private Rückzugsorte. Andere blühen in weiten, offenen Landschaften auf — am Meer, auf Bergen, in hohen Räumen mit viel Licht. Die richtige Umgebung kann mehr für das Wohlbefinden tun als jede Therapie.
+Der zweite Pfeil rechts oben beschreibt die Umgebungsvariable — welche Art von Umgebung dein Nervensystem am besten unterstützt. Manche Menschen brauchen geschlossene, geschützte Räume — Höhlen, Studierzimmer, private Rückzugsorte. Andere blühen in weiten, offenen Landschaften auf — am Meer, auf Bergen, in hohen Räumen mit viel Licht. Die richtige Umgebung kann erstaunlich viel für das Wohlbefinden tun.
 
 Der dritte Pfeil links unten beschreibt die Motivation — die Art, wie der Geist am besten arbeitet. Der vierte Pfeil rechts unten beschreibt die Perspektive — die natürliche Sichtweise, die du in die Welt bringst. Diese beiden unteren Variablen sind subtiler und schwieriger zu beobachten als Ernährung und Umgebung, bieten aber tiefe Einsichten in die kognitive Architektur eines Menschen.
 
-Für die Beratungspraxis sind Ernährung und Umgebung die zugänglichsten und wirkungsvollsten Variablen. Beginne dort mit deinen Klienten — die Ergebnisse sind oft unmittelbar spürbar und schaffen Vertrauen für die tieferen Ebenen.`
+Für den Einstieg sind Ernährung und Umgebung die zugänglichsten Variablen. Beginne dort in deinem eigenen Experiment — die Ergebnisse sind oft unmittelbar spürbar und schaffen Vertrauen für die tieferen Ebenen.`
         },
         {
           id: 'Y02-M2-L2',
@@ -92,7 +92,7 @@ Der fünfte Typ ist die Klang-Determination. Links: Stille beim Essen — keine 
 
 Der sechste Typ ist die Licht-Determination. Links: Essen bei hellem, direktem Licht — die beste Nahrungsaufnahme geschieht bei Tageslicht oder heller Beleuchtung. Rechts: Gedämpftes, indirektes Licht — Kerzenlicht, Dämmerung, weiche Beleuchtung schaffen die optimale Verdauungsumgebung.
 
-In der Beratung stellst du die Ernährungsvariable als Experiment vor: „Probiere für zwei Wochen aus, unter diesen Bedingungen zu essen, und beobachte, wie sich deine Verdauung und dein Energielevel verändern." Die körperliche Bestätigung ist der stärkste Beweis.`
+Nimm die Ernährungsvariable als Experiment: Probiere für zwei Wochen aus, unter diesen Bedingungen zu essen, und beobachte, wie sich deine Verdauung und dein Energielevel verändern. Die körperliche Rückmeldung ist der beste Kompass. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
         {
           id: 'Y02-M2-L3',
@@ -126,26 +126,26 @@ Die Sonne durchläuft in einem Jahr alle vierundsechzig Tore — jedes Tor wird 
 
 Die planetarischen Transite bewegen sich in unterschiedlichen Geschwindigkeiten. Der Mond wechselt alle sechs Stunden das Tor und erzeugt die schnellsten Stimmungswechsel — die emotionale Grundtönung eines Tages. Merkur und Venus bewegen sich schneller und beeinflussen Kommunikation und Beziehungsdynamik. Mars, Jupiter und Saturn setzen längerfristige Themen. Die äußeren Planeten — Uranus, Neptun und Pluto — bewegen sich so langsam, dass sie generationsprägende Einflüsse darstellen.
 
-Für die praktische Arbeit mit Transiten brauchst du eine Software oder einen Kalender, der die aktuellen Toraktivierungen anzeigt. Du vergleichst dann das Transitfeld mit dem individuellen Chart deines Klienten: Welche offenen Zentren werden durch den Transit definiert? Welche hängenden Tore werden vervollständigt? Welche bestehenden Kanäle werden durch harmonische oder dissonante Transite verstärkt oder herausgefordert?
+Für die praktische Arbeit mit Transiten brauchst du eine Software oder einen Kalender, der die aktuellen Toraktivierungen anzeigt. Du vergleichst dann das Transitfeld mit deinem eigenen Chart: Welche offenen Zentren werden durch den Transit definiert? Welche hängenden Tore werden vervollständigt? Welche bestehenden Kanäle werden durch harmonische oder dissonante Transite verstärkt oder herausgefordert?
 
-Die häufigste Klientenfrage zu Transiten ist: „Warum fühle ich mich heute so anders als sonst?" Die Antwort liegt oft im Transitfeld: Ein Transit, der das Wurzelzentrum definiert, erzeugt plötzlichen Antrieb oder Druckgefühl bei Menschen mit offenem Wurzelzentrum. Ein Transit, der das emotionale Zentrum aktiviert, kann unerklärliche Stimmungsschwankungen auslösen.
+Die häufigste Frage zu Transiten ist: „Warum fühle ich mich heute so anders als sonst?" Die Antwort liegt oft im Transitfeld: Ein Transit, der das Wurzelzentrum definiert, erzeugt plötzlichen Antrieb oder Druckgefühl bei Menschen mit offenem Wurzelzentrum. Ein Transit, der das emotionale Zentrum aktiviert, kann unerklärliche Stimmungsschwankungen auslösen.
 
-Die wichtigste Botschaft an deine Klienten: Transite sind keine Schicksalskräfte — sie sind Einflüsse, die wahrgenommen, aber nicht gelebt werden müssen. Wer seine eigene Strategie und Autorität folgt, navigiert durch jeden Transit souverän. Das Wissen über Transite dient der Bewusstheit, nicht der Angst oder dem Aberglauben.`
+Die wichtigste Erkenntnis: Transite sind keine Schicksalskräfte — sie sind Einflüsse, die wahrgenommen, aber nicht gelebt werden müssen. Wer seine eigene Strategie und Autorität folgt, navigiert durch jeden Transit souverän. Das Wissen über Transite dient der Bewusstheit, nicht der Angst oder dem Aberglauben.`
         },
         {
           id: 'Y02-M3-L2',
           titel: 'Der Saturn-Return und andere Lebenszyklen',
-          inhalt: `Das Human Design System kennt spezifische Lebenszyklen, die mit den Umläufen bestimmter Planeten zusammenhängen. Diese Zyklen markieren natürliche Wendepunkte im Leben, an denen tiefgreifende Transformation stattfindet — unabhängig davon, ob der Mensch sich dessen bewusst ist oder nicht.
+          inhalt: `Das Human Design kennt spezifische Lebenszyklen, die mit den Umläufen bestimmter Planeten zusammenhängen. Diese Zyklen markieren natürliche Wendepunkte im Leben, an denen tiefgreifende Transformation stattfindet — unabhängig davon, ob der Mensch sich dessen bewusst ist oder nicht.
 
 Der Saturn-Return findet etwa im Alter von achtundzwanzig bis dreißig Jahren statt, wenn Saturn zum ersten Mal seine Position im Geburtschart erreicht. Dieser Zyklus bringt die Frage: Lebst du dein eigenes Leben oder das, was andere für dich geplant haben? Viele Menschen erleben um die Dreißig eine Krise — Jobwechsel, Trennungen, existenzielle Fragen —, die in Wahrheit eine gesunde Neuausrichtung auf die eigene Wahrheit ist. Der zweite Saturn-Return um achtundfünfzig bis sechzig wiederholt dieses Thema auf einer reiferen Ebene.
 
-Der Uranus-Opposition findet um das einundvierzigste Lebensjahr statt — die berühmte Midlife-Crisis. Uranus, der Planet der Revolution und des Erwachens, steht seiner Geburtsposition genau gegenüber. Alles, was nicht authentisch ist, wird in Frage gestellt. Dieser Transit ist kein Zusammenbruch — er ist ein Durchbruch, der Raum für die zweite Lebenshälfte schafft. In der Human Design Beratung begleitest du Klienten in diesem Alter mit besonderer Aufmerksamkeit für das Thema Authentizität.
+Der Uranus-Opposition findet um das einundvierzigste Lebensjahr statt — die berühmte Midlife-Crisis. Uranus, der Planet der Revolution und des Erwachens, steht seiner Geburtsposition genau gegenüber. Alles, was nicht authentisch ist, wird in Frage gestellt. Dieser Transit ist kein Zusammenbruch — er ist ein Durchbruch, der Raum für die zweite Lebenshälfte schafft. Wenn du selbst in diesem Alter bist, lohnt besondere Aufmerksamkeit für das Thema Authentizität.
 
-Der Chiron-Return um das fünfzigste Lebensjahr bringt die Kernwunde zur Heilung. Chiron, der verwundete Heiler, zeigt im Chart den Bereich, in dem der tiefste Schmerz und gleichzeitig die größte Heilkraft liegt. Um die Fünfzig öffnet sich ein Fenster, in dem alte Wunden nicht mehr verdrängt, sondern integriert werden können — eine Zeit potenzieller tiefer Weisheit.
+Der Chiron-Return um das fünfzigste Lebensjahr rückt die Kernwunde in den Mittelpunkt. Chiron — in der Mythologie der verwundete Kentaur, der zum weisen Lehrer wurde — zeigt im Chart den Bereich, in dem der tiefste Schmerz und zugleich das größte Wandlungspotenzial liegt. Um die Fünfzig öffnet sich ein Fenster, in dem alte Wunden nicht mehr verdrängt, sondern integriert werden können — eine Zeit potenzieller tiefer Weisheit.
 
-Für die Profillinien sechs hat das Human Design System einen besonderen Lebenszyklus definiert: Die drei Phasen der Dach-Linie. Bis etwa achtundzwanzig — Experimentieren, Ausprobieren, Fehler machen. Von achtundzwanzig bis etwa fünfzig — Rückzug auf das Dach, Beobachtung, Reflexion, innere Reifung. Ab fünfzig — Abstieg vom Dach, Verkörperung als Rollenvorbild. Klienten mit einer Sechs im Profil profitieren enorm von diesem Wissen, weil es ihrer Lebenserfahrung oft einen Sinn gibt, den sie bisher nicht verstanden haben.
+Für die Profillinien sechs hat das Human Design einen besonderen Lebenszyklus definiert: Die drei Phasen der Dach-Linie. Bis etwa achtundzwanzig — Experimentieren, Ausprobieren, Fehler machen. Von achtundzwanzig bis etwa fünfzig — Rückzug auf das Dach, Beobachtung, Reflexion, innere Reifung. Ab fünfzig — Abstieg vom Dach, Verkörperung als Rollenvorbild. Menschen mit einer Sechs im Profil profitieren enorm von diesem Wissen, weil es ihrer Lebenserfahrung oft einen Sinn gibt, den sie bisher nicht verstanden haben.
 
-In der Beratungspraxis nutzt du die Lebenszyklen als Orientierungshilfe: „Du bist in deinem Saturn-Return — das ist eine natürliche Zeit der Neuausrichtung. Was du jetzt als Krise erlebst, ist die Einladung, dein eigenes Leben zu wählen." Diese Rahmung verwandelt Unsicherheit in Verständnis und gibt dem Klienten die Erlaubnis, sich zu verändern.`
+Nutze die Lebenszyklen als Orientierungshilfe für dich selbst: „Ich bin in meinem Saturn-Return — das ist eine natürliche Zeit der Neuausrichtung. Was ich jetzt als Krise erlebe, ist die Einladung, mein eigenes Leben zu wählen." Diese Rahmung verwandelt Unsicherheit in Verständnis und gibt dir die Erlaubnis, dich zu verändern.`
         },
         {
           id: 'Y02-M3-L3',
@@ -162,7 +162,7 @@ Die Vertiefung der Kreuzanalyse geht über die Namensbezeichnung hinaus. Du betr
 
 Dann verbindest du die Kreuzinformation mit den Profilen: Dasselbe Kreuz wird in verschiedenen Profilen grundverschieden gelebt. Ein Rechtes-Winkel-Kreuz der Erklärung in einem 1/3-Profil erforscht und experimentiert mit dem Thema. Dasselbe Kreuz in einem 5/1-Profil wird als universelle Lösung für andere projiziert.
 
-In der Klientenarbeit präsentierst du das Inkarnationskreuz nicht als starre Bestimmung, sondern als Lebensthema, das sich organisch entfaltet. „Dein Kreuz zeigt nicht, was du tun sollst — es zeigt, welches Thema sich durch alles zieht, was du tust. Ob du Bäcker bist oder Künstler — dieses Thema färbt deine Arbeit, deine Beziehungen und deine Entwicklung." Diese Rahmung gibt Orientierung, ohne einzuengen.`
+Betrachte das Inkarnationskreuz nicht als starre Bestimmung, sondern als Lebensthema, das sich organisch entfaltet. „Dein Kreuz zeigt nicht, was du tun sollst — es zeigt, welches Thema sich durch alles zieht, was du tust. Ob du Bäcker bist oder Künstler — dieses Thema färbt deine Arbeit, deine Beziehungen und deine Entwicklung." Diese Rahmung gibt Orientierung, ohne einzuengen.`
         }
       ]
     },
@@ -173,7 +173,7 @@ In der Klientenarbeit präsentierst du das Inkarnationskreuz nicht als starre Be
         {
           id: 'Y02-M4-L1',
           titel: 'Das offene Zentrum als Weisheitspotenzial',
-          inhalt: `In der Grundausbildung lernst du offene Zentren als Bereiche der Konditionierung kennen — Orte, an denen wir die Energie anderer aufnehmen und verstärken. Die fortgeschrittene Perspektive enthüllt eine tiefere Wahrheit: Jedes offene Zentrum ist gleichzeitig ein Weisheitspotenzial, das sich durch bewusstes Erleben und Dekonditionierung entfaltet.
+          inhalt: `In den Grundlagen lernst du offene Zentren als Bereiche der Konditionierung kennen — Orte, an denen wir die Energie anderer aufnehmen und verstärken. Die fortgeschrittene Perspektive enthüllt eine tiefere Wahrheit: Jedes offene Zentrum ist gleichzeitig ein Weisheitspotenzial, das sich durch bewusstes Erleben und Dekonditionierung entfaltet.
 
 Das offene Kopfzentrum nimmt die mentale Druckenergie anderer auf und verstärkt sie — die Konditionierung zeigt sich als ständiges Grübeln über Fragen, die nicht die eigenen sind. Die Weisheit dieses offenen Zentrums liegt in der Fähigkeit, zu unterscheiden, welche Fragen wirklich relevant sind und welche nur vorübergehender mentaler Lärm. Ein Mensch mit offenem Kopfzentrum, der dieses Unterscheidungsvermögen entwickelt hat, wird zum Meister der Priorisierung.
 
@@ -183,7 +183,7 @@ Das offene Kehlzentrum — das Zentrum der Manifestation und Kommunikation — w
 
 Das offene Selbstzentrum — das Zentrum der Identität und Richtung — wird konditioniert, wenn es versucht, eine feste Identität und Richtung zu behaupten, die es nicht hat. Die Weisheit liegt in der Flexibilität der Identität — der Fähigkeit, sich an verschiedene Kontexte anzupassen und in der Identitätsvielfalt keine Bedrohung, sondern Reichtum zu sehen.
 
-In der Beratung arbeitest du mit der Doppelnatur jedes offenen Zentrums: „Hier liegt deine größte Verwundbarkeit und dein größtes Weisheitspotenzial am selben Ort. Die Konditionierung ist der Rohstoff, aus dem durch Bewusstheit Weisheit entsteht." Diese Perspektive verwandelt die Wahrnehmung offener Zentren von einem Defizit in ein Geschenk und gibt dem Dekonditionierungsprozess eine positive Richtung.`
+Arbeite mit der Doppelnatur jedes offenen Zentrums: „Hier liegt deine größte Verwundbarkeit und dein größtes Weisheitspotenzial am selben Ort. Die Konditionierung ist der Rohstoff, aus dem durch Bewusstheit Weisheit entsteht." Diese Perspektive verwandelt die Wahrnehmung offener Zentren von einem Defizit in ein Geschenk und gibt dem Dekonditionierungsprozess eine positive Richtung.`
         },
         {
           id: 'Y02-M4-L2',
@@ -198,50 +198,50 @@ Dreifach-Split-Definition hat drei voneinander getrennte Definitionsgruppen. Die
 
 Vierfach-Split-Definition — sehr selten — hat vier getrennte Definitionsgruppen. Diese Menschen brauchen eine aktive soziale Umgebung und viel Zeit, um Informationen und Erfahrungen innerlich zu integrieren. Schnelle Entscheidungen sind nicht ihre Stärke — sie brauchen den Input verschiedener Kontakte, bevor sich Klarheit einstellt.
 
-Die Split-Analyse erklärt, warum manche Menschen in Beziehungen aufblühen und andere in der Einsamkeit produktiver sind. Sie erklärt, warum manche Partnerschaften sich unverzichtbar anfühlen — weil sie den Split überbrücken — und warum der Verlust einer solchen Beziehung so erschütternd sein kann. In der Beratung gibst du dem Klienten Bewusstheit über seine innere Dynamik: „Du hast einen Split — das bedeutet, dass du dich in Gegenwart bestimmter Menschen vollständiger fühlst. Das ist natürlich und kein Zeichen von Schwäche."`
+Die Split-Analyse erklärt, warum manche Menschen in Beziehungen aufblühen und andere in der Einsamkeit produktiver sind. Sie erklärt, warum manche Partnerschaften sich unverzichtbar anfühlen — weil sie den Split überbrücken — und warum der Verlust einer solchen Beziehung so erschütternd sein kann. Wenn du selbst einen Split hast, bedeutet das: Du fühlst dich in Gegenwart bestimmter Menschen vollständiger. Das ist natürlich und kein Zeichen von Schwäche.`
         },
         {
           id: 'Y02-M4-L3',
           titel: 'Das Nicht-Selbst-Thema als Kompass',
-          inhalt: `Jeder Energietyp hat ein Nicht-Selbst-Thema — ein emotionales Signal, das anzeigt, dass der Mensch nicht in seiner Wahrheit lebt. Diese Signale sind keine Schwäche — sie sind ein präziser Kompass, der die Richtung zurück zur Authentizität weist. Die vertiefte Arbeit mit dem Nicht-Selbst-Thema ist einer der wirkungsvollsten Aspekte der Human Design Beratung.
+          inhalt: `Jeder Energietyp hat ein Nicht-Selbst-Thema — ein emotionales Signal, das anzeigt, dass der Mensch nicht in seiner Wahrheit lebt. Diese Signale sind keine Schwäche — sie sind ein präziser Kompass, der die Richtung zurück zur Authentizität weist. Die vertiefte Arbeit mit dem eigenen Nicht-Selbst-Thema ist einer der wirkungsvollsten Aspekte des Human Design.
 
-Der Manifestor erlebt Wut, wenn er nicht informiert und dadurch auf Widerstand stößt. Die tiefere Schicht: Manifestor-Wut entsteht aus dem Gefühl, kontrolliert oder eingeschränkt zu werden — sei es durch andere Menschen, Systeme oder Umstände. Die Wut ist das Signal, dass seine natürliche Initiativkraft blockiert ist. In der Beratung erforschst du: Wo im Leben deines Klienten staut sich die Initiativkraft? Wo informiert er nicht, und warum? Oft liegt hinter dem Nicht-Informieren die Angst, abgelehnt oder gebremst zu werden.
+Der Manifestor erlebt Wut, wenn er nicht informiert und dadurch auf Widerstand stößt. Die tiefere Schicht: Manifestor-Wut entsteht aus dem Gefühl, kontrolliert oder eingeschränkt zu werden — sei es durch andere Menschen, Systeme oder Umstände. Die Wut ist das Signal, dass seine natürliche Initiativkraft blockiert ist. Erforsche für dich: Wo in deinem Leben staut sich die Initiativkraft? Wo informierst du nicht, und warum? Oft liegt hinter dem Nicht-Informieren die Angst, abgelehnt oder gebremst zu werden.
 
-Der Generator erlebt Frustration, wenn er Dinge tut, auf die sein Sakralzentrum nicht reagiert hat. Die tiefere Schicht: Generator-Frustration entsteht, wenn die Lebensenergie in falsche Kanäle fließt — in Arbeit ohne Befriedigung, in Beziehungen ohne Resonanz, in Projekte ohne sakrale Antwort. Die Frustration ist das Signal, dass die Lebenskraft verschwendet wird. In der Beratung fragst du: Worauf antwortest du wirklich mit Ja? Was tust du aus Pflicht, Gewohnheit oder dem Glauben, du müsstest?
+Der Generator erlebt Frustration, wenn er Dinge tut, auf die sein Sakralzentrum nicht reagiert hat. Die tiefere Schicht: Generator-Frustration entsteht, wenn die Lebensenergie in falsche Kanäle fließt — in Arbeit ohne Befriedigung, in Beziehungen ohne Resonanz, in Projekte ohne sakrale Antwort. Die Frustration ist das Signal, dass die Lebenskraft verschwendet wird. Frage dich: Worauf antworte ich wirklich mit Ja? Was tue ich aus Pflicht, Gewohnheit oder dem Glauben, ich müsste?
 
-Der Projektor erlebt Verbitterung, wenn er nicht anerkannt und eingeladen wird. Die tiefere Schicht: Projektor-Verbitterung entsteht, wenn seine natürliche Gabe — andere zu sehen, zu führen und zu optimieren — weder bemerkt noch gewürdigt wird. Die Verbitterung ist das Signal, dass er versucht, sich Anerkennung zu verdienen, statt darauf zu warten, dass seine Qualität gesehen wird. In der Beratung arbeitest du am Selbstwert: Deine Gabe ist real, auch wenn sie gerade nicht eingeladen wird.
+Der Projektor erlebt Verbitterung, wenn er nicht anerkannt und eingeladen wird. Die tiefere Schicht: Projektor-Verbitterung entsteht, wenn seine natürliche Gabe — andere zu sehen, zu führen und zu optimieren — weder bemerkt noch gewürdigt wird. Die Verbitterung ist das Signal, dass er versucht, sich Anerkennung zu verdienen, statt darauf zu warten, dass seine Qualität gesehen wird. Die Arbeit liegt hier am Selbstwert: Deine Gabe ist real, auch wenn sie gerade nicht eingeladen wird.
 
 Der Reflektor erlebt Enttäuschung, wenn er sich mit seiner Umgebung identifiziert, statt sie zu spiegeln. Die tiefere Schicht: Reflektor-Enttäuschung entsteht, wenn er vergisst, dass er ein Spiegel ist — nicht die Bilder, die er reflektiert. Jede Umgebung, jeder Mensch, jeder Transit beeinflusst ihn, aber nichts davon ist er. Die Enttäuschung ist das Signal, dass er die Distanz des Beobachters verloren hat.
 
-Die regelmäßige Überprüfung des Nicht-Selbst-Themas ist ein kraftvolles Selbstcoaching-Werkzeug: „Wann habe ich diese Woche Frustration, Wut, Verbitterung oder Enttäuschung erlebt? Was war der Auslöser? Habe ich meine Strategie nicht befolgt?" Diese Reflexion bringt den Klienten immer wieder zurück auf den Weg seiner Authentizität.`
+Die regelmäßige Überprüfung des Nicht-Selbst-Themas ist ein kraftvolles Selbstcoaching-Werkzeug: „Wann habe ich diese Woche Frustration, Wut, Verbitterung oder Enttäuschung erlebt? Was war der Auslöser? Habe ich meine Strategie nicht befolgt?" Diese Reflexion bringt dich immer wieder zurück auf den Weg deiner Authentizität.`
         }
       ]
     },
     {
       id: 'Y02-M5',
-      titel: 'Professionelle Chart-Analyse',
+      titel: 'Die eigene Chartanalyse vertiefen',
       lektionen: [
         {
           id: 'Y02-M5-L1',
           titel: 'Systematischer Analyseaufbau',
-          inhalt: `Eine professionelle Human Design Analyse folgt einem strukturierten Aufbau, der vom Allgemeinen zum Spezifischen führt. Diese Systematik stellt sicher, dass du nichts Wesentliches übersiehst und dem Klienten ein kohärentes Gesamtbild vermittelst — nicht nur eine Aneinanderreihung einzelner Aspekte.
+          inhalt: `Eine gründliche Human Design Analyse folgt einem strukturierten Aufbau, der vom Allgemeinen zum Spezifischen führt. Diese Systematik stellt sicher, dass du nichts Wesentliches übersiehst und ein kohärentes Gesamtbild gewinnst — nicht nur eine Aneinanderreihung einzelner Aspekte.
 
-Die erste Ebene ist die Gesamtschau: Typ, Strategie, Autorität und Profil. Diese vier Informationen bilden das Fundament und sollten in jeder Analyse ausführlich behandelt werden — auch wenn der Klient sie schon kennt. Oft zeigt die Vertiefung neue Facetten, die in einer Erstanalyse nicht sichtbar waren. Besonders das Profil verdient mehr Aufmerksamkeit als in Grundanalysen üblich: Die Kombination der beiden Linien erzeugt eine spezifische Lebensdynamik, die weit über die Einzelbeschreibungen hinausgeht.
+Die erste Ebene ist die Gesamtschau: Typ, Strategie, Autorität und Profil. Diese vier Informationen bilden das Fundament und sollten in jeder Betrachtung ausführlich gewürdigt werden — auch wenn du sie schon kennst. Oft zeigt die Vertiefung neue Facetten, die beim ersten Blick nicht sichtbar waren. Besonders das Profil verdient mehr Aufmerksamkeit als üblich: Die Kombination der beiden Linien erzeugt eine spezifische Lebensdynamik, die weit über die Einzelbeschreibungen hinausgeht.
 
 Die zweite Ebene ist die Zentrenanalyse: Welche Zentren sind definiert, welche offen? Wie viele der neun Zentren sind definiert — ein Chart mit sieben definierten Zentren lebt ein fundamental anderes Leben als eines mit drei definierten. Die offenen Zentren werden als Weisheitspotenziale vorgestellt, ihre typischen Nicht-Selbst-Fallen benannt und Strategien für den bewussten Umgang gegeben.
 
 Die dritte Ebene ist die Kanalanalyse: Welche Kanäle sind definiert? In welchen Schaltkreisen liegen sie? Welche Lebensthemen tragen sie? Hier wird das Chart lebendig — die Kanäle erzählen die Geschichte des Menschen. Beachte die Reihenfolge der Kanäle nach Bedeutung: Kanäle, die die Kehle verbinden, sind besonders manifestationsstark. Kanäle zum Sakralzentrum bestimmen die Energiedynamik. Emotionale Kanäle beeinflussen den Entscheidungsprozess.
 
-Die vierte Ebene ist die Toranalyse mit Linienbetrachtung: Welche einzelnen Tore sind aktiviert, ohne einen vollständigen Kanal zu bilden? In welcher Linie sind sie? Welche hängenden Tore bilden Beziehungsmagnete? Diese Ebene verleiht der Analyse Tiefe und Nuance — sie ist der Unterschied zwischen einer guten und einer exzellenten Lesung.
+Die vierte Ebene ist die Toranalyse mit Linienbetrachtung: Welche einzelnen Tore sind aktiviert, ohne einen vollständigen Kanal zu bilden? In welcher Linie sind sie? Welche hängenden Tore bilden Beziehungsmagnete? Diese Ebene verleiht der Analyse Tiefe und Nuance — sie ist der Unterschied zwischen einer guten und einer exzellenten Betrachtung.
 
-Die fünfte Ebene umfasst die fortgeschrittenen Aspekte: Inkarnationskreuz, Variablen, Splits und Schaltkreisdominanz. Nicht jeder Klient braucht oder möchte diese Tiefe in der ersten Analyse — doch sie sollte verfügbar sein für diejenigen, die tiefer gehen wollen.
+Die fünfte Ebene umfasst die fortgeschrittenen Aspekte: Inkarnationskreuz, Variablen, Splits und Schaltkreisdominanz. Nicht jede Betrachtung braucht diese Tiefe — doch sie steht dir offen, wann immer du tiefer gehen willst.
 
-Die Integration aller Ebenen zum Schluss ist die Königsdisziplin: Wie spielen all diese Aspekte zusammen? Welches Gesamtbild ergibt sich? Welche zwei bis drei Kernbotschaften sind die wichtigsten für diesen Menschen in seiner aktuellen Lebenssituation? Eine brillante Analyse endet nicht mit Information, sondern mit Transformation.`
+Die Integration aller Ebenen zum Schluss ist die Königsdisziplin: Wie spielen all diese Aspekte zusammen? Welches Gesamtbild ergibt sich? Welche zwei bis drei Kernbotschaften sind die wichtigsten für dich in deiner aktuellen Lebenssituation? Eine gelungene Analyse endet nicht mit Information, sondern mit Erkenntnis.`
         },
         {
           id: 'Y02-M5-L2',
           titel: 'Beziehungsanalysen — Composite Charts',
-          inhalt: `Die Beziehungsanalyse — das Composite Chart — ist einer der gefragtesten Aspekte der Human Design Beratung. Sie zeigt, was geschieht, wenn zwei energetische Felder aufeinandertreffen: welche Kanäle sich vervollständigen, welche Zentren sich gegenseitig definieren und wo die größten Wachstumsfelder und Reibungspunkte liegen.
+          inhalt: `Die Beziehungsanalyse — das Composite Chart — ist einer der faszinierendsten Aspekte des Human Design. Sie zeigt, was geschieht, wenn zwei energetische Felder aufeinandertreffen: welche Kanäle sich vervollständigen, welche Zentren sich gegenseitig definieren und wo die größten Wachstumsfelder und Reibungspunkte liegen.
 
 Das Grundprinzip: Wenn zwei Menschen zusammenkommen, entsteht ein drittes Energiefeld, das keiner von beiden allein hat. Ihre jeweiligen Definitionen überlagern sich, und das Composite zeigt das Ergebnis. Hängende Tore des einen können sich mit Toren des anderen zu vollständigen Kanälen verbinden — die elektromagnetische Verbindung, die oft als starke Anziehung erlebt wird.
 
@@ -251,77 +251,77 @@ Die Dominanz-Dynamik zeigt, wer wen in welchen Bereichen konditioniert. Wenn ein
 
 Kompromissbereiche entstehen, wo beide Partner dasselbe Zentrum definiert haben, aber auf verschiedene Weise. Zwei definierte Kehlzentren können sich gegenseitig übertönen. Zwei definierte Emotionalzentren erzeugen ein komplexes emotionales Feld. Zwei definierte Sakralzentren können eine enorme Arbeitskraft erzeugen, aber auch Wettbewerb um die Frage, wessen Energie gefolgt wird.
 
-In der Beratungspraxis präsentierst du die Composite-Analyse nie wertend: „Diese Beziehung ist gut" oder „schlecht" gibt es nicht. Jede Kombination hat ihre Geschenke und ihre Herausforderungen. Dein Beitrag ist Bewusstheit — das Verstehen der Dynamik, das beiden Partnern ermöglicht, liebevoller und bewusster miteinander umzugehen. Du gibst keine Beziehungsratschläge — du leuchtst das Feld aus, damit beide klarer sehen können.`
+Betrachte die Composite-Analyse deiner eigenen Beziehungen nie wertend: „Diese Beziehung ist gut" oder „schlecht" gibt es nicht. Jede Kombination hat ihre Geschenke und ihre Herausforderungen. Der Gewinn ist Bewusstheit — das Verstehen der Dynamik, das dir ermöglicht, liebevoller und bewusster mit den Menschen an deiner Seite umzugehen. Es geht nicht um Urteile — es geht darum, das Feld auszuleuchten, damit du klarer sehen kannst.`
         },
         {
           id: 'Y02-M5-L3',
-          titel: 'Die Kunst der Vermittlung',
-          inhalt: `Die technische Chartanalyse ist die halbe Arbeit — die andere Hälfte ist die Kunst, das Wissen so zu vermitteln, dass es im Leben des Klienten ankommt und wirkt. Die besten Human Design Analysten sind nicht die mit dem meisten Wissen, sondern die, die das richtige Wissen zum richtigen Zeitpunkt auf die richtige Weise übermitteln.
+          titel: 'Das Wissen ins Leben übersetzen',
+          inhalt: `Die technische Chartanalyse ist die halbe Arbeit — die andere Hälfte ist die Kunst, das Wissen so zu übersetzen, dass es im eigenen Leben ankommt und trägt. Nicht das meiste Wissen macht den Unterschied, sondern das richtige Wissen zur richtigen Zeit in der richtigen Sprache.
 
-Die Sprache der Vermittlung entscheidet über die Wirkung. Vermeide Jargon, wo immer möglich — oder erkläre ihn sofort in Alltagssprache. Statt „Dein Sakralzentrum reagiert auf äußere Stimuli" sage „Dein Körper weiß immer, was richtig für dich ist — er antwortet mit einem Ja oder Nein, das du in deinem Bauch spüren kannst." Statt „Du hast eine emotionale Autorität" sage „Deine Klarheit kommt nicht sofort — sie braucht Zeit, um durch verschiedene Gefühlswellen zu reifen. Wenn du dir diese Zeit nimmst, triffst du die richtigen Entscheidungen."
+Die Sprache der Übersetzung entscheidet über die Wirkung im Alltag. Löse dich vom Jargon, wo immer möglich — oder übersetze ihn sofort in Alltagssprache. Statt „Mein Sakralzentrum reagiert auf äußere Stimuli" sage dir: „Mein Körper weiß immer, was richtig für mich ist — er antwortet mit einem Ja oder Nein, das ich in meinem Bauch spüren kann." Statt „Ich habe eine emotionale Autorität" sage dir: „Meine Klarheit kommt nicht sofort — sie braucht Zeit, um durch verschiedene Gefühlswellen zu reifen. Wenn ich mir diese Zeit nehme, treffe ich die richtigen Entscheidungen."
 
-Priorisierung ist essenziell: Ein Chart enthält hunderte von Informationspunkten. In einer Sitzung von sechzig bis neunzig Minuten kannst du nicht alles vermitteln — und solltest es auch nicht. Wähle die drei bis fünf Aspekte, die für diesen Menschen in seiner aktuellen Lebenssituation am relevantesten sind. Ein Klient in einer Beziehungskrise braucht keine detaillierte Variablen-Analyse — er braucht Verständnis für seine Beziehungsdynamik. Ein Klient vor einer Berufsentscheidung braucht keine Transitanalyse — er braucht Klarheit über seine Autorität und sein Inkarnationskreuz.
+Priorisierung ist essenziell: Ein Chart enthält hunderte von Informationspunkten — du kannst nicht alles auf einmal integrieren, und solltest es auch nicht. Wähle die drei bis fünf Aspekte, die für deine aktuelle Lebenssituation am relevantesten sind. In einer Beziehungskrise brauchst du keine detaillierte Variablen-Analyse — du brauchst Verständnis für deine Beziehungsdynamik. Vor einer Berufsentscheidung brauchst du keine Transitanalyse — du brauchst Klarheit über deine Autorität und dein Inkarnationskreuz.
 
-Die Balance zwischen Bestätigung und Herausforderung macht eine gute Lesung aus. Zu viel Bestätigung — „Alles ist wunderbar, du bist perfekt" — ist wertlos. Zu viel Herausforderung — „Du lebst dein gesamtes Nicht-Selbst" — ist entmutigend. Die Kunst liegt darin, den Klienten in dem zu sehen, was er bereits lebt, und ihm gleichzeitig neue Perspektiven zu eröffnen: „Ich sehe, dass du deine Sakralenergie kraftvoll in deiner Arbeit nutzt — und ich sehe auch ein offenes Milzzentrum, das dir sagt, dass du manchmal zu lange in Situationen bleibst, die nicht mehr gesund für dich sind."
+Die Balance zwischen Selbstannahme und Herausforderung macht eine gute Selbstbetrachtung aus. Zu viel Bestätigung — „alles ist wunderbar" — ist wertlos. Zu viel Härte — „ich lebe mein gesamtes Nicht-Selbst" — ist entmutigend. Die Kunst liegt darin, dich in dem zu sehen, was du bereits lebst, und dir zugleich neue Perspektiven zu eröffnen: „Ich nutze meine Sakralenergie kraftvoll in meiner Arbeit — und mein offenes Milzzentrum zeigt mir, dass ich manchmal zu lange in Situationen bleibe, die mir nicht mehr guttun."
 
-Raum für Fragen und Dialog unterscheidet eine Lesung von einem Vortrag. Lass den Klienten reagieren, nachfragen, widersprechen. Seine Resonanz ist dein bester Kompass: Wo nickt er — dort bist du getroffen. Wo runzelt er die Stirn — dort braucht es Vertiefung oder einen anderen Zugang. Wo schweigt er betroffen — dort liegt vielleicht die wichtigste Botschaft der Sitzung.
+Raum für Dialog vertieft die Betrachtung — etwa im Austausch mit einem Menschen deines Vertrauens, der sein eigenes Design kennt. Achte dabei auf deine Resonanz: Wo du innerlich nickst, bist du getroffen. Wo du die Stirn runzelst, braucht es Vertiefung oder einen anderen Zugang. Wo du betroffen still wirst, liegt vielleicht die wichtigste Erkenntnis.
 
-Schließe jede Analyse mit einer konkreten Einladung ab: „Ich lade dich ein, in den nächsten vier Wochen dein Experiment zu beginnen — achte auf deine sakrale Reaktion bei Entscheidungen. Beobachte, ohne zu urteilen. Und notiere, was du entdeckst." Diese praktische Handlungsanweisung verwandelt Information in lebendige Erfahrung.`
+Schließe jede Betrachtung mit einer konkreten Einladung an dich selbst ab: „Ich beginne in den nächsten vier Wochen mein Experiment — ich achte auf meine sakrale Reaktion bei Entscheidungen. Ich beobachte, ohne zu urteilen. Und ich notiere, was ich entdecke." Diese praktische Ausrichtung verwandelt Information in lebendige Erfahrung.`
         }
       ]
     },
     {
       id: 'Y02-M6',
-      titel: 'Human Design in der professionellen Praxis',
+      titel: 'Dein Human-Design-Experiment',
       lektionen: [
         {
           id: 'Y02-M6-L1',
-          titel: 'Angebotsformate für HD-Beratung',
-          inhalt: `Als fortgeschrittener Human Design Analyst hast du Zugang zu verschiedenen Beratungsformaten, die unterschiedliche Klientenbedürfnisse und Preispunkte abdecken. Ein klares Angebotsportfolio gibt deinem Geschäft Struktur und deinen Klienten Orientierung.
+          titel: 'Formen der eigenen Vertiefung',
+          inhalt: `Wer sein Design vertieft kennt, dem stehen verschiedene Formen offen, die Auseinandersetzung lebendig zu halten — je nach Lebensphase und der Frage, die gerade im Vordergrund steht.
 
-Die Grundlesung ist dein Einstiegsangebot: Typ, Strategie, Autorität, Profil und die wichtigsten Zentren und Kanäle in sechzig bis neunzig Minuten. Dieses Format eignet sich für Erstbegegnungen mit Human Design und gibt dem Klienten ein solides Fundament für sein Experiment. Es ist auch dein häufigstes Format und sollte preislich so gesetzt sein, dass es für eine breite Zielgruppe zugänglich bleibt.
+Die Grundbetrachtung ist dein Fundament: Typ, Strategie, Autorität, Profil und die wichtigsten Zentren und Kanäle. Kehre regelmäßig dorthin zurück — auch nach Jahren zeigt der erneute Blick auf die Grundlagen neue Facetten, weil du dich verändert hast und dieselbe Information anders liest.
 
-Die Vertiefungslesung baut auf der Grundlesung auf und geht in die fortgeschrittenen Ebenen: Schaltkreise, Torlinien, Inkarnationskreuz, Variablen und Lebenszyklen. Dieses Format ist für Klienten, die ihr Design bereits kennen und tiefer eintauchen wollen. Neunzig Minuten bis zwei Stunden, höherer Preispunkt.
+Die Vertiefungsbetrachtung nimmt die fortgeschrittenen Ebenen hinzu: Schaltkreise, Torlinien, Inkarnationskreuz, Variablen und Lebenszyklen. Sie eignet sich für Phasen, in denen du dein Design bereits gut kennst und tiefer eintauchen willst — etwa an natürlichen Wendepunkten wie dem Saturn-Return.
 
-Die Beziehungsanalyse betrachtet zwei Charts im Composite: Elektromagnetik, Dominanz, Kompromissbereiche und die Gesamtdynamik der Verbindung. Dieses Format ist besonders gefragt bei Paaren, Geschäftspartnern und Eltern, die ihre Kinder besser verstehen wollen. Zwei Stunden, oft mit Follow-up.
+Die Beziehungsbetrachtung wendet das Composite auf deine eigenen Verbindungen an: Partnerschaft, enge Freundschaften, Familie. Wichtig: Das Chart eines anderen Menschen betrachtest du nur mit dessen Einverständnis — Beziehungsverständnis beginnt mit Respekt vor der Privatsphäre des anderen.
 
-Kinder-Charts sind ein sensibler und dankbarer Bereich. Eltern, die das Design ihrer Kinder verstehen, können bewusster erziehen und die natürliche Anlage unterstützen, statt sie zu verbiegen. In diesem Format sprichst du mit den Eltern über das Kind — niemals das Kind direkt analysieren und mit Informationen überladen.
+Ein besonders behutsamer Bereich sind die Charts der eigenen Kinder. Eltern, die das Design ihres Kindes verstehen, können bewusster begleiten und die natürliche Anlage unterstützen, statt sie zu verbiegen. Dieses Wissen dient deinem elterlichen Blick — niemals dazu, das Kind zu analysieren, zu etikettieren oder mit Informationen zu überladen. Das Kind lebt sein Design von selbst; deine Aufgabe ist, den Raum dafür zu halten.
 
-Gruppen-Workshops bieten die Möglichkeit, Human Design einem größeren Kreis vorzustellen. Ein dreistündiger Einführungsworkshop für zehn bis fünfzehn Teilnehmer — jeder erhält sein Chart und eine kurze Einordnung von Typ und Strategie — ist gleichzeitig Wertbeitrag und Akquiseinstrument für vertiefende Einzellesungen.
+Das gemeinsame Lernen mit Menschen, die ihr eigenes Design kennen, vertieft alles: In privaten Austauschrunden könnt ihr Charts gemeinsam betrachten, Erfahrungen aus dem Experiment teilen und voneinander lernen — jeder spricht dabei über das eigene Erleben, niemand analysiert den anderen ungefragt.
 
-Die Integration mit deinem ganzheitlichen Angebot hebt dich ab: Eine Kombilesung, die Human Design mit numerologischen Perspektiven verbindet, bietet einen Mehrwert, den reine Human Design Analysten nicht liefern können. Diese Synthese verschiedener Systeme zu einem integrierten Persönlichkeitsbild ist das Alleinstellungsmerkmal der Human Resonanz Akademie.`
+Die Verbindung mit der Numerologie schließlich eröffnet eine eigene Dimension: Human Design und numerologische Perspektiven beleuchten denselben Menschen aus verschiedenen Winkeln. Diese Synthese zu einem integrierten Selbstbild ist ein persönlicher Erkenntnisweg, der beide Systeme lebendiger macht.`
         },
         {
           id: 'Y02-M6-L2',
-          titel: 'Dekonditionierungsbegleitung',
-          inhalt: `Die einmalige Chartanalyse gibt Wissen — die Dekonditionierungsbegleitung gibt Transformation. Das Human Design Experiment — sieben Jahre bewusstes Leben nach der eigenen Strategie und Autorität — ist ein tiefgreifender Prozess, der professionelle Begleitung verdient und einen wertvollen Rahmen für langfristige Klientenbeziehungen bietet.
+          titel: 'Dein Dekonditionierungs-Weg',
+          inhalt: `Die einmalige Chartanalyse gibt Wissen — der Dekonditionierungs-Weg gibt Wandlung. Das Human Design Experiment — sieben Jahre bewusstes Leben nach der eigenen Strategie und Autorität — ist ein tiefgreifender Prozess, der Geduld, Ehrlichkeit und Selbstfreundlichkeit verdient.
 
-Der Dekonditionierungsprozess beginnt mit der Bewusstwerdung: Der Klient erkennt seine offenen Zentren als Konditionierungsfelder und beginnt, das Nicht-Selbst-Verhalten zu beobachten. Diese Phase kann beunruhigend sein — plötzlich sieht der Klient, wie viel seines bisherigen Lebens von Konditionierung gesteuert war. Deine Aufgabe ist es, diesen Prozess zu normalisieren und zu rahmen: „Das ist nicht schlimm — es ist menschlich. Jeder Mensch ist konditioniert. Der Unterschied ist, dass du es jetzt siehst."
+Der Dekonditionierungsprozess beginnt mit der Bewusstwerdung: Du erkennst deine offenen Zentren als Konditionierungsfelder und beginnst, das Nicht-Selbst-Verhalten zu beobachten. Diese Phase kann beunruhigend sein — plötzlich siehst du, wie viel deines bisherigen Lebens von Konditionierung gesteuert war. Wichtig ist, diesen Prozess zu normalisieren: Das ist nicht schlimm — es ist menschlich. Jeder Mensch ist konditioniert. Der Unterschied ist, dass du es jetzt siehst.
 
-Die praktische Begleitung umfasst regelmäßige Sitzungen — monatlich oder vierteljährlich — in denen ihr gemeinsam reflektiert: Wo hast du deine Strategie befolgt? Wo nicht? Was ist passiert, als du auf deine Autorität gehört hast? Was, als du sie ignoriert hast? Diese Reflexion schärft die Selbstwahrnehmung und stärkt das Vertrauen in die eigene innere Führung.
+Die praktische Vertiefung lebt von regelmäßiger Reflexion — monatlich oder vierteljährlich, etwa in einem Tagebuch: Wo habe ich meine Strategie befolgt? Wo nicht? Was ist passiert, als ich auf meine Autorität gehört habe? Was, als ich sie ignoriert habe? Diese Reflexion schärft die Selbstwahrnehmung und stärkt das Vertrauen in die eigene innere Führung.
 
-Die Körperbewusstheit ist ein zentraler Aspekt der Dekonditionierung. Strategie und Autorität sind keine mentalen Konzepte — sie sind körperliche Erfahrungen. Die sakrale Reaktion ist ein Bauchgefühl, kein Gedanke. Die emotionale Welle ist ein körperlicher Rhythmus, kein Konzept. Die Milzintuition ist ein blitzschneller Impuls, kein Abwägen. Du hilfst dem Klienten, diese körperlichen Signale wahrzunehmen und zu vertrauen — oft gegen die Gewohnheit lebenslanger mentaler Steuerung.
+Die Körperbewusstheit ist ein zentraler Aspekt der Dekonditionierung. Strategie und Autorität sind keine mentalen Konzepte — sie sind körperliche Erfahrungen. Die sakrale Reaktion ist ein Bauchgefühl, kein Gedanke. Die emotionale Welle ist ein körperlicher Rhythmus, kein Konzept. Die Milzintuition ist ein blitzschneller Impuls, kein Abwägen. Lerne, diese körperlichen Signale wahrzunehmen und ihnen zu vertrauen — oft gegen die Gewohnheit lebenslanger mentaler Steuerung.
 
-Die Herausforderung des sozialen Umfelds ist real: Ein Mensch, der beginnt, nach seiner Wahrheit zu leben, verändert automatisch seine Beziehungsdynamik. Partnerschaften, Freundschaften und Arbeitsbeziehungen, die auf Konditionierung basieren, werden erschüttert. Manche Beziehungen vertiefen sich, andere lösen sich auf. Deine Rolle als Begleiter ist, diesen Prozess zu normalisieren und dem Klienten den Rücken zu stärken, ohne Beziehungen zu bewerten.
+Die Herausforderung des sozialen Umfelds ist real: Ein Mensch, der beginnt, nach seiner Wahrheit zu leben, verändert automatisch seine Beziehungsdynamik. Partnerschaften, Freundschaften und Arbeitsbeziehungen, die auf Konditionierung basieren, werden erschüttert. Manche Beziehungen vertiefen sich, andere lösen sich auf. Sei in dieser Phase geduldig mit dir und deinem Umfeld — und hole dir, wenn es schwer wird, Unterstützung bei Menschen deines Vertrauens.
 
-Die sieben Jahre des Experiments sind keine starre Frist — sie beschreiben den biologischen Zyklus der vollständigen Zellerneuerung. Nach sieben Jahren bewusstem Leben hat sich buchstäblich jede Zelle des Körpers unter dem Einfluss der neuen Ausrichtung erneuert. Das Ergebnis ist kein neuer Mensch — es ist der Mensch, der du immer warst, befreit von den Schichten der Konditionierung. Deine Begleitung in diesem Prozess ist eine der tiefsten und dankbarsten Formen professioneller Arbeit im Human Design.`
+Die sieben Jahre des Experiments sind keine starre Frist — sie beschreiben den biologischen Zyklus der vollständigen Zellerneuerung. Nach sieben Jahren bewusstem Leben hat sich buchstäblich jede Zelle des Körpers unter dem Einfluss der neuen Ausrichtung erneuert. Das Ergebnis ist kein neuer Mensch — es ist der Mensch, der du immer warst, befreit von den Schichten der Konditionierung. Dieser Weg ist eine der tiefsten und dankbarsten Erfahrungen, die das Human Design bereithält.`
         },
         {
           id: 'Y02-M6-L3',
-          titel: 'Deine Weiterentwicklung als Analyst',
-          inhalt: `Human Design ist ein System von unerschöpflicher Tiefe — nach der Vertiefungsausbildung beginnt ein Weg kontinuierlichen Lernens, der dich als Analyst immer kompetenter und als Mensch immer authentischer macht. Die wichtigste Investition in deine Praxis bist du selbst.
+          titel: 'Deine Weiterentwicklung im Human Design',
+          inhalt: `Human Design ist ein System von unerschöpflicher Tiefe — nach diesem Vertiefungskurs beginnt ein Weg kontinuierlichen Lernens, der dich im Verständnis immer sicherer und als Mensch immer authentischer macht. Die wichtigste Investition bist du selbst.
 
-Das eigene Experiment ist die Grundlage jeder glaubwürdigen Beratung. Lebst du dein Design? Folgst du deiner Strategie? Vertraust du deiner Autorität? Die ehrliche Antwort auf diese Fragen bestimmt die Tiefe deiner Arbeit mehr als jedes Zertifikat. Klienten spüren intuitiv, ob du aus eigenem Erleben sprichst oder aus Büchern. Ein Analyst, der sein eigenes Nicht-Selbst-Thema kennt und bewusst damit umgeht, hat eine Authentizität, die durch kein Training ersetzt werden kann.
+Das eigene Experiment ist die Grundlage jedes echten Verstehens. Lebst du dein Design? Folgst du deiner Strategie? Vertraust du deiner Autorität? Die ehrliche Antwort auf diese Fragen bestimmt die Tiefe deines Weges mehr als jedes gelesene Buch. Wer sein eigenes Nicht-Selbst-Thema kennt und bewusst damit umgeht, gewinnt eine Authentizität, die durch kein angelesenes Wissen ersetzt werden kann.
 
-Die Praxis als Lehrmeisterin: Jede Lesung ist eine Lernchance. Manche Charts fordern dich heraus, weil du ein Tor oder eine Kombination noch nie in der Praxis gesehen hast. Manche Klienten stellen Fragen, die dich ins Nachdenken bringen. Führe ein Reflexionstagebuch über deine Lesungen — was hat gut funktioniert? Wo warst du unsicher? Welche neue Erkenntnis hat sich gezeigt? Diese kontinuierliche Reflexion ist wertvoller als jedes Seminar.
+Die Praxis als Lehrmeisterin: Jede Chartbetrachtung ist eine Lernchance. Manche Charts — auch die von Menschen, die dir nahestehen — fordern dich heraus, weil du ein Tor oder eine Kombination noch nie gesehen hast. Führe ein Reflexionstagebuch über deine Betrachtungen — was hat sich erschlossen? Wo warst du unsicher? Welche neue Erkenntnis hat sich gezeigt? Diese kontinuierliche Reflexion ist wertvoller als jedes Seminar.
 
-Die Vernetzung mit anderen Analysten bietet kollegialen Austausch, gemeinsames Lernen und die Möglichkeit, schwierige Charts gemeinsam zu betrachten. Supervisionsgruppen — regelmäßige Treffen, in denen anonymisierte Fallbeispiele besprochen werden — schärfen dein analytisches Denken und erweitern deine Perspektive.
+Der Austausch mit anderen Menschen, die ihr eigenes Design leben, bietet gemeinsames Lernen und die Möglichkeit, komplexe Charts gemeinsam zu betrachten. Regelmäßige private Austauschrunden schärfen dein Verständnis und erweitern deine Perspektive.
 
-Die Integration verschiedener Wissenssysteme ist dein besonderer Vorteil als Absolvent der Human Resonanz Akademie. Numerologie, Coaching-Kompetenzen, energetische Arbeit und Human Design bilden zusammen ein Beratungsangebot, das in seiner Tiefe und Breite einzigartig ist. Die Verbindung dieser Systeme entsteht nicht durch theoretische Überlagerung, sondern durch gelebte Erfahrung — durch die eigene Auseinandersetzung mit allen Aspekten deines Seins.
+Die Integration verschiedener Wissenssysteme vertieft deinen Blick: Numerologie, Human Design und energetische Selbsterfahrung ergänzen sich zu einem Gesamtbild von bemerkenswerter Tiefe. Die Verbindung dieser Systeme entsteht nicht durch theoretische Überlagerung, sondern durch gelebte Erfahrung — durch die eigene Auseinandersetzung mit allen Aspekten deines Seins.
 
 Bleibe bescheiden gegenüber dem System. Human Design ist ein Werkzeug, kein Dogma. Es ist eine Landkarte, nicht das Territorium. Es beschreibt Tendenzen und Potenziale, keine festgeschriebenen Schicksale. Die beste Haltung ist die des ewigen Schülers: neugierig, offen und bereit, auch nach Jahren der Praxis noch überrascht zu werden. Diese Haltung macht dich nicht weniger kompetent — sie macht dich weiser.
 
-Dein Ziel ist nicht, alles über Human Design zu wissen. Dein Ziel ist, das, was du weißt, so lebendig und liebevoll zu vermitteln, dass es im Leben deiner Klienten einen echten Unterschied macht. Wenn ein Klient nach einer Lesung sagt: „Jetzt verstehe ich endlich, warum ich so bin, wie ich bin — und ich mag mich dafür", dann hast du deine Arbeit getan.`
+Dein Ziel ist nicht, alles über Human Design zu wissen. Dein Ziel ist, das, was du weißt, so lebendig werden zu lassen, dass es in deinem Leben einen echten Unterschied macht. Wenn du eines Tages sagst: „Jetzt verstehe ich endlich, warum ich so bin, wie ich bin — und ich mag mich dafür", dann hat dieser Weg sein Ziel erreicht.`
         }
       ]
     }

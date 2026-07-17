@@ -1,17 +1,17 @@
 // C06.js — Business-Energetik & Geldblockaden
 // Standard ◈◈ · 6 Module · 18 Lektionen
-// Human Resonanz Akademie · Mai 2026
+// Human Resonanz Lernwelt · Mai 2026
 
 const C06 = {
   id: 'C06',
   titel: 'Business-Energetik & Geldblockaden',
-  untertitel: 'Erfolgsblockaden lösen · Geldenergie verstehen · Manifestation im Business · Energetische Unternehmensführung',
+  untertitel: 'Geld-Glaubenssätze erkennen · innere Erfolgsblockaden verstehen · Klarheit & Selbstwert · dein eigener Weg mit Geld',
   bereich: 'coaching',
   format: 'standard',
   dauer: '5–7 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
-  voraussetzungen: 'Grundverständnis energetischer Prinzipien hilfreich, aber nicht zwingend',
-  beschreibung: `Geld ist Energie — und wie jede Energie folgt es bestimmten Gesetzmäßigkeiten. Viele Unternehmer, Selbstständige und Coaches kämpfen nicht mit mangelndem Wissen oder fehlendem Einsatz, sondern mit unsichtbaren energetischen Blockaden, die den Fluss von Erfolg und Fülle behindern. In diesem Kurs lernst du, die verborgenen Muster hinter finanziellen und beruflichen Blockaden zu erkennen, sie auf energetischer Ebene aufzulösen und eine Geschäftstätigkeit aufzubauen, die im Einklang mit deiner authentischen Energie steht.`,
+  voraussetzungen: 'Keine — offen für alle',
+  beschreibung: `Unsere Beziehung zum Geld ist tief von inneren Bildern, Glaubenssätzen und frühen Prägungen geformt. Viele Menschen erleben rund um Geld und beruflichen Erfolg immer wieder dieselben Muster — Selbstzweifel, Sichtbarkeitsangst, das Gefühl, nicht genug wert zu sein. In diesem Kurs lernst du, die verborgenen inneren Muster hinter diesen Themen bei dir selbst zu erkennen, sie mit Achtsamkeit und Selbstreflexion zu betrachten und einen klareren, freieren Umgang mit Geld und deiner eigenen Arbeit zu finden. Ein Kurs der Selbsterfahrung — kein Erfolgs- oder Einkommensversprechen.`,
   status: 'live',
 
   module: [
@@ -32,23 +32,23 @@ const C06 = {
 
 Bevor wir über Geldblockaden sprechen, müssen wir verstehen, was Geld eigentlich ist — jenseits von Scheinen, Münzen und Kontoständen. Geld ist im Kern eine kollektive Vereinbarung über Wert. Ein Stück Papier mit Zahlen darauf hat keinen inhärenten Wert — es hat Wert, weil wir alle übereingekommen sind, dass es welchen hat. Diese Vereinbarung ist eine Form von Energie: kollektives Vertrauen, manifestiert in einem Symbol.
 
-### Geld als Energiefluss
+### Geld und innere Haltung
 
-Wenn du Geld als Energie begreifst, verändern sich grundlegende Annahmen. Energie fließt — sie wird nicht festgehalten. Sie folgt Aufmerksamkeit. Sie reagiert auf Intention. Sie wird blockiert durch Angst, Scham und unbewusste Muster. Und sie wird freigesetzt durch Klarheit, Vertrauen und Ausrichtung.
+Wenn du Geld als Symbol für innere Haltungen betrachtest, verschiebt sich der Blick weg von reinen Zahlen hin zu dir selbst. Unsere Gefühle rund ums Geld — Angst, Scham, unbewusste Muster ebenso wie Klarheit, Vertrauen und Ruhe — prägen, wie wir mit Geld umgehen und welche Entscheidungen wir treffen.
 
-Das ist keine esoterische Spekulation — es ist eine praktisch beobachtbare Dynamik. Unternehmer, die in ständiger Angst vor Geldmangel leben, treffen andere Entscheidungen als solche, die aus einem Gefühl der Fülle heraus handeln. Die einen sparen, wo sie investieren sollten. Die anderen investieren, wo sie sparen sollten. Beide Muster haben energetische Wurzeln.
+Das ist keine esoterische Behauptung über Geldflüsse — es ist eine schlicht beobachtbare psychologische Dynamik. Menschen, die in ständiger Angst vor Geldmangel leben, treffen andere Entscheidungen als solche, die aus innerer Ruhe heraus handeln. Die einen sparen, wo sie investieren sollten. Die anderen investieren, wo sie sparen sollten. Beide Muster haben energetische Wurzeln.
 
-### Die drei Geld-Gesetze
+### Drei Muster im Umgang mit Geld
 
-**Gesetz 1 — Geld folgt Wert.** Geld fließt dorthin, wo Wert geschaffen wird. Nicht vermeintlicher Wert, nicht behaupteter Wert — sondern wahrgenommener Wert aus der Perspektive desjenigen, der bezahlt. Das klingt simpel, hat aber tiefgreifende Konsequenzen: Wenn du nicht genug verdienst, schaffst du entweder zu wenig Wert, oder — und das ist häufiger — der Wert, den du schaffst, wird nicht wahrgenommen.
+**Muster 1 — Wert und Wahrnehmung.** In einem gesunden Austausch entsteht Bezahlung dort, wo Wert geschaffen und auch wahrgenommen wird — aus der Perspektive desjenigen, der bezahlt. Das klingt simpel, lädt aber zu einer ehrlichen Selbstfrage ein: Erkenne und benenne ich den Wert meiner eigenen Arbeit — oder mache ich ihn klein?
 
-**Gesetz 2 — Geld folgt Klarheit.** Unklare Angebote, unklare Preise, unklare Zielgruppen — Unklarheit ist der größte Energieblocker im Business. Geld kann nicht fließen, wenn der Kanal nicht definiert ist. Jedes erfolgreiche Business hat eines gemeinsam: Klarheit darüber, wem es was zu welchem Preis anbietet.
+**Muster 2 — Klarheit.** Unklarheit über den eigenen Wert, die eigene Richtung, die eigenen Bedürfnisse macht den Umgang mit Geld schwer. Innere Klarheit — zu wissen, was mir wichtig ist und was ich brauche — erleichtert klare Entscheidungen, auch finanzielle.
 
-**Gesetz 3 — Geld folgt Fluss.** Geld, das festgehalten wird, stagniert. Geld, das aus Angst gehortet wird, zieht mehr Angst an. Geld, das mit Freude und Vertrauen in Umlauf gebracht wird — als Investition, als faire Bezahlung, als großzügiger Austausch — zieht mehr Geld an. Das bedeutet nicht, verschwenderisch zu sein. Es bedeutet, einen gesunden Kreislauf von Geben und Empfangen aufrechtzuerhalten.
+**Muster 3 — Umgang statt Horten.** Wer Geld ausschließlich aus Angst festhält, verstärkt oft das Angstgefühl selbst. Wer Geld mit Freude und Vertrauen handhabt — als bewusste Investition, faire Bezahlung, großzügiger Austausch — erlebt den eigenen Umgang damit als leichter. Das bedeutet nicht, verschwenderisch zu sein. Es bedeutet, ein inneres Gleichgewicht von Geben und Empfangen zu pflegen.
 
 ### Deine Beziehung zum Geld
 
-Bevor du Geldblockaden bei anderen auflösen kannst, musst du deine eigene Beziehung zum Geld verstehen. Stelle dir Geld als Person vor — wie würdest du diese Beziehung beschreiben? Ist sie vertrauensvoll? Angespannt? Vermeidend? Zwanghaft? Beschämend? Die Art, wie du über Geld denkst, sprichst und fühlst, sagt mehr über deine energetischen Muster aus als dein Kontostand.`
+Der erste Schritt in diesem Kurs ist, deine eigene Beziehung zum Geld zu verstehen. Stelle dir Geld als Person vor — wie würdest du diese Beziehung beschreiben? Ist sie vertrauensvoll? Angespannt? Vermeidend? Zwanghaft? Beschämend? Die Art, wie du über Geld denkst, sprichst und fühlst, sagt mehr über deine energetischen Muster aus als dein Kontostand.`
         },
         {
           id: 'C06-M1-L2',
@@ -152,7 +152,7 @@ Die energetische Ebene umfasst übernommene Muster aus dem Familiensystem, kolle
 
 Beispiel: Eine Familie, in der über drei Generationen hinweg "Geld kommt und geht" das Muster war — Großvater verliert sein Geschäft im Krieg, Vater verliert sein Erspartes durch schlechte Investition, Sohn traut sich nicht zu investieren. Das Muster ist größer als die einzelne Person.
 
-Werkzeuge für die energetische Ebene: Familienaufstellung (die Gelddynamik im System sichtbar machen), Ahnenheilung (die energetische Verbindung zu Geldmustern der Vorfahren bewusst transformieren), energetische Reinigung des Geschäftsraums, Intentionsarbeit auf Seelenebene.
+Werkzeuge für die tiefere Ebene: eine systemische Betrachtung (die Gelddynamik in der eigenen Familie sichtbar machen), der bewusste Blick auf Geldmuster früherer Generationen (wie prägten die Erfahrungen der Vorfahren den eigenen Umgang mit Geld) bewusst transformieren), energetische Reinigung des Geschäftsraums, Intentionsarbeit auf Seelenebene.
 
 ### Die Integration der drei Ebenen
 
@@ -194,7 +194,7 @@ Du erkennst die Kopplung an folgenden Mustern: Du kannst deine Preise nicht auss
 
 ### Ein praktischer Prozess in fünf Schritten
 
-Dieser Prozess kombiniert mentale, somatische und energetische Ansätze und kann sowohl in der Eigenarbeit als auch in der Begleitung von Klienten eingesetzt werden. Plane 45-60 Minuten für den vollständigen Durchlauf.
+Dieser Prozess kombiniert mentale, körperbezogene und achtsamkeitsbasierte Ansätze für deine eigene Reflexionsarbeit. Plane 45-60 Minuten für den vollständigen Durchlauf.
 
 ### Schritt 1 — Die Blockade benennen (10 Minuten)
 
@@ -216,7 +216,7 @@ Bringe deine Aufmerksamkeit zu der Stelle im Körper, an der du die Blockade sp�
 
 Bleibe mit der Empfindung — ohne sie zu verändern, ohne sie loszuwerden. Nur wahrnehmen. Oft beginnt sich die Empfindung allein durch aufmerksame Beobachtung zu verändern — sie wird leichter, weicher, beweglicher.
 
-Unterstützend kannst du Klopfakupressur einsetzen: Klopfe sanft auf den Karate-Punkt der Hand und sage: "Auch wenn ich diese Enge in der Brust spüre, wenn ich an meine Preise denke, akzeptiere ich mich vollständig." Dann durchlaufe die EFT-Klopfpunkte, während du bei der Empfindung bleibst.
+Unterstützend kannst du eine einfache Klopf-Selbstberuhigung nutzen: Klopfe sanft mit den Fingern auf die Seitenkante der Hand und sprich innerlich einen annehmenden Satz — etwa: "Auch wenn ich diese Enge in der Brust spüre, wenn ich an meine Preise denke, nehme ich mich an, wie ich bin." Bleib dabei ruhig bei der Empfindung.
 
 ### Schritt 4 — Neue Wahrheit formulieren (10 Minuten)
 
@@ -243,36 +243,36 @@ Die Handlung muss klein genug sein, um machbar zu sein — und groß genug, um s
       lektionen: [
         {
           id: 'C06-M3-L1',
-          titel: 'Das Resonanzprinzip im Business — Du ziehst an, was du bist',
+          titel: 'Innere Haltung und Ausstrahlung',
           inhalt: `## Das Resonanzprinzip im Business
 
-### Resonanz verstehen
+### Ausstrahlung verstehen
 
-Das Resonanzprinzip besagt: Du ziehst nicht an, was du willst — du ziehst an, was du bist. Deine Ausstrahlung, deine energetische Frequenz, bestimmt, welche Klienten, Partner, Situationen und Chancen in dein Feld kommen. Das ist keine mystische Behauptung — es ist eine beobachtbare Dynamik, die jeder erfahrene Unternehmer bestätigen wird.
+Eine schlichte Lebenserfahrung: Wie wir innerlich zu uns stehen, prägt, wie wir auf andere wirken und welche Begegnungen und Möglichkeiten wir überhaupt wahrnehmen. Wer sich selbst wenig zutraut, nimmt Chancen oft gar nicht erst wahr; wer in sich ruht, begegnet Menschen und Situationen offener. Das ist keine mystische Behauptung über Anziehung — es ist eine beobachtbare psychologische Dynamik.
 
-### Resonanz in der Praxis
+### In der Selbstbeobachtung
 
-Ein Coach, der selbst unsicher ist, zieht unsichere Klienten an — Klienten, die nicht zahlen wollen, die Termine absagen, die den Prozess sabotieren. Das liegt nicht daran, dass der Coach "Pech hat" — es liegt daran, dass seine Unsicherheit auf einer energetischen Ebene genau die Menschen anzieht, die diese Unsicherheit spiegeln.
+Wer selbst unsicher ist, gerät leichter in Beziehungen und Situationen, die diese Unsicherheit spiegeln — und übersieht dabei die eigenen Grenzen. Das liegt nicht an "Pech", sondern daran, dass die eigene innere Haltung mitbestimmt, worauf man sich einlässt und was man zulässt.
 
-Ein Coach, der in seiner Kraft steht, klare Grenzen hat und seinen Wert kennt, zieht Klienten an, die genau diese Qualitäten respektieren und bereit sind, dafür zu investieren.
+Wer dagegen in seiner Kraft steht, klare Grenzen hat und den eigenen Wert kennt, begegnet anderen auf Augenhöhe — und lässt sich seltener auf Beziehungen ein, in denen der eigene Wert nicht geachtet wird.
 
-### Die fünf Resonanzfelder im Business
+### Fünf Bereiche der Selbstbeobachtung
 
-**Klienten-Resonanz:** Welche Art von Klienten ziehst du an? Sind es Menschen, die bereit sind zu wachsen — oder solche, die dich als Retter brauchen? Deine Klienten sind ein Spiegel deiner eigenen Entwicklungsstufe.
+**Beziehungen:** Welche Art von Menschen und Aufgaben lässt du in dein Leben? Begegnest du eher Menschen auf Augenhöhe — oder solchen, die dich als Retter brauchen? Deine wiederkehrenden Beziehungsmuster sind ein Spiegel deiner eigenen Entwicklung.
 
-**Geld-Resonanz:** Fließt Geld leicht in dein Business — oder tröpfelt es nur? Geld-Resonanz hängt direkt mit deiner inneren Haltung zum Thema Empfangen zusammen. Kannst du empfangen — ohne Schuld, ohne Gegenleistungs-Druck, ohne das Gefühl "ich muss jetzt extra liefern"?
+**Geld:** Fällt dir der Umgang mit Geld leicht — oder ist er von Anspannung geprägt? Das hängt eng mit deiner inneren Haltung zum Thema Empfangen zusammen. Kannst du empfangen — ohne Schuld, ohne Gegenleistungs-Druck, ohne das Gefühl "ich muss jetzt extra liefern"?
 
-**Partner-Resonanz:** Welche Geschäftspartner, Kooperationen und Netzwerke tauchen in deinem Feld auf? Sind es Partner auf Augenhöhe — oder asymmetrische Beziehungen, in denen du gibst und der andere nimmt?
+**Zusammenarbeit:** Welche Kooperationen und Netzwerke suchst du? Sind es Verbindungen auf Augenhöhe — oder asymmetrische Beziehungen, in denen du gibst und der andere nimmt?
 
 **Chancen-Resonanz:** Siehst du Möglichkeiten? Oder siehst du vor allem Risiken und Hindernisse? Dein Fokus bestimmt, was du wahrnimmst — und was du wahrnimmst, bestimmt, worauf du reagieren kannst.
 
-**Raum-Resonanz:** Die physische und energetische Umgebung deines Arbeitsplatzes beeinflusst dein Business. Ein aufgeräumter, klarer, energetisch gepflegter Raum unterstützt klares Denken und professionelle Ausstrahlung. Ein chaotischer, überladener Raum spiegelt innere Unklarheit.
+**Raum:** Die Umgebung deines Arbeitsplatzes wirkt auf dein Befinden. Ein aufgeräumter, klarer, energetisch gepflegter Raum unterstützt klares Denken und professionelle Ausstrahlung. Ein chaotischer, überladener Raum spiegelt innere Unklarheit.
 
 ### Resonanz verändern
 
-Wenn du deine Resonanz verändern willst, musst du dich verändern — nicht deine Strategie. Neue Visitenkarten, eine bessere Website, ein teureres Coaching-Programm — all das ändert nichts, wenn die zugrunde liegende Frequenz dieselbe bleibt.
+Wenn du deine Ausstrahlung verändern willst, beginnt das bei dir selbst — nicht bei der Fassade. Neue Visitenkarten oder eine bessere Website ändern wenig, wenn die zugrunde liegende innere Haltung dieselbe bleibt.
 
-Resonanzveränderung beginnt innen: Was muss ich in mir klären, heilen oder entwickeln, damit die äußere Realität sich verändern kann? Diese Frage ist unbequem — aber sie ist der Schlüssel zu nachhaltigem Erfolg.`
+Veränderung beginnt innen: Was darf ich in mir klären, betrachten oder entwickeln, damit ich freier handeln kann? Diese Frage ist unbequem — aber sie führt zu echter, tragfähiger Entwicklung.`
         },
         {
           id: 'C06-M3-L2',
@@ -291,11 +291,11 @@ Diese Überzeugungen klingen edel — aber sie zerstören Businesses. Ein System
 
 **Der Unter-Empfänger:** Kann nicht annehmen. Komplimente werden abgewehrt ("Ach, das war doch nichts"), Geschenke erzeugen Unbehagen, und bei jedem Empfangen entsteht sofort der Druck, etwas zurückzugeben. Hinter dem Nicht-Empfangen-Können steckt oft die Angst vor Verletzlichkeit — empfangen heißt brauchen, und brauchen heißt abhängig sein.
 
-**Der Forderer:** Das Gegenstück — jemand, der nimmt, ohne zu geben. Im Business: Klienten, die immer mehr wollen und nie zufrieden sind. Partner, die profitieren, ohne beizutragen. Dieses Muster zieht der Coach an, wenn er selbst keine klaren Grenzen hat.
+**Der Forderer:** Das Gegenstück — jemand, der nimmt, ohne zu geben. Im Alltag: Menschen, die immer mehr wollen und nie zufrieden sind; Beziehungen, in denen einer profitiert, ohne beizutragen. Solche Konstellationen entstehen leichter, wenn wir selbst keine klaren Grenzen setzen.
 
 **Der Ausbalancierte:** Gibt mit Freude und empfängt mit Dankbarkeit. Kennt seine Grenzen beim Geben und hat kein Problem beim Empfangen. Dieses Gleichgewicht ist das Ziel — und es ist eine Praxis, kein Zustand.
 
-### Den Kreislauf heilen
+### Den Kreislauf ins Gleichgewicht bringen
 
 **Übung 1 — Empfangen üben:** Nimm eine Woche lang jedes Kompliment an — ohne Relativierung, ohne Gegenleistung. Einfach: "Danke." Beobachte, wie sich das anfühlt. Unangenehm? Dann ist hier Arbeit zu tun.
 
@@ -305,7 +305,7 @@ Diese Überzeugungen klingen edel — aber sie zerstören Businesses. Ein System
 
 ### Der gesunde Kreislauf im Business
 
-Im gesunden Business-Kreislauf sieht es so aus: Du schaffst Wert (Geben) → Dein Klient empfängt diesen Wert → Er gibt dir dafür Geld (sein Geben, dein Empfangen) → Du nutzt das Geld, um mehr Wert zu schaffen → Der Kreislauf dreht sich. Wenn an irgendeiner Stelle dieses Kreislaufs eine Blockade sitzt, stockt das gesamte System.`
+Ein gesunder Austausch sieht so aus: Du schaffst Wert (Geben) → ein anderer empfängt diesen Wert → er gibt dir dafür etwas zurück, oft Geld (sein Geben, dein Empfangen) → du nutzt das, um weiter Wert zu schaffen → der Kreislauf dreht sich. Wenn an irgendeiner Stelle dieses Kreislaufs eine Blockade sitzt, stockt das gesamte System.`
         },
         {
           id: 'C06-M3-L3',
@@ -320,13 +320,13 @@ Der Begriff "Manifestation" ist durch Social Media und populäre Ratgeberbücher
 
 **Säule 1 — Intention (Klarheit)**
 
-Eine Intention ist keine Hoffnung und kein Wunsch. Sie ist eine klare, bewusste Entscheidung darüber, was du erschaffen willst. "Ich möchte mehr Klienten" ist keine Intention. "Ich baue bis September eine Praxis mit fünf regelmäßigen Klienten auf, die jeweils ein 6-Sitzungs-Paket buchen" ist eine Intention.
+Eine Intention ist keine Hoffnung und kein Wunsch. Sie ist eine klare, bewusste Entscheidung darüber, was du erschaffen willst. "Ich möchte irgendwie weiterkommen" ist keine Intention. "Ich richte bis September meinen Arbeitsalltag so ein, dass ich drei feste Vormittage konzentriert an meinem Herzensprojekt arbeite" ist eine Intention.
 
 Die Qualität deiner Intention bestimmt die Qualität deines Ergebnisses. Vage Intention → vages Ergebnis. Klare Intention → klares Ergebnis. Die Intention muss drei Kriterien erfüllen: Spezifisch (was genau?), zeitlich verankert (bis wann?) und somatisch kongruent (fühlt es sich in deinem Körper stimmig an?).
 
 **Säule 2 — Ausrichtung (Kohärenz)**
 
-Ausrichtung bedeutet: Dein Denken, Fühlen und Handeln zeigen in dieselbe Richtung. Wenn du denkst "Ich will fünf Klienten", aber fühlst "Ich bin es nicht wert" und handelst, indem du deine Website versteckst — dann sind drei Energien in drei verschiedene Richtungen unterwegs. Das Ergebnis: Stillstand.
+Ausrichtung bedeutet: Dein Denken, Fühlen und Handeln zeigen in dieselbe Richtung. Wenn du denkst "Ich will sichtbarer werden", aber fühlst "Ich bin es nicht wert" und handelst, indem du deine Website versteckst — dann ziehen Denken, Fühlen und Handeln in drei verschiedene Richtungen. Das Ergebnis: Stillstand.
 
 Kohärenz herstellen ist die eigentliche Manifestationsarbeit. Nicht das Vision Board — sondern die innere Ausrichtung aller Ebenen auf ein gemeinsames Ziel.
 
@@ -336,9 +336,9 @@ Ohne Handlung bleibt Manifestation eine Fantasie. Aber nicht jede Handlung ist g
 
 ### Der Manifestationsprozess für Business-Ziele
 
-**Phase 1 — Klären:** Was willst du wirklich? Nicht was du solltest, nicht was dein Coach dir sagt, nicht was im letzten Business-Kurs empfohlen wurde — was willst DU? Schreibe es auf. Spezifisch.
+**Phase 1 — Klären:** Was willst du wirklich? Nicht was du solltest, nicht was andere dir raten, nicht was im letzten Ratgeber empfohlen wurde — was willst DU? Schreibe es auf. Spezifisch.
 
-**Phase 2 — Fühlen:** Wie fühlt es sich an, wenn dieses Ziel erreicht ist? Nicht wie du denkst, dass es sich anfühlen sollte — wie fühlt es sich wirklich an? Geh in dieses Gefühl. Verankere es in deinem Körper. Das ist die Frequenz, die du aussenden willst.
+**Phase 2 — Fühlen:** Wie fühlt es sich an, wenn dieses Ziel erreicht ist? Nicht wie du denkst, dass es sich anfühlen sollte — wie fühlt es sich wirklich an? Geh in dieses Gefühl. Verankere es in deinem Körper. Dieses Gefühl gibt dir Orientierung für deine nächsten Schritte.
 
 **Phase 3 — Blockadencheck:** Was steht zwischen dir und diesem Ziel? Welche Glaubenssätze? Welche Ängste? Welche praktischen Hindernisse? Benenne sie alle — und arbeite sie ab, eine nach der anderen.
 
@@ -436,7 +436,7 @@ Emotionale Vorarbeit: Bevor du an die Aufgabe gehst, frage dich: "Welches Gefüh
 
 ### Der unsichtbare Feind
 
-Selbstsabotage ist das rätselhafteste Phänomen im Business: Du tust alles Richtige — und dann, kurz bevor der Durchbruch kommt, geschieht etwas: Du verpasst die entscheidende Deadline. Du streitest dich mit dem wichtigsten Klienten. Du vergisst den Termin. Du machst einen unerklärlichen Fehler. Nicht einmal. Immer wieder.
+Selbstsabotage ist das rätselhafteste Phänomen im Business: Du tust alles Richtige — und dann, kurz bevor der Durchbruch kommt, geschieht etwas: Du verpasst die entscheidende Deadline. Du zerstreitest dich im wichtigsten Moment. Du vergisst den Termin. Du machst einen unerklärlichen Fehler. Nicht einmal. Immer wieder.
 
 ### Warum sabotieren wir uns selbst?
 
@@ -452,7 +452,7 @@ Selbstsabotage ist kein Zufall und keine Dummheit — sie ist ein Schutzmechanis
 
 ### Selbstsabotage erkennen
 
-Achte auf wiederkehrende Muster: Dinge, die "immer" passieren. "Immer wenn ich kurz vor dem Durchbruch bin, wird jemand krank." "Jedes Mal, wenn ich einen großen Klienten gewinne, mache ich danach einen Fehler, der ihn wieder kostet." Diese Muster sind keine Zufälle — sie sind Hinweise.
+Achte auf wiederkehrende Muster: Dinge, die "immer" passieren. "Immer wenn ich kurz vor dem Durchbruch bin, wird jemand krank." "Jedes Mal, wenn sich eine große Chance auftut, mache ich danach einen Fehler, der sie wieder zunichtemacht." Diese Muster sind keine Zufälle — sie sind Hinweise.
 
 Achte auf den inneren Kommentar nach dem Scheitern: Ist da Erleichterung? Erleichterung nach dem Scheitern ist ein starkes Indiz für unbewusste Selbstsabotage — dein System ist erleichtert, dass die "Bedrohung" (Erfolg) abgewendet wurde.
 
@@ -498,7 +498,7 @@ Fragen für diesen Quadranten: Was ist die tiefste Wahrheit meines Business? Wel
 
 Die Herz-Energie betrifft alles, was mit Beziehungen zu tun hat: zu Klienten, Partnern, Mitarbeitern, zur Community. Wie kommunizierst du? Wie pflegst du Beziehungen? Wie gehst du mit Konflikten um?
 
-Ein Business mit starker Herz-Energie zieht loyale Klienten an, die zu Botschaftern werden. Ein Business mit schwacher Herz-Energie hat eine hohe Fluktuation — Klienten kommen und gehen, nichts Dauerhaftes entsteht.
+Ein Wirken mit starker Herz-Energie lässt tragfähige, loyale Beziehungen entstehen. Wo diese Energie fehlt, bleibt vieles flüchtig — Verbindungen kommen und gehen, nichts Dauerhaftes entsteht.
 
 **Quadrant 3 — Struktur & Prozesse (Wurzel-Energie)**
 
@@ -564,13 +564,13 @@ Als Solopreneur oder Kleinunternehmer ist deine persönliche Energie dein wertvo
 
 ### Energie-Räuber im Business
 
-**Falsche Klienten:** Klienten, die deine Energie aussaugen statt zu bereichern. Die ständig jammern, nie umsetzen, immer mehr wollen und nie zufrieden sind. Ein einziger solcher Klient kann dich mehr Energie kosten als fünf ideale Klienten dir geben.
+**Energiezehrende Beziehungen:** Menschen und Aufgaben, die deine Kraft aussaugen statt sie zu bereichern — die ständig fordern, nie zufrieden sind. Eine einzige solche Beziehung kann mehr Kraft kosten, als fünf nährende dir geben.
 
 **Vergleich:** Stundenlang andere Coaches auf Instagram beobachten und sich fragen, warum man nicht so erfolgreich ist. Vergleich ist der zuverlässigste Energiekiller überhaupt.
 
-**Multitasking:** Gleichzeitig E-Mails schreiben, Social Media posten, einen Kurs konzipieren und einen Klienten-Anruf planen. Multitasking ist eine Illusion — in Wahrheit ist es schnelles Hin-und-Her-Schalten, das mehr Energie verbraucht, als es spart.
+**Multitasking:** Gleichzeitig E-Mails schreiben, Social Media posten, einen Text schreiben und ein Telefonat planen. Multitasking ist eine Illusion — in Wahrheit ist es schnelles Hin-und-Her-Schalten, das mehr Energie verbraucht, als es spart.
 
-**Unklare Grenzen:** Immer erreichbar sein. Abends noch Klienten-Nachrichten beantworten. Am Wochenende arbeiten, weil "es ja nur kurz" dauert. Ohne klare Grenzen fließt deine Energie unkontrolliert ab.
+**Unklare Grenzen:** Immer erreichbar sein. Abends noch berufliche Nachrichten beantworten. Am Wochenende arbeiten, weil "es ja nur kurz" dauert. Ohne klare Grenzen fließt deine Kraft unkontrolliert ab.
 
 ### Energie-Rituale für Unternehmer
 
@@ -586,107 +586,99 @@ Deine Energie ist nicht unendlich — aber sie ist erneuerbar. Pflege sie wie de
     },
 
     // ============================================================
-    // MODUL 6 — Business-Energetik in der Beratungspraxis
+    // MODUL 6 — Dein eigener Weg mit Geld
     // ============================================================
     {
       id: 'C06-M6',
-      titel: 'Business-Energetik in der Beratungspraxis',
-      beschreibung: 'Business-Energetik als Beratungsangebot aufbauen — Zielgruppe, Prozessstruktur, Integration mit anderen Methoden und ethische Grundsätze.',
+      titel: 'Dein eigener Weg mit Geld',
+      beschreibung: 'Die Erkenntnisse dieses Kurses in deinem eigenen Leben verankern — innere Ausrichtung, die Verbindung zu Human Design und Numerologie für den eigenen Weg, und ethische Selbstreflexion.',
       lektionen: [
         {
           id: 'C06-M6-L1',
-          titel: 'Die Zielgruppe — Wer braucht Business-Energetik?',
-          inhalt: `## Die Zielgruppe
+          titel: 'Deine eigenen Geld-Themen erkennen',
+          inhalt: `## Deine eigenen Geld-Themen
 
-### Wer kommt zu einem Business-Energetiker?
+### Der ehrliche Blick nach innen
 
-Business-Energetik ist kein Mainstream-Angebot — und das ist seine Stärke. Es spricht Menschen an, die bereits verstanden haben, dass rein rationale Ansätze nicht ausreichen, um ihre geschäftlichen Herausforderungen zu lösen. Das sind typischerweise:
+Die wirksamste Arbeit dieses Kurses ist die an dir selbst. Oft sind es gerade sensible, engagierte Menschen — solche, die mit ihrer Arbeit einen Unterschied machen wollen —, die ihre eigenen Geld-Themen am wenigsten sehen. Sie können anderen zuhören und Mut machen, aber bei den eigenen Themen rund um Geld, Selbstwert und Sichtbarkeit stecken sie fest.
 
-**Solopreneure und Kleinunternehmer** — besonders in der Coaching-, Therapie- und Gesundheitsbranche. Sie haben oft eine hohe Sensibilität, wollen mit ihrer Arbeit einen Unterschied machen und stoßen an Grenzen, die nicht mit "mehr Strategie" zu lösen sind.
+### Wiederkehrende Muster bei dir selbst
 
-**Selbstständige Heiler, Coaches und Therapeuten** — die ironischerweise oft ihre eigenen Geldblockaden nicht sehen. Sie können anderen helfen, aber bei ihren eigenen Business-Themen stecken sie fest. Ein Business-Energetiker, der ihre Sprache spricht, wird zum vertrauenswürdigen Begleiter.
+Schau ehrlich hin, welche der folgenden Muster dir vertraut vorkommen:
 
-**Unternehmer in der Transition** — Menschen, die ein bestehendes Business transformieren oder ein neues aufbauen wollen und dabei merken, dass innere Arbeit nötig ist. Der Mittelständler, der nach dem Burnout neu anfangen will. Die Managerin, die sich selbstständig macht.
+**Die eigene Arbeit klein machen** — "Ach, das war doch nichts Besonderes." Das Bedürfnis, den eigenen Beitrag herunterzuspielen, statt ihn ruhig anzuerkennen.
 
-**Kreative und Künstler** — die mit dem Spannungsfeld zwischen schöpferischem Ausdruck und finanzieller Realität ringen. Ihre Geldblockaden haben oft besonders tiefe Wurzeln in der Überzeugung, dass Kunst und Kommerz unvereinbar sind.
+**Nicht fordern können** — Preise oder Bedingungen nicht klar benennen, aus Angst, zu viel zu verlangen oder abgelehnt zu werden.
 
-### Was die Zielgruppe NICHT ist
+**Überhöhte Bescheidenheit** — die Vorstellung, dass sinnstiftende Arbeit nichts kosten dürfe, dass Geld und Berufung unvereinbar seien.
 
-Business-Energetik ist nicht für Menschen, die eine Finanzberatung suchen. Es ist nicht für Start-ups, die einen Business-Plan brauchen. Es ist nicht für Unternehmen, die eine Change-Management-Strategie erwarten. Die Abgrenzung zu klassischer Unternehmensberatung muss klar kommuniziert werden.
+**Vermeidung** — Post nicht öffnen, die Steuererklärung aufschieben, den Kontostand nicht anschauen. Vermeidung verschafft kurzfristig Erleichterung und verstärkt langfristig die Anspannung.
 
-### Wie du sie erreichst
+### Deine Geld-Biografie
 
-Deine Zielgruppe ist oft bereits in spirituellen und persönlichkeitsentwickelnden Communitys unterwegs. Sie besucht Retreats, liest Bücher über Manifestation, hat vielleicht schon einen Coach — aber keinen, der die energetische Dimension ihres Business versteht.
+Eine der aufschlussreichsten Übungen: Schreibe deine persönliche Geschichte mit Geld auf — von der Kindheit bis heute. Welche Sätze über Geld hast du früh gehört? Wie ist deine Familie mit Geld umgegangen? Wann hast du dich rund ums Geld zum ersten Mal beschämt, ängstlich oder schuldig gefühlt? Diese Geschichte enthält fast immer die Schlüssel zu den heutigen Mustern.
 
-Sichtbar wirst du nicht durch klassisches Business-Marketing, sondern durch Inhalte, die die Verbindung von Energie und Business authentisch beleuchten. Ein Beitrag über Geldblockaden spricht diese Zielgruppe stärker an als ein Beitrag über Umsatzsteigerung.`
+### Welcher Geld-Archetyp bist du?
+
+Kehre zu den Geld-Archetypen aus Modul 1 zurück und frage dich ehrlich: Welcher dominiert bei mir? Wie zeigt er sich in meinem Alltag? Welche Stärken bringt er — und welche Schattenseiten sind gerade aktiv? Diese Selbsteinordnung ist kein Etikett, sondern eine Einladung, dich selbst besser zu verstehen.`
         },
         {
           id: 'C06-M6-L2',
-          titel: 'Der Beratungsprozess — Struktur und Ablauf',
-          inhalt: `## Der Beratungsprozess
+          titel: 'Dein persönlicher Reflexionsprozess',
+          inhalt: `## Dein persönlicher Reflexionsprozess
 
-### Ein bewährter Ablauf für Business-Energetik-Sessions
+### Ein Weg in vier Etappen — für dich selbst
 
-Business-Energetik verbindet klassische Coaching-Elemente mit energetischer Arbeit. Der folgende Prozess gibt eine bewährte Struktur, die du an deine eigene Arbeitsweise anpassen kannst.
+Die folgende Struktur führt dich Schritt für Schritt durch deine eigenen Geld-Themen. Nimm dir dafür Zeit — nicht an einem einzigen Abend, sondern über einige Wochen verteilt. Ein Notizbuch ist dein Begleiter.
 
-### Phase 1 — Bestandsaufnahme (Sitzung 1-2)
+### Etappe 1 — Bestandsaufnahme
 
-**Das Business-Energegramm:** Gemeinsam erstellt ihr ein Bild des aktuellen energetischen Zustands des Business. Welche Bereiche fließen? Wo stockt es? Wo gibt es Lecks? Nutze das Quadranten-Modell aus Modul 5 als Struktur.
+Zeichne ein ehrliches Bild deiner aktuellen Beziehung zum Geld. Nutze die vier Quadranten aus Modul 5 als Struktur: Wo fühlt sich dein Umgang stimmig an? Wo stockt es? Wo verlierst du Kraft? Schreibe deine Geld-Biografie und bestimme deinen Geld-Archetyp.
 
-**Die Geld-Biografie:** Der Klient schreibt seine persönliche Geschichte mit Geld auf — von der Kindheit bis heute. Diese Geschichte enthält fast immer die Schlüssel zu den aktuellen Blockaden.
+### Etappe 2 — Muster-Arbeit
 
-**Der Archetypen-Test:** Welcher Geld-Archetyp dominiert? Wie zeigt sich das im täglichen Business? Welche Stärken werden genutzt, welche Schattenseiten sind aktiv?
+Hier wird es intensiv. Gehe die Muster, die du erkannt hast, mit dem Fünf-Schritte-Prozess aus Modul 2 durch — mental, körperbezogen, achtsam. Typische Themen, die dabei auftauchen: das Gefühl, keinen Erfolg zu verdienen; Loyalitätskonflikte ("meine Familie war nie wohlhabend"); die Angst, sichtbar und damit angreifbar zu werden. Geh behutsam mit dir um.
 
-### Phase 2 — Blockaden-Arbeit (Sitzung 3-5)
+### Etappe 3 — Neuausrichtung
 
-Hier wird es intensiv. Gemeinsam geht ihr die identifizierten Blockaden durch — mental, somatisch und energetisch. Der Fünf-Schritte-Prozess aus Modul 2 bildet die Grundlage.
+Wenn sich alte Muster gelockert haben, entsteht Raum für Neues. Kläre für dich: Was ist mir wirklich wichtig? Welche Preise oder Bedingungen fühlen sich stimmig an? Welche Vorhaben entsprechen dem, was ich bin? Formuliere eine klare, ehrliche innere Ausrichtung.
 
-Typische Blockaden, die in dieser Phase auftauchen: Unwürdigkeit ("Ich verdiene keinen Erfolg"), Loyalitätskonflikte ("Meine Familie war nie wohlhabend"), Erfolgsangst ("Wenn ich erfolgreich bin, verliere ich meine Authentizität"), Sichtbarkeitsangst ("Wenn mich alle sehen, werde ich angreifbar").
+### Etappe 4 — Integration im Alltag
 
-### Phase 3 — Neuausrichtung (Sitzung 5-7)
+Die eigentliche Veränderung zeigt sich im Tun. Setze kleine, konkrete Schritte um, sammle Erfahrungen, begegne neuen Herausforderungen — und kehre immer wieder zu deinem Notizbuch zurück. Veränderung im Umgang mit Geld ist kein einmaliges Ereignis, sondern eine fortlaufende Praxis.
 
-Nachdem die Blockaden sich gelöst haben, entsteht Raum für Neues. In dieser Phase arbeitet ihr an: Klarer Vision und Mission, Preisgestaltung die sich stimmig anfühlt, Angebote die der authentischen Energie entsprechen, einem Businessplan, der nicht nur strategisch, sondern auch energetisch kohärent ist.
+### Wenn du mehr brauchst
 
-### Phase 4 — Integration und Begleitung (Sitzung 7-10)
-
-Die letzte Phase begleitet die praktische Umsetzung. Der Klient setzt um, sammelt Erfahrungen, stößt auf neue Herausforderungen — und hat dich als energetischen Sparringspartner. Diese Phase ist entscheidend: Ohne Umsetzungsbegleitung bleibt die Blockaden-Arbeit oft theoretisch.
-
-### Paket-Empfehlung
-
-Ein typisches Business-Energetik-Paket umfasst 8-10 Sitzungen über 3-4 Monate. Das gibt genug Zeit für Tiefenarbeit und Umsetzung. Einzelsitzungen können ergänzend angeboten werden — als "Energie-Tune-up" für Klienten, die den Grundprozess bereits durchlaufen haben.`
+Dieser Kurs ersetzt keine fachliche Hilfe. Bei anhaltenden finanziellen Schwierigkeiten gibt es Schuldner- und Finanzberatung; bei rechtlichen oder steuerlichen Fragen Steuerberater und Fachanwälte. Bei körperlichen oder seelischen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Diese Stellen aufzusuchen ist keine Schwäche, sondern gute Selbstfürsorge.`
         },
         {
           id: 'C06-M6-L3',
           titel: 'Integration, Ethik und dein eigener Weg',
           inhalt: `## Integration, Ethik und dein eigener Weg
 
-### Integration mit anderen Methoden
+### Verbindung mit anderen Selbstbetrachtungssystemen
 
-Business-Energetik steht nicht allein — sie wird durch die Integration anderer Methoden bereichert und vertieft.
+Die Arbeit an den eigenen Geld-Themen gewinnt an Tiefe, wenn du sie mit anderen Betrachtungssystemen verbindest — immer bezogen auf dich selbst.
 
-**Human Design & Business:** Das Design eines Unternehmers bestimmt, wie er sein Business am besten führt. Ein Generator braucht ein Business, das ihm sakrale Befriedigung gibt — jeden Tag. Ein Projektor braucht ein Business, das auf Einladung basiert — nicht auf kalte Akquise. Ein Manifestor braucht ein Business, das ihm Raum für Initiative gibt — ohne dass er sich ständig absichern muss. Die Integration von Human Design in die Business-Energetik macht die Beratung hochspezifisch und tief.
+**Human Design:** Dein Design gibt Hinweise, wie du am stimmigsten arbeitest und entscheidest. Als Generator entsteht Erfüllung, wenn deine tägliche Arbeit dir spürbare Befriedigung gibt. Als Projektor trägt dich das Prinzip der Einladung mehr als kalte Selbstvermarktung. Als Manifestor brauchst du Raum für eigene Initiative. Als Reflektor hilft dir Zeit und die richtige Umgebung für Entscheidungen. Diese Selbstkenntnis kann deinen eigenen Umgang mit Arbeit und Geld erleichtern.
 
-**Numerologie & Business:** Die Lebenszahl gibt Hinweise auf die ideale Business-Ausrichtung. Die Persönliche Jahreszahl zeigt, ob es Zeit zum Säen, Ernten oder Loslassen ist. Die Ausdruckszahl beschreibt die natürlichen Talente, die ins Business einfließen sollten.
+**Numerologie:** Deine Lebenszahl kann dir einen Spiegel für deine grundsätzliche Ausrichtung sein, dein persönliches Jahr ein Reflexionsrahmen für Timing — Zeit zum Säen, Ernten oder Loslassen. Verstehe beides als Einladung zur Betrachtung, nie als Vorschrift.
 
-**Coaching-Tools:** Die klassischen Coaching-Modelle (GROW, Solution Focus, systemisches Coaching) bilden das prozessuale Rückgrat. Business-Energetik ergänzt die Tiefendimension — aber der Coach braucht solides Handwerk.
+### Ethische Selbstreflexion
 
-### Ethische Grundsätze in der Business-Energetik
+Auch im Umgang mit dir selbst gelten klare Grundsätze:
 
-**Keine Heilsversprechen.** "Wenn du deine Geldblockade löst, wirst du reich" — das ist unseriös. Die Wahrheit: Blockaden-Arbeit öffnet Türen. Ob der Klient hindurchgeht und was ihn erwartet, hängt von vielen Faktoren ab, die du nicht kontrollierst.
+**Keine Heilsversprechen — auch nicht dir selbst gegenüber.** "Wenn ich diese Blockade löse, werde ich reich" ist unrealistisch. Die ehrlichere Haltung: Innere Arbeit öffnet Türen und schafft Klarheit. Ob und wie sich das äußerlich zeigt, hängt von vielen Faktoren ab, die niemand vollständig steuert.
 
-**Keine Abhängigkeit.** Dein Ziel ist, dass der Klient seine eigenen energetischen Muster erkennen und transformieren kann — nicht, dass er für jede Entscheidung deine energetische Rückendeckung braucht.
+**Keine Abhängigkeit von Werkzeugen.** Ziel ist, dass du deine eigenen Muster erkennen und verändern kannst — nicht, dass du für jede Entscheidung ein Ritual oder eine äußere Rückversicherung brauchst.
 
-**Transparenz über Grenzen.** Business-Energetik ist keine Finanzberatung, keine Therapie und kein Ersatz für fachliche Unternehmensberatung. Wenn ein Klient Schulden hat, braucht er einen Schuldnerberater. Wenn ein Klient depressiv ist, braucht er einen Therapeuten. Wenn ein Klient eine GmbH gründen will, braucht er einen Steuerberater. Verweise weiter, wenn du die Grenze erkennst.
-
-**Eigene Praxis.** Arbeite nur an Themen mit Klienten, die du bei dir selbst bereits bearbeitet hast. Du kannst niemanden durch einen Prozess führen, den du selbst nicht kennst. Deine eigene Geld-Arbeit, deine eigene Blockaden-Auflösung, dein eigener Business-Aufbau — das ist deine Qualifikation, mehr als jedes Zertifikat.
+**Klarheit über Grenzen.** Diese Selbsterfahrung ist keine Finanzberatung, keine Therapie und kein Ersatz für fachliche Beratung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Dein eigener Weg
 
-Business-Energetik ist ein Feld, das sich schnell entwickelt. Es gibt keinen festgelegten Standard, kein verbindliches Curriculum, keinen offiziellen Abschluss. Das bedeutet: Du hast die Freiheit — und die Verantwortung — deinen eigenen Ansatz zu entwickeln.
+Der Umgang mit Geld ist ein Lebensthema, das sich mit dir weiterentwickelt. Es gibt keinen Endpunkt, kein Zertifikat des "Fertigseins". Nimm die Werkzeuge und Modelle aus diesem Kurs als Ausgangspunkt und verbinde sie mit deiner eigenen Erfahrung und Intuition.
 
-Nimm die Werkzeuge und Modelle aus diesem Kurs als Ausgangspunkt. Kombiniere sie mit deinen eigenen Erfahrungen, deiner Intuition und den Methoden, die du bereits beherrschst. Entwickle deinen eigenen Stil, deine eigene Sprache, dein eigenes Angebot.
-
-Die Welt braucht Menschen, die die Verbindung zwischen Energie und Wirtschaft verstehen — die sehen, dass hinter jeder Bilanz ein Mensch steht, und hinter jedem Menschen ein energetisches Feld, das unterstützt oder blockiert werden kann. Wenn du dieser Mensch sein willst: Beginne bei dir selbst. Löse deine eigenen Geldblockaden. Baue dein eigenes Business energetisch kohärent auf. Und dann — begleite andere auf demselben Weg.`
+Beginne bei dir selbst. Schau ehrlich auf deine eigenen Geld-Muster. Kläre, was geklärt werden darf. Und finde Schritt für Schritt einen freieren, klareren und ruhigeren Umgang mit Geld und mit deiner eigenen Arbeit. Das ist die eigentliche Fülle: nicht eine Zahl auf dem Konto, sondern die innere Freiheit, deinen Wert zu kennen und ihn ruhig zu vertreten.`
         }
       ]
     }

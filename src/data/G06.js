@@ -1,17 +1,17 @@
-// G06.js — Yogalehrer-Grundausbildung
+// G06.js — Yoga — Philosophie, Asanas & Praxis
 // Standard ◈◈ · 6 Module · 18 Lektionen
-// Human Resonanz Akademie · Mai 2026
+// Human Resonanz Lernwelt · Mai 2026 · Saniert Juli 2026
 
 const G06 = {
   id: 'G06',
-  titel: 'Yogalehrer-Grundausbildung',
-  untertitel: 'Philosophie · Asanas · Pranayama · Unterrichtsmethodik',
+  titel: 'Yoga — Philosophie, Asanas & Praxis',
+  untertitel: 'Philosophie · Asanas · Pranayama · Eigenpraxis',
   bereich: 'koerpergeist',
   format: 'standard',
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
-  beschreibung: `Yoga ist weit mehr als körperliche Übung — es ist ein jahrtausendealtes System zur Vereinigung von Körper, Geist und Atem. In diesem Kurs lernst du die philosophischen Grundlagen, die wichtigsten Asanas mit sicherem Alignment, Pranayama und Meditation sowie die Methodik, um Yoga professionell zu unterrichten. Von der Energieanatomie über Sequencing bis zur Ethik — du baust dir ein fundiertes Wissen auf, das dich befähigt, Yoga authentisch zu praktizieren und weiterzugeben.`,
+  beschreibung: `Yoga ist weit mehr als körperliche Übung — es ist ein jahrtausendealtes System zur Vereinigung von Körper, Geist und Atem. In diesem Kurs lernst du die philosophischen Grundlagen, die wichtigsten Asanas mit sicherem Alignment, Pranayama und Meditation sowie die Kunst, deine eigene Praxis aufzubauen und zu vertiefen. Von der Energieanatomie über Sequencing bis zur Ethik — du baust dir ein fundiertes Wissen auf, mit dem du Yoga authentisch, sicher und selbstbestimmt praktizieren kannst.`,
   status: 'live',
 
   module: [
@@ -107,7 +107,7 @@ Was wir im Westen als "Yoga" kennen, ist ein vielstimmiger Chor aus verschiedene
 
 **Grundidee:** Eine fest definierte Abfolge von Haltungen (Serien), die immer gleich praktiziert wird. Die erste Serie (Primary Series) umfasst etwa 75 Haltungen und dauert 90 Minuten.
 
-**Praxis:** Mysore-Stil — jeder Schüler übt im eigenen Tempo die gelernte Sequenz, der Lehrer korrigiert individuell. Traditionell wird 6 Tage pro Woche praktiziert, frühmorgens.
+**Praxis:** Mysore-Stil — jeder Übende praktiziert im eigenen Tempo die gelernte Sequenz und wird individuell begleitet. Traditionell wird 6 Tage pro Woche praktiziert, frühmorgens.
 
 **Für wen:** Disziplinierte Menschen, die Struktur und Wiederholung schätzen. Die Regelmäßigkeit schafft eine tiefe körperliche und mentale Transformation.
 
@@ -129,11 +129,11 @@ Was wir im Westen als "Yoga" kennen, ist ein vielstimmiger Chor aus verschiedene
 
 ### Weitere Stile im Überblick
 
-**Iyengar Yoga:** Höchste Präzision in der Ausrichtung. Intensive Nutzung von Hilfsmitteln. Therapeutisch orientiert.
+**Iyengar Yoga:** Höchste Präzision in der Ausrichtung. Intensive Nutzung von Hilfsmitteln. Bekannt für sorgfältige, detailgenaue Anleitung.
 
 **Restorative Yoga:** Vollständig passiv, unterstützt durch Hilfsmittel. Tiefe Entspannung des Nervensystems. Ideal für Erschöpfung und Regeneration.
 
-**Yoga Nidra:** "Yogischer Schlaf" — eine geführte Tiefenentspannung im Liegen. Kein Asana, keine Bewegung. 30 Minuten Yoga Nidra entsprechen etwa 2 Stunden Schlaf.
+**Yoga Nidra:** "Yogischer Schlaf" — eine geführte Tiefenentspannung im Liegen. Kein Asana, keine Bewegung. Der Tradition nach tief regenerierend — viele Übende erleben es als ungewöhnlich erholsam.
 
 **Aerial Yoga:** Yoga im Tuch. Spielerisch, befreiend, umkehrhaltungsfreundlich.
 
@@ -354,7 +354,7 @@ Tadasana ist die Mutter aller Haltungen. Wenn hier alles stimmt, hast du das Fun
 
 ### Yoga passt sich dem Menschen an — nicht umgekehrt
 
-Es gibt keine "perfekte" Haltung — es gibt nur die Haltung, die für diesen Körper in diesem Moment richtig ist. Die Fähigkeit, Asanas zu modifizieren und Hilfsmittel einzusetzen, unterscheidet einen guten Lehrer von einem der nur Posen demonstriert.
+Es gibt keine "perfekte" Haltung — es gibt nur die Haltung, die für diesen Körper in diesem Moment richtig ist. Die Fähigkeit, Asanas zu modifizieren und Hilfsmittel einzusetzen, ist der Schlüssel zu einer Praxis, die deinem Körper wirklich dient — heute, hier, so wie du bist.
 
 ### Die fünf Standard-Hilfsmittel
 
@@ -373,7 +373,7 @@ Gefaltet unter dem Gesäß in sitzenden Haltungen hebt sie das Becken und erleic
 **Wand:**
 Das unterschätzte Hilfsmittel. Die Wand gibt Stabilität in Gleichgewichtshaltungen, Feedback in Umkehrhaltungen und Unterstützung in Armbalancen. Viparita Karani (Beine an der Wand) ist eine der wirksamsten Restorative-Haltungen.
 
-### Modifikation nach Zielgruppe
+### Modifikation für verschiedene Körper & Lebensphasen
 
 **Senioren:**
 Stuhl-Yoga ist kein "minderwertiges" Yoga — es ist eine vollwertige Praxis. Alle fünf Haltungsfamilien lassen sich auf einem Stuhl praktizieren. Fokus: Mobilität erhalten, Gleichgewicht trainieren, Sturzprävention, soziale Teilhabe.
@@ -385,7 +385,7 @@ Ab dem zweiten Trimester: Keine tiefen Drehungen (komprimieren den Bauch), keine
 Breitere Standpositionen, Blöcke zur Unterstützung, Variationen die Raum für den Bauch schaffen (breitere Füße in Uttanasana, Knie weiter auseinander in Balasana). Keine Annahmen — viele übergewichtige Menschen sind beweglicher als erwartet.
 
 **Einsteiger:**
-Weniger ist mehr. Grundhaltungen gründlich unterrichten statt durch eine Sequenz zu hetzen. Jeden Übergang erklären. Pausen erlauben. Balasana als "sichere Basis" etablieren — jederzeit dorthin zurückkehren.
+Weniger ist mehr. Grundhaltungen gründlich üben statt durch eine Sequenz zu hetzen. Jeden Übergang bewusst vollziehen. Pausen erlauben. Balasana als "sichere Basis" etablieren — jederzeit dorthin zurückkehren.
 
 ### Das Prinzip der Abstufung
 
@@ -397,7 +397,7 @@ Für jede Haltung gibt es drei Stufen:
 
 **Stufe 3 — Vertieft:** Eine intensivere Variation für Fortgeschrittene. Beispiel: Chaturanga mit angehobenem Bein (Eka Pada Chaturanga).
 
-Als Lehrer bietest du alle drei Stufen an — und machst klar, dass Stufe 1 kein "Versagen" ist, sondern eine vollwertige Praxis.
+Wähle für dich die Stufe, die heute passt — und erinnere dich: Stufe 1 ist kein "Versagen", sondern eine vollwertige Praxis.
 
 ### Übung: Modifikations-Tabelle
 
@@ -508,7 +508,7 @@ Bauchlage. Hände neben den Schultern, Ellenbogen eng am Körper. Beim Einatmen:
 - Halbe Kobra: Brustbein hebt höher, Ellenbogen noch gebeugt, Arme unterstützen.
 - Volle Kobra: Arme strecken (nicht ganz durchdrücken), Brustkorb weit offen.
 
-**Wirkung:** Stärkung der Rückenmuskulatur, Dehnung der Vorderseite, Herzöffnung. Therapeutisch bei Rundrücken und Schreibtisch-Haltung.
+**Wirkung:** Stärkung der Rückenmuskulatur, Dehnung der Vorderseite, Herzöffnung. Ein wohltuender Ausgleich zu langem Sitzen und Schreibtisch-Haltung.
 
 ### Setu Bandhasana — die Brücke
 
@@ -536,7 +536,7 @@ Kniestand, Knie hüftbreit. Hände in die Taille, Ellenbogen nach hinten. Beim E
 **Aufbau:**
 Bauchlage. Knie beugen, Hände greifen die Fußgelenke (oder einen Gurt um die Fußgelenke). Beim Einatmen: Gleichzeitig Oberkörper und Beine vom Boden heben. Die Kraft kommt aus dem Zug der Beine nach hinten — die Arme sind nur die Verbindung.
 
-**Wirkung:** Intensive Dehnung der gesamten Vorderseite, Stärkung des Rückens, Massierung der Bauchorgane.
+**Wirkung:** Intensive Dehnung der gesamten Vorderseite, Stärkung des Rückens; der Tradition nach eine belebende Qualität für die Körpermitte.
 
 ### Sicherheitsregeln für Rückbeugen
 
@@ -574,7 +574,7 @@ Aus Tadasana: Beim Ausatmen aus der Hüfte nach vorne beugen — nicht aus der T
 
 **Der häufigste Fehler:** Den unteren Rücken runden, um mit den Händen den Boden zu erreichen. Die Lösung: Knie beugen. Lieber mit gebeugten Knien und langem Rücken stehen als mit gestreckten Beinen und Rundrücken.
 
-**Wirkung:** Dehnung der gesamten Körperrückseite, Beruhigung des Nervensystems, Blutversorgung des Gehirns. Energetisch: Hingabe, Ego loslassen ("den Kopf verbeugen").
+**Wirkung:** Dehnung der gesamten Körperrückseite; viele Übende erleben die Haltung als beruhigend und klärend. Energetisch: Hingabe, Ego loslassen ("den Kopf verbeugen").
 
 ### Paschimottanasana — sitzende Vorbeuge
 
@@ -589,7 +589,7 @@ Die wichtigste Haltung im gesamten Yoga. Balasana ist jederzeit erlaubt — in j
 
 **Aufbau:** Kniestand, Zehen zusammen, Knie hüftbreit oder weiter. Oberkörper nach vorne senken, Stirn auf den Boden (oder Block). Arme nach vorne gestreckt oder an den Seiten zurück.
 
-**Wirkung:** Tiefe Beruhigung, Rückzug, Sicherheit. Die fötale Position aktiviert das parasympathische Nervensystem.
+**Wirkung:** Tiefe Beruhigung, Rückzug, Sicherheit. Die fötale Position wird von den meisten als zutiefst besänftigend erlebt.
 
 ### Ardha Matsyendrasana — halber Drehsitz
 
@@ -598,7 +598,7 @@ Sitz, rechtes Bein über das linke Knie stellen, rechter Fuß am Boden. Linker A
 
 **Alignment-Fokus:** Drehung kommt aus der Brustwirbelsäule — nicht aus der Lendenwirbelsäule oder dem Nacken. Beide Sitzbeinhöcker bleiben am Boden. Länge vor Tiefe der Drehung.
 
-**Wirkung:** Mobilisation der Wirbelsäule, Massage der inneren Organe, Anregung der Verdauung. Energetisch: Loslassen von Altem, Perspektivwechsel.
+**Wirkung:** Mobilisation der Wirbelsäule; der Tradition nach wird Drehungen eine reinigende, anregende Qualität zugeschrieben. Energetisch: Loslassen von Altem, Perspektivwechsel.
 
 ### Sarvangasana — der Schulterstand
 
@@ -609,15 +609,15 @@ Rückenlage. Beine anheben, Becken mit den Händen stützen, Beine zur Decke str
 
 **Kontraindikationen:** Nackenprobleme, Bluthochdruck, Menstruation (umstritten — manche Traditionen empfehlen Umkehrhaltungen, andere nicht), Grüner Star. Bei Unsicherheit: Viparita Karani (Beine an der Wand) als sichere Alternative.
 
-**Wirkung:** Beruhigung des Nervensystems, Anregung der Schilddrüse, verbesserte venöse Durchblutung. Energetisch: Perspektivwechsel, die Welt auf den Kopf stellen.
+**Wirkung:** Der Tradition nach ausgleichend und sammelnd; viele Übende erleben ein Gefühl von Ruhe und Frische. Energetisch: Perspektivwechsel, die Welt auf den Kopf stellen.
 
 ### Viparita Karani — Beine an der Wand
 
-Die sanfteste und zugänglichste Umkehrhaltung — und eine der therapeutisch wirksamsten.
+Die sanfteste und zugänglichste Umkehrhaltung — und eine der wohltuendsten.
 
 **Aufbau:** Gesäß an die Wand, Beine nach oben gestreckt, Rücken am Boden. Optional: Bolster unter dem Becken. 5–15 Minuten halten.
 
-**Wirkung:** Lindert müde Beine, beruhigt das Nervensystem, reguliert den Blutdruck, verbessert den Schlaf. Die perfekte Haltung nach einem langen Tag.
+**Wirkung:** Wohltuend für müde Beine, still und entlastend — viele Übende schätzen sie als Abendritual. Die perfekte Haltung nach einem langen Tag.
 
 ### Übung: Transformations-Sequenz
 
@@ -759,10 +759,10 @@ Beobachte, was ist — Atem, Gedanken, Empfindungen — ohne zu urteilen, ohne z
 Wiederholung eines Mantras — innerlich (Japa) oder laut. Das Mantra ersetzt den Gedankenstrom. Beispiele: "So Hum" (Ich bin das), "Om", "Om Namah Shivaya".
 
 **Trataka (Kerzenmeditation):**
-Blick auf eine Kerzenflamme richten, ohne zu blinzeln, bis die Augen tränen. Dann die Augen schließen und das Nachbild beobachten. Außergewöhnlich wirksam für Konzentration.
+Blick auf eine Kerzenflamme richten, ohne zu blinzeln, bis die Augen tränen. Dann die Augen schließen und das Nachbild beobachten. Ein klassisches Werkzeug zur Schulung der Konzentration.
 
 **Yoga Nidra (Yogischer Schlaf):**
-Geführte Tiefenentspannung in Rückenlage (Savasana). Der Körper schläft, der Geist bleibt wach. 30 Minuten Yoga Nidra können 2 Stunden Schlaf ersetzen. Besonders heilsam bei Stress, Trauma und Schlafstörungen.
+Geführte Tiefenentspannung in Rückenlage (Savasana). Der Körper ruht, der Geist bleibt wach. Der Tradition nach tief regenerierend — viele Übende erleben Yoga Nidra als eine der erholsamsten Praktiken überhaupt.
 
 ### Übung: 15-Minuten-Meditation
 
@@ -828,7 +828,7 @@ Mudras sind Handgesten, die den Energiefluss im Körper lenken. Jeder Finger rep
 
 ### Klang in der Yoga-Praxis
 
-**Klangschalen:** Zu Beginn oder Ende der Klasse. Der Klang einer Klangschale schafft einen Übergang — vom Alltag in die Praxis und zurück. Die Obertöne beruhigen das Nervensystem.
+**Klangschalen:** Zu Beginn oder Ende der Klasse. Der Klang einer Klangschale schafft einen Übergang — vom Alltag in die Praxis und zurück. Viele erleben die Obertöne als tief beruhigend.
 
 **Harmonium / Kirtan:** Call-and-Response-Singen von Mantras. Kirtan ist Bhakti Yoga — der Weg der Hingabe durch Klang. Keine Gesangsausbildung nötig — es geht um Ausdruck, nicht um Perfektion.
 
@@ -848,19 +848,19 @@ Beobachte: Wie verändert der Klang deinen inneren Zustand? Wo im Körper spürs
     },
 
     // ============================================================
-    // MODUL 5 — Sequenzen & Unterrichtsmethodik
+    // MODUL 5 — Deine Praxis gestalten
     // ============================================================
     {
       id: 'G06-M5',
-      titel: 'Sequenzen & Unterrichtsmethodik',
-      beschreibung: 'Den Aufbau einer Yogastunde verstehen, den Energiebogen einer Sequenz gestalten und sicher mit Assists und Hands-on arbeiten.',
+      titel: 'Deine Praxis gestalten',
+      beschreibung: 'Den Aufbau einer ausgewogenen Yogapraxis verstehen, den Energiebogen der eigenen Sequenz gestalten und achtsam mit Übungspartnerschaften umgehen.',
       lektionen: [
         {
           id: 'G06-M5-L13',
           titel: 'Sequencing-Prinzipien — Aufwärmen, Peak-Pose & Cool-down',
           inhalt: `## Sequencing-Prinzipien
 
-### Die Architektur einer Yogastunde
+### Die Architektur einer Yogapraxis
 
 Eine gute Yogasequenz ist wie ein Musikstück — sie hat einen Anfang, einen Aufbau, einen Höhepunkt und ein Ausklingen. Sie folgt einem Energiebogen, der den Körper sicher vorbereitet, fordert und wieder zur Ruhe bringt.
 
@@ -887,19 +887,19 @@ Savasana — die wichtigste Haltung. Hier integriert der Körper alles, was in d
 ### Die fünf Sequencing-Regeln
 
 **Regel 1: Vorbereitung vor Ausführung.**
-Jede Haltung muss anatomisch vorbereitet sein. Bevor du Ustrasana (Kamel) unterrichtest, müssen die Hüftbeuger und die Brustwirbelsäule geöffnet sein. Bevor du Sirsasana (Kopfstand) unterrichtest, muss die Rumpfkraft aufgebaut sein.
+Jede Haltung muss anatomisch vorbereitet sein. Bevor du Ustrasana (Kamel) praktizierst, müssen die Hüftbeuger und die Brustwirbelsäule geöffnet sein. Bevor du Sirsasana (Kopfstand) übst, muss die Rumpfkraft aufgebaut sein.
 
 **Regel 2: Gegenhaltungen.**
 Nach Rückbeugen → sanfte Vorbeuge. Nach intensiven Drehungen → neutrale Position. Nach Umkehrhaltungen → Savasana oder sanfte sitzende Haltung.
 
 **Regel 3: Seitengleichheit.**
-Was rechts passiert, passiert auch links — in der gleichen Dauer. Ausnahme: Der Schüler hat eine bekannte Asymmetrie und arbeitet bewusst an einer Seite länger.
+Was rechts passiert, passiert auch links — in der gleichen Dauer. Ausnahme: Du hast eine bekannte Asymmetrie und arbeitest bewusst an einer Seite länger.
 
 **Regel 4: Weniger ist mehr.**
-Eine Stunde mit 10 gut unterrichteten Haltungen ist wertvoller als 30 Haltungen im Schnelldurchlauf. Gib den Schülern Zeit, in der Haltung anzukommen.
+Eine Praxis mit 10 bewusst geübten Haltungen ist wertvoller als 30 Haltungen im Schnelldurchlauf. Gib dir Zeit, in der Haltung anzukommen.
 
 **Regel 5: Savasana ist Pflicht.**
-Keine Yogastunde ohne Savasana. Niemals. Nicht verkürzen, nicht überspringen, nicht durch eine andere Haltung ersetzen.
+Keine Yogapraxis ohne Savasana. Niemals. Nicht verkürzen, nicht überspringen, nicht durch eine andere Haltung ersetzen.
 
 ### Beispiel-Sequenz: 60 Minuten Vinyasa
 
@@ -926,16 +926,16 @@ Entwirf eine 45-Minuten-Sequenz mit dem Thema "Erdung":
         },
         {
           id: 'G06-M5-L14',
-          titel: 'Eine Klasse aufbauen — Thema, Cues, Raum halten & Zeitmanagement',
-          inhalt: `## Eine Klasse aufbauen
+          titel: 'Deine Heimpraxis strukturieren — Thema, innere Anleitung, Raum & Zeit',
+          inhalt: `## Deine Heimpraxis strukturieren
 
-### Unterrichten ist eine eigene Kunstform
+### Von der geführten Stunde zur eigenen Praxis
 
-Eine Asana perfekt ausführen und eine Klasse unterrichten sind zwei völlig verschiedene Fähigkeiten. Du kannst ein hervorragender Praktizierender und ein mittelmäßiger Lehrer sein — oder umgekehrt. Unterrichten erfordert Kommunikation, Raumwahrnehmung, Empathie und die Fähigkeit, gleichzeitig bei dir und bei deinen Schülern zu sein.
+In einer Klasse führt dich eine Stimme durch die Praxis. Zuhause bist du selbst diese Stimme. Das ist eine eigene Fähigkeit — und eine der wertvollsten, die du entwickeln kannst: gleichzeitig die Übende und die innere Begleiterin zu sein. Wer seine eigene Praxis strukturieren kann, ist unabhängig von Studios, Videos und Zeitplänen anderer.
 
 ### Ein Thema setzen
 
-Jede gute Klasse hat ein Thema — einen roten Faden, der die Sequenz zusammenhält und der Stunde eine Richtung gibt. Das Thema muss nicht ausgesprochen werden — es kann subtil in der Auswahl der Haltungen und Worte liegen.
+Jede gute Praxis hat ein Thema — einen roten Faden, der die Sequenz zusammenhält und ihr eine Richtung gibt. Das Thema muss nicht groß sein — es kann subtil in der Auswahl der Haltungen und deiner inneren Ausrichtung liegen.
 
 **Körperliche Themen:** Hüftöffner, Gleichgewicht, Schulteröffnung, Rückenstärkung, Flexibilität.
 
@@ -943,119 +943,113 @@ Jede gute Klasse hat ein Thema — einen roten Faden, der die Sequenz zusammenh�
 
 **Philosophische Themen:** Ahimsa (Gewaltlosigkeit — auch dir selbst gegenüber), Santosha (Zufriedenheit mit dem, was ist), Tapas (das innere Feuer der Disziplin).
 
-### Die Kunst des Cueing
+### Innere Anleitung — die Kunst der Selbstführung
 
-Cueing — die verbalen Anweisungen während der Klasse — ist die wichtigste Lehrerfähigkeit.
+Was in Klassen "Cueing" heißt, kannst du für dich selbst nutzen: klare innere Anweisungen, die deine Aufmerksamkeit lenken und deine Ausrichtung präzisieren.
 
-**Anatomische Cues:** "Beuge dein rechtes Knie über dem Knöchel." Präzise, neutral, jeder versteht es.
+**Anatomische Selbst-Anweisungen:** "Knie über dem Knöchel." Präzise, neutral, sofort umsetzbar.
 
-**Richtungs-Cues:** "Strecke die Arme zur Decke." "Schiebe das Becken nach vorne." "Verwurzle den hinteren Fuß."
+**Richtungs-Anweisungen:** "Arme zur Decke strecken." "Becken nach vorne schieben." "Den hinteren Fuß verwurzeln."
 
-**Bildhafte Cues:** "Stelle dir vor, deine Wirbelsäule ist ein Bambusrohr — fest und flexibel zugleich." "Lass deine Schulterblätter wie Schmetterlingsflügel nach unten sinken." Bilder sind mächtiger als anatomische Anweisungen — sie sprechen das Unterbewusstsein an.
+**Bildhafte Anweisungen:** "Meine Wirbelsäule ist ein Bambusrohr — fest und flexibel zugleich." "Die Schulterblätter sinken wie Schmetterlingsflügel nach unten." Bilder sind mächtiger als anatomische Anweisungen — sie sprechen das Unterbewusstsein an.
 
-**Atemanweisungen:** "Einatmen — Arme hoch. Ausatmen — falte nach vorne." "Atme in die Weite deines Brustkorbs." "Lass die Ausatmung doppelt so lang sein wie die Einatmung."
+**Atemanweisungen:** "Einatmen — Arme hoch. Ausatmen — nach vorne falten." "In die Weite des Brustkorbs atmen." "Die Ausatmung doppelt so lang wie die Einatmung."
 
-**Cue-Regeln:**
-1. Weniger ist mehr — überfrachte nicht mit Anweisungen
+**Regeln der Selbstführung:**
+1. Weniger ist mehr — überfrachte dich nicht mit Anweisungen
 2. Prioritäten setzen: Sicherheit vor Vertiefung vor Ästhetik
-3. Positive Sprache: "Aktiviere den Unterbauch" statt "Lass den Bauch nicht hängen"
-4. Demonstriere nicht ständig — wenn du die ganze Zeit vormachst, siehst du deine Schüler nicht
+3. Positive Sprache: "Unterbauch aktivieren" statt "Bauch nicht hängen lassen"
+4. Sprich innerlich freundlich mit dir — der Ton deiner inneren Stimme prägt deine Praxis
 
-### Raum halten
+### Deinen Übungsraum gestalten
 
-"Raum halten" bedeutet: Eine Atmosphäre schaffen, in der sich die Schüler sicher fühlen — körperlich, emotional und energetisch.
+Ein guter Übungsraum trägt die Praxis — auch zuhause, auch auf zwei Quadratmetern.
 
-**Praktische Aspekte:**
-- Temperatur: Angenehm warm, nicht zu heiß (außer Hot Yoga). Frische Luft ohne Zugluft.
-- Licht: Gedämpft, warm. Keine Neonröhren. Kerzen wenn möglich.
-- Musik: Optional. Wenn ja: instrumental, leise, ohne Lyrics die ablenken. Manche Traditionen unterrichten in Stille.
-- Handy: Dein Handy ist aus. Nicht auf lautlos — aus.
+- Temperatur: Angenehm warm, frische Luft ohne Zugluft.
+- Licht: Gedämpft, warm. Keine Neonröhren. Eine Kerze verändert alles.
+- Musik: Optional. Wenn ja: instrumental, leise. Viele Traditionen üben in Stille.
+- Handy: Aus. Nicht auf lautlos — aus. Diese 30 Minuten gehören dir.
+- Fester Ort: Wenn möglich, immer dieselbe Ecke — der Ort selbst wird zum Anker.
 
-**Energetische Aspekte:**
-- Beginne die Klasse pünktlich — das zeigt Respekt.
-- Stehe nicht erhöht über den Schülern — bewege dich auf Augenhöhe durch den Raum.
-- Scanne regelmäßig den Raum: Wer kämpft? Wer langweilt sich? Wer braucht Modifikation?
-- Halte die Pause nach einer Anweisung — gib den Schülern Zeit, sie umzusetzen.
+### Zeit einteilen
 
-### Zeitmanagement
+**Die häufigsten Timing-Fehler in der Eigenpraxis:**
+- Zu viel Zeit im Aufwärmen, keine Zeit für den Cool-down
+- Die intensivste Haltung zu spät, Savasana wird abgekürzt
+- Zu viel geplant, alles wird gehetzt
 
-**Die häufigsten Timing-Fehler:**
-- Zu viel Zeit im Aufwärmen, keine Zeit für Cool-down
-- Peak-Pose zu spät, Savasana wird abgekürzt
-- Zu viele Haltungen geplant, alles wird gehetzt
+**Lösung:** Plane rückwärts. Savasana fest einplanen (mindestens 5 Minuten bei 60 Min Praxis). Dann Peak-Pose, dann Aufbau, dann Ankommen. Was nicht passt, fällt weg — aber Savasana nie.
 
-**Lösung:** Plane rückwärts. Savasana fest einplanen (mindestens 5 Minuten bei 60 Min, 8–10 Minuten bei 75–90 Min). Dann Peak-Pose, dann Aufbau, dann Ankommen. Was nicht passt, fällt weg — aber Savasana nie.
+### Übung: Selbstführungs-Praxis
 
-### Übung: Cue-Praxis
+Wähle Virabhadrasana II und formuliere drei innere Anweisungen:
+1. Eine anatomische für die Knie-Ausrichtung
+2. Eine bildhafte für die Armhaltung
+3. Eine Atem-Anweisung für die Vertiefung
 
-Wähle Virabhadrasana II und schreibe drei verschiedene Cues:
-1. Ein anatomischer Cue für die Knie-Ausrichtung
-2. Ein bildhafter Cue für die Armhaltung
-3. Ein Atem-Cue für die Vertiefung
-
-Lies sie laut vor. Klingen sie klar, einladend, umsetzbar?`
+Sprich sie einmal laut aus, bevor du übst. Klingen sie klar, freundlich, umsetzbar? Dann nimm sie mit auf die Matte.`
         },
         {
           id: 'G06-M5-L15',
-          titel: 'Assists & Hands-on — Wann, Wie & Consent-Prinzip',
-          inhalt: `## Assists & Hands-on
+          titel: 'Übungspartnerschaften & achtsame Berührung — Das Consent-Prinzip',
+          inhalt: `## Übungspartnerschaften & achtsame Berührung
 
-### Berührung als Lehrwerkzeug
+### Gemeinsam üben im privaten Rahmen
 
-Körperliche Assists — Berührungen, die eine Haltung korrigieren, vertiefen oder unterstützen — sind eines der wirksamsten Werkzeuge im Yoga-Unterricht. Und eines der sensibelsten. Eine gut platzierte Hand kann in drei Sekunden vermitteln, was drei Minuten verbale Anleitung nicht schaffen. Eine unerwünschte oder unsachgemäße Berührung kann Vertrauen zerstören und im schlimmsten Fall verletzen.
+Yoga mit einem Übungspartner — dem Partner, einer Freundin, einem Familienmitglied — hat eine eigene Qualität: Man sieht, was man selbst nicht spürt, und spürt, was man selbst nicht sieht. Sanfte, achtsame Berührung kann dabei in Sekunden vermitteln, was Worte nicht schaffen. Und genau deshalb verlangt sie Sorgfalt: Eine unerwünschte oder unachtsame Berührung kann Vertrauen beschädigen — auch zwischen Menschen, die sich nahestehen.
 
 ### Das Consent-Prinzip
 
 **Regel Nummer 1: Berührung nur mit Einverständnis.**
 
-Das Einverständnis muss vor der Klasse aktiv eingeholt werden. Nicht stillschweigend vorausgesetzt, nicht durch Anwesenheit impliziert.
+Das Einverständnis wird aktiv eingeholt — nicht stillschweigend vorausgesetzt, auch nicht in der engsten Beziehung.
 
 **Praktische Umsetzung:**
-- Zu Beginn der Klasse: "Ich biete heute körperliche Assists an. Wenn du heute nicht berührt werden möchtest, leg eine Hand auf die Brust — das ist unser Zeichen, und ich respektiere es ohne Frage."
-- Consent-Karten: Manche Studios verwenden Karten (grün = ja, rot = nein), die neben die Matte gelegt werden.
-- Im Einzelunterricht: "Darf ich deine Schulter korrigieren?" — Direkte Frage, jedes Mal.
+- Vor dem gemeinsamen Üben: "Ich würde dich heute an ein, zwei Stellen sanft unterstützen — ist das okay? Und sag jederzeit Stopp."
+- Während des Übens: "Darf ich deine Schulter berühren?" — Direkte Frage, jedes Mal bei einer neuen Stelle.
+- Falls du selbst in Studios übst, begegnet dir das Prinzip dort ähnlich: Manche arbeiten mit Consent-Karten (grün = ja, rot = nein) neben der Matte.
 
-**Wichtig:** "Nein" braucht keine Begründung. Ein Schüler, der keine Berührung wünscht, ist nicht "schwierig" — er hat klare Grenzen. Respektiere sie wortlos.
+**Wichtig:** "Nein" braucht keine Begründung. Wer keine Berührung wünscht, hat klare Grenzen — respektiere sie wortlos. Das gilt in beide Richtungen.
 
-### Verbale vs. taktile Assists
+### Verbale vs. taktile Unterstützung
 
-**Verbaler Assist:** "Zieh deine Schulterblätter zusammen und nach unten." Vorteil: Kein Körperkontakt nötig, funktioniert bei allen. Nachteil: Abstrakt, erfordert Körperbewusstsein.
+**Verbal:** "Zieh deine Schulterblätter zusammen und nach unten." Vorteil: Kein Körperkontakt nötig. Nachteil: Abstrakt, erfordert Körperbewusstsein.
 
-**Visueller Assist:** Du demonstrierst die gewünschte Bewegung. Vorteil: Anschaulich. Nachteil: Du verlierst den Blick auf den Rest der Klasse.
+**Visuell:** Du zeigst die gewünschte Bewegung an dir selbst. Vorteil: Anschaulich und völlig berührungsfrei.
 
-**Taktiler Assist:** Sanfte Berührung, die den Schüler in die richtige Richtung lenkt. Vorteil: Direkt, präzise, oft transformativ. Nachteil: Erfordert Consent, Können und Sensibilität.
+**Taktil:** Sanfte Berührung, die in die richtige Richtung einlädt. Vorteil: Direkt und präzise. Voraussetzung: Einverständnis, Ruhe und Sensibilität.
 
-### Prinzipien des taktilen Assists
+### Prinzipien achtsamer Berührung
 
 **1. Stabilität geben, nicht Tiefe erzwingen.**
-Der häufigste Fehler: Den Schüler tiefer in eine Haltung drücken. Ein guter Assist stabilisiert und gibt Sicherheit — er zwingt nicht. "Zeigen, nicht schieben."
+Der häufigste Fehler: den anderen tiefer in eine Haltung drücken. Gute Unterstützung stabilisiert und gibt Sicherheit — sie zwingt nicht. "Zeigen, nicht schieben."
 
 **2. Fester, ruhiger Kontakt.**
-Berühre mit der ganzen Hand, nicht mit einzelnen Fingern. Fester Kontakt vermittelt Sicherheit, zaghaftes Tippen verunsichert. Lege die Hand auf, lass sie einen Moment ruhen, dann leite sanft.
+Mit der ganzen Hand berühren, nicht mit einzelnen Fingern. Fester Kontakt vermittelt Sicherheit, zaghaftes Tippen verunsichert. Hand auflegen, einen Moment ruhen lassen, dann sanft leiten.
 
 **3. In Richtung der Schwerkraft arbeiten.**
-Nach unten drücken und verwurzeln ist sicherer als nach oben oder zur Seite schieben. Ein nach unten gerichteter Druck auf die Schultern in Uttanasana hilft der Wirbelsäule, sich zu verlängern.
+Nach unten begleiten und verwurzeln ist sicherer als nach oben oder zur Seite schieben.
 
 **4. Nie über Gelenke drücken.**
 Knie, Ellenbogen, Nacken — Gelenke werden nie direkt belastet. Immer muskulär arbeiten: Oberschenkel, Oberarme, Schulterblätter.
 
 **5. Wenn im Zweifel — nicht berühren.**
-Ein ausgelassener Assist schadet nie. Ein falscher kann es.
+Eine ausgelassene Berührung schadet nie. Eine falsche kann es.
 
-### Beispiele für sichere Assists
+### Beispiele für sanfte Partner-Unterstützung
 
-**Savasana:** Hände auf die Schultern legen und sanft nach unten ziehen — Schultern sinken, Nacken verlängert sich. Dann Hände sanft an die Schläfen legen und den Kopf minimal zur Seite drehen und zurück — löst Nackenverspannung.
+**Savasana:** Hände auf die Schultern legen und sanft nach unten ziehen — die Schultern sinken, der Nacken verlängert sich.
 
-**Uttanasana:** Hände auf den oberen Rücken legen und sanft nach unten Richtung Boden drücken — die Wirbelsäule verlängert sich.
+**Uttanasana:** Hände auf den oberen Rücken legen, sanfter Impuls Richtung Boden — die Wirbelsäule verlängert sich.
 
-**Balasana:** Hände auf das Kreuzbein legen und sanft in Richtung Fersen drücken — erdend, beruhigend, lösend.
+**Balasana:** Hände auf das Kreuzbein, sanfter, ruhiger Druck Richtung Fersen — erdend, besänftigend, lösend.
 
-### Übung: Assist-Paarübung
+### Übung: Partner-Übung
 
-Übe mit einem Partner:
-1. Frage nach Consent
+Übe mit einem Menschen deines Vertrauens:
+1. Frage nach Einverständnis
 2. Lege in Balasana die Hände auf das Kreuzbein — sanfter, ruhiger Druck
-3. Partner gibt Feedback: Zu viel? Zu wenig? Richtige Stelle?
+3. Dein Gegenüber gibt Feedback: Zu viel? Zu wenig? Richtige Stelle?
 4. Wechseln
 
 Die wichtigste Lektion: Fragen, zuhören, anpassen.`
@@ -1064,12 +1058,12 @@ Die wichtigste Lektion: Fragen, zuhören, anpassen.`
     },
 
     // ============================================================
-    // MODUL 6 — Deine Yoga-Praxis & -Lehre
+    // MODUL 6 — Deine Yoga-Praxis vertiefen
     // ============================================================
     {
       id: 'G06-M6',
-      titel: 'Deine Yoga-Praxis & -Lehre',
-      beschreibung: 'Yoga mit Energiearbeit verbinden, eine nachhaltige Eigenpraxis aufbauen und ethisch verantwortungsvoll unterrichten.',
+      titel: 'Deine Yoga-Praxis vertiefen',
+      beschreibung: 'Yoga mit Energiearbeit verbinden, eine nachhaltige Eigenpraxis aufbauen und den eigenen Weg achtsam und ethisch gestalten.',
       lektionen: [
         {
           id: 'G06-M6-L16',
@@ -1078,7 +1072,7 @@ Die wichtigste Lektion: Fragen, zuhören, anpassen.`
 
 ### Wo zwei Welten sich treffen
 
-Yoga und Energiearbeit teilen dieselbe Grundannahme: Der Mensch ist mehr als sein physischer Körper. Beide Systeme arbeiten mit feinstofflicher Energie — Yoga nennt sie Prana, die chinesische Medizin nennt sie Chi, die westliche Energiearbeit spricht von Bioenergie. Die Integration beider Ansätze schafft eine Praxis, die tiefer wirkt als jede einzelne Methode.
+Yoga und Energiearbeit teilen dieselbe Grundannahme: Der Mensch ist mehr als sein physischer Körper. Beide Systeme arbeiten mit feinstofflicher Energie — Yoga nennt sie Prana, die chinesische Medizin nennt sie Chi, die westliche Energiearbeit spricht von Bioenergie. Die Integration beider Ansätze schafft eine Praxis, die viele als tiefer und ganzheitlicher erleben.
 
 ### Chakra-Sequenzen
 
@@ -1103,9 +1097,9 @@ Yin Yoga arbeitet nicht nur mit Faszien — es folgt dem System der Meridiane au
 
 **Integration in die Praxis:** Eine Yin-Stunde nach der Fünf-Elemente-Lehre aufbauen (Holz → Feuer → Erde → Metall → Wasser), wobei jedes Element bestimmte Meridiane und Emotionen anspricht.
 
-### Yoga Nidra als Heilformat
+### Yoga Nidra als Tiefenformat
 
-Yoga Nidra — der "yogische Schlaf" — ist eine der wirkungsvollsten Brücken zwischen Yoga und Energiearbeit. In der Tiefenentspannung wird der Zugang zum Unterbewusstsein geöffnet — ein Zustand, in dem Heilung, Umprogrammierung und tiefe Regeneration stattfinden.
+Yoga Nidra — der "yogische Schlaf" — ist eine der wirkungsvollsten Brücken zwischen Yoga und Energiearbeit. In der Tiefenentspannung wird der Zugang zum Unterbewusstsein geöffnet — ein Zustand tiefer Ruhe, in dem Regeneration und innere Neuausrichtung erlebt werden können.
 
 **Aufbau einer Yoga-Nidra-Sitzung:**
 1. Entspannung (Körper-Scan, systematische Muskelentspannung)
@@ -1117,7 +1111,7 @@ Yoga Nidra — der "yogische Schlaf" — ist eine der wirkungsvollsten Brücken 
 7. Sankalpa wiederholen
 8. Rückkehr ins Wachbewusstsein
 
-**Wirkung:** Stressreduktion, verbesserte Schlafqualität, Traumaverarbeitung, emotionale Regulation. Yoga Nidra ist besonders geeignet für Menschen, die nicht sitzen können oder wollen.
+**Wirkung:** Viele Übende berichten von tiefer Entspannung und einem Gefühl innerer Ordnung. Yoga Nidra ist besonders geeignet für Menschen, die nicht sitzen können oder wollen.
 
 ### Übung: Chakra-Kurzpraxis
 
@@ -1134,7 +1128,7 @@ Wähle ein Chakra, das du heute ansprechen möchtest, und gestalte eine 15-Minut
 
 ### Sadhana — die tägliche Praxis
 
-Sadhana bedeutet "tägliche spirituelle Praxis". Es ist das Fundament deiner Entwicklung als Yogapraktizierende und als Yogalehrende. Du kannst nur weitergeben, was du selbst lebst. Ein Yogalehrer ohne Eigenpraxis ist wie ein Musiker, der nicht übt — er kann Theorie erklären, aber nicht berühren.
+Sadhana bedeutet "tägliche spirituelle Praxis". Es ist das Fundament deiner Entwicklung als Yogapraktizierende. Eine Praxis ohne Regelmäßigkeit ist wie ein Instrument, das nicht gespielt wird — die Theorie bleibt, aber die Tiefe geht verloren.
 
 ### Die Realität der Regelmäßigkeit
 
@@ -1148,7 +1142,7 @@ Sadhana bedeutet "tägliche spirituelle Praxis". Es ist das Fundament deiner Ent
 
 **Morgenpraxis:** Traditionell die beste Zeit. Der Geist ist noch frisch, der Tag hat noch nicht begonnen. Ideal: 10–30 Minuten vor dem Frühstück. Beginne mit Pranayama, dann Asana, dann Meditation.
 
-**Abendpraxis:** Sanfter, erdender, loslassend. Yin Yoga, Restorative, Yoga Nidra. Ideal vor dem Schlafengehen — hilft, den Tag zu verarbeiten und den Schlaf zu vertiefen.
+**Abendpraxis:** Sanfter, erdender, loslassend. Yin Yoga, Restorative, Yoga Nidra. Ideal vor dem Schlafengehen — hilft, den Tag ausklingen zu lassen und zur Ruhe zu kommen.
 
 **Mikro-Praxis:** 5 Minuten Atemübung zwischen Meetings. 3 Sonnengrüße am Morgen. 1 Minute bewusstes Stehen in Tadasana an der Bushaltestelle. Yoga in den Alltag weben — nicht als separate Aktivität, sondern als Lebenshaltung.
 
@@ -1186,62 +1180,60 @@ Schreib es auf. Hänge es an einen sichtbaren Ort. Beginne morgen.`
         },
         {
           id: 'G06-M6-L18',
-          titel: 'Ethik, Geschäft & Weiterentwicklung — Yamas im Unterricht, Machtbewusstsein & Selbstfürsorge',
-          inhalt: `## Ethik, Geschäft & Weiterentwicklung
+          titel: 'Ethik & Weiterentwicklung — Yamas in der Praxis, gute Lehrer erkennen & Selbstfürsorge',
+          inhalt: `## Ethik & Weiterentwicklung
 
-### Die Verantwortung des Yoga-Lehrers
+### Ethik als Fundament der eigenen Praxis
 
-Als Yogalehrer stehst du in einer Vertrauensposition. Deine Schüler sind verletzlich — körperlich in den Haltungen, emotional in der Stille, psychologisch in der Lehrer-Schüler-Dynamik. Diese Verletzlichkeit ist der Nährboden für Transformation — und für Missbrauch. Ethik im Yoga ist kein optionales Kapitel — sie ist das Fundament.
+Yoga ohne Ethik ist Gymnastik. Die ethischen Grundlagen des Yoga — allen voran die Yamas — sind keine Regeln für Fortgeschrittene, sondern das Fundament, auf dem jede Praxis steht. Sie beginnen nicht im Umgang mit anderen, sondern im Umgang mit dir selbst.
 
-### Die Yamas im Unterricht
+### Die Yamas in deiner Praxis
 
-Die fünf Yamas sind nicht nur persönliche Leitlinien — sie sind der ethische Rahmen für dein Unterrichten:
+**Ahimsa (Gewaltlosigkeit):** Übe so, dass du dich nicht verletzt — körperlich oder emotional. Keine Haltung, die Schmerzen verursacht. Keine innere Stimme, die dich beschämt. "Push through the pain" ist keine Yoga-Philosophie.
 
-**Ahimsa (Gewaltlosigkeit):** Unterrichte so, dass niemand sich verletzt — körperlich oder emotional. Keine Haltung, die Schmerzen verursacht. Keine Worte, die beschämen. "Push through the pain" ist keine Yoga-Philosophie.
+**Satya (Wahrhaftigkeit):** Sei ehrlich über dein Können und deine Grenzen. Wenn eine Haltung heute nicht geht — sie geht heute nicht. Wenn dein Körper ein Signal sendet, das du nicht einordnen kannst — nimm es ernst und hole dir fachlichen Rat.
 
-**Satya (Wahrhaftigkeit):** Sei ehrlich über dein Können und deine Grenzen. Wenn du eine Haltung nicht unterrichten kannst — sag es. Wenn ein Schüler eine Kontraindikation hat, die dein Wissen übersteigt — verweise weiter.
+**Asteya (Nicht-Stehlen):** Stiehl dir nicht selbst die Praxis durch Aufschieben. Stiehl dir nicht die Erfahrung, indem du während der Übung schon beim nächsten Termin bist.
 
-**Asteya (Nicht-Stehlen):** Steal keine Sequenzen anderer Lehrer ohne Anerkennung. Steal nicht die Zeit deiner Schüler durch Unpünktlichkeit. Steal nicht ihre Autonomie durch autoritäres Unterrichten.
+**Brahmacharya (Maßhalten):** Übe nicht mehr, als du regenerieren kannst. Intensität ist kein Wert an sich — Nachhaltigkeit ist einer. Maßhalten gilt auch für den Ehrgeiz.
 
-**Brahmacharya (Maßhalten):** Halte professionelle Grenzen. Die Lehrer-Schüler-Beziehung ist keine Freundschaft und keine romantische Beziehung. Maßhalten bedeutet auch: Unterrichte nicht mehr, als du regenerieren kannst.
+**Aparigraha (Nicht-Anhaften):** Hänge nicht an Fortschritten — sie kommen und gehen. Hänge nicht an "deinem" Stil — lass deine Praxis sich entwickeln. Vergleiche dich nicht mit der Version von dir, die letzte Woche beweglicher war.
 
-**Aparigraha (Nicht-Anhaften):** Hänge nicht an "deinen" Schülern. Freu dich, wenn sie zu anderen Lehrern gehen — das ist Wachstum. Hänge nicht an "deinem" Stil — lass dein Unterrichten sich entwickeln.
+### Einen guten Lehrer erkennen
 
-### Machtbewusstsein
+Wenn du Klassen, Workshops oder Retreats besuchst, begegnest du einem natürlichen Machtgefälle: Da steht jemand vorne, gibt Anweisungen, spricht in verletzlichen Momenten. Gute Lehrer sind sich dessen bewusst — und du darfst es auch sein.
 
-Die Lehrer-Schüler-Dynamik erzeugt ein Machtgefälle — ob du es willst oder nicht. Du stehst vorne, du gibst Anweisungen, du berührst Körper, du sprichst in verletzlichen Momenten. Einige Schüler idealisieren dich. Einige übertragen (Transference) ungelöste Themen auf dich.
+**Zeichen eines guten Lehrers:**
+- Fragt vor jeder Berührung nach Einverständnis — jedes Mal, ohne Ausnahme
+- Sagt "Du kannst" und "Ich lade dich ein" statt "Du musst"
+- Bietet Stufen und Alternativen an, statt eine Form zu erzwingen
+- Betont Eigenverantwortung: "Dein Körper, deine Praxis, deine Entscheidung"
+- Freut sich, wenn du auch bei anderen lernst
 
-**Verantwortung:**
-- Ermutige Eigenverantwortung: "Dein Körper, deine Praxis, deine Entscheidung."
-- Sage nie "Du musst" — sage "Du kannst" oder "Ich lade dich ein."
-- Wenn ein Schüler emotionale Bindung entwickelt, die über die Lehrer-Schüler-Beziehung hinausgeht — sprich es an und setze klare Grenzen.
-- Wenn du selbst emotionale Verstrickung bemerkst — suche Supervision oder kollegiale Beratung.
+**Warnzeichen:**
+- Drängt über Schmerzgrenzen ("Da musst du durch")
+- Berührt ohne zu fragen oder ignoriert ein Nein
+- Fördert Abhängigkeit statt Selbstständigkeit
+- Vermischt die Rollen — Nähe, die sich nicht mehr nach einer Übungsstunde anfühlt
+- Duldet keine Fragen oder Zweifel
 
-### Gruppendynamik
+Wenn du Warnzeichen bemerkst: Du schuldest niemandem deine Anwesenheit. Geh. Ein guter Lehrer ist ein Geschenk — ein schlechter ist es nicht wert, dass du deine Grenzen aufgibst.
 
-**Verschiedene Level in einer Klasse:**
-Die Realität: In jeder offenen Klasse sitzen Anfänger neben Fortgeschrittenen. Die Lösung ist nicht "den Mittelweg finden" — es ist, Variationen anzubieten. Stufe 1, 2, 3 für jede Haltung. "Wenn du mehr willst — hier ist die Variation. Wenn du es ruhiger brauchst — hier ist die Alternative."
+### Dein Platz in der Gruppe
 
-**Umgang mit dominanten Schülern:**
-Manche Schüler korrigieren andere, machen fortgeschrittene Varianten ohne Aufforderung, oder sprechen während der Klasse. Ansprechen — ruhig, privat, nach der Klasse: "Ich schätze deinen Enthusiasmus. In meiner Klasse leite ich die Praxis, und ich möchte, dass jeder seinen eigenen Raum hat."
+In jeder offenen Klasse sitzen Anfänger neben Fortgeschrittenen. Dein Maßstab bist du: Wähle deine Stufe, nimm dir deine Pausen, geh in Balasana, wann immer du willst. Was auf der Nachbarmatte passiert, ist deren Praxis — nicht dein Vergleichswert.
 
-### Preisgestaltung & Geschäft
+### Selbstfürsorge in der Praxis
 
-**Dein Wert:** Yoga zu unterrichten ist Arbeit — wertvolle, qualifizierte Arbeit. Du hast in deine Ausbildung investiert, du investierst in deine Eigenpraxis, du bereitest jede Klasse vor. Dein Preis reflektiert diesen Wert.
-
-**Zugänglichkeit:** Biete ein Preismodell an, das verschiedene finanzielle Situationen berücksichtigt: Normalpreis, ermäßigter Preis, Schnupperkurse. Yoga sollte nicht nur für die sein, die es sich leisten können.
-
-### Selbstfürsorge als Lehrer
-
-Yogalehrer geben viel Energie. Ohne bewusste Regeneration brennst du aus. Achte auf: Eigene Praxis beibehalten, regelmäßig selbst Schüler sein, nicht mehr Klassen unterrichten als du regenerieren kannst, Supervision oder Austausch mit Kollegen, klare Grenzen zwischen Arbeits- und Ruhezeit.
+Auch eine hingebungsvolle Eigenpraxis kann kippen — in Pflichtgefühl, Härte oder Erschöpfung. Achte auf: Ruhetage als Teil der Praxis (nicht als Versagen), Phasen mit sanfteren Stilen, ehrliche Antworten auf die Frage "Dient mir das gerade?", und den Mut, die Praxis zu verkleinern, wenn das Leben groß ist.
 
 ### Weiterentwicklung
 
-Yoga-Lehrer-Sein ist kein Abschluss — es ist ein Anfang. Weiterbildungen in Anatomie, Philosophie, speziellen Stilen, therapeutischem Yoga, Meditation oder Energiearbeit vertiefen dein Können. Die besten Lehrer sind die, die nie aufhören zu lernen.
+Dieser Kurs ist kein Abschluss — er ist ein Anfang. Die weitere Beschäftigung mit Anatomie, Philosophie, verschiedenen Stilen, Meditation oder Energiearbeit vertieft deine Praxis Jahr für Jahr. Die erfüllendste Praxis haben die, die nie aufhören zu lernen.
 
 ---
 
-*Herzlichen Glückwunsch zum Abschluss dieses Kurses. Du hast jetzt das Wissen und die Werkzeuge, Yoga authentisch zu praktizieren und respektvoll weiterzugeben. Deine Matte wartet — und die Welt braucht Lehrer, die mit Integrität und Herz unterrichten.*`
+*Herzlichen Glückwunsch zum Abschluss dieses Kurses. Du hast jetzt das Wissen und die Werkzeuge, Yoga authentisch, sicher und selbstbestimmt für dich zu praktizieren. Deine Matte wartet.*`
         }
       ]
     }

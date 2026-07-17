@@ -2,8 +2,13 @@ const Y03 = {
   id: 'Y03',
   titel: 'Numerologie',
   bereich: 'zahlen',
-  beschreibung: 'Erlerne die Kunst der Numerologie — eines der ältesten Symbolsysteme der Menschheit. Diese Ausbildung vermittelt dir die Berechnung und Deutung der Kernzahlen, die Bedeutung der Zahlen eins bis neun sowie der Meisterzahlen und befähigt dich, numerologische Analysen als Werkzeug für Selbsterkenntnis und Lebensberatung in deine Praxis zu integrieren.',
+  beschreibung: 'Entdecke die Numerologie — eines der ältesten Symbolsysteme der Menschheit. Dieser Kurs vermittelt dir die Berechnung und Deutung deiner Kernzahlen, die Bedeutung der Zahlen Eins bis Neun sowie der Meisterzahlen — als Landkarte für Selbsterkenntnis, Selbstreflexion und ein tieferes Verständnis deiner Lebenszyklen.',
   status: 'live',
+  untertitel: 'Die Sprache der Zahlen — dein numerologisches Profil verstehen',
+  format: 'standard',
+  dauer: '6 Module · 18 Lektionen',
+  level: 'Grundlagen',
+  voraussetzungen: 'Keine — offen für alle',
   module: [
     {
       id: 'Y03-M1',
@@ -20,7 +25,7 @@ In der modernen Praxis ist die Numerologie ein Werkzeug der Selbsterkenntnis —
 
 Die Grundannahme der Numerologie: Dein Geburtsdatum und dein Geburtsname sind keine Zufälle — sie enthalten eine kodierte Information über dein Wesen und deinen Weg. Das Geburtsdatum, das du nicht wählen konntest, trägt die kosmische Signatur des Moments, in dem du in diese Welt eingetreten bist. Der Name, den deine Eltern dir gaben — bewusst oder unbewusst — resoniert mit Zahlenschwingungen, die deine Persönlichkeit mitformen.
 
-Für deine Praxis gibt dir die Numerologie ein schnell zugängliches, leicht kommunizierbares System, das Klienten sofort anspricht. Die eigene Lebenszahl zu erfahren und ihre Bedeutung zu verstehen, erzeugt regelmäßig Aha-Momente — „Das bin ja ich!" — und öffnet die Tür zu tieferer Selbstreflexion und persönlicher Entwicklung.`,
+Für dich ist die Numerologie ein schnell zugängliches, leicht verständliches System mit einem unmittelbaren Einstieg. Die eigene Lebenszahl zu erfahren und ihre Bedeutung zu verstehen, erzeugt regelmäßig Aha-Momente — „Das bin ja ich!" — und öffnet die Tür zu tieferer Selbstreflexion und persönlicher Entwicklung.`,
           uebung: {
             titel: 'Erste Begegnung mit deinen Zahlen',
             anleitung: `Berechne deine Lebenszahl — die wichtigste Zahl der Numerologie:
@@ -105,7 +110,7 @@ Die Vier ist das Prinzip der Ordnung, der Stabilität und der harten Arbeit. Sie
 
 Die Fünf ist das Prinzip der Freiheit, des Wandels und der Erfahrung. Sie steht für Abenteuerlust, Vielseitigkeit, Anpassungsfähigkeit und den Hunger nach Neuem. Ihre Herausforderung: Rastlosigkeit und Unbeständigkeit.
 
-Die Sechs ist das Prinzip der Verantwortung, der Fürsorge und der Harmonie. Sie steht für Familie, Dienst, Heilung und ästhetisches Empfinden. Ihre Herausforderung: Aufopferung und Perfektionismus.
+Die Sechs ist das Prinzip der Verantwortung, der Fürsorge und der Harmonie. Sie steht für Familie, Dienst, Fürsorge und ästhetisches Empfinden. Ihre Herausforderung: Aufopferung und Perfektionismus.
 
 Die Sieben ist das Prinzip der Tiefe, der Analyse und der Spiritualität. Sie steht für Introspektion, Weisheit, Forschungsdrang und die Suche nach verborgener Wahrheit. Ihre Herausforderung: Isolation und intellektuelle Arroganz.
 
@@ -113,7 +118,7 @@ Die Acht ist das Prinzip der Macht, des Erfolgs und der materiellen Meisterschaf
 
 Die Neun ist das Prinzip der Vollendung, des Mitgefühls und des universellen Dienstes. Sie steht für Weisheit, Humanität, Loslassen und die Fähigkeit, über das Persönliche hinauszugehen. Ihre Herausforderung: Selbstaufgabe und idealistischer Schmerz.
 
-Die Meisterzahlen — Elf, Zweiundzwanzig und Dreiunddreißig — tragen verstärkte, intensivierte Qualitäten: Die Elf ist der intuitive Visionär, die Zweiundzwanzig der Meisterbaumeister, die Dreiunddreißig der Meisterheiler. Sie bringen hohes Potenzial und hohe Herausforderungen gleichermaßen.`,
+Die Meisterzahlen — Elf, Zweiundzwanzig und Dreiunddreißig — tragen verstärkte, intensivierte Qualitäten: Die Elf ist der intuitive Visionär, die Zweiundzwanzig der Meisterbaumeister, die Dreiunddreißig der Meisterlehrer. Sie bringen hohes Potenzial und hohe Herausforderungen gleichermaßen.`,
           uebung: {
             titel: 'Zahlenqualitäten erspüren',
             anleitung: `Lies die Kurzbeschreibungen der neun Zahlen noch einmal und beantworte intuitiv:
@@ -148,11 +153,11 @@ Die Zahlen, die dich abstoßen, tragen oft dein größtes Entwicklungspotenzial 
         {
           id: 'Y03-M2-L1',
           titel: 'Die Zahlen Eins bis Drei',
-          inhalt: `Die detaillierte Kenntnis jeder Zahl — ihre Licht- und Schattenaspekte, ihre Themen in verschiedenen Lebensbereichen und ihre Entwicklungsdynamik — ist das Handwerkszeug der numerologischen Beratung. In dieser und den folgenden Lektionen vertiefst du die neun Grundzahlen.
+          inhalt: `Die detaillierte Kenntnis jeder Zahl — ihre Licht- und Schattenaspekte, ihre Themen in verschiedenen Lebensbereichen und ihre Entwicklungsdynamik — ist das Fundament deines numerologischen Verständnisses. In dieser und den folgenden Lektionen vertiefst du die neun Grundzahlen.
 
 Die Eins — der Pionier: Menschen mit starker Eins-Energie sind natürliche Führungspersönlichkeiten — unabhängig, willenstark, originell und mutig. Sie gehen ihren eigenen Weg, auch wenn er unbequem ist, und haben die Fähigkeit, Neues in die Welt zu bringen. In Beziehungen brauchen sie Freiheit und Respekt für ihre Eigenständigkeit. Im Beruf streben sie nach Positionen, in denen sie gestalten und entscheiden können. Ihre spirituelle Lektion: Den Unterschied lernen zwischen gesunder Selbstbehauptung und egoistischer Isolation. Die höchste Ausdrucksform der Eins ist die mutige Führung, die andere inspiriert, ihren eigenen Weg zu gehen.
 
-Die Zwei — die Diplomatin: Menschen mit starker Zwei-Energie sind hochsensibel, intuitiv, kooperativ und friedliebend. Sie spüren die Stimmungen anderer, bevor Worte fallen, und haben ein natürliches Talent für Vermittlung und Harmonisierung. In Beziehungen sind sie hingebungsvoll und aufmerksam, brauchen aber selbst ebenso viel Fürsorge wie sie geben. Im Beruf glänzen sie in Teamarbeit, Beratung und jeder Tätigkeit, die Einfühlungsvermögen erfordert. Ihre spirituelle Lektion: Die Balance finden zwischen Dienst am anderen und Selbstfürsorge — geben, ohne sich zu verlieren. Die höchste Ausdrucksform der Zwei ist die weise Diplomatin, die Brücken baut, wo andere Mauern sehen.
+Die Zwei — die Diplomatin: Menschen mit starker Zwei-Energie sind hochsensibel, intuitiv, kooperativ und friedliebend. Sie spüren die Stimmungen anderer, bevor Worte fallen, und haben ein natürliches Talent für Vermittlung und Harmonisierung. In Beziehungen sind sie hingebungsvoll und aufmerksam, brauchen aber selbst ebenso viel Fürsorge wie sie geben. Im Beruf glänzen sie in Teamarbeit und jeder Tätigkeit, die Einfühlungsvermögen erfordert. Ihre spirituelle Lektion: Die Balance finden zwischen Dienst am anderen und Selbstfürsorge — geben, ohne sich zu verlieren. Die höchste Ausdrucksform der Zwei ist die weise Diplomatin, die Brücken baut, wo andere Mauern sehen.
 
 Die Drei — die Schöpferin: Menschen mit starker Drei-Energie sprühen vor Kreativität, Lebensfreude und kommunikativem Talent. Sie sind die geborenen Geschichtenerzähler, Künstler, Entertainer und Inspiratoren. In Beziehungen bringen sie Leichtigkeit und Humor, brauchen aber auch Tiefe und Substanz, um langfristig erfüllt zu sein. Im Beruf suchen sie kreativen Ausdruck und Abwechslung — Routine erstickt sie. Ihre spirituelle Lektion: Die Tiefe hinter der Oberfläche finden — nicht nur unterhalten, sondern berühren. Die höchste Ausdrucksform der Drei ist die Schöpferin, die durch ihre Kreativität anderen den Zugang zu ihrer eigenen schöpferischen Kraft öffnet.`,
           uebung: {
@@ -184,7 +189,7 @@ Wenn keine dieser Zahlen in deinem Profil ist: Wo in deinem Leben fehlt diese En
 
 Die Fünf — die Freiheitsliebende: Menschen mit starker Fünf-Energie sind die Abenteurer und Wandler — vielseitig, neugierig, mutig und ständig in Bewegung. Sie brauchen Freiheit wie Luft zum Atmen und ersticken in Routine und Begrenzung. In Beziehungen sind sie leidenschaftlich und intensiv, aber unbeständig, wenn sie sich eingeengt fühlen. Im Beruf suchen sie Abwechslung, Reisen, neue Herausforderungen und die Möglichkeit, ihren Horizont zu erweitern. Ihre spirituelle Lektion: Freiheit nicht als Flucht vor Bindung zu leben, sondern als Fähigkeit, sich auch in der Stabilität lebendig zu fühlen. Die höchste Ausdrucksform der Fünf ist die weise Reisende, die in jeder Erfahrung — auch der alltäglichen — das Abenteuer findet.
 
-Die Sechs — die Heilerin: Menschen mit starker Sechs-Energie sind die natürlichen Fürsorger und Heiler — verantwortungsbewusst, warmherzig, ästhetisch und mit einem tiefen Bedürfnis nach Harmonie. Sie stellen die Bedürfnisse anderer oft über ihre eigenen und finden Erfüllung im Dienst an Familie und Gemeinschaft. In Beziehungen sind sie liebevoll und hingebungsvoll, neigen aber zu Aufopferung und dem Versuch, andere zu reparieren. Im Beruf sind sie dort am stärksten, wo Heilung, Beratung, Bildung und Schönheit zusammenkommen. Ihre spirituelle Lektion: Die Grenze erkennen zwischen liebevoller Fürsorge und krankmachendem Helfersyndrom — loslassen lernen, wenn der andere seinen eigenen Weg gehen muss. Die höchste Ausdrucksform der Sechs ist die weise Heilerin, die durch ihr Beispiel heilt, nicht durch ihr Eingreifen.`,
+Die Sechs — die Fürsorgende: Menschen mit starker Sechs-Energie sind die natürlichen Fürsorgenden — verantwortungsbewusst, warmherzig, ästhetisch und mit einem tiefen Bedürfnis nach Harmonie. Sie stellen die Bedürfnisse anderer oft über ihre eigenen und finden Erfüllung im Dienst an Familie und Gemeinschaft. In Beziehungen sind sie liebevoll und hingebungsvoll, neigen aber zu Aufopferung und dem Versuch, andere zu reparieren. Im Beruf sind sie dort am stärksten, wo Fürsorge, Bildung und Schönheit zusammenkommen. Ihre spirituelle Lektion: Die Grenze erkennen zwischen liebevoller Fürsorge und krankmachendem Helfersyndrom — loslassen lernen, wenn der andere seinen eigenen Weg gehen muss. Die höchste Ausdrucksform der Sechs ist die weise Fürsorgende, die durch ihr Beispiel nährt, nicht durch ihr Eingreifen.`,
           uebung: {
             titel: 'Vier, Fünf, Sechs im Alltag',
             anleitung: `Für jede Zahl — erkenne die Energie in deinem Umfeld:
@@ -214,7 +219,7 @@ Die Acht — die Manifestierende: Menschen mit starker Acht-Energie sind die Mac
 
 Die Neun — die Weise: Menschen mit starker Neun-Energie sind die Humanisten und Vollender — mitfühlend, idealistisch, großzügig und mit einem weiten Blick auf die Welt. Sie spüren die Verbundenheit aller Lebewesen und fühlen sich berufen, zum Wohl der Gemeinschaft beizutragen. In Beziehungen sind sie liebevoll und weise, können aber mit Loslassen kämpfen. Im Beruf suchen sie Sinn und Dienst — sie brauchen das Gefühl, einen Beitrag zu leisten. Ihre spirituelle Lektion: Loslassen — Menschen, Situationen, Identitäten — als Voraussetzung für Neubeginn. Die höchste Ausdrucksform der Neun ist der weise Lehrer, der durch sein gelebtes Beispiel die Welt ein Stück heller macht.
 
-Die Meisterzahlen: Die Elf ist die verstärkte Zwei mit visionärer Qualität — hochintuitiv, inspirierend, aber nervös und überempfindlich. Die Zweiundzwanzig ist die verstärkte Vier mit Manifestationskraft — kann die größten Visionen in die Realität bauen, braucht aber Erdung. Die Dreiunddreißig ist die verstärkte Sechs mit universeller Heilkraft — der Meisterheiler, der durch reine Präsenz transformiert. Meisterzahlen tragen hohes Potenzial und hohe Spannung — ihre Träger schwanken oft zwischen den Höhen der Meisterzahl und der Reduktionszahl.`,
+Die Meisterzahlen: Die Elf ist die verstärkte Zwei mit visionärer Qualität — hochintuitiv, inspirierend, aber nervös und überempfindlich. Die Zweiundzwanzig ist die verstärkte Vier mit Manifestationskraft — kann die größten Visionen in die Realität bauen, braucht aber Erdung. Die Dreiunddreißig ist die verstärkte Sechs mit universeller Fürsorgekraft — der Meisterlehrer, der durch Präsenz und Mitgefühl trägt. Meisterzahlen tragen hohes Potenzial und hohe Spannung — ihre Träger schwanken oft zwischen den Höhen der Meisterzahl und der Reduktionszahl.`,
           uebung: {
             titel: 'Profil-Deutung vertiefen',
             anleitung: `Nimm dein komplettes numerologisches Profil und deute es:
@@ -261,7 +266,7 @@ Persönliches Jahr 4 — Aufbau und Fundament: Harte Arbeit, Struktur und Diszip
 
 Persönliches Jahr 5 — Wandel und Freiheit: Veränderung ist das Thema — gewollt oder ungewollt. Flexibilität, Abenteuerlust und die Bereitschaft, Altes loszulassen, werden gebraucht. Ein Jahr, das aufschüttelt und befreit.
 
-Persönliches Jahr 6 — Verantwortung und Heilung: Familie, Beziehungen, Gesundheit und häusliche Angelegenheiten rücken in den Vordergrund. Ein Jahr der Fürsorge — für andere und für dich selbst.
+Persönliches Jahr 6 — Verantwortung und Zuwendung: Familie, Beziehungen, Gesundheit und häusliche Angelegenheiten rücken in den Vordergrund. Ein Jahr der Fürsorge — für andere und für dich selbst.
 
 Persönliches Jahr 7 — Rückzug und Reflexion: Ein Jahr der inneren Einkehr, des Studiums, der Meditation und der tiefen Selbstreflexion. Nicht das Jahr für große äußere Aktionen — sondern für innere Reife.
 
@@ -300,7 +305,7 @@ Der persönliche Monat: Addiere deine persönliche Jahreszahl zur Kalenderzahl d
 
 Der persönliche Tag: Addiere deine persönliche Monatszahl zum Kalendertag. Beispiel: Persönlicher Monat 9, Tag 15. 9 + 1 + 5 = 15 → 1 + 5 = 6. Persönlicher Tag: 6. Dieser Tag trägt die Qualität der Fürsorge und Harmonie.
 
-Die praktische Anwendung der Zeitzyklen: Im Coaching nutzt du die Zyklen als Orientierungshilfe — nicht als starres Korsett. Einem Klienten, der sich in einem Siebener-Jahr befindet und sich dafür kritisiert, dass er keine großen Projekte anschiebt, kannst du erklären: „Dein Jahr unterstützt gerade innere Arbeit, nicht äußere. Die äußere Ernte kommt nächstes Jahr — im Achter-Jahr." Diese Einordnung nimmt Druck und gibt Vertrauen in den natürlichen Rhythmus des Lebens.
+Die praktische Anwendung der Zeitzyklen: Nutze die Zyklen als Orientierungshilfe — nicht als starres Korsett. Wenn du dich in einem Siebener-Jahr befindest und dich dafür kritisierst, dass du keine großen Projekte anschiebst, darfst du dich erinnern: „Mein Jahr unterstützt gerade innere Arbeit, nicht äußere. Die äußere Ernte kommt nächstes Jahr — im Achter-Jahr." Diese Einordnung nimmt Druck und gibt Vertrauen in den natürlichen Rhythmus des Lebens.
 
 Für Entscheidungsfindung: Ein Einer-Jahr oder -Monat unterstützt Neubeginne. Ein Vierer-Jahr unterstützt Aufbauarbeit. Ein Fünfer-Jahr ist günstig für Veränderungen. Ein Siebener-Jahr ist ungünstig für überstürzte Aktionen. Und ein Neuner-Jahr oder -Monat warnt vor Neubeginnen, die zu früh kommen — erst loslassen, dann neu starten.
 
@@ -344,7 +349,7 @@ Die Herausforderungszahlen beschreiben die zentralen Schwierigkeiten, die in jed
 
 Die Wendepunkte — auch Höhepunkte oder Pinnacles genannt — beschreiben die Hauptthemen und Chancen jedes Lebensabschnitts. Sie werden durch Addition der Geburtsdatumsteile berechnet und zeigen, welche Erfahrungen und Möglichkeiten der jeweilige Abschnitt bereit hält.
 
-Für dein Coaching: Die Lebensabschnitte geben dem Klienten eine Langzeitperspektive — sie zeigen, dass das aktuelle Thema nicht das endgültige ist und dass jede Lebensphase ihre eigene Weisheit und Aufgabe trägt. Besonders wertvoll in der Lebensmitte, wenn Klienten das Gefühl haben, dass sich grundlegend etwas verschiebt — die Numerologie kann diesen Wandel einordnen und normalisieren.`,
+Für dich: Die Lebensabschnitte geben dir eine Langzeitperspektive — sie zeigen, dass das aktuelle Thema nicht das endgültige ist und dass jede Lebensphase ihre eigene Weisheit und Aufgabe trägt. Besonders wertvoll in der Lebensmitte, wenn du das Gefühl hast, dass sich grundlegend etwas verschiebt — die Numerologie kann diesen Wandel einordnen und normalisieren.`,
           uebung: {
             titel: 'Lebensphasen reflektieren',
             anleitung: `Ohne detaillierte Berechnung — reflektiere deine Lebensphasen intuitiv:
@@ -373,41 +378,42 @@ Die Numerologie gibt diesen natürlichen Lebensphasen einen Rahmen — sie zeigt
     },
     {
       id: 'Y03-M4',
-      titel: 'Numerologische Beratung',
+      titel: 'Die Zahlen anwenden',
       lektionen: [
         {
           id: 'Y03-M4-L1',
-          titel: 'Das numerologische Reading aufbauen',
-          inhalt: `Ein professionelles numerologisches Reading ist mehr als das Ablesen von Zahlenbedeutungen — es ist ein Beratungsgespräch, das die Zahlen als Spiegel nutzt, um dem Klienten Selbsterkenntnis, Orientierung und Bestärkung zu geben. Die Struktur gibt dir Sicherheit, die Intuition gibt dem Reading Tiefe.
+          titel: 'Dein Selbst-Reading erstellen',
+          inhalt: `Ein Selbst-Reading ist mehr als das Ablesen von Zahlenbedeutungen — es ist eine strukturierte Selbstbetrachtung, die die Zahlen als Spiegel nutzt, um dir selbst Erkenntnis, Orientierung und Bestärkung zu schenken. Die Struktur gibt dir Halt, deine Ehrlichkeit gibt dem Reading Tiefe.
 
-Die Vorbereitung: Berechne das vollständige Profil vor der Sitzung — alle fünf Kernzahlen, das persönliche Jahr und den persönlichen Monat. Mache dir Notizen zu den Kernthemen, die sich aus dem Profil ergeben: Welche Zahlen dominieren? Welche fehlen? Wo gibt es Spannungen zwischen den Zahlen? Diese Vorbereitung gibt dir den roten Faden für das Gespräch.
+Die Vorbereitung: Berechne dein vollständiges Profil — alle fünf Kernzahlen, dein persönliches Jahr und deinen persönlichen Monat. Mache dir Notizen zu den Kernthemen, die sich daraus ergeben: Welche Zahlen dominieren? Welche fehlen? Wo gibt es Spannungen zwischen den Zahlen? Diese Vorbereitung gibt deiner Betrachtung den roten Faden.
 
-Der Einstieg: Erkläre kurz, was Numerologie ist und was nicht — keine Wahrsagerei, sondern ein Spiegel der Persönlichkeit und des Potenzials. Frage dann nach dem Anliegen: Was bringt den Klienten? Welche Fragen hat er? Diese Information hilft dir, das Reading relevant zu machen — nicht ein allgemeines Profil abzuspulen, sondern die Zahlen auf die konkrete Lebenssituation zu beziehen.
+Die innere Haltung: Ein Selbst-Reading ist keine Wahrsagerei und kein Urteil — es ist ein Spiegel deiner Persönlichkeit und deines Potenzials. Begegne deinen Zahlen mit Neugier statt mit Erwartung. Frage dich vorab: Was beschäftigt mich gerade? Welche Frage trage ich in mir? So beziehst du die Zahlen auf deine konkrete Lebenssituation, statt ein allgemeines Profil abzuspulen.
 
-Der Aufbau des Readings: Beginne mit der Lebenszahl — sie gibt den Gesamtton. Dann die Ausdruckszahl — die Talente und Ressourcen. Dann die Herzenszahl — die tiefste Motivation. Die Persönlichkeitszahl — wie andere den Klienten sehen. Die Schicksalszahl — das Reifepotenzial. Und schließlich das persönliche Jahr — die aktuelle Zeitqualität und ihre Empfehlungen.
+Der Aufbau: Beginne mit der Lebenszahl — sie gibt den Gesamtton. Dann die Ausdruckszahl — deine Talente und Ressourcen. Dann die Herzenszahl — deine tiefste Motivation. Die Persönlichkeitszahl — wie andere dich wahrnehmen. Die Schicksalszahl — dein Reifepotenzial. Und schließlich das persönliche Jahr — die aktuelle Zeitqualität.
 
-Die Gesprächsführung: Lies nicht vor — sprich frei, in lebendiger Sprache, mit Bezug zum Klienten. Stelle Fragen: „Erkennst du das?" „Wo zeigt sich das in deinem Leben?" „Was löst das bei dir aus?" Das Reading ist ein Dialog, kein Monolog. Der Klient soll sich wiederfinden — und gleichzeitig überrascht werden.
+Der Dialog mit dir selbst: Arbeite schriftlich und stelle dir bei jeder Zahl dieselben Fragen: „Erkenne ich das? Wo zeigt sich das in meinem Leben? Was löst das in mir aus?“ Das Selbst-Reading ist ein Gespräch mit dir — du darfst dich wiederfinden und gleichzeitig überraschen lassen.
 
-Der Abschluss: Fasse die wichtigsten Erkenntnisse zusammen. Gib eine konkrete Empfehlung, die sich aus dem Profil und der aktuellen Zeitqualität ergibt. Und lasse Raum für Fragen und Reflexion.`,
+Der Abschluss: Fasse die wichtigsten Erkenntnisse in zwei, drei Sätzen zusammen und leite eine konkrete Absicht für die kommenden Wochen ab. Lass Raum für das, was nachklingt.
+
+Im privaten Rahmen teilen: Wenn du magst, betrachte deine Zahlen gemeinsam mit einem vertrauten Menschen — gegenseitig und immer nur mit Einverständnis. Es ist eine gemeinsame Entdeckung auf Augenhöhe, keine Deutung von oben herab: Jeder Mensch bleibt die Autorität für sein eigenes Leben.`,
           uebung: {
-            titel: 'Probe-Reading üben',
-            anleitung: `Führe ein Probe-Reading für einen Übungspartner oder ein Familienmitglied durch:
+            titel: 'Dein erstes Selbst-Reading',
+            anleitung: `Führe dein erstes vollständiges Selbst-Reading durch:
 
 Vorbereitung (15 Min):
 1. Berechne alle fünf Kernzahlen.
-2. Berechne das persönliche Jahr.
+2. Berechne dein persönliches Jahr.
 3. Notiere die Kernthemen — Stärken, Herausforderungen, aktuelle Zeitqualität.
 
-Reading (20–30 Min):
-1. Kurze Einführung (2 Min): Was ist Numerologie?
-2. Lebenszahl (5 Min): Was ist die Lebensaufgabe? Frage: Erkennst du das?
-3. Ausdruckszahl (3 Min): Welche Talente?
-4. Herzenszahl (3 Min): Was treibt dich innerlich an?
-5. Persönlichkeitszahl (3 Min): Wie wirkst du auf andere?
-6. Persönliches Jahr (5 Min): Was ist die aktuelle Zeitqualität?
-7. Zusammenfassung und Empfehlung (5 Min)
+Schriftliche Betrachtung (25–30 Min):
+1. Lebenszahl: Was ist mein Lebensthema? Erkenne ich es in meiner Geschichte?
+2. Ausdruckszahl: Welche Talente lebe ich — welche noch nicht?
+3. Herzenszahl: Was treibt mich innerlich wirklich an?
+4. Persönlichkeitszahl: Wie nehmen andere mich wahr — und deckt sich das mit meinem Inneren?
+5. Persönliches Jahr: Welche Zeitqualität trägt mich gerade?
+6. Zusammenfassung: zwei bis drei Sätze + eine konkrete Absicht.
 
-Feedback danach: Hat der Partner sich erkannt? Was hat überrascht? Was war hilfreich?`,
+Optional: Tausche dich mit einem vertrauten Menschen aus — gegenseitig, mit Einverständnis, als gemeinsame Entdeckung.`,
             dauer: '45 Min gesamt',
           },
         },
@@ -422,7 +428,7 @@ Die Herzenszahl-Verbindung zeigt, ob die tiefsten Bedürfnisse zweier Menschen k
 
 Die Beziehungszahl — berechnet aus der Summe beider Lebenszahlen — beschreibt die Qualität der Beziehung selbst: Was ist die gemeinsame Aufgabe? Was will die Beziehung von beiden? Eine Beziehung mit der Beziehungszahl Vier fordert beide auf, gemeinsam etwas Stabiles aufzubauen. Eine mit der Sieben fordert spirituelles Wachstum. Eine mit der Neun fordert Loslassen und Dienen.
 
-Im Coaching nutzt du die Beziehungsnumerologie nicht als Urteil — „Ihr passt nicht zusammen" — sondern als Verständnishilfe: „Eure Zahlen zeigen, dass ihr unterschiedliche Bedürfnisse habt. Das erklärt die Spannung — und hier ist der Weg, damit umzugehen." Die Numerologie ersetzt kein Beziehungsgespräch — aber sie gibt dem Gespräch eine Struktur und eine Sprache.`,
+Nutze die Beziehungsnumerologie nie als Urteil — „wir passen nicht zusammen“ — sondern als Verständnishilfe: Unterschiedliche Zahlen bedeuten unterschiedliche Bedürfnisse. Das erklärt Spannung — und zeigt zugleich einen Weg, achtsam damit umzugehen. Die Numerologie ersetzt kein Beziehungsgespräch — aber sie kann einem ehrlichen Gespräch eine Struktur und eine Sprache geben.`,
           uebung: {
             titel: 'Beziehungs-Reading üben',
             anleitung: `Wähle eine wichtige Beziehung in deinem Leben (Partner, Freund, Elternteil, Kind) und erstelle ein Beziehungsprofil:
@@ -441,46 +447,36 @@ Analyse:
 
 4. Was könnt ihr aus dieser Analyse lernen — konkret, praktisch? ___
 
-Die Beziehungsnumerologie ist eines der zugänglichsten und gefragtesten Themen in der numerologischen Beratung.`,
+Die Beziehungsnumerologie ist eines der zugänglichsten Themen der Numerologie — und oft der Anfang eines ehrlichen Gesprächs.`,
             dauer: '15 Min',
           },
         },
         {
           id: 'Y03-M4-L3',
-          titel: 'Numerologie in die holistische Praxis integrieren',
-          inhalt: `Numerologie fügt sich nahtlos in eine holistische Beratungspraxis ein — als schneller Einstieg in ein Klientenprofil, als Ergänzung zu tieferer therapeutischer Arbeit und als eigenständiges Beratungsformat. Die Integration mit deinen anderen Methoden schafft Synergien, die keine Einzelmethode allein bieten kann.
+          titel: 'Numerologie im Human-Resonanz-System',
+          inhalt: `Die Numerologie entfaltet zusätzliche Tiefe, wenn du sie mit anderen Betrachtungssystemen verbindest — allen voran mit Human Design. Beide Systeme schauen auf denselben Menschen, aber aus verschiedenen Richtungen: Die Numerologie liest aus Geburtsdatum und Name deine Lebensthemen und Zeitzyklen. Human Design beschreibt deine energetische Konstitution und deine Entscheidungsstrategie. Keine Perspektive ersetzt die andere — zusammen ergeben sie ein differenzierteres Bild, als jedes System allein bieten kann.
 
-Numerologie als Eisbrecher: Ein kurzes numerologisches Profil zu Beginn einer Coaching-Beziehung schafft sofortige Verbindung und liefert einen Rahmen für das weitere Gespräch. Die Lebenszahl und das persönliche Jahr — in fünf Minuten erklärt — geben dem Klienten das Gefühl, gesehen zu werden, und dir eine erste Orientierung für die Arbeit.
+Ein Beispiel für die Verschränkung: Deine Lebenszahl Fünf spricht von Freiheit und Wandel — dein Human-Design-Typ zeigt dir, auf welche Weise du Entscheidungen stimmig triffst. Beides zusammen lädt dich zur Frage ein: Wie will meine Freiheit konkret gelebt werden — und wie erkenne ich, welcher Wandel wirklich meiner ist? Oder: Ein persönliches Neuner-Jahr spricht vom Loslassen — der Blick auf deine offenen Zentren zeigt dir, wo du besonders empfänglich für die Themen anderer bist. Die Zeitqualität und die eigene Empfänglichkeit gemeinsam zu betrachten, macht beide verständlicher.
 
-Numerologie und Human Design: Die Kombination ist besonders kraftvoll — Human Design zeigt die energetische Architektur, Numerologie zeigt die Lebensaufgabe und die Zeitzyklen. Zusammen ergibt sich ein differenzierteres Bild als jedes System allein bieten kann. Die Resonanz-Synthese — HD und Numerologie verbunden — ist ein Alleinstellungsmerkmal deiner Praxis.
+Wichtig für deine innere Haltung: Beides sind symbolische Betrachtungssysteme — keine Messinstrumente. Sie beschreiben nicht, was du tun musst, sondern laden dich zur Selbstprüfung ein: Erkenne ich mich darin? Was davon hilft mir wirklich weiter? Und wo die Systeme sich zu widersprechen scheinen, entscheidet nicht das System — sondern du.
 
-Numerologie und Coaching: Die Zahlen liefern die Diagnose — das Coaching liefert die Umsetzung. Ein Klient mit einer Fünfer-Lebenszahl, der in einem starren Bürojob feststeckt, versteht durch die Numerologie, warum er sich so eingeengt fühlt. Das Coaching hilft ihm, einen Weg zu finden, mehr Fünfer-Qualität in sein Leben zu bringen — ohne gleich alles hinzuwerfen.
+Die Alltagswerkzeuge: Das persönliche Jahr, der persönliche Monat und der persönliche Tag sind leichte tägliche Begleiter. Sie eignen sich als Reflexionsrahmen für eigene Vorhaben — wann fühlt sich ein Anfang stimmig an, wann eine Pause, wann ein Abschluss? Nutze sie als Einladung zur Betrachtung, nie als Vorschrift.
 
-Numerologie und Energiearbeit: Die Zahlenschwingungen korrespondieren mit den Chakren — Eins mit dem Wurzelchakra, Zwei mit dem Sakralchakra und so weiter. Eine fehlende Zahl im Profil kann auf ein blockiertes Chakra hindeuten — und die Energiearbeit kann gezielt auf dieses Chakra gerichtet werden.
-
-Numerologie als Selbsthilfe-Empfehlung: Gib deinen Klienten einfache numerologische Werkzeuge für den Alltag mit — die Berechnung des persönlichen Jahres und Monats, das Verständnis des aktuellen Zyklus und die Nutzung der Zahlenqualitäten für Timing-Entscheidungen. So wird die Numerologie zum täglichen Begleiter, nicht zur einmaligen Beratung.`,
+So wird die Numerologie vom einmaligen Aha-Erlebnis zum lebendigen Teil deiner Selbstwahrnehmung — verwoben mit allem, was du über dich lernst.`,
           uebung: {
-            titel: 'Integrations-Konzept',
-            anleitung: `Definiere, wie du Numerologie in deine Praxis integrierst:
+            titel: 'Deine persönliche Synthese',
+            anleitung: `Lege deine numerologischen Kernzahlen neben dein Human-Design-Profil (falls du es kennst):
 
-1. Als eigenständiges Angebot:
-   Format: ___
-   Dauer: ___
-   Preis: ___
+1. Meine Lebenszahl: ___ — mein HD-Typ: ___
 
-2. Als Ergänzung zu bestehenden Sitzungen:
-   Wie nutze ich Numerologie im Erstgespräch? ___
-   Wie verbinde ich sie mit meinen anderen Methoden? ___
+2. Wo bestätigen sich die beiden Perspektiven? Was sagen sie übereinstimmend über mich? ___
 
-3. Verbindung mit Human Design:
-   Wie ergänzen sich beide Systeme in meiner Arbeit? ___
+3. Wo ergänzen sie sich? Was zeigt die eine, was die andere nicht zeigt? ___
 
-4. Als Selbsthilfe-Empfehlung:
-   Welche numerologischen Basics gebe ich Klienten mit? ___
+4. Wo scheinen sie sich zu widersprechen — und was sagt meine eigene Erfahrung dazu? ___
 
-5. Mein Angebots-Name:
-   Wie nenne ich mein numerologisches Beratungsformat? ___`,
-            dauer: '10 Min',
+Falls du dein Human-Design-Profil noch nicht kennst: Beantworte die Fragen zunächst rein numerologisch und notiere dir, was du später ergänzen möchtest.`,
+            dauer: '15 Min',
           },
         },
       ],
@@ -514,7 +510,7 @@ Fehlende Acht: Schwierigkeiten mit Macht, Finanzen und materieller Manifestation
 
 Fehlende Neun: Schwierigkeiten mit Loslassen, Mitgefühl und universeller Perspektive. Die Lektion: Über das Persönliche hinauswachsen und großzügig geben.
 
-Im Coaching sind die fehlenden Zahlen oft die aufschlussreichsten — sie zeigen genau die Themen, die der Klient als schwierig empfindet und an denen sein größtes Wachstum wartet.`,
+Für die Selbstbetrachtung sind die fehlenden Zahlen oft die aufschlussreichsten — sie zeigen genau die Themen, die du als schwierig empfindest und an denen dein größtes Wachstum wartet.`,
           uebung: {
             titel: 'Fehlende Zahlen identifizieren',
             anleitung: `Identifiziere deine fehlenden Zahlen:
@@ -544,7 +540,7 @@ Für jede fehlende Zahl: Lies die Beschreibung oben und reflektiere:
         {
           id: 'Y03-M5-L2',
           titel: 'Namensnumerologie und Namensänderungen',
-          inhalt: `Der Name ist in der Numerologie weit mehr als eine Bezeichnung — er ist eine Schwingung, die dein gesamtes Leben beeinflusst. Jeder Name trägt eine numerologische Frequenz, die bestimmte Qualitäten verstärkt und andere abschwächt. Das Verständnis der Namensnumerologie eröffnet einen faszinierenden Bereich der Beratung — insbesondere bei Namensänderungen durch Heirat, Künstlernamen oder bewusste Umbenennungen.
+          inhalt: `Der Name ist in der Numerologie weit mehr als eine Bezeichnung — er ist eine Schwingung, die dein gesamtes Leben beeinflusst. Jeder Name trägt eine numerologische Frequenz, die bestimmte Qualitäten verstärkt und andere abschwächt. Das Verständnis der Namensnumerologie eröffnet einen faszinierenden Bereich der Selbstbetrachtung — insbesondere bei Namensänderungen durch Heirat, Künstlernamen oder bewusste Umbenennungen.
 
 Der Geburtsname bleibt numerologisch immer relevant — er ist die ursprüngliche Schwingung, mit der du in dieses Leben eingetreten bist, und repräsentiert dein Grundpotenzial. Er verändert sich nicht, auch wenn du deinen Namen änderst.
 
@@ -552,9 +548,9 @@ Der aktuelle Name — der Name, den du heute trägst und mit dem du dich identif
 
 Künstlernamen und Pseudonyme: Manche Menschen wählen intuitiv einen Künstlernamen, der numerologisch genau die Qualitäten trägt, die sie für ihre Arbeit brauchen. Andere wählen bewusst — die numerologische Analyse verschiedener Namensoptionen kann helfen, den Namen zu finden, der die gewünschte Schwingung unterstützt.
 
-Vorsicht bei der Beratung zu Namensänderungen: Eine Namensänderung ist kein numerologisches Allheilmittel. Sie verändert die Schwingung, aber nicht die Persönlichkeit. Und sie kann unbeabsichtigte Nebenwirkungen haben — der neue Name kann Qualitäten verstärken, die der Klient gar nicht wollte. Berate nüchtern, nicht euphorisch. Und betone: Der Geburtsname bleibt die Grundlage — der neue Name ist eine Ergänzung, kein Ersatz.
+Vorsicht beim Thema Namensänderung: Eine Namensänderung ist kein numerologisches Wundermittel. Sie verändert die Schwingung, aber nicht die Persönlichkeit. Und sie kann Unerwartetes mit sich bringen — der neue Name kann Qualitäten verstärken, die du gar nicht gesucht hast. Betrachte das Thema nüchtern, nicht euphorisch. Und betone: Der Geburtsname bleibt die Grundlage — der neue Name ist eine Ergänzung, kein Ersatz.
 
-Im Coaching: Die Namensnumerologie ist besonders spannend bei Klienten, die sich mit ihrem Namen unwohl fühlen, bei Umbenennungen nach Heirat oder Scheidung und bei der Namenswahl für Kinder oder Projekte. Die Zahlen geben eine zusätzliche Perspektive — aber die letzte Entscheidung liegt immer beim Menschen.`,
+Im privaten Rahmen: Die Namensnumerologie ist besonders spannend, wenn du dich mit deinem eigenen Namen unwohl fühlst, bei Umbenennungen nach Heirat oder Scheidung — und als private Familienbetrachtung bei der Namenswahl für Kinder oder eigene Projekte. Die Zahlen geben eine zusätzliche Perspektive — aber die letzte Entscheidung liegt immer beim Menschen.`,
           uebung: {
             titel: 'Namensvergleich',
             anleitung: `Vergleiche die Numerologie deines Geburtsnamens mit deinem aktuellen Namen (falls unterschiedlich):
@@ -578,17 +574,17 @@ Falls dein Name gleich geblieben ist: Berechne die Numerologie eines Spitznamens
         {
           id: 'Y03-M5-L3',
           titel: 'Ethik und Grenzen der Numerologie',
-          inhalt: `Numerologie ist ein kraftvolles Werkzeug der Selbsterkenntnis — und wie jedes kraftvolle Werkzeug kann es missbraucht werden. Die ethischen Grundsätze der numerologischen Beratung schützen deine Klienten und deine Integrität.
+          inhalt: `Numerologie ist ein kraftvolles Werkzeug der Selbsterkenntnis — und wie jedes kraftvolle Werkzeug kann es missbraucht werden. Die ethischen Grundsätze im Umgang mit den Zahlen schützen dich selbst — und die Menschen, mit denen du deine Begeisterung teilst.
 
-Keine Determinismus: Die Zahlen zeigen Tendenzen, Potenziale und Entwicklungsfelder — keine unausweichlichen Schicksale. Sage niemals: „Du bist eine Vier, also wirst du nie kreativ sein" oder „Dein persönliches Jahr sagt, dass deine Beziehung scheitern wird." Jede Zahl hat eine Bandbreite — von der niedrigsten bis zur höchsten Ausdrucksform — und der Mensch wählt, wo auf dieser Bandbreite er lebt.
+Kein Determinismus: Die Zahlen zeigen Tendenzen, Potenziale und Entwicklungsfelder — keine unausweichlichen Schicksale. Sage niemals — weder dir selbst noch anderen: „Du bist eine Vier, also wirst du nie kreativ sein" oder „Dein persönliches Jahr sagt, dass deine Beziehung scheitern wird." Jede Zahl hat eine Bandbreite — von der niedrigsten bis zur höchsten Ausdrucksform — und der Mensch wählt, wo auf dieser Bandbreite er lebt.
 
 Keine Angstmacherei: Bestimmte Zahlen und Konstellationen können beunruhigend klingen — die karmische Dreizehn, die Herausforderung Null, das Neuner-Jahr als Jahr des Loslassens. Formuliere diese Themen immer konstruktiv: Nicht „Du musst Verluste hinnehmen" sondern „Es ist ein Jahr, in dem Altes gehen darf, damit Neues kommen kann."
 
-Keine Abhängigkeit erzeugen: Numerologie soll den Klienten ermächtigen — nicht abhängig machen. Wenn ein Klient keine Entscheidung mehr trifft, ohne vorher seine Zahlen zu konsultieren, hast du etwas falsch gemacht. Die Zahlen sind ein Spiegel — keine Autoritäten.
+Keine Abhängigkeit entstehen lassen: Numerologie soll dich ermächtigen — nicht abhängig machen. Wenn du keine Entscheidung mehr triffst, ohne vorher deine Zahlen zu konsultieren, ist das ein Zeichen, einen Schritt zurückzutreten. Die Zahlen sind ein Spiegel — keine Autoritäten.
 
-Grenzen der Methode anerkennen: Numerologie ist ein symbolisches System — keine exakte Wissenschaft. Sie funktioniert durch Resonanz und Reflexion, nicht durch kausale Mechanismen. Sei ehrlich darüber, was Numerologie kann und was nicht. Sie kann Selbsterkenntnis vertiefen, Orientierung geben und Lebensmuster verstehbar machen. Sie kann nicht die Zukunft vorhersagen, medizinische Diagnosen ersetzen oder komplexe psychologische Probleme lösen.
+Grenzen der Methode anerkennen: Numerologie ist ein symbolisches System — keine exakte Wissenschaft. Sie funktioniert durch Resonanz und Reflexion, nicht durch kausale Mechanismen. Sei ehrlich darüber, was Numerologie kann und was nicht. Sie kann Selbsterkenntnis vertiefen, Orientierung geben und Lebensmuster verstehbar machen. Sie kann nicht die Zukunft vorhersagen, medizinische Diagnosen ersetzen oder komplexe psychologische Probleme lösen. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-Die Verantwortung der Sprache: Wie du die Zahlen kommunizierst, bestimmt ihre Wirkung. Dieselbe Information — „Deine Lebenszahl ist die Acht" — kann empowernd klingen oder bedrohlich, je nachdem ob du die Lichtseite oder die Schattenseite betonst. Beginne immer mit den Stärken, benenne die Herausforderungen als Entwicklungschancen und schließe mit einer ermächtigenden Perspektive.`,
+Die Verantwortung der Sprache: Wie du die Zahlen formulierst — dir selbst gegenüber und wenn du sie mit Nahestehenden teilst — bestimmt, wie sie ankommen. Dieselbe Information — „Deine Lebenszahl ist die Acht" — kann empowernd klingen oder bedrohlich, je nachdem ob du die Lichtseite oder die Schattenseite betonst. Beginne immer mit den Stärken, benenne die Herausforderungen als Entwicklungschancen und schließe mit einer ermächtigenden Perspektive.`,
           uebung: {
             titel: 'Formulierungen prüfen',
             anleitung: `Wandle die folgenden ungünstigen Formulierungen in konstruktive um:
@@ -608,7 +604,7 @@ Konstruktiv: ___
 5. Ungünstig: „Mit der Meisterzahl 11 bist du für Großes bestimmt — alles andere ist Zeitverschwendung."
 Konstruktiv: ___
 
-Die Sprache macht den Unterschied zwischen einem ermächtigenden Reading und einem schädigenden.`,
+Die Sprache macht den Unterschied zwischen einer ermächtigenden und einer belastenden Deutung.`,
             dauer: '10 Min',
           },
         },
@@ -616,61 +612,52 @@ Die Sprache macht den Unterschied zwischen einem ermächtigenden Reading und ein
     },
     {
       id: 'Y03-M6',
-      titel: 'Praxis und Meisterschaft',
+      titel: 'Deine Praxis vertiefen',
       lektionen: [
         {
           id: 'Y03-M6-L1',
-          titel: 'Readings professionell gestalten',
-          inhalt: `Ein professionelles numerologisches Reading braucht mehr als Zahlenwissen — es braucht Struktur, Empathie und die Fähigkeit, die trockenen Zahlen in eine lebendige, berührende und nützliche Erfahrung zu verwandeln.
+          titel: 'Dein numerologisches Selbstporträt',
+          inhalt: `Ein numerologisches Selbstporträt ist die schriftliche Gesamtschau deines Profils — ein Dokument, das dein Zahlenwissen in eine lebendige, berührende und bleibende Form bringt. Es verwandelt die trockenen Berechnungen in etwas, das du in die Hand nehmen, wiederlesen und über Jahre begleiten kannst.
 
-Die Atmosphäre: Schaffe einen ruhigen, ungestörten Raum. Ein numerologisches Reading ist ein intimer Moment — der Klient öffnet sich, indem er sein Geburtsdatum und seinen Namen teilt, und erwartet, dass du diese Informationen mit Respekt und Kompetenz behandelst.
+Der Rahmen: Schaffe dir für die Erstellung einen ruhigen, ungestörten Moment. Dein Geburtsdatum und dein Name sind etwas Intimes — würdige sie entsprechend. Ein Selbstporträt entsteht nicht zwischen Tür und Angel, sondern in einer kleinen, bewussten Auszeit.
 
-Die Visualisierung: Erstelle für den Klienten eine schriftliche Zusammenfassung seines Profils — übersichtlich, ansprechend gestaltet, mit den wichtigsten Zahlen und ihren Bedeutungen. Dieses Dokument nimmt der Klient mit und kann es wiederholt lesen — die numerologische Analyse vertieft sich mit jedem Lesen.
+Das Dokument: Gestalte eine übersichtliche, ansprechende Zusammenfassung deines Profils — mit deinen wichtigsten Zahlen und ihren Bedeutungen in deinen eigenen Worten. Nicht abgeschrieben aus den Lektionen, sondern durch dich hindurchgegangen: Was bedeutet meine Lebenszahl für mich, in meinem Leben? Ein solches Dokument vertieft sich mit jedem Lesen — du wirst nach Monaten Dinge darin entdecken, die du beim Schreiben noch nicht sehen konntest.
 
-Die Personalisierung: Kein Reading klingt wie das andere, auch wenn die Zahlen gleich sind. Zwei Klienten mit der Lebenszahl Fünf haben völlig verschiedene Lebensgeschichten — und dein Reading muss diese Geschichten einbeziehen. Frage nach, beziehe die Zahlen auf die konkrete Situation, lass den Klienten seine eigene Geschichte in den Zahlen wiedererkennen.
+Die Personalisierung: Kein Selbstporträt gleicht dem anderen, auch wenn die Zahlen gleich sind. Zwei Menschen mit der Lebenszahl Fünf haben völlig verschiedene Lebensgeschichten — und dein Porträt lebt davon, dass du deine Geschichte in den Zahlen wiedererkennst. Beziehe konkrete Situationen, Wendepunkte und Erinnerungen ein.
 
-Die Tiefe: Ein gutes Reading bleibt nicht an der Oberfläche — „Du bist kreativ und kommunikativ." Es geht in die Tiefe: „Deine Drei als Lebenszahl zeigt, dass dein zentraler Lebensauftrag kreativer Selbstausdruck ist — und gleichzeitig ist die fehlende Sieben in deinem Profil ein Hinweis darauf, dass du die Tiefe hinter deiner Kreativität entwickeln darfst. Nicht nur unterhalten — sondern wirklich berühren."
+Die Tiefe: Bleib nicht an der Oberfläche — „ich bin kreativ und kommunikativ“. Geh eine Ebene tiefer: „Meine Drei als Lebenszahl zeigt, dass kreativer Selbstausdruck mein zentrales Lebensthema ist — und die fehlende Sieben in meinem Profil lädt mich ein, die Tiefe hinter meiner Kreativität zu entwickeln. Nicht nur unterhalten — sondern wirklich berühren.“
 
-Die Nachbereitung: Biete dem Klienten an, nach einer Woche nochmals kurz zu sprechen — die Erfahrung zeigt, dass viele Erkenntnisse erst nach dem Reading richtig landen. Ein kurzes Telefonat oder eine E-Mail-Nachbetreuung vertieft die Wirkung und stärkt die Beziehung.`,
+Das Wiederlesen: Viele Erkenntnisse landen erst mit Abstand. Lies dein Selbstporträt nach einigen Wochen erneut — und ergänze, was sich inzwischen gezeigt hat. So wird es zu einem lebendigen Dokument deiner Entwicklung.`,
           uebung: {
-            titel: 'Reading-Struktur finalisieren',
-            anleitung: `Finalisiere deine persönliche Reading-Struktur:
+            titel: 'Selbstporträt gestalten',
+            anleitung: `Erstelle dein numerologisches Selbstporträt:
 
-Mein Ablauf:
-1. Begrüßung und Einführung (__ Min): ___
-2. Lebenszahl (__ Min): ___
-3. Ausdruckszahl (__ Min): ___
-4. Herzenszahl (__ Min): ___
-5. Persönlichkeitszahl (__ Min): ___
-6. Fehlende Zahlen (__ Min): ___
-7. Persönliches Jahr (__ Min): ___
-8. Zusammenfassung und Empfehlung (__ Min): ___
+1. Sammle deine fünf Kernzahlen und dein aktuelles persönliches Jahr.
 
-Gesamtdauer: ___ Min
+2. Schreibe zu jeder Zahl zwei bis drei Sätze in deinen eigenen Worten:
+   Was bedeutet diese Zahl — und wo erkenne ich sie in meinem Leben?
 
-Mein Abschluss-Satz für jedes Reading:
-___
+3. Ergänze einen kurzen Abschnitt zur aktuellen Zeitqualität:
+   Was trägt mich dieses Jahr — und was will es von mir?
 
-Meine Nachbetreuung:
-___
+4. Gestalte das Ganze auf einer Seite — übersichtlich und so, dass du es gern wiederliest.
 
-Mein Preis:
-___`,
-            dauer: '10 Min',
+5. Bewahre es auf und notiere dir einen Termin in einem Jahr, um es erneut zu lesen.`,
+            dauer: '30 Min',
           },
         },
         {
           id: 'Y03-M6-L2',
           titel: 'Die eigene numerologische Praxis vertiefen',
-          inhalt: `Deine eigene Beziehung zur Numerologie — dein Verständnis deiner eigenen Zahlen, deine tägliche Anwendung der Zyklen und dein wachsendes Gespür für die Zahlenschwingungen — ist das Fundament deiner Beratungskompetenz. Ein Numerologe, der seine eigenen Zahlen nicht kennt und lebt, ist wie ein Musiklehrer, der kein Instrument spielt.
+          inhalt: `Deine eigene Beziehung zur Numerologie — dein Verständnis deiner eigenen Zahlen, deine tägliche Anwendung der Zyklen und dein wachsendes Gespür für die Zahlenschwingungen — ist das Herz deiner numerologischen Praxis. Wer die eigenen Zahlen nicht kennt und lebt, bleibt in der Theorie stehen — wie jemand, der über Musik liest, ohne je ein Instrument zu berühren.
 
 Die tägliche Praxis: Beginne jeden Morgen mit der Berechnung deines persönlichen Tages und einer kurzen Reflexion: Was ist die Qualität dieses Tages? Wie kann ich sie nutzen? Dieses einfache Ritual — dreißig Sekunden am Morgen — trainiert dein numerologisches Denken und vertieft dein Gespür für die Zahlenschwingungen.
 
 Die monatliche Reflexion: Am Anfang jedes Monats berechnest du deinen persönlichen Monat und setzt eine Intention, die zur Monatsqualität passt. Am Ende des Monats reflektierst du: Hat sich die Qualität bestätigt? Was habe ich gelernt? Diese Praxis über ein Jahr gibt dir ein tiefes Verständnis des Neun-Jahres-Zyklus.
 
-Das Studium anderer Profile: Berechne die Profile von Freunden, Familienmitgliedern, historischen Persönlichkeiten. Je mehr Profile du studierst, desto feiner wird dein Gespür für die Nuancen der Zahlen. Zwei Fünfer leben ihre Freiheit völlig verschieden — und nur die Erfahrung lehrt dich, diese Unterschiede zu sehen.
+Das Studium anderer Profile: Berechne die Profile von historischen Persönlichkeiten — und von Menschen aus deinem Umfeld, wenn sie damit einverstanden sind. Je mehr Profile du studierst, desto feiner wird dein Gespür für die Nuancen der Zahlen. Zwei Fünfer leben ihre Freiheit völlig verschieden — und nur die Erfahrung lehrt dich, diese Unterschiede zu sehen.
 
-Die Kombination mit Intuition: Die Numerologie ist ein rationales System — Berechnung, Zuordnung, Deutung. Aber die besten Readings entstehen, wenn die rationale Analyse mit intuitiver Wahrnehmung verschmilzt. Lass dich von den Zahlen inspirieren, aber nicht begrenzen. Wenn deine Intuition etwas Anderes sagt als das Lehrbuch — vertraue deiner Intuition. Die Zahlen sind der Ausgangspunkt, nicht das Gefängnis.`,
+Die Kombination mit Intuition: Die Numerologie ist ein rationales System — Berechnung, Zuordnung, Deutung. Aber die tiefsten Einsichten entstehen, wenn die rationale Analyse mit intuitiver Wahrnehmung verschmilzt. Lass dich von den Zahlen inspirieren, aber nicht begrenzen. Wenn deine Intuition etwas Anderes sagt als das Lehrbuch — vertraue deiner Intuition. Die Zahlen sind der Ausgangspunkt, nicht das Gefängnis.`,
           uebung: {
             titel: 'Dreißig-Tage-Numerologie-Challenge',
             anleitung: `Starte eine Dreißig-Tage-Challenge:
@@ -698,16 +685,16 @@ Diese Challenge transformiert Numerologie von Theorie in gelebte Erfahrung.`,
         },
         {
           id: 'Y03-M6-L3',
-          titel: 'Dein Weg als Numerologin',
-          inhalt: `Du hast die Grundlagen der Numerologie gelernt — die Berechnung der Kernzahlen, die Bedeutung der Zahlen eins bis neun und der Meisterzahlen, die persönlichen Zyklen, die fehlenden Zahlen und die Beziehungsnumerologie. Du hast Werkzeuge für professionelle Readings und die Integration in deine holistische Praxis.
+          titel: 'Dein Weg mit den Zahlen',
+          inhalt: `Du hast die Grundlagen der Numerologie gelernt — die Berechnung der Kernzahlen, die Bedeutung der Zahlen Eins bis Neun und der Meisterzahlen, die persönlichen Zyklen, die fehlenden Zahlen und die Beziehungsnumerologie. Und du hast Werkzeuge, all das im eigenen Leben anzuwenden: das Selbst-Reading, das Selbstporträt, die tägliche Zyklus-Praxis.
 
-Die Numerologie ist ein System, das mit der Übung wächst. Je mehr Profile du berechnest, je mehr Readings du gibst, je mehr du die Zyklen in deinem eigenen Leben beobachtest, desto tiefer wird dein Verständnis. Die Zahlen sind einfach — ihre Anwendung auf die Komplexität des menschlichen Lebens ist eine Kunst, die ein Leben lang verfeinert werden kann.
+Die Numerologie ist ein System, das mit der Übung wächst. Je mehr du deine eigenen Zyklen beobachtest, je öfter du deine Zahlen mit deiner gelebten Erfahrung abgleichst, desto tiefer wird dein Verständnis. Die Zahlen selbst sind einfach — ihre Anwendung auf die Komplexität des eigenen Lebens ist eine Kunst, die ein Leben lang verfeinert werden kann. Gib dir diese Zeit — die Zahlen laufen dir nicht davon, und jedes Lebensjahr liefert neues Material für dein Verständnis.
 
-Die Verbindung mit Human Design macht dein Angebot einzigartig: Numerologie zeigt die Lebensaufgabe und die Zeitzyklen, Human Design zeigt die energetische Konstitution und die Strategie. Zusammen ergibt sich ein Bild von außergewöhnlicher Tiefe und Präzision. Die Resonanz-Synthese — HD und Numerologie vereint — ist dein Alleinstellungsmerkmal und der Kern deines Ökosystems.
+Die Verbindung mit Human Design vertieft deine Selbstbetrachtung: Die Numerologie zeigt deine Lebensthemen und Zeitzyklen, Human Design deine energetische Konstitution. Zusammen ergibt sich ein Bild von außergewöhnlicher Tiefe — nicht als Urteil über dich, sondern als Landkarte, auf der du dich immer wieder neu verorten kannst.
 
-Die Numerologie lehrt eine tiefe Wahrheit: Hinter dem scheinbaren Chaos des Lebens liegt eine Ordnung — nicht starr und deterministisch, sondern dynamisch und einladend. Die Zahlen zeigen Muster, die dem Verstand allein verborgen bleiben. Und das Erkennen dieser Muster gibt dem Leben Sinn, Richtung und die tiefe Gewissheit: Nichts ist zufällig.
+Die Numerologie spricht eine tiefe Einladung aus: Hinter dem scheinbaren Chaos des Lebens liegt eine Ordnung — nicht starr und deterministisch, sondern dynamisch und offen. Die Zahlen zeigen Muster, die dem Verstand allein verborgen bleiben. Und das Erkennen dieser Muster gibt dem Leben Sinn, Richtung und die leise Gewissheit: Nichts ist zufällig.
 
-Vertraue den Zahlen. Vertraue deiner Intuition. Und vertraue dem Prozess, der sich entfaltet, wenn ein Mensch zum ersten Mal sein numerologisches Profil sieht und sagt: „Das bin ja ich."
+Vertraue den Zahlen als Spiegel. Vertraue deiner eigenen Wahrnehmung als Kompass. Und vertraue dem Moment, in dem ein Mensch sein numerologisches Profil zum ersten Mal sieht und sagt: „Das bin ja ich.“
 
 Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
           uebung: {
@@ -720,12 +707,12 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
 
 3. Wie verändert das Verständnis der Zyklen deine Perspektive auf dein aktuelles Leben? ___
 
-4. Wie wirst du Numerologie in deine Praxis integrieren? ___
+4. Wie wirst du die Numerologie in deinen Alltag integrieren? ___
 
 5. Dein Commitment:
-   „Ich verpflichte mich, ___"
+   „Ich nehme mir vor, ___“
 
-Bewahre dein vollständiges numerologisches Profil und diese Reflexion auf. Lies beides in einem Jahr — und staune, wie die Zahlen sich bestätigt haben.
+Bewahre dein vollständiges numerologisches Profil und diese Reflexion auf. Lies beides in einem Jahr — und staune, wie sich dein Blick vertieft hat.
 
 Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
             dauer: '15 Min',

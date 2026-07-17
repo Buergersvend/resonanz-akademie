@@ -1,6 +1,6 @@
 // N12.js — Nahrungsergänzung mit Verstand
 // Standard ◈◈ · 6 Module · 18 Lektionen
-// Human Resonanz Akademie · Juni 2026
+// Human Resonanz Lernwelt · Juni 2026 · Saniert Juli 2026
 // Zuschnitt (rechtlich heikelstes N-Thema): Verbraucher-/Orientierungswissen als
 // sicherer Kern; Empfehlungslogik ("welches wann") bewusst ENTFERNT und durch
 // Aufklärung + harte Arzt-/Apotheker-Grenze (HeilprG, HWG) ersetzt; Sicherheit als Kernmodul.
@@ -8,13 +8,13 @@
 const N12 = {
   id: 'N12',
   titel: 'Nahrungsergänzung mit Verstand',
-  untertitel: 'Orientierung · Qualität · Sicherheit · die klare Grenze zur Beratung',
+  untertitel: 'Orientierung · Qualität · Sicherheit · die klare Grenze zur medizinischen Frage',
   bereich: 'naturheilkunde',
   format: 'standard',
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
-  beschreibung: `Ein klarer Verbraucher-Kompass durch die unübersichtliche Welt der Nahrungsergänzungsmittel: Was sind sie rechtlich, wie liest man Etiketten und Qualitätsmerkmale, und worauf kommt es bei Sicherheit und Wechselwirkungen an? Du lernst, mündig und kritisch zu orientieren und Menschen vor Fehlkäufen und Risiken zu schützen — ohne Empfehlungen zu geben, mit einer klaren Grenze zu allem, was in ärztliche und apothekerliche Hände gehört. Sicherheit und Verbraucherschutz stehen im Zentrum dieses Kurses.`,
+  beschreibung: `Ein klarer Verbraucher-Kompass durch die unübersichtliche Welt der Nahrungsergänzungsmittel: Was sind sie rechtlich, wie liest man Etiketten und Qualitätsmerkmale, und worauf kommt es bei Sicherheit und Wechselwirkungen an? Du lernst, dich mündig und kritisch zu orientieren und dich vor Fehlkäufen und Risiken zu schützen — ohne dich auf Werbeversprechen zu verlassen, mit einer klaren Grenze zu allem, was in ärztliche und apothekerliche Hände gehört. Sicherheit und Verbraucherschutz stehen im Zentrum dieses Kurses.`,
   status: 'live',
 
   module: [
@@ -123,9 +123,9 @@ Eine isolierte Tablette kann das nur unvollständig nachbilden. Eine Orange ist 
 
 Bevor jemand über Präparate nachdenkt, lohnt fast immer der Blick auf die Ernährung: Ist sie vielfältig? Bunt? Vollwertig? In den allermeisten Fällen liegt hier der wirksamste Hebel — und er kostet kein Geld für Präparate, birgt keine Überdosierungs- oder Wechselwirkungsrisiken und liefert nebenbei Genuss und Ballaststoffe.
 
-### Die Begleiter-Perspektive
+### Für dich heißt das
 
-Für die Begleitung ist "Essen zuerst" die zentrale, sichere Botschaft. Wer nach Präparaten fragt, bekommt zunächst den Blick auf die Ernährung zurückgespiegelt — und bei konkretem Bedarf den Verweis an Arzt oder Apotheke. Diese Haltung ist verantwortungsvoll, schützt vor Fehlausgaben und Risiken und bleibt klar im Bereich des allgemeinen Ernährungswissens.
+"Essen zuerst" ist die zentrale, sichere Grundhaltung. Bevor du zu einem Präparat greifst, lohnt der Blick auf die eigene Ernährung — und bei konkretem gesundheitlichem Bedarf der Gang zu Arzt oder Apotheke. Diese Haltung schützt dich vor Fehlausgaben und Risiken und hält dich im sicheren Bereich des allgemeinen Ernährungswissens.
 
 ### Übung: Der Ernährungs-Blick zuerst
 
@@ -259,9 +259,9 @@ Wie in Modul 1 erläutert: Nahrungsergänzungsmittel dürfen **keine** Heilversp
 
 Eine gesunde Skepsis ist der beste Schutz: Je lauter und emotionaler ein Produkt beworben wird, desto kritischer lohnt der Blick. Seriöse Information ist meist sachlich, zurückhaltend und macht keine großen Versprechen. Wo Heilung, Wunder oder Dringlichkeit versprochen werden, ist Vorsicht geboten.
 
-### Die Begleiter-Perspektive
+### Für dich heißt das
 
-Menschen dabei zu helfen, Werbung zu durchschauen, ist ein echter Schutz vor Fehlkäufen und überzogenen Erwartungen. Du klärst über Marketing-Mechanismen auf — eine sichere, wertvolle Aufgabe. Du bewertest dabei keine konkreten Produkte als "gut" oder "schlecht", sondern stärkst die kritische Urteilsfähigkeit.
+Werbung durchschauen zu können, ist ein echter Schutz vor Fehlkäufen und überzogenen Erwartungen. Wenn du die Marketing-Mechanismen kennst, bewertest du nicht pauschal einzelne Produkte als "gut" oder "schlecht" — du stärkst deine eigene kritische Urteilsfähigkeit und triffst bewusstere Entscheidungen.
 
 ### Übung: Werbung analysieren
 
@@ -439,9 +439,9 @@ Wenn man diese Fragen ehrlich durchgeht, lautet die Antwort für viele Menschen 
 
 Bleibt nach den Fragen der Eindruck, dass tatsächlich ein Bedarf bestehen könnte, ist der nächste Schritt klar: nicht selbst entscheiden und kaufen, sondern Arzt oder Apotheke fragen. Der Fragen-Check führt also entweder zu "brauche ich nicht" oder zu "das kläre ich fachkundig" — beides sind gute, sichere Ausgänge.
 
-### Die Begleiter-Perspektive
+### Für dich heißt das
 
-Diese kritischen Fragen sind ein wunderbares, sicheres Werkzeug für die Begleitung. Du hilfst Menschen, mündig nachzudenken, statt aus Sorge oder Werbedruck zu kaufen. Du entscheidest nichts für sie und empfiehlst nichts — du gibst ihnen das Denkwerkzeug an die Hand. Das stärkt ihre Eigenverantwortung und schützt sie zugleich.
+Diese kritischen Fragen sind ein wunderbares, sicheres Werkzeug für dich selbst. Sie helfen dir, mündig nachzudenken, statt aus Sorge oder Werbedruck zu kaufen. Sie nehmen dir keine Entscheidung ab — sie sind das Denkwerkzeug, mit dem du selbst klarer siehst. Das stärkt deine Eigenverantwortung und schützt dich zugleich.
 
 ### Übung: Der Fragen-Check
 
@@ -485,9 +485,9 @@ Wer sich über Nahrungsergänzung informieren will, stößt auf eine Flut von Qu
 
 Für verlässliche, unabhängige Information eignen sich öffentliche Gesundheits- und Verbraucherschutzstellen sowie das persönliche Gespräch in der Apotheke. Diese Quellen verfolgen kein Verkaufsinteresse und sind auf sachliche Aufklärung ausgerichtet. Bei konkreten persönlichen Fragen bleibt das Gespräch mit Arzt oder Apotheke der Goldstandard.
 
-### Die Begleiter-Perspektive
+### Für dich heißt das
 
-Menschen zu zeigen, wie sie seriöse von interessengeleiteter Information unterscheiden, ist nachhaltige Hilfe — sie befähigt zu eigenständigem, kritischem Urteil weit über den einzelnen Fall hinaus. Du vermittelst Medienkompetenz, keine Produktbewertung. Das ist sicher und wertvoll.
+Seriöse von interessengeleiteter Information unterscheiden zu können, trägt weit über den einzelnen Fall hinaus — es ist eine Medienkompetenz, die dich in vielen Lebensbereichen mündiger macht. Du bewertest nicht einzelne Produkte, sondern schärfst dein eigenes Urteil. Das ist sicher und wertvoll.
 
 ### Übung: Quellen einschätzen
 
@@ -523,9 +523,9 @@ Für den mündigen Umgang ist das doppelt relevant: Erstens erklärt es, warum s
 
 Eine ehrliche Bilanz lautet für viele Situationen: hohe Kosten, geringer realer Nutzen (ohne festgestellten Bedarf), möglicher Placebo-Effekt — und im ungünstigen Fall sogar Risiken durch Überdosierung oder Wechselwirkungen. Diese nüchterne Betrachtung ist kein Verteufeln von Nahrungsergänzung, sondern ein realistischer Blick, der vor Enttäuschung, Fehlausgaben und Risiken schützt.
 
-### Die Begleiter-Perspektive
+### Für dich heißt das
 
-Eine ehrliche Kosten-Nutzen-Perspektive zu vermitteln, ist wertvolle Aufklärung. Du hilfst Menschen, realistische Erwartungen zu entwickeln und ihr Geld bewusst einzusetzen — oft mit dem Ergebnis, dass eine bessere Ernährung die klügere "Investition" ist. Das bleibt klar im Bereich des Verbraucherwissens.
+Eine ehrliche Kosten-Nutzen-Perspektive schützt deinen Geldbeutel. Realistische Erwartungen helfen dir, dein Geld bewusst einzusetzen — oft mit dem Ergebnis, dass eine bessere Ernährung die klügere "Investition" ist. Das bleibt klar im Bereich des Verbraucherwissens.
 
 ### Übung: Die ehrliche Bilanz
 
@@ -543,7 +543,7 @@ Betrachte eine Ergänzungs-Überlegung nüchtern:
     {
       id: 'N12-M5',
       titel: 'Das Randthema — gezielte Anwendung (abgegrenzt)',
-      beschreibung: 'Die harte Grenze ziehen: "Was nehme ich wann?" gehört zu Arzt und Apotheke, warum Begleiter:innen keine Supplement-Empfehlungen geben dürfen und wie man gut verweist.',
+      beschreibung: 'Die harte Grenze ziehen: "Was nehme ich wann?" gehört zu Arzt und Apotheke, warum niemand ohne Fachkunde Supplement-Empfehlungen aussprechen sollte und wie man im Zweifel richtig weiterfragt.',
       lektionen: [
         {
           id: 'N12-M5-L1',
@@ -573,7 +573,7 @@ Folgende Dinge tust du **nicht**, egal wie gut gemeint:
 
 ### Was du stattdessen tust
 
-Statt zu empfehlen, befähigst du und verweist. Du gibst dein wertvolles Verbraucherwissen weiter — wie man Etiketten liest, Werbung durchschaut, Risiken erkennt — und du verweist für die eigentliche Entscheidung an Arzt oder Apotheke. Das ist nicht weniger hilfreich, sondern verantwortungsvoll und vertrauenswürdig.
+Statt auf Empfehlungen zu vertrauen, verlässt du dich auf dein eigenes Urteil und fragst im Zweifel nach. Dein Verbraucherwissen — wie man Etiketten liest, Werbung durchschaut, Risiken erkennt — trägt dich weit; die eigentliche gesundheitliche Entscheidung gehört zu Arzt oder Apotheke. Das ist nicht weniger klug, sondern verantwortungsvoll.
 
 ### Warum diese Grenze schützt
 
@@ -589,7 +589,7 @@ Formuliere eine freundliche, klare Reaktion auf die Frage: "Du kennst dich doch 
         },
         {
           id: 'N12-M5-L2',
-          titel: 'Warum Begleiter:innen keine Supplement-Empfehlungen geben dürfen',
+          titel: 'Warum ohne Fachkunde niemand Supplement-Empfehlungen aussprechen sollte',
           inhalt: `## Warum keine Empfehlungen?
 
 ### Den Grund wirklich verstehen
@@ -675,129 +675,125 @@ Formuliere für jede Stelle einen freundlichen Beispielsatz:
     },
 
     // ============================================================
-    // MODUL 6 — Deine Rolle in der Begleitung
+    // MODUL 6 — Deine Haltung als mündige:r Verbraucher:in
     // ============================================================
     {
       id: 'N12-M6',
-      titel: 'Deine Rolle in der Begleitung',
-      beschreibung: 'Aufklären und sensibilisieren statt empfehlen, Klient:innen vor Fehlkäufen und Risiken schützen und ein klares Selbstverständnis als mündig machende Begleiter:in entwickeln.',
+      titel: 'Deine Haltung als mündige:r Verbraucher:in',
+      beschreibung: 'Für dich selbst mündig entscheiden statt Werbung zu vertrauen, dich und deine Angehörigen vor Fehlkäufen und Risiken schützen und ein klares Selbstverständnis als kritische:r, urteilsfähige:r Verbraucher:in entwickeln.',
       lektionen: [
         {
           id: 'N12-M6-L1',
-          titel: 'Aufklären & sensibilisieren statt empfehlen',
-          inhalt: `## Aufklären statt empfehlen
+          titel: 'Für dich selbst mündig entscheiden — aufklären statt vertrauen',
+          inhalt: `## Mündig entscheiden statt vertrauen
 
-### Dein eigentlicher Auftrag
+### Dein eigentlicher Gewinn
 
-Nach all dem Wissen und allen Grenzen lässt sich deine Rolle beim Thema Nahrungsergänzung in einem Begriffspaar zusammenfassen: aufklären und sensibilisieren — statt empfehlen. Dieser Auftrag ist nicht weniger wert als der eines Beraters, der Produkte empfiehlt. Im Gegenteil: Er ist oft wertvoller und immer sicherer.
+Nach all dem Wissen und allen Grenzen lässt sich der Kern dieses Kurses in einem Begriffspaar zusammenfassen: selbst verstehen und selbst urteilen — statt auf Empfehlungen und Werbung zu vertrauen. Diese Haltung ist mehr wert als jeder gutgemeinte Produkttipp: Sie macht dich unabhängig.
 
-### Was Aufklären bedeutet
+### Was Verstehen bedeutet
 
-Aufklären heißt, Menschen mit Wissen zu befähigen, eigene mündige Entscheidungen zu treffen. Du gibst ihnen Werkzeuge an die Hand: das Verständnis dafür, was Nahrungsergänzung ist und was nicht, die Fähigkeit, Etiketten zu lesen und Werbung zu durchschauen, das Bewusstsein für Sicherheitsrisiken, die kritischen Fragen vor jedem Kauf. Mit diesen Werkzeugen können sie selbst klüger entscheiden — und wissen, wann sie fachkundigen Rat einholen sollten.
+Verstehen heißt, dich selbst mit Wissen auszustatten, um eigene mündige Entscheidungen zu treffen. Du hast dir Werkzeuge erarbeitet: das Verständnis dafür, was Nahrungsergänzung ist und was nicht, die Fähigkeit, Etiketten zu lesen und Werbung zu durchschauen, das Bewusstsein für Sicherheitsrisiken, die kritischen Fragen vor jedem Kauf. Mit diesen Werkzeugen entscheidest du klüger — und weißt, wann du fachkundigen Rat einholst.
 
-### Was Sensibilisieren bedeutet
+### Was Sensibilität bedeutet
 
-Sensibilisieren heißt, das Bewusstsein für die wichtigen Punkte zu schärfen: dass "natürlich" nicht "harmlos" bedeutet, dass mehr nicht besser ist, dass Wechselwirkungen real sind, dass Werbung manipulieren kann, dass "Essen zuerst" gilt. Diese Sensibilisierung wirkt oft nachhaltiger als jede einzelne Empfehlung, weil sie die Grundhaltung verändert.
+Sensibel zu sein heißt, das Bewusstsein für die wichtigen Punkte wachzuhalten: dass "natürlich" nicht "harmlos" bedeutet, dass mehr nicht besser ist, dass Wechselwirkungen real sind, dass Werbung manipulieren kann, dass "Essen zuerst" gilt. Diese innere Wachsamkeit wirkt nachhaltiger als jeder einzelne Kauf, weil sie deine Grundhaltung verändert.
 
-### Der Unterschied zum Empfehlen
+### Der Unterschied zum Vertrauen auf Empfehlungen
 
-Ein Berater, der empfiehlt, gibt eine Antwort ("Nimm dieses Produkt"). Du gibst etwas Wertvolleres: die Fähigkeit, selbst zu guten Antworten zu kommen — und das Wissen, wann man Fachleute fragt. Empfehlungen machen abhängig; Aufklärung macht mündig. Letzteres ist das eigentliche Geschenk.
+Wer sich auf eine fremde Empfehlung verlässt, bekommt eine fertige Antwort ("Nimm dieses Produkt"). Du hast dir etwas Wertvolleres erarbeitet: die Fähigkeit, selbst zu guten Antworten zu kommen — und das Wissen, wann man Fachleute fragt. Blindes Vertrauen macht abhängig; eigenes Verständnis macht mündig. Letzteres ist das eigentliche Geschenk dieses Kurses.
 
-### Warum das auch für dich gut ist
+### Dieses Wissen im Alltag teilen
 
-Diese Haltung schützt nicht nur die Menschen, sondern auch dich: Du übernimmst keine Verantwortung für Entscheidungen, die du nicht überblicken kannst, und bleibst klar im rechtlich sicheren Bereich. Du kannst mit gutem Gewissen und ruhigem Gefühl arbeiten — ein Wert, der nicht zu unterschätzen ist.
+Was du gelernt hast, hilft nicht nur dir. Im Kreis von Familie und Freunden kommt das Thema Nahrungsergänzung immer wieder auf — und du kannst dann eine besonnene, aufklärende Stimme sein. Wichtig dabei: Du sprichst nie eine Produkt- oder Mengenempfehlung aus (das gehört zu Arzt und Apotheke), sondern teilst allgemeines Verbraucherwissen und ermunterst zum kritischen Nachfragen. Der Satz "Das würde ich mit deiner Ärztin oder in der Apotheke besprechen" ist dabei oft der wertvollste Beitrag.
 
 ### Die praktische Haltung
 
-Im Alltag bedeutet das: Wenn das Thema Nahrungsergänzung aufkommt, fragst du nicht "Was soll ich empfehlen?", sondern "Wie kann ich diese Person befähigen und sensibilisieren — und wohin verweise ich sie für die eigentliche Entscheidung?". Diese innere Umstellung ist der Kern deiner Rolle.
+Im Alltag bedeutet das: Wenn das Thema Nahrungsergänzung aufkommt — bei dir selbst oder im Gespräch —, ist die Frage nicht "Welches Produkt ist das beste?", sondern "Verstehe ich, worum es geht, was die Risiken sind, und wo ich im Zweifel fachkundig nachfrage?". Diese innere Umstellung ist der Kern deiner neuen Haltung.
 
-### Übung: Aufklären statt empfehlen
+### Übung: Verstehen statt vertrauen
 
-Jemand fragt dich nach Vitaminpräparaten. Plane dein Vorgehen:
-1. Welches erlaubte Wissen kannst du anbieten (aufklären)?
-2. Worauf möchtest du sensibilisieren (Sicherheit, "Essen zuerst", Marketing)?
-3. Wohin verweist du für die eigentliche Entscheidung?`
+Stell dir vor, dir wird ein Vitaminpräparat angepriesen. Plane dein Vorgehen:
+1. Welches erlaubte Wissen hilft dir bei der Einordnung?
+2. Worauf achtest du besonders (Sicherheit, "Essen zuerst", Marketing)?
+3. Wohin wendest du dich für die eigentliche gesundheitliche Entscheidung?`
         },
         {
           id: 'N12-M6-L2',
-          titel: 'Klient:innen vor Fehlkäufen & Risiken schützen',
+          titel: 'Dich & deine Angehörigen vor Fehlkäufen & Risiken schützen',
           inhalt: `## Schützen vor Fehlkäufen & Risiken
 
-### Schutz als wertvoller Dienst
+### Schutz als konkreter Wert
 
-Eine der schönsten Perspektiven auf deine Rolle ist diese: Du bist jemand, der Menschen schützt — vor unnötigen Ausgaben, vor überzogenen Erwartungen und vor echten gesundheitlichen Risiken. In einem Markt, der von Werbeversprechen und Verkaufsinteressen geprägt ist, ist eine schützende, aufklärende Stimme ein echter Wert.
+Eine der schönsten Wirkungen deines neuen Wissens ist diese: Du kannst dich selbst — und die Menschen, die dir nahestehen — schützen: vor unnötigen Ausgaben, vor überzogenen Erwartungen und vor echten gesundheitlichen Risiken. In einem Markt, der von Werbeversprechen und Verkaufsinteressen geprägt ist, ist ein kritischer, aufgeklärter Blick ein echter Wert.
 
 ### Schutz vor Fehlkäufen
 
-Viele Menschen geben viel Geld für Präparate aus, die sie nicht brauchen — getrieben von Werbung, Sorge oder Trends. Indem du zum kritischen Nachdenken anregst ("Brauche ich das? Wäre es über Ernährung deckbar? Liegt ein fachkundig festgestellter Bedarf vor?"), hilfst du, dieses Geld zu sparen oder sinnvoller einzusetzen. Das ist konkrete, spürbare Hilfe.
+Viele Menschen geben viel Geld für Präparate aus, die sie nicht brauchen — getrieben von Werbung, Sorge oder Trends. Indem du kritisch nachdenkst ("Brauche ich das? Wäre es über Ernährung deckbar? Liegt ein fachkundig festgestellter Bedarf vor?"), sparst du dieses Geld oder setzt es sinnvoller ein. Das ist konkrete, spürbare Wirkung.
 
 ### Schutz vor falschen Erwartungen
 
-Wer von einem Präparat Wunder erwartet, wird oft enttäuscht — und vernachlässigt vielleicht wirksamere Wege wie eine bessere Ernährung. Indem du für realistische Erwartungen und den "Essen zuerst"-Grundsatz sensibilisierst, schützt du vor Enttäuschung und lenkst die Aufmerksamkeit auf das, was wirklich trägt.
+Wer von einem Präparat Wunder erwartet, wird oft enttäuscht — und vernachlässigt vielleicht wirksamere Wege wie eine bessere Ernährung. Wenn du realistische Erwartungen entwickelst und dem "Essen zuerst"-Grundsatz folgst, schützt du dich vor Enttäuschung und lenkst deine Aufmerksamkeit auf das, was wirklich trägt.
 
 ### Schutz vor gesundheitlichen Risiken
 
-Der wichtigste Schutz betrifft die Gesundheit: vor Überdosierung, vor Wechselwirkungen mit Medikamenten, vor unbedachter Anwendung bei Risikogruppen. Dein konsequenter Hinweis "Besprich das mit Arzt oder Apotheke" kann im Einzelfall echten Schaden verhindern. Das ist vielleicht der wertvollste Beitrag, den du leisten kannst.
+Der wichtigste Schutz betrifft die Gesundheit: vor Überdosierung, vor Wechselwirkungen mit Medikamenten, vor unbedachter Anwendung bei Risikogruppen. Der konsequente Grundsatz "Das bespreche ich mit Arzt oder Apotheke" kann im Einzelfall echten Schaden verhindern. Das ist vielleicht der wertvollste Nutzen dieses Wissens.
 
 ### Wachsam sein, ohne Angst zu schüren
 
-Schützen bedeutet nicht, Angst zu machen oder Nahrungsergänzung pauschal zu verteufeln. Es bedeutet, sachlich für Risiken zu sensibilisieren und im richtigen Moment den Verweis auszusprechen. Eine ruhige, sachliche Haltung wirkt überzeugender und ist hilfreicher als Alarmismus. Du bist eine besonnene, informierte Stimme — kein Panikmacher und kein Verkäufer.
+Schützen bedeutet nicht, Angst zu machen oder Nahrungsergänzung pauschal zu verteufeln. Es bedeutet, Risiken sachlich einzuordnen und im richtigen Moment fachkundigen Rat zu suchen. Eine ruhige, sachliche Haltung trägt weiter als Alarmismus. Du bist eine besonnene, informierte Stimme — für dich selbst und für andere.
 
 ### Besondere Wachsamkeit
 
-Besonders wachsam bist du, wenn du erkennst, dass jemand Medikamente nimmt, zu einer Risikogruppe gehört oder im Begriff ist, viele Präparate "vorsichtshalber" zu nehmen. In diesen Momenten ist dein aufklärender, verweisender Beitrag am wichtigsten.
+Besonders wachsam bist du, wenn du selbst oder jemand in deinem Umfeld Medikamente nimmt, zu einer Risikogruppe gehört oder im Begriff ist, viele Präparate "vorsichtshalber" zu nehmen. In diesen Momenten ist der Weg zu Arzt oder Apotheke am wichtigsten.
 
 ### Übung: Schutz-Situationen
 
-Überlege für jede Situation, wie du schützend wirkst:
-1. Jemand will viele Präparate "zur Sicherheit" kaufen — wie schützt du vor dem Fehlkauf?
-2. Jemand erwartet von einem Mittel die Lösung all seiner Probleme — wie schützt du vor falschen Erwartungen?
-3. Jemand nimmt Medikamente und will ergänzen — wie schützt du vor gesundheitlichem Risiko?`
+Überlege für jede Situation, wie du schützend denkst:
+1. Du willst viele Präparate "zur Sicherheit" kaufen — wie schützt du dich vor dem Fehlkauf?
+2. Jemand in deinem Umfeld erwartet von einem Mittel die Lösung all seiner Probleme — wie regst du zu realistischen Erwartungen an?
+3. Du nimmst Medikamente und überlegst zu ergänzen — welchen Weg gehst du?`
         },
         {
           id: 'N12-M6-L3',
-          titel: 'Dein Selbstverständnis — mündig machen, nicht verkaufen',
+          titel: 'Dein Selbstverständnis — mündig sein, nicht verführbar',
           inhalt: `## Dein Selbstverständnis
 
 ### Wer bist du in diesem Thema?
 
-Zum Abschluss geht es um dein inneres Bild von dir selbst in Bezug auf Nahrungsergänzung. Dieses Selbstverständnis prägt, wie du sprichst, wo du Grenzen ziehst und wie du den Menschen begegnest, die zu dir kommen. Der Leitgedanke lautet: mündig machen, nicht verkaufen.
+Zum Abschluss geht es um dein inneres Bild von dir selbst in Bezug auf Nahrungsergänzung. Dieses Selbstverständnis prägt, wie du an das Thema herangehst, wo du für dich Grenzen ziehst und wie souverän du Werbeversprechen begegnest. Der Leitgedanke lautet: mündig sein, nicht verführbar.
 
-### Nicht Verkäufer, nicht Berater im medizinischen Sinn
+### Nicht Zielscheibe der Werbung, nicht dein eigener Arzt
 
-Es ist wichtig, klar zu wissen, was du **nicht** bist: Du bist kein Verkäufer von Präparaten — du hast kein Interesse daran, dass jemand etwas kauft. Und du bist auch kein medizinischer oder pharmazeutischer Berater, der Produkte und Mengen empfiehlt — das ist Arzt und Apotheke vorbehalten. Diese Klarheit über das, was du nicht bist, ist ebenso wichtig wie das, was du bist.
+Es ist hilfreich, klar zu wissen, was du **nicht** bist: Du bist keine leichte Zielscheibe für Werbeversprechen mehr — du durchschaust die Mechanismen. Und du bist auch nicht dein eigener medizinischer oder pharmazeutischer Berater, der sich selbst Produkte und Mengen verordnet — das gehört zu Arzt und Apotheke. Diese Klarheit über das, was du nicht bist, ist ebenso wichtig wie das, was du bist.
 
-### Was du bist: ein Befähiger
+### Was du gewinnst: Urteilskraft
 
-Dein Selbstverständnis ist das eines Befähigers — jemand, der Menschen mündig macht. Du gibst Wissen, schärfst das Bewusstsein, stellst die richtigen Fragen und verweist an die richtigen Stellen. Du arbeitest *für* die Eigenständigkeit der Menschen, nicht für ihre Abhängigkeit von einem Produkt oder von dir. Dieses Selbstverständnis ist würdevoll und kraftvoll.
+Dein Selbstverständnis ist das eines mündigen Menschen — jemand, der selbst urteilt statt zu folgen. Du hast dir Wissen erarbeitet, ein geschärftes Bewusstsein, die richtigen Fragen und das Wissen um die richtigen Anlaufstellen. Du entscheidest aus Eigenständigkeit, nicht aus Abhängigkeit von einem Produkt oder einem Verkäufer. Dieses Selbstverständnis ist würdevoll und kraftvoll.
 
-### Die drei Säulen deiner Rolle
+### Die drei Säulen deiner Haltung
 
-**Wissen teilen:** Du verfügst über fundiertes Verbraucherwissen über Nahrungsergänzung und gibst es großzügig und verständlich weiter.
+**Wissen nutzen:** Du verfügst über fundiertes Verbraucherwissen über Nahrungsergänzung und wendest es für deine eigenen Entscheidungen an — und teilst es, wo es im Alltag hilft.
 
-**Sensibilisieren:** Du schärfst das Bewusstsein für Sicherheit, für "Essen zuerst", für die Mechanismen der Werbung — und veränderst damit Grundhaltungen.
+**Wachsam bleiben:** Du hältst dein Bewusstsein für Sicherheit, für "Essen zuerst", für die Mechanismen der Werbung wach — und lässt dich nicht von Trends treiben.
 
-**Klar verweisen:** Du kennst deine Grenze und lebst sie souverän. Für alles, was Empfehlung, Menge oder individuelle Beurteilung betrifft, verweist du warmherzig und bestimmt an Arzt und Apotheke.
+**Klar nachfragen:** Du kennst deine Grenze und lebst sie souverän. Für alles, was Empfehlung, Menge oder individuelle Beurteilung betrifft, wendest du dich an Arzt und Apotheke.
 
-### Die Versuchung, mehr sein zu wollen
+### Die Versuchung, es besser wissen zu wollen
 
-Auch hier gilt, was für jede helfende Rolle gilt: Es gibt die Versuchung, mehr helfen zu wollen, als die eigene Rolle erlaubt — jemandem schnell "den guten Tipp" zu geben. Gerade beim Thema Nahrungsergänzung ist dieser Impuls zu widerstehen. Die größte Hilfe ist hier oft, ehrlich zu sagen "Das gehört in fachkundige Hände" — und genau das macht dich vertrauenswürdig.
+Auch hier gilt eine Vorsicht: Es gibt die Versuchung, sich selbst — oder anderen — schnell "den guten Tipp" zu geben, sobald man ein wenig Wissen hat. Gerade beim Thema Nahrungsergänzung ist dieser Impuls zu zügeln. Die klügste Haltung ist oft, ehrlich zu sagen "Das gehört in fachkundige Hände" — und genau das schützt dich und andere.
 
 ### Die positive Kraft dieser Haltung
 
-Eine Begleiterin, die mündig macht statt zu verkaufen, schafft etwas Seltenes und Wertvolles: echtes Vertrauen. Menschen spüren, dass es dir um ihr Wohl geht und nicht um ein Geschäft. Diese Integrität ist in einem werbegetriebenen Feld besonders kostbar — und sie ist das Fundament einer Arbeit, auf die du stolz sein kannst.
+Wer mündig entscheidet statt sich verführen zu lassen, gewinnt etwas Seltenes: echte Unabhängigkeit. Du spürst selbst, dass es um dein Wohl geht und nicht um das Geschäft eines anderen. Diese innere Klarheit ist in einem werbegetriebenen Feld besonders kostbar — und sie ist das Fundament von Entscheidungen, auf die du dich verlassen kannst.
 
 ### Der Abschluss
 
-Du verfügst nun über ein fundiertes, kritisches Verständnis der Nahrungsergänzung — und über die innere Klarheit, dieses Wissen verantwortungsvoll einzusetzen. Du machst Menschen mündig, du schützt sie, und du verweist klar, wo es nötig ist. Trag dieses Selbstverständnis mit Stolz: Es dient den Menschen und bewahrt zugleich deine Integrität.
+Du verfügst nun über ein fundiertes, kritisches Verständnis der Nahrungsergänzung — und über die innere Klarheit, dieses Wissen verantwortungsvoll einzusetzen. Du entscheidest mündig, du schützt dich und deine Angehörigen, und du fragst fachkundig nach, wo es nötig ist. Trag dieses Selbstverständnis mit Stolz: Es dient dir und bewahrt zugleich deine Sicherheit.
 
 ### Übung: Dein Leitsatz
 
-Formuliere einen persönlichen Leitsatz für deine Rolle beim Thema Nahrungsergänzung. Er sollte ausdrücken, was du tust (aufklären, sensibilisieren, befähigen, schützen) und die klare Grenze (nicht verkaufen, nicht empfehlen, warmherzig verweisen). Bewahre ihn an einem sichtbaren Ort auf — als Kompass für diese Arbeit.
-
----
-
-*Herzlichen Glückwunsch zum Abschluss dieses Kurses. Du bist jetzt in der Lage, Menschen im Thema Nahrungsergänzung mündig zu machen und zu schützen — mit fundiertem Wissen, mit kritischem Blick und mit der souveränen Klarheit, die echte Verantwortung ausmacht.*`
+Formuliere einen persönlichen Leitsatz für deinen Umgang mit dem Thema Nahrungsergänzung. Er sollte ausdrücken, was du tust (verstehen, wachsam bleiben, mündig entscheiden, schützen) und die klare Grenze (nicht auf Werbung vertrauen, keine Selbst- oder Fremdverordnung, im Zweifel fachkundig nachfragen). Bewahre ihn an einem sichtbaren Ort auf — als Kompass für dieses Thema.`
         }
       ]
     }

@@ -50,7 +50,7 @@ Die Kommunikation mit Tierkollektiven — Schwärmen, Herden, Rudeln — bringt 
 
 Die ökologische Dimension: Tierkommunikation auf fortgeschrittenem Niveau berührt unweigerlich ökologische Fragen. Was teilen die Tiere über ihren Lebensraum mit? Über die Veränderungen, die der Mensch verursacht? Über das Gleichgewicht, das gestört ist? Diese Informationen sind keine politischen Botschaften — sie sind die direkte Erfahrung des Tieres in seiner Umwelt. Ein Fisch in einem verschmutzten Fluss teilt das Erleben der Verschmutzung. Ein Vogel, dessen ZugRoute durch Windräder gestört wird, teilt die Desorientierung. Diese Perspektiven demütig zu empfangen und verantwortungsvoll zu teilen, ist Teil deiner Rolle als fortgeschrittene Tierkommunikatorin.
 
-Die schamanische Dimension: In vielen indigenen Traditionen ist die Kommunikation mit Tiergeistern — den archetypischen Wesen hinter der physischen Erscheinung — eine zentrale spirituelle Praxis. Das Krafttier, der Tiergeist, der Tierführer sind Konzepte, die die Tierkommunikation in einen spirituellen Rahmen stellen. Du musst diesen Rahmen nicht übernehmen, aber ihn kennen und respektieren — denn manche deiner Klienten und manche deiner Tierbegegnungen werden dich in diese Dimension führen.`
+Die schamanische Dimension: In vielen indigenen Traditionen ist die Kommunikation mit Tiergeistern — den archetypischen Wesen hinter der physischen Erscheinung — eine zentrale spirituelle Praxis. Das Krafttier, der Tiergeist, der Tierführer sind Konzepte, die die Tierkommunikation in einen spirituellen Rahmen stellen. Du musst diesen Rahmen nicht übernehmen, aber ihn kennen und respektieren — denn manche der Menschen, die dich um eine Verbindung bitten, und manche deiner Tierbegegnungen werden dich in diese Dimension führen.`
         }
       ]
     },
@@ -249,7 +249,7 @@ Dein Beitrag zur Welt: Jede Tierkommunikation, die du durchführst, stärkt die 
         {
           id: 'T02-M6-L1',
           titel: 'Fortgeschrittene ethische Fragen',
-          inhalt: `Die fortgeschrittene Praxis bringt ethische Fragen mit sich, die über die Grundsätze der Einstiegsausbildung hinausgehen. Diese Fragen haben oft keine eindeutigen Antworten — sie erfordern Abwägung, Reflexion und die Bereitschaft, mit Ambiguität zu leben.
+          inhalt: `Die fortgeschrittene Praxis bringt ethische Fragen mit sich, die über die Grundsätze der Einstiegsmodule hinausgehen. Diese Fragen haben oft keine eindeutigen Antworten — sie erfordern Abwägung, Reflexion und die Bereitschaft, mit Ambiguität zu leben.
 
 Die Grenze zwischen Wahrnehmung und Verantwortung: Wenn du während einer Kommunikation Hinweise auf Tiermisshandlung wahrnimmst — was tust du? Deine Wahrnehmung ist subjektiv und nicht gerichtsfest. Gleichzeitig hast du eine moralische Verantwortung. Der professionelle Weg: Teile deine Wahrnehmung dem Besitzer behutsam mit. Wenn du ernsthafte Misshandlung vermutest, informiere — nach sorgfältiger Abwägung — die zuständigen Behörden oder Tierschutzorganisationen. Dokumentiere deine Wahrnehmungen schriftlich.
 
@@ -268,7 +268,7 @@ Die tägliche energetische Hygiene auf fortgeschrittenem Niveau: Morgenmeditatio
 
 Die Naturverbindung als Regeneration: Regelmäßige Zeit in der Natur — ohne telepathische Absicht, einfach als Mensch unter Lebewesen — erneuert deine Verbindung zur natürlichen Welt und erinnert dich daran, dass du Teil des Ganzen bist, nicht nur dessen Dienerin. Waldbaden, Gartenarbeit, Schwimmen in natürlichen Gewässern — finde die Form der Naturverbindung, die dich am tiefsten nährt.
 
-Die Beziehung zu deinen eigenen Tieren: Deine eigenen Tiere sind nicht deine Klienten — sie sind deine Gefährten. Schütze diese Beziehung vor der Professionalisierung: Nicht jedes Verhalten deiner Katze braucht eine telepathische Analyse. Nicht jeder Blick deines Hundes ist eine Botschaft. Manchmal ist Zusammensein einfach Zusammensein — und genau darin liegt die Heilung.
+Die Beziehung zu deinen eigenen Tieren: Deine eigenen Tiere sind nicht deine Klienten — sie sind deine Gefährten. Schütze diese Beziehung vor der Professionalisierung: Nicht jedes Verhalten deiner Katze braucht eine telepathische Analyse. Nicht jeder Blick deines Hundes ist eine Botschaft. Manchmal ist Zusammensein einfach Zusammensein — und genau darin liegt das Kostbare.
 
 Die professionelle Isolation vermeiden: Tierkommunikation ist oft Einzelarbeit — du sitzt allein mit einem Foto und kommunizierst. Diese Isolation kann langfristig belasten. Suche aktiv den Kontakt zu Kollegen, besuche Netzwerktreffen, arbeite in Supervision und teile deine Erfahrungen. Die Gemeinschaft der Tierkommunikatoren ist klein, aber herzlich — und sie ist dein wichtigstes professionelles Unterstützungssystem.`
         },

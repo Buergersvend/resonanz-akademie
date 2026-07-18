@@ -14,7 +14,7 @@ const G11 = {
   preis: 'Kostenlos',
   originalPreis: '69 €',
   status: 'live',
-  desc: 'Schütze dein Energiefeld, reinige dich von Fremdenergie und baue eine tägliche Energiehygiene-Routine auf. Unverzichtbar für empathische Menschen, Therapeuten, Coaches und alle, die mit anderen arbeiten.',
+  desc: 'Schütze dein Energiefeld, reinige dich von Fremdenergie und baue eine tägliche Energiehygiene-Routine auf. Wertvoll für sensible, empathische Menschen und alle, die viel Kontakt mit anderen haben.',
   module: [
     // ──────────────────────────────────────────────
     // MODUL 1 — Warum Energieschutz wichtig ist
@@ -178,7 +178,7 @@ Dein Favorit wird Teil deiner Abendroutine.`,
         {
           id: 'G11-M2-L2',
           titel: 'Intensivreinigung — Wenn der Alltag nicht reicht',
-          inhalt: `Manchmal reicht die tägliche Reinigung nicht aus. Nach besonders belastenden Erlebnissen, nach der Arbeit mit Klienten (als Therapeut oder Coach), nach Konflikten oder nach dem Aufenthalt an energetisch schweren Orten brauchst du eine Intensivreinigung.
+          inhalt: `Manchmal reicht die tägliche Reinigung nicht aus. Nach besonders belastenden Erlebnissen, nach intensivem Kontakt mit anderen Menschen, nach Konflikten oder nach dem Aufenthalt an energetisch schweren Orten brauchst du eine Intensivreinigung.
 
 Das Salzbad: Fülle eine Badewanne mit warmem Wasser und gib 200–300g grobes Meersalz hinzu. Optional: 5 Tropfen Lavendelöl oder Salbeiöl. Steige ein mit der klaren Intention: „Alles, was nicht zu mir gehört, wird jetzt gelöst." Bleibe 20 Minuten. Stelle dir vor, wie das Salzwasser alle Fremdenergie aus deiner Aura zieht — wie ein Magnet. Danach: Wasser ablassen, kurz abduschen, und dir vorstellen, wie der letzte Rest mit dem Wasser abfließt.
 
@@ -319,7 +319,7 @@ Die Wurzel-Erdung: Stelle dir vor, wie Wurzeln aus deinen Fußsohlen tief in die
 
 Physische Erdung: Barfuß auf der Erde stehen. Gartenarbeit. Bäume berühren. Schwere körperliche Arbeit. Rote Lebensmittel essen (Rote Bete, Tomaten, rote Paprika). Kaltes Wasser über die Handgelenke laufen lassen. All das erdet auf physischer Ebene und verstärkt die energetische Erdung.
 
-Erdung ist besonders wichtig nach meditativer oder spiritueller Arbeit, nach emotionalen Gesprächen und am Ende jeder energetischen Sitzung. Ohne Erdung „schwebst" du — und offenes Schweben macht verwundbar.`,
+Erdung ist besonders wichtig nach meditativer oder spiritueller Arbeit, nach emotionalen Gesprächen und am Ende jeder intensiven Energieübung. Ohne Erdung „schwebst" du — und offenes Schweben macht verwundbar.`,
           uebung: {
             titel: 'Tiefen-Erdung — 3 Minuten',
             anleitung: `Stehe aufrecht, Füße hüftbreit, möglichst barfuß.
@@ -430,9 +430,9 @@ In Modul 4 hast du ein Morgen- und Abendritual etabliert — insgesamt 10 Minute
 
 Das Ziel hinter allem ist: Energetische Souveränität. Das bedeutet, dass DU entscheidest, welche Energie in dein Feld kommt und welche nicht. Du bist kein Opfer deiner Umgebung — du bist der bewusste Hüter deines eigenen Energieraumes.
 
-Dieses Wissen ist besonders wertvoll, wenn du mit anderen Menschen arbeitest — als Therapeut, Coach, Heiler oder einfach als empathischer Mensch. Es ist das Werkzeug, das dich langfristig gesund und wirksam hält, statt auszubrennen.
+Dieses Wissen ist besonders wertvoll, wenn du viel mit anderen Menschen zu tun hast oder einfach ein empathischer Mensch bist. Es ist das Werkzeug, das dich langfristig ausgeglichen und stabil hält, statt auszubrennen.
 
-Die Resonanz Akademie bietet vertiefende Kurse an: Chakrenarbeit (K01) für die Arbeit an deinen Energiezentren, Aura & Energiefeld (K02) für fortgeschrittene Aura-Techniken oder Kristalle & Edelsteintherapie (G09) für die Arbeit mit Steinen als Schutz- und Reinigungswerkzeuge.
+In der Lernwelt findest du vertiefende Kurse: Chakrenarbeit für die Arbeit an deinen Energiezentren, Aura & Energiefeld für fortgeschrittene Aura-Techniken oder die Arbeit mit Kristallen und Steinen als Schutz- und Reinigungssymbole.
 
 Schütze dein Licht. Es ist dein wertvollstes Gut.`,
           uebung: {

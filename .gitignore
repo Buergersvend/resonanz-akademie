@@ -28,3 +28,8 @@ Thumbs.db
 
 # Logo-Archiv
 public/_archiv_logos/
+
+# Scan-/Pruef-Reste (lokal)
+*_pruef.txt
+nachpruef_rest.txt
+scan_*.txt

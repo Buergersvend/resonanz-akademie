@@ -1,5 +1,5 @@
 # ============================================================
-# compliance-scan.ps1 - Human Resonanz Lernwelt
+# compliance-scan.ps1 - Human Resonanz Lernwelt - v1.2
 # Scannt alle Kursdateien (src/data/*.js) auf Compliance-
 # Reizwoerter + status-Feld und gibt eine Tabelle aus.
 #
@@ -19,6 +19,23 @@
 #   ("Arzt, Heilpraktiker oder Therapeut") bewusst aus.
 # - 'bef.higt' statt Umlaut, damit das Skript unabhaengig
 #   von der Datei-Codierung funktioniert (PS 5.1).
+#
+# v1.2 (KVP-001, 19.07.2026):
+# - NEU Kategorie 'Rollen': Praktiker-/Ausbildungs-Rolle
+#   (Klient/Beratung/Coach/Reading/Sitzung/Honorar/Zielgruppe).
+#   Schliesst den Blindfleck, der Y03/C06 harmlos aussehen
+#   liess (Bef/Wirk niedrig, aber komplette Berater-Ausbildung).
+# - Gewichtung: Rollen zaehlt x2 in die neue Prio-Summe.
+#   ACHTUNG: hoehere False-Positive-Rate als Befaehig
+#   (z.B. trifft 'Beratung' auch den Pflichtverweis
+#   'Schuldner-/Steuerberatung'). Rollen-Wert ist IMMER
+#   Trigger fuer Volltext-Triage, nie Urteil.
+# - Kalibrierung: Y03/C06 vor Sanierung = hoch (Zielfall),
+#   G09/G11 = niedrig (korrekt harmlos).
+# - v1.1 miterledigt: kurse.js (Registry) vom Scan
+#   ausgeschlossen (Titel-Sammlung, keine Kursinhalte).
+# - Sortierung + LIVE-Warnung laufen jetzt ueber Prio
+#   (Summe bleibt als Rohwert sichtbar).
 # ============================================================
 
 param(
@@ -31,6 +48,12 @@ $kategorien = [ordered]@{
     'AltBrand' = 'Resonanz.Akademie'
     'Therapie' = 'Therapie|therapeutisch|behandel|Diagnose|diagnostizier'
     'Wirkung'  = 'aufl.s(t|en)|Karma|DNS.Aktivierung|Fernheilung'
+    'Rollen'   = 'Klient|Berater|Beratung|Coach|Reading|Sitzung|Honorar|Zielgruppe'
+}
+
+# Gewichtung fuer die Prio-Summe (Standard = 1)
+$gewichte = @{
+    'Rollen' = 2
 }
 
 $dataDir = Join-Path (Get-Location) 'src\data'
@@ -73,7 +96,9 @@ if ($Detail -ne '') {
 
 # ---------- Standard-Modus: Tabelle ueber alle Dateien ----------
 $ergebnisse = @()
-$files = Get-ChildItem (Join-Path $dataDir '*.js') | Sort-Object Name
+$files = Get-ChildItem (Join-Path $dataDir '*.js') |
+    Where-Object { $_.Name -ne 'kurse.js' } |
+    Sort-Object Name
 
 foreach ($f in $files) {
     $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
@@ -88,38 +113,44 @@ foreach ($f in $files) {
         Status = $status
     }
     $summe = 0
+    $prio  = 0
     foreach ($kat in $kategorien.Keys) {
         $count = [regex]::Matches($text, $kategorien[$kat],
             [System.Text.RegularExpressions.RegexOptions]::IgnoreCase).Count
         $row[$kat] = $count
         $summe += $count
+        $g = 1
+        if ($gewichte.ContainsKey($kat)) { $g = $gewichte[$kat] }
+        $prio += ($count * $g)
     }
     $row['Summe'] = $summe
+    $row['Prio']  = $prio
     $ergebnisse += New-Object PSObject -Property $row
 }
 
 Write-Host ""
-Write-Host "COMPLIANCE-SCAN LERNWELT (src/data)" -ForegroundColor Yellow
-Write-Host ("Stand: " + (Get-Date -Format 'dd.MM.yyyy HH:mm') + " | " + $files.Count + " Kursdateien")
+Write-Host "COMPLIANCE-SCAN LERNWELT v1.2 (src/data, ohne kurse.js)" -ForegroundColor Yellow
+Write-Host ("Stand: " + (Get-Date -Format 'dd.MM.yyyy HH:mm') + " | " + $files.Count + " Kursdateien | Prio = Summe + Rollen x2")
 Write-Host ("=" * 70)
 
-# Sortierung: hoechste Summe zuerst, saubere Dateien am Ende
-$ergebnisse | Sort-Object -Property @{Expression='Summe';Descending=$true}, Datei |
-    Format-Table Datei, Status, Heil, Befaehig, AltBrand, Therapie, Wirkung, Summe -AutoSize
+# Sortierung: hoechste Prio zuerst, saubere Dateien am Ende
+$ergebnisse | Sort-Object -Property @{Expression='Prio';Descending=$true}, Datei |
+    Format-Table Datei, Status, Heil, Befaehig, AltBrand, Therapie, Wirkung, Rollen, Summe, Prio -AutoSize
 
 # Zusammenfassung
 $belastet  = @($ergebnisse | Where-Object { $_.Summe -gt 0 })
 $statusBug = @($ergebnisse | Where-Object { $_.Status -eq 'FEHLT!' })
-$liveRisk  = @($ergebnisse | Where-Object { $_.Summe -gt 0 -and $_.Status -eq 'live' })
+$liveRisk  = @($ergebnisse | Where-Object { $_.Prio -gt 0 -and $_.Status -eq 'live' })
 
 Write-Host ("Dateien mit Treffern: " + $belastet.Count + " von " + $files.Count)
 if ($statusBug.Count -gt 0) {
     Write-Host ("status-Feld FEHLT bei: " + (($statusBug | ForEach-Object { $_.Datei }) -join ', ')) -ForegroundColor Red
 }
 if ($liveRisk.Count -gt 0) {
-    Write-Host ("LIVE + Treffer (Prio): " + (($liveRisk | Sort-Object Summe -Descending | ForEach-Object { $_.Datei + '(' + $_.Summe + ')' }) -join ', ')) -ForegroundColor Red
+    Write-Host ("LIVE + Treffer (Prio): " + (($liveRisk | Sort-Object Prio -Descending | ForEach-Object { $_.Datei + '(' + $_.Prio + ')' }) -join ', ')) -ForegroundColor Red
 }
 Write-Host ""
 Write-Host "Detail-Ansicht: .\tools\compliance-scan.ps1 -Detail <Kuerzel>  (z.B. -Detail E01)"
+Write-Host "Rollen-Werte sind Trigger fuer Volltext-Triage, nie Urteil (False-Positives moeglich)."
 Write-Host "Hinweis: Live-UI-Flaechen (Chips, Karten, Badges) separat pruefen - nicht Teil dieses Scans."
 Write-Host ""

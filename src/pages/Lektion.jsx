@@ -51,6 +51,7 @@ export default function Lektion() {
   }
 
   const { lektion, modul, kurs } = result
+  const modulNr = modul.nr || kurs.module.indexOf(modul) + 1
   const isCompleted = completedLektionen.includes(lektionId)
   const isUnlocked = isLektionUnlocked(completedLektionen, kurs, lektionId)
 
@@ -124,14 +125,14 @@ export default function Lektion() {
         <div style={s.breadcrumb}>
           <Link to={`/kurs/${kursId}`} style={s.breadBack}>← Zurück zum Kurs</Link>
           <span style={s.breadSep}>·</span>
-          <span style={s.breadCurrent}>Modul {modul.nr} · {kurs.titel}</span>
+          <span style={s.breadCurrent}>Modul {modulNr} · {kurs.titel}</span>
         </div>
 
         {/* Header */}
         <div style={s.header}>
           <div style={s.headerMeta}>
             <span style={s.badge}>
-              Modul {modul.nr} · Lektion {nav.position} von {nav.total}
+              Modul {modulNr} · Lektion {nav.position} von {nav.total}
             </span>
             {isCompleted && (
               <span style={s.completedBadge}>✓ Abgeschlossen</span>
@@ -257,7 +258,7 @@ const s = {
     gap: '10px',
     padding: '12px 0',
     marginBottom: '20px',
-    background: 'rgba(10, 10, 10, 0.85)',
+    background: 'rgba(10, 10, 10, 0.94)',
     backdropFilter: 'blur(10px)',
     WebkitBackdropFilter: 'blur(10px)',
     borderBottom: '1px solid rgba(212, 175, 55, 0.08)',

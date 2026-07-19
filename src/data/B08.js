@@ -2,7 +2,7 @@ const B08 = {
   id: 'B08',
   titel: 'Theta-Healing',
   bereich: 'bewusstsein',
-  beschreibung: 'Erlerne die Theta-Healing-Methode — eine kraftvolle Technik, die den Theta-Gehirnwellenzustand nutzt, um limitierende Glaubenssätze aufzulösen, emotionale Blockaden zu transformieren und die natürlichen Selbstheilungskräfte zu aktivieren. Diese Ausbildung vermittelt dir die Grundlagen der Bewusstseinsarbeit im Theta-Zustand und praktische Werkzeuge für deine Klientenarbeit.',
+  beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
   status: 'coming',
   module: [
     {

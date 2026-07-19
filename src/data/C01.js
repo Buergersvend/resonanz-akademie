@@ -21,7 +21,7 @@ const C01 = {
     {
       id: 'C01-M1',
       titel: 'Was ist Coaching?',
-      beschreibung: 'Die Grundlagen des Coachings verstehen — Abgrenzung zu Therapie, Beratung und Mentoring, die Kernhaltung des Coaches und die ethischen Grundsätze der Profession.',
+      beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
       lektionen: [
         {
           id: 'C01-M1-L1',
@@ -135,7 +135,7 @@ Jeder gute Coach hat selbst einen Coach oder Supervisor. Nicht weil er unfähig 
     {
       id: 'C01-M2',
       titel: 'Die Kunst der Gesprächsführung',
-      beschreibung: 'Die zentralen Gesprächstechniken des Coachings erlernen — aktives Zuhören, kraftvolle Fragen und die Fähigkeit, Stille produktiv zu nutzen.',
+      beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
       lektionen: [
         {
           id: 'C01-M2-L1',
@@ -263,7 +263,7 @@ Aktives Zuhören, kraftvolle Fragen, Feedback, Konfrontation und Stille — dies
     {
       id: 'C01-M3',
       titel: 'Coaching-Modelle und Strukturen',
-      beschreibung: 'Die bewährten Coaching-Modelle kennenlernen und anwenden — vom GROW-Modell über den Coaching-Prozess bis zur Auftragsklärung.',
+      beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
       lektionen: [
         {
           id: 'C01-M3-L1',
@@ -411,7 +411,7 @@ Kein Modell ist "das richtige". Die Kunst liegt darin, das passende Modell für 
     {
       id: 'C01-M4',
       titel: 'Coaching-Werkzeuge für die Praxis',
-      beschreibung: 'Konkrete Tools und Techniken, die du sofort in Coaching-Sitzungen einsetzen kannst — vom Lebensrad über Werteklärung bis zur Glaubenssatzarbeit.',
+      beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
       lektionen: [
         {
           id: 'C01-M4-L1',
@@ -532,7 +532,7 @@ Diese Werkzeuge sind keine Tricks — sie sind Türöffner. Jedes einzelne kann 
     {
       id: 'C01-M5',
       titel: 'Der Coaching-Prozess von A bis Z',
-      beschreibung: 'Den vollständigen Coaching-Prozess verstehen und gestalten — vom Erstgespräch über die Sitzungsstruktur bis zum Abschluss.',
+      beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
       lektionen: [
         {
           id: 'C01-M5-L1',
@@ -649,7 +649,7 @@ Coaching soll den Klienten stärken, nicht an den Coach binden. Wenn du merkst, 
     {
       id: 'C01-M6',
       titel: 'Deine Coaching-Praxis aufbauen',
-      beschreibung: 'Von der Positionierung über Preisgestaltung bis zum ersten Klienten — die praktischen Schritte zum Start deiner Coaching-Tätigkeit.',
+      beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
       lektionen: [
         {
           id: 'C01-M6-L1',

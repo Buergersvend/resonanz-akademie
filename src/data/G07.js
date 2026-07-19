@@ -2,7 +2,7 @@ const G07 = {
   id: 'G07',
   titel: 'Ka-Huna Heilweisen',
   bereich: 'grundlagen',
-  beschreibung: 'Tauche ein in die Weisheitslehre der hawaiianischen Huna-Philosophie. Diese Ausbildung vermittelt die sieben Prinzipien des Huna, die Arbeit mit den drei Selbsten und praktische Techniken für Heilung, Manifestation und bewusstes Leben nach der Tradition der polynesischen Weisheitshüter.',
+  beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
   status: 'coming',
   module: [
     {

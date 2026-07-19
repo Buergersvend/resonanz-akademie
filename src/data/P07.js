@@ -2,7 +2,7 @@ const P07 = {
   id: 'P07',
   titel: 'Hypnose & Hypnotherapie',
   bereich: 'psyche',
-  beschreibung: 'Erlerne die Grundlagen der modernen Hypnose und Hypnotherapie — von der wissenschaftlichen Basis über Induktionstechniken und therapeutische Suggestionen bis zur Arbeit mit dem Unterbewusstsein. Diese Ausbildung befähigt dich, hypnotische Techniken sicher und wirkungsvoll in deine Beratungspraxis zu integrieren.',
+  beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
   status: 'coming',
   module: [
     {

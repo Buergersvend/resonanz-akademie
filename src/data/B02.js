@@ -2,7 +2,7 @@ const B02 = {
   id: 'B02',
   titel: 'META-Healing Level 2',
   bereich: 'bewusstsein',
-  beschreibung: 'Vertiefe deine META-Healing-Kompetenz auf professionellem Niveau. Level 2 erweitert dein Repertoire um fortgeschrittene Protokolle, komplexe Mehrfachkonflikte, systemische Zusammenhänge und die Kunst der Fallsupervision. Du lernst, auch anspruchsvolle Klientensituationen sicher und wirkungsvoll zu begleiten.',
+  beschreibung: 'Dieser Kurs befindet sich in Überarbeitung und wird in Kürze verfügbar sein.',
   status: 'coming',
   module: [
     {

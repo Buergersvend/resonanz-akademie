@@ -120,13 +120,11 @@ export default function Lektion() {
   return (
     <AppShell>
       <div style={s.page}>
-        {/* Breadcrumb */}
+        {/* Sticky Rückweg-Zeile */}
         <div style={s.breadcrumb}>
-          <Link to="/kurse" style={s.breadLink}>Kurse</Link>
-          <span style={s.breadSep}>/</span>
-          <Link to={`/kurs/${kursId}`} style={s.breadLink}>{kurs.titel}</Link>
-          <span style={s.breadSep}>/</span>
-          <span style={s.breadCurrent}>Modul {modul.nr}</span>
+          <Link to={`/kurs/${kursId}`} style={s.breadBack}>← Zurück zum Kurs</Link>
+          <span style={s.breadSep}>·</span>
+          <span style={s.breadCurrent}>Modul {modul.nr} · {kurs.titel}</span>
         </div>
 
         {/* Header */}
@@ -251,26 +249,41 @@ const s = {
     animation: 'fadeIn 0.4s ease forwards',
   },
   breadcrumb: {
+    position: 'sticky',
+    top: 0,
+    zIndex: 20,
     display: 'flex',
     alignItems: 'center',
-    gap: '8px',
-    marginBottom: '28px',
-    flexWrap: 'wrap',
+    gap: '10px',
+    padding: '12px 0',
+    marginBottom: '20px',
+    background: 'rgba(10, 10, 10, 0.85)',
+    backdropFilter: 'blur(10px)',
+    WebkitBackdropFilter: 'blur(10px)',
+    borderBottom: '1px solid rgba(212, 175, 55, 0.08)',
   },
-  breadLink: {
+  breadBack: {
     fontFamily: "'Raleway', sans-serif",
     fontSize: '0.82rem',
-    color: '#6B6760',
+    fontWeight: '600',
+    color: '#D4AF37',
     textDecoration: 'none',
+    letterSpacing: '0.03em',
+    whiteSpace: 'nowrap',
+    flexShrink: 0,
   },
   breadSep: {
     color: '#4a4a4a',
     fontSize: '0.78rem',
+    flexShrink: 0,
   },
   breadCurrent: {
     fontFamily: "'Raleway', sans-serif",
     fontSize: '0.82rem',
     color: '#9A9589',
+    overflow: 'hidden',
+    textOverflow: 'ellipsis',
+    whiteSpace: 'nowrap',
   },
   header: {
     marginBottom: '20px',

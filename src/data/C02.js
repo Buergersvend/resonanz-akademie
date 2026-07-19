@@ -7,6 +7,7 @@ const C02 = {
   module: [
     {
       id: 'C02-M1',
+      nr: 1,
       titel: 'Ganzheitliches Gesundheitsverständnis',
       lektionen: [
         {
@@ -44,11 +45,11 @@ Die fünfte Säule ist die Sinn-Dimension — Lebenszweck, Werte und spirituelle
 
 Dein Kernbereich umfasst Gesundheitsförderung, Prävention und Lebensstiloptimierung. Du arbeitest mit Menschen, die eigenverantwortlich ihr Wohlbefinden verbessern wollen — nicht mit Patienten, die eine Behandlung benötigen. Typische Themen sind Ernährungsumstellung, Bewegungsaufbau, Stressreduktion, Schlafverbesserung, Gewohnheitsänderung und die Stärkung der allgemeinen Vitalität.
 
-Die rechtliche Abgrenzung ist eindeutig: Du stellst keine Diagnosen, verordnest keine Therapien, behandelst keine Krankheiten und gibst keine medizinischen Empfehlungen. Wenn ein Klient Symptome beschreibt, die auf eine Erkrankung hindeuten, verweist du an den entsprechenden Fachspezialisten — Arzt, Heilpraktiker oder Psychotherapeut. Diese Grenze ist keine Schwäche, sondern ein Qualitätsmerkmal professionellen Coachings.
+Die rechtliche Abgrenzung ist eindeutig: Du stellst keine Diagnosen, verordnest keine Therapien, behandelst keine Krankheiten und gibst keine medizinischen Empfehlungen. Wenn ein Klient Symptome beschreibt, die auf eine Erkrankung hindeuten, gilt ohne Ausnahme: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Diese Grenze ist keine Schwäche, sondern ein Qualitätsmerkmal professionellen Coachings.
 
 In der Praxis begegnest du häufig Grenzfällen. Ein Klient möchte sein Gewicht verändern, hat aber möglicherweise eine zugrunde liegende körperliche Ursache. Eine Klientin klagt über anhaltende Erschöpfung, die ärztlich abgeklärt werden sollte. In solchen Situationen fragst du zunächst, ob eine ärztliche Abklärung stattgefunden hat, und verweist konsequent dorthin. Du arbeitest idealerweise parallel zum medizinischen System, niemals anstelle dessen.
 
-Dein Alleinstellungsmerkmal liegt in der Begleitung und Befähigung. Ärzte diagnostizieren und behandeln, Therapeuten arbeiten an Erkrankungen, du coachst — du hilfst Menschen dabei, ihre eigenen Ressourcen zu erkennen, zu aktivieren und nachhaltig zu nutzen. Du bist Motivator, Wegbegleiter und Spiegel zugleich.
+Dein Alleinstellungsmerkmal liegt in der Begleitung und der Stärkung der Eigenverantwortung. Ärzte diagnostizieren und behandeln, Therapeuten arbeiten an Erkrankungen, du coachst — du hilfst Menschen dabei, ihre eigenen Ressourcen zu erkennen, zu aktivieren und nachhaltig zu nutzen. Du bist Motivator, Wegbegleiter und Spiegel zugleich.
 
 Für deine Positionierung bedeutet das: Kommuniziere klar, was du anbietest und was nicht. Vermeide Heilversprechen jeder Art. Nutze Formulierungen wie „Ich begleite dich dabei, dein Wohlbefinden aktiv zu gestalten" statt jeglicher Aussage über das Heilen oder Lindern von Beschwerden. Diese Klarheit zieht genau die richtigen Klienten an — Menschen, die Eigenverantwortung übernehmen wollen.`
         }
@@ -56,6 +57,7 @@ Für deine Positionierung bedeutet das: Kommuniziere klar, was du anbietest und 
     },
     {
       id: 'C02-M2',
+      nr: 2,
       titel: 'Ernährung ganzheitlich verstehen',
       lektionen: [
         {
@@ -67,7 +69,7 @@ Makronährstoffe liefern Energie und Baustoffe. Kohlenhydrate sind der primäre 
 
 Proteine sind Bausteine für Muskeln, Hormone, Enzyme und das Immunsystem. Der Körper benötigt zwanzig verschiedene Aminosäuren, neun davon kann er nicht selbst herstellen. Eine abwechslungsreiche Ernährung — ob mit oder ohne tierische Produkte — sichert die Versorgung. Besonders in Phasen erhöhter Belastung, im Alter und bei sportlicher Aktivität steigt der Bedarf.
 
-Fette sind weit mehr als Energiespeicher. Sie bilden Zellmembranen, ermöglichen die Aufnahme fettlöslicher Vitamine und sind Ausgangsstoff für Hormone. Omega-3-Fettsäuren gelten als günstig für das Gleichgewicht im Körper und unterstützen die Gehirnfunktion. Stark verarbeitete Fette aus industrieller Herstellung gelten dagegen als ungünstig für das allgemeine Wohlbefinden.
+Fette sind weit mehr als Energiespeicher. Sie bilden Zellmembranen, ermöglichen die Aufnahme fettlöslicher Vitamine und sind Ausgangsstoff für Hormone. Omega-3-Fettsäuren gelten als günstig für das Gleichgewicht im Körper und für die Gehirnfunktion. Stark verarbeitete Fette aus industrieller Herstellung gelten dagegen als ungünstig für das allgemeine Wohlbefinden.
 
 Mikronährstoffe — Vitamine, Mineralstoffe und Spurenelemente — sind an praktisch allen Körperfunktionen beteiligt. Vitamin D spielt eine Rolle für Immunsystem und Stimmung, Magnesium ist an über dreihundert enzymatischen Prozessen beteiligt, Zink unterstützt die Abwehr. Eine unzureichende Versorgung zeigt sich oft schleichend: Müdigkeit, häufige Infekte, brüchige Nägel oder Konzentrationsschwäche können erste Signale sein, die ärztlich abgeklärt werden sollten.
 
@@ -80,7 +82,7 @@ Als Wellnesscoach gibst du Orientierung zur Nährstoffversorgung über natürlic
 
 Die Vollwertkost setzt auf möglichst naturbelassene, wenig verarbeitete Lebensmittel. Ihr Grundprinzip ist einfach und allgemein anerkannt: Je weniger ein Lebensmittel verarbeitet wurde, desto mehr Nährstoffe enthält es. Vollkorn statt Weißmehl, frisches Gemüse statt Konserven, natürliche Fette statt industrielle Öle. Dieser Ansatz bildet eine solide Basis, die mit fast allen anderen Ernährungsformen kompatibel ist.
 
-Die mediterrane Ernährung zählt zu den am besten erforschten Kostformen. Sie betont Gemüse, Obst, Hülsenfrüchte, Olivenöl, Fisch und moderate Mengen Rotwein. Sie gilt als genussorientiert und gut verträglich — sie verbietet nichts, sondern betont das Gute. Ihr Vorteil liegt in der Alltagstauglichkeit und der breiten Akzeptanz.
+Die mediterrane Ernährung zählt zu den am besten erforschten Kostformen. Sie betont Gemüse, Obst, Hülsenfrüchte, Olivenöl und Fisch. Sie gilt als genussorientiert und gut verträglich — sie verbietet nichts, sondern betont das Gute. Ihr Vorteil liegt in der Alltagstauglichkeit und der breiten Akzeptanz.
 
 Vegetarische und vegane Ernährung verzichten teilweise oder vollständig auf tierische Produkte. Gut geplant, können beide Formen alle nötigen Nährstoffe liefern, erfordern aber Aufmerksamkeit bei Vitamin B12, Eisen, Zink und Omega-3-Fettsäuren. Als Coach respektierst du die Motivation deiner Klienten — ob gesundheitlich, ethisch oder ökologisch — und unterstützt sie bei einer ausgewogenen Umsetzung.
 
@@ -107,6 +109,7 @@ Im Coaching nutzt du die energetische Dimension als Erweiterung des Horizonts. D
     },
     {
       id: 'C02-M3',
+      nr: 3,
       titel: 'Bewegung und Körperarbeit',
       lektionen: [
         {
@@ -158,6 +161,7 @@ Im Coaching-Kontext integrierst du Körperbewusstsein als Querschnittsthema. Bei
     },
     {
       id: 'C02-M4',
+      nr: 4,
       titel: 'Stress und Regeneration',
       lektionen: [
         {
@@ -169,7 +173,7 @@ Die Stressreaktion ist ein evolutionäres Überlebensprogramm. Bei wahrgenommene
 
 Akuter Stress gehört zum Leben dazu. Er schärft die Konzentration und steigert kurzfristig die Leistungsfähigkeit. Entscheidend ist die anschließende Erholung. Anhaltender Stress — das permanente Gefühl von Überforderung oder Kontrollverlust — hält den Körper dagegen in einem Dauerzustand der Anspannung, für den er nicht gemacht ist. Diese fehlende Erholung ist der eigentliche Belastungsfaktor.
 
-Anhaltende Anspannung kann sich auf das gesamte Wohlbefinden auswirken: auf Schlaf, Verdauung, Konzentration, Stimmung und Energielevel. Viele Menschen berichten von innerer Unruhe, Erschöpfung oder dem Gefühl, nie wirklich abschalten zu können. Wo solche Belastungen anhalten oder körperliche Beschwerden auftreten, gehört die Abklärung in ärztliche Hand — deine Aufgabe als Coach ist die Begleitung beim Aufbau von Erholung und Ausgleich, nicht die Behandlung.
+Anhaltende Anspannung kann sich auf das gesamte Wohlbefinden auswirken: auf Schlaf, Verdauung, Konzentration, Stimmung und Energielevel. Viele Menschen berichten von innerer Unruhe, Erschöpfung oder dem Gefühl, nie wirklich abschalten zu können. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Deine Aufgabe als Coach ist die Begleitung beim Aufbau von Erholung und Ausgleich, nicht die Behandlung.
 
 Besonders tückisch: Viele Menschen bemerken ihren Stresslevel nicht mehr, weil sie sich an ihn gewöhnt haben. Permanente Anspannung wird zur neuen Normalität. Deine Aufgabe als Coach ist es, das Bewusstsein für Stresssignale frühzeitig zu schärfen und gemeinsam Wege zu mehr Ausgleich zu finden — und bei deutlichen Belastungszeichen rechtzeitig an fachliche Hilfe zu verweisen.
 
@@ -205,12 +209,13 @@ Schlafhygiene umfasst Gewohnheiten, die den Schlaf fördern. Ein regelmäßiger 
 
 Ein abendliches Ritual signalisiert dem Nervensystem die Umschaltung vom Tages- in den Nachtmodus. Was dieses Ritual beinhaltet, ist individuell: ein Kräutertee, zehn Minuten Lesen, eine kurze Dankbarkeitsreflexion, sanftes Dehnen. Entscheidend ist die Regelmäßigkeit — der Körper lernt, das Ritual als Schlafeinleitung zu erkennen.
 
-Schlafprobleme sind einer der häufigsten Anlässe, aus denen Klienten einen Wellnesscoach aufsuchen. Dein Ansatz beginnt mit einer sorgfältigen Bestandsaufnahme: Wann gehst du ins Bett? Wie lange brauchst du zum Einschlafen? Wachst du nachts auf? Wie fühlst du dich morgens? Ein Schlafprotokoll über zwei Wochen liefert oft überraschende Erkenntnisse. Bei anhaltenden oder gravierenden Schlafproblemen verweist du konsequent an einen Arzt oder Schlafmediziner.`
+Schlafprobleme sind einer der häufigsten Anlässe, aus denen Klienten einen Wellnesscoach aufsuchen. Dein Ansatz beginnt mit einer sorgfältigen Bestandsaufnahme: Wann gehst du ins Bett? Wie lange brauchst du zum Einschlafen? Wachst du nachts auf? Wie fühlst du dich morgens? Ein Schlafprotokoll über zwei Wochen liefert oft überraschende Erkenntnisse. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Bei anhaltenden Schlafproblemen verweist du konsequent dorthin — etwa an einen Arzt oder Schlafmediziner.`
         }
       ]
     },
     {
       id: 'C02-M5',
+      nr: 5,
       titel: 'Coaching-Kompetenz für Wohlbefindensthemen',
       lektionen: [
         {
@@ -262,6 +267,7 @@ Dokumentation ist professioneller Standard. Halte die Ergebnisse jeder Sitzung f
     },
     {
       id: 'C02-M6',
+      nr: 6,
       titel: 'Wellnesscoaching als Beruf',
       lektionen: [
         {
@@ -269,11 +275,11 @@ Dokumentation ist professioneller Standard. Halte die Ergebnisse jeder Sitzung f
           titel: 'Positionierung und Zielgruppe',
           inhalt: `Der Markt für Wellnesscoaching wächst stetig — und ist gleichzeitig unübersichtlich. Zwischen Fitnesstrainern, Ernährungsberatern und Wellnessanbietern musst du deine einzigartige Position finden, die dich klar unterscheidbar macht und die richtigen Klienten anzieht.
 
-Dein Alleinstellungsmerkmal als Absolvent dieses Kurses liegt in der ganzheitlichen Perspektive: Du verbindest fundiertes Wohlbefindenswissen mit Coaching-Kompetenz und energetischem Verständnis. Du siehst den Menschen als Ganzes — nicht nur seinen Körper oder seine Psyche. Diese Integration ist selten auf dem Markt und wird von einer wachsenden Zielgruppe aktiv gesucht.
+Dein Alleinstellungsmerkmal mit dem Wissen aus diesem Kurs liegt in der ganzheitlichen Perspektive: Du verbindest fundiertes Wohlbefindenswissen mit Coaching-Kompetenz und energetischem Verständnis. Du siehst den Menschen als Ganzes — nicht nur seinen Körper oder seine Psyche. Diese Integration ist selten auf dem Markt und wird von einer wachsenden Zielgruppe aktiv gesucht.
 
 Nischenbildung ist der Schlüssel zur erfolgreichen Positionierung. Statt „Wellnesscoach für alle" könntest du dich spezialisieren: Wellnesscoaching für Unternehmer, die unter dem Druck der Selbstständigkeit ihr Wohlbefinden vernachlässigen. Wellnesscoaching für Frauen in der Lebensmitte, die Veränderungen ganzheitlich begleiten wollen. Wellnesscoaching für Menschen, die präventiv und bewusst leben wollen. Je spezifischer deine Nische, desto leichter findest du deine Klienten.
 
-Deine Zielgruppe definierst du über drei Fragen: Wem kann ich am besten helfen — aufgrund meiner eigenen Erfahrung, Ausbildung und Persönlichkeit? Wer sucht aktiv nach dem, was ich anbiete? Wer ist bereit und in der Lage, in Coaching zu investieren? Die Schnittmenge dieser drei Kreise ist dein idealer Klient. Erstelle ein detailliertes Profil: Alter, Lebenssituation, Hauptthema, Wunschzustand, Werte, Kommunikationskanäle.
+Deine Zielgruppe definierst du über drei Fragen: Wem kann ich am besten helfen — aufgrund meiner eigenen Erfahrung, meines Wissens und meiner Persönlichkeit? Wer sucht aktiv nach dem, was ich anbiete? Wer ist bereit und in der Lage, in Coaching zu investieren? Die Schnittmenge dieser drei Kreise ist dein idealer Klient. Erstelle ein detailliertes Profil: Alter, Lebenssituation, Hauptthema, Wunschzustand, Werte, Kommunikationskanäle.
 
 Deine Kommunikation folgt dem Prinzip: Sprich die Sprache deiner Zielgruppe. Wenn du gestresste Führungskräfte ansprichst, nutze Begriffe wie Performance, Regeneration und Leistungsfähigkeit. Wenn du spirituell orientierte Menschen erreichst, sprich von Lebensenergie, Gleichgewicht und innerer Weisheit. Der Inhalt kann ähnlich sein — die Verpackung muss passen.
 
@@ -297,13 +303,13 @@ Ein wichtiger Aspekt: Biete ein kostenfreies Erstgespräch von zwanzig bis drei�
         {
           id: 'C02-M6-L3',
           titel: 'Ganzheitliche Verbindung — dein einzigartiger Coaching-Ansatz',
-          inhalt: `Als Absolvent der Human Resonanz Akademie verfügst du über ein einzigartiges Werkzeugset, das weit über klassisches Wellnesscoaching hinausgeht. Die Integration von Wohlbefindenswissen mit energetischen Perspektiven, Coaching-Kompetenz und Persönlichkeitsverständnis schafft einen Ansatz, der in dieser Form selten zu finden ist.
+          inhalt: `Mit dem Wissen aus diesem Kurs verfügst du über ein vielseitiges Werkzeugset, das über klassisches Wellnesscoaching hinausgeht. Die Integration von Wohlbefindenswissen mit energetischen Perspektiven, Coaching-Kompetenz und Persönlichkeitsverständnis schafft einen Ansatz, der in dieser Form selten zu finden ist.
 
 Die Verbindung von Wellnesscoaching und Persönlichkeitsprofilen eröffnet eine tiefere Dimension der Begleitung. Wenn du weißt, dass ein Klient einen bestimmten Energietyp oder eine bestimmte Lebensthematik mitbringt, kannst du deine Impulse darauf abstimmen. Ein Mensch mit hoher Grundenergie braucht andere Bewegungsformen als jemand mit wechselnder Energiedynamik. Jemand, dessen Thema Selbstbehauptung ist, reagiert anders auf Ernährungsimpulse als jemand, dessen Thema Anpassung ist.
 
 Die energetische Perspektive auf Wohlbefinden ergänzt die wissenschaftliche, ohne sie zu ersetzen. Wenn ein Klient sich chronisch erschöpft fühlt, schaust du zunächst auf die offensichtlichen Faktoren: Schlaf, Ernährung, Bewegung, Stress — und verweist bei anhaltender Erschöpfung an ärztliche Abklärung. Gleichzeitig fragst du nach der energetischen Ebene: Wo verlierst du Energie? Welche Beziehungen oder Situationen erschöpfen dich? Lebst du in Übereinstimmung mit deiner inneren Natur oder gegen sie? Diese doppelte Perspektive erfasst Aspekte, die ein rein körperlicher Blick übersehen würde.
 
-Dein Coaching-Stil integriert verschiedene Gesprächsebenen: sachliche Information zu Wohlbefindensthemen, empathische Begleitung emotionaler Prozesse, systemische Fragen zu Lebenskontext und Beziehungen und energetische Wahrnehmung feinstofflicher Dynamiken. Du wechselst zwischen diesen Ebenen je nach Bedarf des Klienten — manchmal innerhalb einer einzigen Sitzung.
+Dein Coaching-Stil integriert verschiedene Gesprächsebenen: sachliche Information zu Wohlbefindensthemen, empathische Begleitung emotionaler Prozesse, systemische Fragen zu Lebenskontext und Beziehungen — und die Einladung, feinstoffliche Sichtweisen als Deutungsangebot einzubeziehen, das der Klient annehmen oder verwerfen kann. Du wechselst zwischen diesen Ebenen je nach Bedarf des Klienten — manchmal innerhalb einer einzigen Sitzung.
 
 Die ethische Grundhaltung durchzieht alles: Du arbeitest im Dienst der Eigenverantwortung deines Klienten. Dein Ziel ist nicht, gebraucht zu werden, sondern überflüssig zu werden. Ein gelungenes Coaching endet damit, dass der Klient die Werkzeuge verinnerlicht hat und seinen Weg selbstständig weitergeht — mit dem Wissen, dass er zurückkommen kann, wenn er erneut Orientierung braucht.
 

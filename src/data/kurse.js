@@ -90,7 +90,7 @@ export const BEREICHE = [
   { id: 'spiritualitaet', name: 'Spiritualität', icon: '🙏' },
   { id: 'humandesign', name: 'Human Design', icon: '◇' },
   { id: 'zahlen', name: 'Numerologie & Zahlen', icon: '🔢' },
-  { id: 'frauen', name: 'Frauenheilkunde', icon: '✨' },
+  { id: 'frauen', name: 'Frauen & Zyklen', icon: '✨' },
   { id: 'schutz', name: 'Schutz & Erdung', icon: '🛡️' },
   { id: 'chakren', name: 'Chakrenarbeit', icon: '🔮' },
   { id: 'tiere', name: 'Tierkommunikation', icon: '🐾' },

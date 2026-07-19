@@ -2,11 +2,12 @@ const C09 = {
   id: 'C09',
   titel: 'Stressmanagement für Führungskräfte',
   bereich: 'coaching',
-  beschreibung: 'Spezialisiere dich auf die Begleitung von Führungskräften im Umgang mit Stress, Druck und Burnout-Gefahr. Diese Ausbildung verbindet evidenzbasierte Stressmanagement-Methoden mit holistischen Ansätzen und befähigt dich, die besonderen Herausforderungen von Menschen in Verantwortungspositionen kompetent und zielgruppengerecht zu adressieren.',
+  beschreibung: 'Spezialisiere dich auf die Begleitung von Führungskräften im Umgang mit Stress, Druck und hoher Belastung. Dieser Kurs verbindet bewährte Stressmanagement-Methoden mit ganzheitlichen Ansätzen und zeigt dir, wie du die besonderen Herausforderungen von Menschen in Verantwortungspositionen kompetent und zielgruppengerecht begleitest.',
   status: 'live',
   module: [
     {
       id: 'C09-M1',
+      nr: 1,
       titel: 'Stress verstehen — die Führungskräfte-Perspektive',
       lektionen: [
         {
@@ -18,9 +19,9 @@ Die typischen Stressoren von Führungskräften: Entscheidungsdruck — täglich 
 
 Das Paradox der Führungskraft: Sie soll andere führen — und hat oft niemanden, der sie führt. Sie soll die Gesundheit ihrer Mitarbeiter schützen — und vernachlässigt die eigene. Sie soll Resilienz vorleben — und darf keine Schwäche zeigen. Dieses Paradox erzeugt einen doppelten Stress: den Sachstress der Aufgaben und den emotionalen Stress der Rolle.
 
-Die biologische Dimension: Chronischer Führungsstress hält die HPA-Achse dauerhaft aktiviert — erhöhte Cortisolwerte, erhöhte Entzündungsmarker, gestörter Schlaf, geschwächtes Immunsystem. Langfristig führt das zu Bluthochdruck, Herzerkrankungen, Diabetes, Depression und Burnout. Die Statistik ist alarmierend: Führungskräfte haben ein signifikant höheres Risiko für Herzinfarkt und psychische Erkrankungen als die Durchschnittsbevölkerung.
+Die biologische Dimension: Chronischer Führungsstress hält das Stresssystem des Körpers dauerhaft aktiviert — mit spürbaren Folgen für Schlaf, Regeneration, Konzentration und Abwehrkräfte. Langfristig kann eine solche Dauerbelastung gesundheitliche Beschwerden begünstigen — von Herz-Kreislauf-Belastungen bis zu tiefer Erschöpfung. Solche Entwicklungen gehören in fachliche Abklärung, nicht ins Coaching.
 
-Für dein Coaching bedeutet das: Du arbeitest mit Menschen, die intelligent, leistungsfähig und handlungsorientiert sind — aber oft blind für ihre eigenen Grenzen. Sie brauchen keinen Therapeuten, der sie bemitleidet — sie brauchen einen Coach, der ihre Sprache spricht, ihre Realität versteht und ihnen Werkzeuge gibt, die in ihrem hochgetakteten Alltag funktionieren.`,
+Für dein Coaching bedeutet das: Du arbeitest mit Menschen, die intelligent, leistungsfähig und handlungsorientiert sind — aber oft blind für ihre eigenen Grenzen. Sie suchen einen Coach, der ihre Sprache spricht, ihre Realität versteht und ihnen Werkzeuge gibt, die in ihrem hochgetakteten Alltag funktionieren — und der zugleich klar erkennt, wo Coaching endet und fachliche Begleitung durch Arzt oder Psychotherapeut beginnt.`,
           uebung: {
             titel: 'Stress-Profil erstellen',
             anleitung: `Erstelle ein Stress-Profil — für dich selbst oder für einen fiktiven Führungskräfte-Klienten:
@@ -58,11 +59,11 @@ Die Lücke: Was fehlt? ___`,
 
 Das Anforderungs-Ressourcen-Modell: Stress entsteht, wenn die wahrgenommenen Anforderungen die wahrgenommenen Ressourcen übersteigen. Anforderungen sind alles, was Energie kostet — Arbeitslast, Zeitdruck, Konflikte, Verantwortung. Ressourcen sind alles, was Energie gibt — Kompetenz, Kontrolle, Unterstützung, Sinn, Erholung. Stress zu managen bedeutet nicht nur, Anforderungen zu reduzieren — es bedeutet auch, Ressourcen aufzubauen. Im Coaching stellst du beide Seiten der Gleichung auf und suchst die Hebelpunkte: Welche Anforderung kann reduziert werden? Welche Ressource kann gestärkt werden?
 
-Das Transaktionale Stressmodell nach Lazarus: Stress entsteht nicht durch die Situation selbst, sondern durch die Bewertung der Situation. Zwei Führungskräfte erleben die gleiche Reorganisation — eine bewertet sie als Bedrohung, die andere als Chance. Die Bewertung bestimmt die Stressreaktion. Die erste Bewertung fragt: „Ist das gefährlich für mich?" Die zweite fragt: „Habe ich die Ressourcen, damit umzugehen?" Im Coaching arbeitest du mit beiden Bewertungen: Wie siehst du die Situation? Und wie siehst du deine Fähigkeit, damit umzugehen? Oft reicht eine Verschiebung der Bewertung — ein Reframing — um den Stress signifikant zu reduzieren.
+Das transaktionale Stressmodell: Stress entsteht nicht durch die Situation selbst, sondern durch die Bewertung der Situation. Zwei Führungskräfte erleben die gleiche Reorganisation — eine bewertet sie als Bedrohung, die andere als Chance. Die Bewertung bestimmt die Stressreaktion. Die erste Bewertung fragt: „Ist das gefährlich für mich?" Die zweite fragt: „Habe ich die Ressourcen, damit umzugehen?" Im Coaching arbeitest du mit beiden Bewertungen: Wie siehst du die Situation? Und wie siehst du deine Fähigkeit, damit umzugehen? Oft reicht eine Verschiebung der Bewertung — ein Reframing — um den Stress signifikant zu reduzieren.
 
-Das Burnout-Phasenmodell nach Freudenberger beschreibt den schleichenden Weg vom Idealismus zum Zusammenbruch in zwölf Stufen. Es beginnt mit dem Drang, sich zu beweisen, führt über Vernachlässigung eigener Bedürfnisse, Verdrängung von Konflikten und Rückzug bis zum inneren Leere-Gefühl und schließlich zum Zusammenbruch. Das Modell hilft Führungskräften, ihren aktuellen Standort auf der Burnout-Skala zu erkennen — oft zum ersten Mal. Die Erkenntnis „Ich bin auf Stufe sieben von zwölf" ist ein Weckruf, der motiviert, bevor es zu spät ist.
+Ein klassisches Burnout-Phasenmodell beschreibt den schleichenden Weg vom Idealismus zum Zusammenbruch in zwölf Stufen. Es beginnt mit dem Drang, sich zu beweisen, führt über Vernachlässigung eigener Bedürfnisse, Verdrängung von Konflikten und Rückzug bis zum inneren Leere-Gefühl und schließlich zum Zusammenbruch. Das Modell hilft Führungskräften, ihren aktuellen Standort auf der Burnout-Skala zu erkennen — oft zum ersten Mal. Die Erkenntnis „Ich bin auf Stufe sieben von zwölf" ist ein Weckruf, der motiviert, bevor es zu spät ist.
 
-Im Coaching mit Führungskräften nutzt du die Modelle nicht als Theorie-Vortrag, sondern als diagnostische Spiegel: „Wo stehst du auf dieser Skala? Was siehst du, wenn du deine Situation in dieses Modell einordnest?" Führungskräfte schätzen die Systematik — sie gibt dem diffusen Unbehagen eine Form und damit eine Handlungsoption.`,
+Im Coaching mit Führungskräften nutzt du die Modelle nicht als Theorie-Vortrag, sondern als Reflexions-Spiegel: „Wo stehst du auf dieser Skala? Was siehst du, wenn du deine Situation in dieses Modell einordnest?" Führungskräfte schätzen die Systematik — sie gibt dem diffusen Unbehagen eine Form und damit eine Handlungsoption.`,
           uebung: {
             titel: 'Anforderungs-Ressourcen-Bilanz',
             anleitung: `Erstelle eine Anforderungs-Ressourcen-Bilanz:
@@ -96,19 +97,21 @@ Dieser eine Hebel, den ich diese Woche umsetze: ___`,
         },
         {
           id: 'C09-M1-L3',
-          titel: 'Burnout erkennen und verhindern',
-          inhalt: `Burnout ist keine plötzliche Erkrankung — es ist ein schleichender Prozess, der sich über Monate und Jahre entwickelt. Das Tückische: Führungskräfte, die am meisten gefährdet sind — die Engagiertesten, die Leistungsstärksten, die mit dem höchsten Verantwortungsgefühl — sind oft die Letzten, die die Zeichen erkennen. Sie haben gelernt, Warnsignale zu ignorieren und weiterzufunktionieren, bis nichts mehr geht.
+          titel: 'Burnout erkennen und ernst nehmen',
+          inhalt: `Burnout ist keine plötzliche Erscheinung — es ist ein schleichender Prozess, der sich über Monate und Jahre entwickelt. Das Tückische: Führungskräfte, die am meisten gefährdet sind — die Engagiertesten, die Leistungsstärksten, die mit dem höchsten Verantwortungsgefühl — sind oft die Letzten, die die Zeichen erkennen. Sie haben gelernt, Warnsignale zu ignorieren und weiterzufunktionieren, bis nichts mehr geht.
 
 Die drei Dimensionen des Burnout: Erschöpfung — emotionale, körperliche und geistige Ausgebranntheit. Nicht die normale Müdigkeit nach einem langen Tag, sondern eine tiefe, chronische Erschöpfung, die sich durch Schlaf und Urlaub nicht mehr erholt. Zynismus — emotionale Distanzierung von der Arbeit, den Kollegen, den Klienten. Was einmal Leidenschaft war, wird zur Pflicht, dann zur Last, dann zur Gleichgültigkeit. Und reduzierte Leistungsfähigkeit — das Gefühl, nicht mehr wirksam zu sein, trotz gleicher oder höherer Anstrengung weniger zu bewirken.
 
-Die Frühwarnzeichen, die Führungskräfte typischerweise ignorieren: Schlafstörungen — insbesondere das frühmorgendliche Aufwachen mit Gedankenkreisen. Erhöhte Reizbarkeit — bei Kleinigkeiten explodieren, die früher nicht gestört hätten. Sozialer Rückzug — Treffen absagen, Gespräche meiden, sich in der Arbeit vergraben. Körperliche Symptome — wiederkehrende Kopfschmerzen, Rückenschmerzen, Magen-Darm-Probleme, häufige Erkältungen. Zynische Gedanken — „Ist doch alles egal", „Die Leute sind unfähig", „Warum mache ich das eigentlich?" Und das Gefühl des Hamsterrades — viel tun, nichts bewirken.
+Die Frühwarnzeichen, die Führungskräfte typischerweise ignorieren: Schlafstörungen — insbesondere das frühmorgendliche Aufwachen mit Gedankenkreisen. Erhöhte Reizbarkeit — bei Kleinigkeiten explodieren, die früher nicht gestört hätten. Sozialer Rückzug — Treffen absagen, Gespräche meiden, sich in der Arbeit vergraben. Körperliche Signale — wiederkehrende Kopfschmerzen, Rückenschmerzen, Magen-Darm-Beschwerden, häufige Erkältungen. Zynische Gedanken — „Ist doch alles egal", „Die Leute sind unfähig", „Warum mache ich das eigentlich?" Und das Gefühl des Hamsterrades — viel tun, nichts bewirken.
 
-Die Coaching-Intervention bei Burnout-Gefährdung: Erstens — Bewusstmachung: Die Führungskraft erkennt, wo sie auf der Skala steht. Zweitens — Stopp-Signale installieren: Klare Grenzen definieren, die nicht verhandelbar sind — Feierabendzeit, freie Wochenenden, Urlaubstage. Drittens — Ressourcen reaktivieren: Was hat früher Energie gegeben und wurde vernachlässigt? Sport, Freundschaften, Hobbys, Natur, Familie. Viertens — Strukturelle Veränderungen: Delegieren, Nein-Sagen, Prioritäten setzen, unrealistische Erwartungen korrigieren. Fünftens — Professionelle Unterstützung: Bei fortgeschrittenem Burnout ist Coaching allein nicht ausreichend — Psychotherapie und gegebenenfalls ärztliche Begleitung sind dann notwendig.
+Die Coaching-Begleitung bei Burnout-Gefährdung: Erstens — Bewusstmachung: Die Führungskraft erkennt, wo sie auf der Skala steht. Zweitens — Stopp-Signale installieren: Klare Grenzen definieren, die nicht verhandelbar sind — Feierabendzeit, freie Wochenenden, Urlaubstage. Drittens — Ressourcen reaktivieren: Was hat früher Energie gegeben und wurde vernachlässigt? Sport, Freundschaften, Hobbys, Natur, Familie. Viertens — Strukturelle Veränderungen: Delegieren, Nein-Sagen, Prioritäten setzen, unrealistische Erwartungen korrigieren. Fünftens — Fachliche Unterstützung: Bei fortgeschrittenem Burnout ist Coaching allein nicht ausreichend — Psychotherapie und ärztliche Begleitung sind dann der richtige Weg, und du verweist aktiv dorthin. Es gilt ohne Ausnahme: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-Die Prävention ist wirksamer als die Behandlung: Führungskräfte, die regelmäßig reflektieren, Grenzen setzen und ihre Ressourcen pflegen, erkranken seltener an Burnout als solche, die auf Verschleiß fahren. Dein Coaching kann präventiv wirken — wenn die Führungskraft kommt, bevor es zu spät ist.`,
+Die Prävention ist wirksamer als jede spätere Reparatur: Führungskräfte, die regelmäßig reflektieren, Grenzen setzen und ihre Ressourcen pflegen, sind deutlich seltener von Burnout betroffen als solche, die auf Verschleiß fahren. Dein Coaching kann präventiv wirken — wenn die Führungskraft kommt, bevor es zu spät ist.`,
           uebung: {
             titel: 'Burnout-Frühwarncheck',
-            anleitung: `Führe einen ehrlichen Burnout-Frühwarncheck durch:
+            anleitung: `Führe einen ehrlichen Burnout-Frühwarncheck durch.
+
+Wichtig: Dieser Check ist eine Selbstbeobachtung — keine Diagnose und kein Ersatz für fachliche Abklärung.
 
 Erschöpfung:
 □ Ich bin morgens schon müde, bevor der Tag beginnt
@@ -130,7 +133,7 @@ Leistungsfähigkeit:
 
 0–3 Häkchen: Normaler Stress, achtsam bleiben.
 4–7 Häkchen: Erhöhte Belastung, aktiv gegensteuern.
-8–12 Häkchen: Burnout-Gefahr, professionelle Unterstützung suchen.
+8–12 Häkchen: Burnout-Gefahr — hole dir fachliche Unterstützung (Arzt, Psychotherapeut).
 
 Mein Score: ___/12
 Mein nächster Schritt: ___`,
@@ -141,33 +144,34 @@ Mein nächster Schritt: ___`,
     },
     {
       id: 'C09-M2',
+      nr: 2,
       titel: 'Sofort-Werkzeuge gegen Stress',
       lektionen: [
         {
           id: 'C09-M2-L1',
           titel: 'Die Drei-Minuten-Regulationstechniken',
-          inhalt: `Führungskräfte brauchen Werkzeuge, die sofort wirken — mitten im Meeting, vor der schwierigen Präsentation, zwischen zwei Krisengesprächen. Keine zwanzigminütige Meditation, kein Yoga auf der Matte — sondern diskrete, schnelle Techniken, die in drei Minuten oder weniger den Stresszustand reduzieren, ohne dass jemand es bemerkt.
+          inhalt: `Führungskräfte brauchen Werkzeuge, die sofort wirken — mitten im Meeting, vor der schwierigen Präsentation, zwischen zwei Krisengesprächen. Keine zwanzigminütige Meditation, kein Yoga auf der Matte — sondern diskrete, schnelle Techniken, die in drei Minuten oder weniger den Stresszustand spürbar senken können, ohne dass jemand es bemerkt.
 
-Die Physiologische Seufzer-Technik — entwickelt von Andrew Huberman an der Stanford University — ist die schnellste evidenzbasierte Methode zur Stressreduktion. Doppeltes Einatmen durch die Nase — ein kurzer Atemzug, gefolgt von einem zweiten kurzen Atemzug, der die Lunge ganz füllt — dann langes Ausatmen durch den Mund. Ein einziger Zyklus senkt die Herzfrequenz messbar. Drei Zyklen reichen für eine spürbare Beruhigung. Die Technik funktioniert, weil das doppelte Einatmen die kollabierten Lungenbläschen öffnet und das lange Ausatmen den Vagusnerv stimuliert.
+Die Doppelatem-Technik gilt als eine der schnellsten Methoden zur akuten Beruhigung: Doppeltes Einatmen durch die Nase — ein kurzer Atemzug, gefolgt von einem zweiten kurzen Atemzug, der die Lunge ganz füllt — dann langes Ausatmen durch den Mund. Schon ein einziger Zyklus wird von vielen als unmittelbar beruhigend erlebt, drei Zyklen reichen für eine spürbare Entspannung. Die Erklärung dahinter: Das doppelte Einatmen öffnet die Lunge vollständig, und das lange Ausatmen stimuliert den Vagusnerv — den Ruhe-Schalter des Nervensystems.
 
-Die Box-Breathing-Technik — verwendet von Navy SEALs unter Extrembedingungen — folgt einem einfachen Rhythmus: Vier Sekunden einatmen, vier Sekunden halten, vier Sekunden ausatmen, vier Sekunden halten. Vier Zyklen — eine Minute. Diese Technik reguliert das autonome Nervensystem und schafft einen Zustand fokussierter Ruhe — ideal vor wichtigen Entscheidungen oder Gesprächen.
+Die Box-Atmung — ein Rhythmus, der auch in Hochleistungs- und Einsatzkontexten trainiert wird — folgt einem einfachen Muster: Vier Sekunden einatmen, vier Sekunden halten, vier Sekunden ausatmen, vier Sekunden halten. Vier Zyklen — eine Minute. Diese Technik reguliert das autonome Nervensystem und schafft einen Zustand fokussierter Ruhe — ideal vor wichtigen Entscheidungen oder Gesprächen.
 
-Der Kalt-Wasser-Reset: Kaltes Wasser auf den Handgelenken — dreißig Sekunden unter kaltem Wasser — löst den Tauchreflex aus und aktiviert den Vagusnerv. Auf der Toilette, am Waschbecken, unauffällig und sofort wirksam. Alternativ: Ein Glas eiskaltes Wasser trinken — die Kälte im Magen aktiviert ebenfalls den Vagusnerv.
+Der Kalt-Wasser-Reset: Kaltes Wasser auf den Handgelenken — dreißig Sekunden unter kaltem Wasser — spricht den Tauchreflex an und wirkt für viele unmittelbar beruhigend. Auf der Toilette, am Waschbecken, unauffällig und sofort einsetzbar. Alternativ: Ein Glas eiskaltes Wasser langsam trinken.
 
-Die Fünf-Vier-Drei-Zwei-Eins-Erdung: Fünf Dinge sehen, vier hören, drei berühren, zwei riechen, eines schmecken. Diese sensorische Erdung holt dich aus dem Gedankenkarussell in den gegenwärtigen Moment — in dreißig Sekunden. Besonders wirksam bei aufsteigender Panik oder überwältigendem Stress.
+Die Fünf-Vier-Drei-Zwei-Eins-Erdung: Fünf Dinge sehen, vier hören, drei berühren, zwei riechen, eines schmecken. Diese sensorische Erdung holt dich aus dem Gedankenkarussell in den gegenwärtigen Moment — in dreißig Sekunden. Besonders hilfreich bei aufsteigender innerer Überflutung. Wenn Panikzustände wiederholt auftreten, gehört das in fachliche Begleitung.
 
-Der Power-Pose-Moment: Zwei Minuten in einer aufrechten, raumgreifenden Haltung — Brust offen, Schultern zurück, Arme weit oder in die Hüften gestemmt — verändert die Hormonlage: Testosteron steigt, Cortisol sinkt. Vor dem Spiegel in der Toilette, im Aufzug, im leeren Büro — zwei Minuten reichen.
+Der Haltungs-Moment: Zwei Minuten in einer aufrechten, raumgreifenden Haltung — Brust offen, Schultern zurück, Arme weit oder in die Hüften gestemmt. Viele erleben danach spürbar mehr Präsenz und Zuversicht — unabhängig davon, wie die Forschung die körperlichen Mechanismen im Detail diskutiert. Vor dem Spiegel in der Toilette, im Aufzug, im leeren Büro — zwei Minuten reichen.
 
-Die Kognitive Distanzierung: In einem Stressmoment innerlich einen Schritt zurücktreten und sich selbst in der dritten Person ansprechen: „Was braucht [dein Name] jetzt?" Diese simple Technik aktiviert den präfrontalen Cortex und reduziert die emotionale Überflutung — belegt durch Forschung von Ethan Kross.`,
+Die Kognitive Distanzierung: In einem Stressmoment innerlich einen Schritt zurücktreten und sich selbst in der dritten Person ansprechen: „Was braucht [dein Name] jetzt?" Diese simple Technik der Selbstdistanzierung schafft Abstand zur emotionalen Überflutung und öffnet den Zugang zum klaren Denken.`,
           uebung: {
             titel: 'Sofort-Toolkit zusammenstellen',
             anleitung: `Stelle dein persönliches Dreiminuten-Toolkit zusammen — teste jede Technik heute:
 
-Technik 1 — Physiologischer Seufzer:
+Technik 1 — Doppelatem:
 Doppelt einatmen (Nase), lang ausatmen (Mund). 3 Zyklen.
 Meine Bewertung: Wirkung (1–10): ___
 
-Technik 2 — Box Breathing:
+Technik 2 — Box-Atmung:
 4-4-4-4 Rhythmus, 4 Zyklen.
 Wirkung: ___
 
@@ -194,7 +198,7 @@ Mein Trigger für den Einsatz: „Jedes Mal, wenn ich merke, dass ___, wende ich
 
 Die häufigsten Stressgedanken von Führungskräften: Katastrophisieren — „Wenn das schiefgeht, ist meine Karriere vorbei." Übergeneralisieren — „Nichts funktioniert hier." Personalisieren — „Das ist alles meine Schuld." Mindreading — „Die denken bestimmt, ich bin inkompetent." Schwarz-Weiß-Denken — „Entweder perfekt oder gescheitert." Diese Gedankenmuster sind so automatisch, dass die Führungskraft sie nicht als Gedanken erkennt — sie erlebt sie als Realität.
 
-Die Gedanken-Defusion — ein Konzept aus der Akzeptanz- und Commitment-Therapie — schafft Distanz zwischen dir und deinen Gedanken. Statt „Ich schaffe das nie" sagst du innerlich: „Ich habe gerade den Gedanken, dass ich das nie schaffe." Dieser kleine sprachliche Unterschied erzeugt einen enormen psychologischen Unterschied: Du bist nicht der Gedanke — du hast einen Gedanken. Und Gedanken, die du hast, musst du nicht glauben.
+Die Gedanken-Defusion — ein Konzept aus der modernen Psychologie — schafft Distanz zwischen dir und deinen Gedanken. Statt „Ich schaffe das nie" sagst du innerlich: „Ich habe gerade den Gedanken, dass ich das nie schaffe." Dieser kleine sprachliche Unterschied erzeugt einen enormen psychologischen Unterschied: Du bist nicht der Gedanke — du hast einen Gedanken. Und Gedanken, die du hast, musst du nicht glauben.
 
 Das Worst-Case-Best-Case-Reframing: Bei katastrophisierenden Gedanken stellst du drei Fragen. Was ist das Schlimmste, das passieren kann? Was ist das Beste? Und was ist das Wahrscheinlichste? Die meisten Menschen bleiben beim Worst Case hängen — die beiden anderen Fragen erweitern die Perspektive und reduzieren die wahrgenommene Bedrohung auf ein realistisches Maß.
 
@@ -233,9 +237,9 @@ Das Energie-Management-Modell unterscheidet vier Energiequellen: Körperliche En
 
 Die Konsequenz für den Arbeitsalltag: Plane deine wichtigsten Aufgaben nicht nach freien Zeitfenstern, sondern nach Energiehochs. Wenn du morgens die meiste mentale Energie hast, lege strategische Arbeit auf den Morgen — nicht E-Mails und Meetings. Wenn du nach dem Mittagessen ein Energietief hast, plane dort Routineaufgaben oder eine Erholungspause.
 
-Die Erholungspause ist keine Zeitverschwendung — sie ist Energieinvestition. Studien zeigen: Neunzig Minuten fokussierte Arbeit, gefolgt von fünfzehn bis zwanzig Minuten Pause — ein kurzer Spaziergang, ein Gespräch, das nichts mit Arbeit zu tun hat, zehn Minuten Augen schließen — erhöht die Gesamtleistung über den Tag mehr als durchgehende Arbeit ohne Pausen.
+Die Erholungspause ist keine Zeitverschwendung — sie ist Energieinvestition. Viele Menschen erleben: Neunzig Minuten fokussierte Arbeit, gefolgt von fünfzehn bis zwanzig Minuten Pause — ein kurzer Spaziergang, ein Gespräch, das nichts mit Arbeit zu tun hat, zehn Minuten Augen schließen — erhöht die Gesamtleistung über den Tag mehr als durchgehende Arbeit ohne Pausen.
 
-Die strategische Erholung: Nicht nur Pausen während des Tages, sondern strukturierte Erholung auf allen Zeitebenen. Tägliche Erholung: mindestens eine Stunde am Abend, die der Arbeit nicht gehört. Wöchentliche Erholung: mindestens ein komplett arbeitsfreier Tag. Vierteljährliche Erholung: ein verlängertes Wochenende ohne Erreichbarkeit. Jährliche Erholung: mindestens zwei Wochen zusammenhängender Urlaub — die Forschung zeigt, dass die Erholungswirkung erst nach zehn bis vierzehn Tagen vollständig einsetzt.
+Die strategische Erholung: Nicht nur Pausen während des Tages, sondern strukturierte Erholung auf allen Zeitebenen. Tägliche Erholung: mindestens eine Stunde am Abend, die der Arbeit nicht gehört. Wöchentliche Erholung: mindestens ein komplett arbeitsfreier Tag. Vierteljährliche Erholung: ein verlängertes Wochenende ohne Erreichbarkeit. Jährliche Erholung: mindestens zwei Wochen zusammenhängender Urlaub — viele erleben, dass die volle Erholungswirkung erst nach zehn bis vierzehn Tagen einsetzt.
 
 Die Energie-Räuber identifizieren: Welche Meetings, Aufgaben, Personen und Gewohnheiten rauben dir überproportional viel Energie? Das stundenlange Meeting, in dem nichts entschieden wird. Der Kollege, der jedes Gespräch in eine Klagesitzung verwandelt. Die E-Mail-Lawine, die den Morgen auffrisst. Die Identifikation und Reduktion von Energieräubern hat oft einen größeren Effekt als das Hinzufügen neuer Energiequellen.`,
           uebung: {
@@ -272,6 +276,7 @@ Eine Energiequelle, die ich diese Woche aktiviere: ___`,
     },
     {
       id: 'C09-M3',
+      nr: 3,
       titel: 'Nachhaltige Stressresilienz',
       lektionen: [
         {
@@ -281,11 +286,11 @@ Eine Energiequelle, die ich diese Woche aktiviere: ___`,
 
 Die körperliche Säule: Der Körper ist das Fundament — wenn er nicht funktioniert, funktioniert nichts anderes. Für Führungskräfte bedeutet das: Schlaf als nicht verhandelbare Priorität — mindestens sieben Stunden, nicht fünf mit dem Argument „Ich brauche weniger." Bewegung als tägliche Praxis — nicht das Marathon-Training am Wochenende, sondern dreißig Minuten moderate Bewegung jeden Tag. Ernährung, die Energie gibt statt raubt — weniger Zucker, mehr Protein, regelmäßige Mahlzeiten statt Kaffee und Schokoriegel am Schreibtisch.
 
-Die emotionale Säule: Emotionale Resilienz entsteht durch Beziehungsqualität und Selbstmitgefühl. Führungskräfte, die mindestens eine Vertrauensperson haben — Partner, Freund, Coach — mit der sie offen über Belastungen sprechen können, sind signifikant resilienter als isolierte. Und Führungskräfte, die sich selbst mit der gleichen Freundlichkeit behandeln, die sie einem guten Kollegen entgegenbringen würden, erholen sich schneller von Rückschlägen als die mit dem inneren Antreiber auf Maximum.
+Die emotionale Säule: Emotionale Resilienz entsteht durch Beziehungsqualität und Selbstmitgefühl. Führungskräfte, die mindestens eine Vertrauensperson haben — Partner, Freund, Coach — mit der sie offen über Belastungen sprechen können, gelten als deutlich resilienter als isolierte. Und Führungskräfte, die sich selbst mit der gleichen Freundlichkeit behandeln, die sie einem guten Kollegen entgegenbringen würden, erholen sich erfahrungsgemäß schneller von Rückschlägen als die mit dem inneren Antreiber auf Maximum.
 
-Die mentale Säule: Mentale Resilienz bedeutet Klarheit unter Druck — die Fähigkeit, auch in chaotischen Situationen den Überblick zu behalten, Prioritäten zu setzen und fokussiert zu handeln. Diese Fähigkeit wird durch Meditation und Achtsamkeitspraxis trainiert — die Forschung ist eindeutig. Zehn Minuten tägliche Meditation verbessern Aufmerksamkeit, Entscheidungsfähigkeit und emotionale Regulation messbar. Für Führungskräfte, die Meditation als esoterisch empfinden: Es gibt Apps und Programme, die Achtsamkeit als Performance-Tool vermarkten — das Ergebnis ist dasselbe.
+Die mentale Säule: Mentale Resilienz bedeutet Klarheit unter Druck — die Fähigkeit, auch in chaotischen Situationen den Überblick zu behalten, Prioritäten zu setzen und fokussiert zu handeln. Diese Fähigkeit lässt sich durch Meditation und Achtsamkeitspraxis trainieren — Studien deuten darauf hin, dass schon zehn Minuten tägliche Praxis Aufmerksamkeit, Entscheidungsfähigkeit und emotionale Regulation unterstützen können. Für Führungskräfte, die Meditation als esoterisch empfinden: Es gibt Programme, die Achtsamkeit als Fokus-Training rahmen — die Praxis ist dieselbe.
 
-Die Sinn-Säule: Warum tue ich, was ich tue? Führungskräfte, die einen klaren Purpose haben — eine Verbindung zwischen ihrer Arbeit und ihren Werten —, sind resilienter als solche, die nur für Geld, Status oder Gewohnheit arbeiten. Die Frage „Wofür stehe ich auf?" ist keine philosophische Luxusfrage — sie ist ein Resilienzfaktor. Im Coaching erforschst du mit der Führungskraft ihre Verbindung zum Sinn: Was treibt dich an? Was ist dein Beitrag? Und wenn die Verbindung verloren gegangen ist: Was muss sich ändern, damit du sie wiederfindest?`,
+Die Sinn-Säule: Warum tue ich, was ich tue? Führungskräfte, die einen klaren Purpose haben — eine Verbindung zwischen ihrer Arbeit und ihren Werten —, gelten als resilienter als solche, die nur für Geld, Status oder Gewohnheit arbeiten. Die Frage „Wofür stehe ich auf?" ist keine philosophische Luxusfrage — sie ist ein Resilienzfaktor. Im Coaching erforschst du mit der Führungskraft ihre Verbindung zum Sinn: Was treibt dich an? Was ist dein Beitrag? Und wenn die Verbindung verloren gegangen ist: Was muss sich ändern, damit du sie wiederfindest?`,
           uebung: {
             titel: 'Vier-Säulen-Check',
             anleitung: `Bewerte deine vier Resilienz-Säulen:
@@ -333,7 +338,7 @@ Die Formulierung des Neins: Direkt, respektvoll und ohne Übererklärung. „Das
 
 Die Grenzarbeit im Coaching: Viele Führungskräfte müssen Grenzen erst wiederentdecken — sie haben so lange Ja gesagt, dass sie nicht mehr wissen, was sie eigentlich wollen und brauchen. Die Coaching-Arbeit beginnt mit der Klärung: Was sind deine nicht verhandelbaren Grenzen? Was sind deine Prioritäten — beruflich und privat? Was muss geschützt werden, damit du langfristig leistungsfähig bleibst? Diese Grenzen werden dann konkret formuliert, kommuniziert und in den Alltag implementiert.
 
-Die digitale Grenze verdient besondere Aufmerksamkeit: Erreichbarkeit nach Feierabend ist der schleichendste Grenzübertritt. „Nur kurz die E-Mails checken" am Sonntagabend ist keine Kleinigkeit — es signalisiert dem Gehirn, dass die Arbeit nie endet, und verhindert die Erholung. Klare Regeln — keine E-Mails nach zwanzig Uhr, keine Arbeit am Sonntag, Handy nicht neben dem Bett — sind einfach aufzustellen und schwer durchzuhalten. Aber sie sind überlebenswichtig.`,
+Die digitale Grenze verdient besondere Aufmerksamkeit: Erreichbarkeit nach Feierabend ist der schleichendste Grenzübertritt. „Nur kurz die E-Mails checken" am Sonntagabend ist keine Kleinigkeit — es signalisiert dem Gehirn, dass die Arbeit nie endet, und verhindert die Erholung. Klare Regeln — keine E-Mails nach zwanzig Uhr, keine Arbeit am Sonntag, Handy nicht neben dem Bett — sind einfach aufzustellen und schwer durchzuhalten. Aber sie sind entscheidend für die langfristige Kraft.`,
           uebung: {
             titel: 'Grenz-Inventar',
             anleitung: `Erstelle dein persönliches Grenz-Inventar:
@@ -368,19 +373,19 @@ Ein Nein, das ich diese Woche ausspreche: ___`,
         {
           id: 'C09-M3-L3',
           titel: 'Achtsamkeit und Meditation für Führungskräfte',
-          inhalt: `Meditation und Achtsamkeit sind nicht mehr esoterische Nischenthemen — sie sind im Mainstream der Führungskräfteentwicklung angekommen. Google, SAP, Intel und Goldman Sachs bieten Achtsamkeitsprogramme für ihre Führungskräfte an. Die Forschung belegt: Regelmäßige Meditationspraxis verbessert Aufmerksamkeit, Entscheidungsfähigkeit, emotionale Regulation, Empathie und Stressresistenz — alles Kernkompetenzen der Führung.
+          inhalt: `Meditation und Achtsamkeit sind längst keine Nischenthemen mehr — sie sind im Mainstream der Führungskräfteentwicklung angekommen. Viele internationale Konzerne bieten Achtsamkeitsprogramme für ihre Führungskräfte an. Regelmäßige Meditationspraxis gilt als förderlich für Aufmerksamkeit, Entscheidungsfähigkeit, emotionale Regulation, Empathie und Stressresistenz — alles Kernkompetenzen der Führung.
 
-Die Einstiegshürde ist niedrig: Zehn Minuten am Tag reichen für messbare Effekte. Nicht auf einem Meditationskissen im Lotussitz — auf dem Bürostuhl, im Auto vor dem ersten Meeting, im Bett vor dem Aufstehen. Die Form ist zweitrangig — die Regelmäßigkeit ist entscheidend.
+Die Einstiegshürde ist niedrig: Zehn Minuten am Tag gelten als guter Startpunkt für spürbare Effekte. Nicht auf einem Meditationskissen im Lotussitz — auf dem Bürostuhl, im Auto vor dem ersten Meeting, im Bett vor dem Aufstehen. Die Form ist zweitrangig — die Regelmäßigkeit ist entscheidend.
 
 Die Atem-Anker-Meditation ist der einfachste Einstieg: Setze dich aufrecht hin. Schließe die Augen oder senke den Blick. Richte deine Aufmerksamkeit auf deinen Atem — spüre, wie die Luft einströmt und ausströmt. Wenn Gedanken kommen — und sie werden kommen —, bemerke sie und kehre zum Atem zurück. Zehn Minuten. Das ist alles. Die Kraft liegt in der Wiederholung: Jedes Zurückkehren zum Atem nach einer Ablenkung ist eine Wiederholung im Fitnessstudio der Aufmerksamkeit.
 
-Die Meeting-Achtsamkeit: Dreißig Sekunden bewusstes Atmen vor jedem Meeting — sitzend, mit geschlossenen Augen oder gesenktem Blick. Diese halbe Minute setzt einen Reset, schärft den Fokus und schafft die Präsenz, die das Meeting produktiver macht. Wenn du eine Führungskraft coachst, die Meditation ablehnt, empfiehl diese Mikro-Praxis — sie ist unauffallig und sofort wirksam.
+Die Meeting-Achtsamkeit: Dreißig Sekunden bewusstes Atmen vor jedem Meeting — sitzend, mit geschlossenen Augen oder gesenktem Blick. Diese halbe Minute setzt einen Reset, schärft den Fokus und schafft die Präsenz, die das Meeting produktiver macht. Wenn du eine Führungskraft coachst, die Meditation ablehnt, empfiehl diese Mikro-Praxis — sie ist unauffällig und sofort umsetzbar.
 
 Die Geh-Meditation für den Arbeitsalltag: Statt zum nächsten Meeting zu hetzen, gehe die letzten hundert Meter bewusst — spüre den Kontakt der Füße zum Boden, nimm die Umgebung wahr, atme. Diese kurze Praxis unterbricht den Autopilot und bringt dich in den Moment. Sie erfordert keine zusätzliche Zeit — nur eine andere Qualität der Aufmerksamkeit auf dem Weg, den du ohnehin gehst.
 
-Die Abend-Reflexion — fünf Minuten vor dem Einschlafen: Drei Dinge, die heute gut gelaufen sind. Eine Sache, die ich morgen anders machen will. Und dann: Loslassen — den Tag bewusst abschließen, wie das Schließen eines Buches. Diese Praxis verhindert das Gedankenkreisen im Bett und fördert erholsamen Schlaf.
+Die Abend-Reflexion — fünf Minuten vor dem Einschlafen: Drei Dinge, die heute gut gelaufen sind. Eine Sache, die ich morgen anders machen will. Und dann: Loslassen — den Tag bewusst abschließen, wie das Schließen eines Buches. Diese Praxis hilft gegen das Gedankenkreisen im Bett und unterstützt erholsamen Schlaf.
 
-Die Sprache für Führungskräfte: Verwende Begriffe wie Mental Fitness, Performance-Training oder Fokus-Praxis statt Meditation und Achtsamkeit, wenn dein Klient mit spirituellen Konnotationen Schwierigkeiten hat. Die Technik ist dieselbe — der Rahmen bestimmt die Akzeptanz.`,
+Die Sprache für Führungskräfte: Wenn dein Klient mit spirituellen Konnotationen Schwierigkeiten hat, kannst du von Fokus-Praxis oder mentalem Training sprechen — wichtig ist dabei Transparenz: Dein Klient soll jederzeit wissen, was ihr tut und warum. Zielgruppengerechte Sprache ist Übersetzung, nicht Verschleierung.`,
           uebung: {
             titel: 'Zehn-Tage-Meditations-Challenge',
             anleitung: `Starte eine Zehn-Tage-Meditations-Challenge — zehn Minuten pro Tag:
@@ -410,18 +415,19 @@ Die Herausforderung ist nicht die Meditation — sie ist die Regelmäßigkeit. Z
     },
     {
       id: 'C09-M4',
+      nr: 4,
       titel: 'Coaching-Praxis mit Führungskräften',
       lektionen: [
         {
           id: 'C09-M4-L1',
-          titel: 'Die Erstberatung mit Führungskräften',
-          inhalt: `Die Erstberatung mit einer Führungskraft unterscheidet sich von anderen Coaching-Erstgesprächen — in Sprache, Tempo, Erwartung und Dynamik. Führungskräfte sind gewohnt, effizient zu kommunizieren, schnell zum Punkt zu kommen und messbare Ergebnisse zu erwarten. Sie haben wenig Geduld für langsame Einstiege und wenig Toleranz für vages Gerede. Gleichzeitig ist unter dieser Oberfläche oft eine Sehnsucht nach Tiefe, nach Ehrlichkeit und nach einem Raum, in dem sie die Maske ablegen dürfen.
+          titel: 'Das Erstgespräch mit Führungskräften',
+          inhalt: `Das Erstgespräch mit einer Führungskraft unterscheidet sich von anderen Coaching-Erstgesprächen — in Sprache, Tempo, Erwartung und Dynamik. Führungskräfte sind gewohnt, effizient zu kommunizieren, schnell zum Punkt zu kommen und messbare Ergebnisse zu erwarten. Sie haben wenig Geduld für langsame Einstiege und wenig Toleranz für vages Gerede. Gleichzeitig ist unter dieser Oberfläche oft eine Sehnsucht nach Tiefe, nach Ehrlichkeit und nach einem Raum, in dem sie die Maske ablegen dürfen.
 
 Der Einstieg: Professionell, klar, auf Augenhöhe. Keine Unterwürfigkeit — du bist der Experte für Stressmanagement, er ist der Experte für seine Situation. Keine Belehrung — du weißt nicht besser als er, wie sein Job funktioniert. Rapport aufbauen durch echtes Interesse an seiner Welt: „Erzähl mir von deinem Alltag. Wie sieht ein typischer Tag aus? Wo drückt der Schuh am meisten?"
 
-Die Stressanamnese für Führungskräfte: Nicht mit einem Fragebogen beginnen — sondern mit einer offenen Frage und dann gezielt vertiefen. Die Kernfragen: Wie ist dein Schlaf? (Der ehrlichste Indikator für Stresslevel.) Wie ist dein Energielevel über den Tag? Was gibt dir Energie, was raubt sie? Wann hast du zuletzt abends nicht an die Arbeit gedacht? Wann hast du zuletzt etwas nur für dich getan — ohne schlechtes Gewissen? Und die mutigste Frage: Auf einer Skala von eins bis zehn — wie nahe bist du am Burnout?
+Die Stress-Bestandsaufnahme für Führungskräfte: Nicht mit einem Fragebogen beginnen — sondern mit einer offenen Frage und dann gezielt vertiefen. Die Kernfragen: Wie ist dein Schlaf? (Der ehrlichste Indikator für Stresslevel.) Wie ist dein Energielevel über den Tag? Was gibt dir Energie, was raubt sie? Wann hast du zuletzt abends nicht an die Arbeit gedacht? Wann hast du zuletzt etwas nur für dich getan — ohne schlechtes Gewissen? Und die mutigste Frage: Auf einer Skala von eins bis zehn — wie nahe bist du am Burnout? Wenn die Antworten auf gesundheitliche Belastungen hindeuten, gilt die klare Grenze: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-Die Zielklärung: Führungskräfte wollen Ergebnisse — definiere sie gemeinsam. Nicht „weniger Stress" — das ist zu vage. Sondern: „Abends abschalten können." „Besser schlafen." „Weniger Reizbarkeit." „Klarer entscheiden." „Mehr Zeit für die Familie." Konkrete, messbare Ziele, die in einem definierten Zeitraum erreichbar sind.
+Die Zielklärung: Führungskräfte wollen Ergebnisse — definiere sie gemeinsam. Nicht „weniger Stress" — das ist zu vage. Sondern: „Abends abschalten können." „Besser schlafen." „Weniger Reizbarkeit." „Klarer entscheiden." „Mehr Zeit für die Familie." Konkrete, überprüfbare Ziele, die in einem definierten Zeitraum erreichbar sind.
 
 Der Rahmen: Typischerweise sechs bis zehn Sitzungen über drei bis sechs Monate. Sitzungsdauer sechzig bis neunzig Minuten. Frequenz: anfangs alle zwei Wochen, dann monatlich. Zwischen den Sitzungen: konkrete Übungsaufgaben — kurz, wirksam und alltagstauglich. Führungskräfte schätzen Struktur und Verbindlichkeit — vereinbare klare Termine, halte sie ein und beginne pünktlich.
 
@@ -431,6 +437,8 @@ Die Vertraulichkeit: Besonders wichtig im Führungskräfte-Kontext. Alles, was i
             anleitung: `Simuliere ein Erstgespräch mit einem fiktiven Führungskräfte-Klienten:
 
 Klient: Mann, 46, Geschäftsführer eines mittelständischen IT-Unternehmens, 80 Mitarbeiter. Sagt: „Mein Arzt hat gesagt, mein Blutdruck ist zu hoch und ich soll kürzertreten. Aber das geht nicht — wer macht denn dann den Laden?"
+
+Wichtig für dein Coaching: Die ärztliche Behandlung des Blutdrucks läuft parallel weiter — dein Coaching ergänzt sie im Bereich Lebensstil und Entlastung, es ersetzt sie nicht.
 
 Dein Ablauf:
 1. Eröffnung — Was sagst du als Erstes? ___
@@ -453,11 +461,11 @@ Dein Ablauf:
           titel: 'Führungskompetenz durch Stressmanagement',
           inhalt: `Stressmanagement ist nicht nur Selbstfürsorge — es ist Führungskompetenz. Eine gestresste Führungskraft trifft schlechtere Entscheidungen, kommuniziert aggressiver, delegiert weniger, innoviert nicht und verliert die besten Mitarbeiter. Stressmanagement-Coaching verbessert nicht nur das Wohlbefinden der Führungskraft — es verbessert ihre Führungsleistung und damit die Leistung des gesamten Teams.
 
-Emotionale Regulation als Führungsqualität: Eine Führungskraft, die ihre Emotionen regulieren kann — die unter Druck ruhig bleibt, die Frustration nicht auf das Team überträgt, die auch in der Krise klar denkt —, schafft ein Arbeitsklima der Sicherheit. Psychologische Sicherheit — das Gefühl der Mitarbeiter, Fehler machen zu dürfen, ohne bestraft zu werden — ist der stärkste Prädiktor für Teamleistung. Und diese Sicherheit wird maßgeblich durch die emotionale Stabilität der Führungskraft bestimmt.
+Emotionale Regulation als Führungsqualität: Eine Führungskraft, die ihre Emotionen regulieren kann — die unter Druck ruhig bleibt, die Frustration nicht auf das Team überträgt, die auch in der Krise klar denkt —, schafft ein Arbeitsklima der Sicherheit. Psychologische Sicherheit — das Gefühl der Mitarbeiter, Fehler machen zu dürfen, ohne bestraft zu werden — gilt als einer der stärksten Faktoren für Teamleistung. Und diese Sicherheit wird maßgeblich durch die emotionale Stabilität der Führungskraft bestimmt.
 
-Delegieren als Stressmanagement-Strategie: Viele Führungskräfte stecken in der Delegationsfalle — sie glauben, alles selbst machen zu müssen, weil sie es besser können, weil es schneller geht oder weil sie dem Team nicht vertrauen. Diese Haltung ist ein direkter Weg in den Burnout. Im Coaching arbeitest du mit der Führungskraft an der Identifikation delegierbarer Aufgaben, am Aufbau von Vertrauen ins Team und an der Akzeptanz, dass gute genug manchmal besser ist als perfekt.
+Delegieren als Stressmanagement-Strategie: Viele Führungskräfte stecken in der Delegationsfalle — sie glauben, alles selbst machen zu müssen, weil sie es besser können, weil es schneller geht oder weil sie dem Team nicht vertrauen. Diese Haltung ist ein direkter Weg in die Erschöpfung. Im Coaching arbeitest du mit der Führungskraft an der Identifikation delegierbarer Aufgaben, am Aufbau von Vertrauen ins Team und an der Akzeptanz, dass gut genug manchmal besser ist als perfekt.
 
-Priorisierung: Die Eisenhower-Matrix — dringend und wichtig, dringend aber unwichtig, wichtig aber nicht dringend, weder wichtig noch dringend — ist ein Klassiker, der immer noch funktioniert. Die meisten Führungskräfte verbringen zu viel Zeit im Quadranten dringend-aber-unwichtig — Unterbrechungen, E-Mails, operative Feuerlöscherei — und zu wenig im Quadranten wichtig-aber-nicht-dringend — strategisches Denken, Beziehungspflege, eigene Entwicklung. Die Verschiebung dieser Balance ist einer der höchsten Hebel im Stressmanagement-Coaching.
+Priorisierung: Die klassische Dringend-Wichtig-Matrix — dringend und wichtig, dringend aber unwichtig, wichtig aber nicht dringend, weder wichtig noch dringend — ist ein Werkzeug, das immer noch funktioniert. Die meisten Führungskräfte verbringen zu viel Zeit im Quadranten dringend-aber-unwichtig — Unterbrechungen, E-Mails, operative Feuerlöscherei — und zu wenig im Quadranten wichtig-aber-nicht-dringend — strategisches Denken, Beziehungspflege, eigene Entwicklung. Die Verschiebung dieser Balance ist einer der höchsten Hebel im Stressmanagement-Coaching.
 
 Pausen und Erholung als Führungskultur: Wenn die Führungskraft selbst Pausen macht, Feierabend hat und in den Urlaub geht — ohne erreichbar zu sein —, gibt sie dem Team die Erlaubnis, dasselbe zu tun. Die Führungskraft als Vorbild für gesundes Arbeiten zu positionieren ist nicht nur gut für sie selbst — es verändert die gesamte Teamkultur.`,
           uebung: {
@@ -532,22 +540,23 @@ Das Ziel ist nicht Perfektion — es ist bewusste Annäherung.`,
     },
     {
       id: 'C09-M5',
+      nr: 5,
       titel: 'Holistische Stressmanagement-Ansätze',
       lektionen: [
         {
           id: 'C09-M5-L1',
           titel: 'Körperbasierte Stressregulation',
-          inhalt: `Der Körper ist das am meisten vernachlässigte Stressmanagement-Werkzeug von Führungskräften — die meisten leben vom Hals aufwärts und ignorieren die Signale unterhalb der Nackenlinie, bis der Körper mit Krankheit rebelliert. Körperbasierte Stressregulation holt die Führungskraft zurück in ihren Körper und nutzt die mächtigsten biologischen Regulationsmechanismen.
+          inhalt: `Der Körper ist das am meisten vernachlässigte Stressmanagement-Werkzeug von Führungskräften — die meisten leben vom Hals aufwärts und ignorieren die Signale unterhalb der Nackenlinie, bis der Körper deutlich rebelliert. Körperbasierte Stressregulation holt die Führungskraft zurück in ihren Körper und nutzt die natürlichen Regulationsmechanismen des Organismus.
 
-Bewegung als Stressmedikament: Dreißig Minuten moderate Bewegung senkt den Cortisolspiegel, erhöht die Endorphinproduktion, verbessert den Schlaf und stärkt die emotionale Regulation — wirksamer als die meisten Medikamente und ohne Nebenwirkungen. Für Führungskräfte ist die Integration in den Alltag der Schlüssel: Zu Fuß zum Meeting gehen, Treppen statt Aufzug, Telefonkonferenzen im Gehen führen, die Mittagspause für einen Spaziergang nutzen.
+Bewegung als Stressregulator: Dreißig Minuten moderate Bewegung gelten als förderlich für Stimmung, Schlaf und emotionale Regulation — viele Menschen erleben Bewegung als eines der zuverlässigsten Alltagswerkzeuge gegen Anspannung überhaupt. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Für Führungskräfte ist die Integration in den Alltag der Schlüssel: Zu Fuß zum Meeting gehen, Treppen statt Aufzug, Telefonkonferenzen im Gehen führen, die Mittagspause für einen Spaziergang nutzen.
 
-Progressive Muskelentspannung nach Jacobson: Systematisches Anspannen und Loslassen einzelner Muskelgruppen — fünf Sekunden anspannen, zehn Sekunden loslassen, von den Füßen bis zum Kopf. Zwanzig Minuten für die vollständige Übung, aber auch eine Kurzversion — drei Muskelgruppen in drei Minuten — ist wirksam. Besonders effektiv als Abendritual vor dem Schlafengehen.
+Progressive Muskelentspannung nach dem Anspannung-Loslassen-Prinzip: Systematisches Anspannen und Loslassen einzelner Muskelgruppen — fünf Sekunden anspannen, zehn Sekunden loslassen, von den Füßen bis zum Kopf. Zwanzig Minuten für die vollständige Übung, aber auch eine Kurzversion — drei Muskelgruppen in drei Minuten — wird von vielen als wohltuend erlebt. Besonders geeignet als Abendritual vor dem Schlafengehen.
 
-Die Vagusnerv-Stimulation als tägliche Praxis: Der Vagusnerv ist der Hauptschalter zwischen Stress- und Erholungsmodus. Tägliche Stimulation — durch verlängerte Ausatmung, Summen, kaltes Wasser im Gesicht, Singen, Gurgeln — trainiert die Fähigkeit des Nervensystems, schnell von Stress auf Erholung umzuschalten. Zehn Minuten Vagusnerv-Training pro Tag — morgens oder abends — verbessern die Stressresilienz messbar innerhalb von zwei Wochen.
+Die Vagusnerv-Stimulation als tägliche Praxis: Der Vagusnerv gilt als Hauptschalter zwischen Anspannungs- und Erholungsmodus. Tägliche Impulse — durch verlängerte Ausatmung, Summen, kaltes Wasser im Gesicht, Singen, Gurgeln — trainieren die Fähigkeit des Nervensystems, von Anspannung auf Erholung umzuschalten. Zehn Minuten pro Tag — morgens oder abends — können die Stressresilienz spürbar unterstützen.
 
-Naturkontakt als biologischer Reset: Zwanzig Minuten in der Natur — im Park, im Wald, am Wasser — senken den Cortisolspiegel, senken den Blutdruck, senken die Herzfrequenz und verbessern die Stimmung. Der Effekt ist unabhängig von Bewegung — auch stilles Sitzen in der Natur wirkt. Für Führungskräfte in der Stadt: Der Weg durch den Park statt an der Straße entlang, die Mittagspause auf der Bank unter dem Baum, das Meeting im Garten statt im Konferenzraum.
+Naturkontakt als biologischer Reset: Zwanzig Minuten in der Natur — im Park, im Wald, am Wasser — werden mit weniger Anspannung, ruhigerem Puls und besserer Stimmung in Verbindung gebracht. Der Effekt zeigt sich auch ohne Bewegung — stilles Sitzen in der Natur wirkt für viele bereits. Für Führungskräfte in der Stadt: Der Weg durch den Park statt an der Straße entlang, die Mittagspause auf der Bank unter dem Baum, das Meeting im Garten statt im Konferenzraum.
 
-Schlafoptimierung als oberste Priorität: Schlaf ist die biologische Stressregenerationsbasis — ohne ihn kollabiert alles andere. Die Schlafhygiene-Basics: Feste Schlafenszeit, kühles und dunkles Schlafzimmer, keine Bildschirme eine Stunde vor dem Schlafen, kein Koffein nach fünfzehn Uhr, Abendrituale, die den Übergang signalisieren. Für Führungskräfte mit Einschlafproblemen: den Tag bewusst abschließen — alle offenen Gedanken aufschreiben und das Notizbuch zuklappen.`,
+Schlafoptimierung als oberste Priorität: Schlaf ist die biologische Regenerationsbasis — ohne ihn trägt alles andere nicht. Die Schlafhygiene-Basics: Feste Schlafenszeit, kühles und dunkles Schlafzimmer, keine Bildschirme eine Stunde vor dem Schlafen, kein Koffein nach fünfzehn Uhr, Abendrituale, die den Übergang signalisieren. Für Führungskräfte mit Einschlafproblemen: den Tag bewusst abschließen — alle offenen Gedanken aufschreiben und das Notizbuch zuklappen.`,
           uebung: {
             titel: 'Körperbasierte Tagesroutine',
             anleitung: `Erstelle eine körperbasierte Stressmanagement-Routine:
@@ -580,15 +589,15 @@ Energie: vorher ___/10 → nachher ___/10`,
         {
           id: 'C09-M5-L2',
           titel: 'Emotionale und spirituelle Dimension',
-          inhalt: `Hinter dem Leistungsdruck vieler Führungskräfte liegt eine emotionale und manchmal spirituelle Dimension, die selten angesprochen wird — weil die Unternehmenskultur dafür keinen Raum bietet und weil Führungskräfte selbst oft keinen Zugang zu diesen Ebenen haben. Aber genau hier liegen oft die tiefsten Ursachen des Stresses — und die nachhaltigsten Lösungen.
+          inhalt: `Hinter dem Leistungsdruck vieler Führungskräfte liegt eine emotionale und manchmal spirituelle Dimension, die selten angesprochen wird — weil die Unternehmenskultur dafür keinen Raum bietet und weil Führungskräfte selbst oft keinen Zugang zu diesen Ebenen haben. Aber genau hier liegen oft die tiefsten Quellen des Stresses — und die nachhaltigsten Ansatzpunkte.
 
 Die emotionalen Treiber des Führungsstresses: Das Impostor-Syndrom — das Gefühl, den eigenen Erfolg nicht verdient zu haben und jeden Moment als Hochstapler entlarvt zu werden. Es ist unter Führungskräften erstaunlich weit verbreitet und erzeugt einen permanenten Beweisdruck, der erschöpft. Der innere Antreiber — „Sei perfekt", „Sei stark", „Mach es allen recht", „Beeil dich", „Streng dich an" — verinnerlichte Botschaften aus der Kindheit, die den Erwachsenen immer noch treiben. Die Angst vor Kontrollverlust — die Illusion, alles kontrollieren zu müssen, erzeugt permanente Anspannung. Und die Einsamkeit an der Spitze — das Gefühl, mit niemandem offen über die eigene Überforderung sprechen zu können.
 
-Im Coaching adressierst du diese Ebene behutsam — nicht als Therapie, sondern als Reflexion. „Wessen Stimme ist das, die sagt du musst perfekt sein?" „Was würde passieren, wenn du einmal nicht der Stärkste im Raum wärst?" „Was brauchst du — nicht als Führungskraft, sondern als Mensch?" Diese Fragen öffnen eine Tür, die viele Führungskräfte seit Jahren verschlossen halten.
+Im Coaching adressierst du diese Ebene behutsam — nicht als Therapie, sondern als Reflexion. „Wessen Stimme ist das, die sagt du musst perfekt sein?" „Was würde passieren, wenn du einmal nicht der Stärkste im Raum wärst?" „Was brauchst du — nicht als Führungskraft, sondern als Mensch?" Diese Fragen öffnen eine Tür, die viele Führungskräfte seit Jahren verschlossen halten. Wo dabei tiefe seelische Belastungen sichtbar werden, gehört die weitere Begleitung in psychotherapeutische Hände.
 
 Die spirituelle Dimension — Sinn, Purpose, Werte — ist besonders relevant für Führungskräfte in der Lebensmitte, die trotz äußerem Erfolg eine innere Leere spüren. Die Frage „Wofür?" wird dringender, wenn alle äußeren Ziele erreicht sind — und die Antwort kann nicht mehr mit Geld, Status oder Macht gefüllt werden. Diese existenzielle Suche ist kein Zeichen von Schwäche, sondern von Reife. Im Coaching bietest du den Raum, in dem diese Suche beginnen kann — ohne Druck, ohne Zeitlimit, ohne Agenda.
 
-Die Verbindung zu deinen holistischen Kompetenzen: Energiearbeit, Achtsamkeit, Bewusstseinsarbeit und spirituelles Coaching fließen hier natürlich ein — nicht als esoterisches Programm, sondern als Vertiefung der Selbsterkenntnis. Viele Führungskräfte, die für „Meditation" nicht offen wären, öffnen sich für „Innere Klarheit" oder „Mentale Stärke." Die Sprache ist der Schlüssel — die Substanz ist dieselbe.`,
+Die Verbindung zu deinen ganzheitlichen Kompetenzen: Achtsamkeit, Bewusstseinsarbeit und die Arbeit mit Sinnfragen fließen hier natürlich ein — als Vertiefung der Selbsterkenntnis, transparent benannt und als Deutungsangebot gerahmt, das der Klient annehmen oder verwerfen kann. Wähle eine Sprache, die zur Lebenswelt deines Gegenübers passt — nicht um etwas zu verschleiern, sondern um Zugang zu ermöglichen. Dein Klient soll jederzeit wissen, was ihr tut und warum.`,
           uebung: {
             titel: 'Antreiber-Reflexion',
             anleitung: `Identifiziere deine inneren Antreiber — die verinnerlichten Botschaften, die dich unter Druck setzen:
@@ -624,11 +633,11 @@ Schreibe deinen Erlaubnissatz auf und lies ihn eine Woche lang täglich morgens 
 
 Die Führungskraft als Kulturgestalterin: Jede Führungskraft prägt die Kultur ihres Teams — durch ihr Verhalten mehr als durch ihre Worte. Eine Führungskraft, die um zweiundzwanzig Uhr E-Mails schickt, kommuniziert: „Erreichbarkeit wird erwartet." Eine, die pünktlich Feierabend macht und am Wochenende nicht erreichbar ist, kommuniziert: „Erholung ist erlaubt und erwünscht." Im Coaching hilfst du der Führungskraft, sich dieser Vorbildwirkung bewusst zu werden — und sie aktiv zu nutzen.
 
-Gesunde Meeting-Kultur: Meetings sind der größte Einzelzeitfresser in den meisten Unternehmen — und der größte Energieräuber. Coaching-Intervention: Jedes Meeting braucht ein klares Ziel, eine Agenda und ein definiertes Ende. Meetings standardmäßig auf fünfundvierzig statt sechzig Minuten setzen — die fünfzehn Minuten Puffer ermöglichen Pausen zwischen den Meetings. Steh-Meetings für Kurzabstimmungen. Und die mutige Frage: Welche Meetings können komplett gestrichen werden?
+Gesunde Meeting-Kultur: Meetings sind der größte Einzelzeitfresser in den meisten Unternehmen — und der größte Energieräuber. Coaching-Ansatz: Jedes Meeting braucht ein klares Ziel, eine Agenda und ein definiertes Ende. Meetings standardmäßig auf fünfundvierzig statt sechzig Minuten setzen — die fünfzehn Minuten Puffer ermöglichen Pausen zwischen den Meetings. Steh-Meetings für Kurzabstimmungen. Und die mutige Frage: Welche Meetings können komplett gestrichen werden?
 
-Psychologische Sicherheit im Team: Die Fähigkeit einer Führungskraft, ein Klima zu schaffen, in dem Mitarbeiter Fehler zugeben, Hilfe bitten und abweichende Meinungen äußern können, ist der stärkste Teamleistungsfaktor. Im Coaching arbeitest du mit der Führungskraft an konkreten Verhaltensweisen, die Sicherheit schaffen: Eigene Fehler offen zugeben, Fragen stellen statt Antworten geben, Widerspruch einladen statt unterdrücken.
+Psychologische Sicherheit im Team: Die Fähigkeit einer Führungskraft, ein Klima zu schaffen, in dem Mitarbeiter Fehler zugeben, um Hilfe bitten und abweichende Meinungen äußern können, gilt als einer der stärksten Teamleistungsfaktoren. Im Coaching arbeitest du mit der Führungskraft an konkreten Verhaltensweisen, die Sicherheit schaffen: Eigene Fehler offen zugeben, Fragen stellen statt Antworten geben, Widerspruch einladen statt unterdrücken.
 
-Die Gesundheitskultur als Wettbewerbsvorteil: Unternehmen mit einer gesunden Arbeitskultur haben niedrigere Fluktuation, weniger Krankheitstage, höhere Produktivität und bessere Innovation. Diese Argumentation — Gesundheit als Business-Case — überzeugt Führungskräfte, die mit rein persönlichen Argumenten nicht erreichbar sind.
+Die Gesundheitskultur als Wettbewerbsvorteil: Unternehmen mit einer gesunden Arbeitskultur berichten von niedrigerer Fluktuation, weniger Ausfalltagen, höherer Produktivität und besserer Innovation. Diese Argumentation — gesunde Kultur als Business-Case — überzeugt Führungskräfte, die mit rein persönlichen Argumenten nicht erreichbar sind.
 
 Deine Rolle als Coach geht über die Einzelarbeit hinaus: Du kannst Workshops für Führungsteams anbieten, Impulsvorträge halten, Team-Coaching-Formate entwickeln und Unternehmen bei der Gestaltung einer gesünderen Arbeitskultur beraten. Diese systemische Perspektive macht dein Angebot für Unternehmen wertvoller — und nachhaltiger.`,
           uebung: {
@@ -661,22 +670,23 @@ Diesen Impuls kannst du als Coaching-Ergebnis mit deiner Führungskraft gemeinsa
     },
     {
       id: 'C09-M6',
+      nr: 6,
       titel: 'Professionalisierung und Markt',
       lektionen: [
         {
           id: 'C09-M6-L1',
           titel: 'Positionierung im Führungskräfte-Markt',
-          inhalt: `Der Markt für Führungskräfte-Coaching ist lukrativ, wachsend und anspruchsvoll. Führungskräfte und Unternehmen investieren in professionelle Begleitung — aber sie erwarten Qualität, Kompetenz und Ergebnisse. Deine Positionierung muss Professionalität ausstrahlen und gleichzeitig dein holistisches Alleinstellungsmerkmal sichtbar machen.
+          inhalt: `Der Markt für Führungskräfte-Coaching ist lukrativ, wachsend und anspruchsvoll. Führungskräfte und Unternehmen investieren in professionelle Begleitung — aber sie erwarten Qualität, Kompetenz und Ergebnisse. Deine Positionierung muss Professionalität ausstrahlen und gleichzeitig dein ganzheitliches Alleinstellungsmerkmal sichtbar machen.
 
-Dein Alleinstellungsmerkmal: Du bist nicht nur Stressmanagement-Coach — du bist holistischer Coach mit Tiefgang. Du adressierst nicht nur Symptome — du arbeitest mit den Ursachen. Du bietest nicht nur Atemtechniken — du bietest eine Integration von Körper, Geist und Seele, die konventionelle Coaching-Ansätze nicht bieten. Dieses Alleinstellungsmerkmal positioniert dich oberhalb des Standard-Coaching-Marktes — im Premiumsegment, wo Führungskräfte bereit sind, mehr zu investieren, wenn die Qualität stimmt.
+Dein Alleinstellungsmerkmal: Du bist nicht nur Stressmanagement-Coach — du bist ganzheitlicher Coach mit Tiefgang. Du adressierst nicht nur Symptome des Alltags — du arbeitest mit den dahinterliegenden Mustern. Du bietest nicht nur Atemtechniken — du bietest eine Integration von Körper, Geist und Sinnebene, die konventionelle Coaching-Ansätze selten bieten. Dieses Alleinstellungsmerkmal positioniert dich oberhalb des Standard-Coaching-Marktes — im Premiumsegment, wo Führungskräfte bereit sind, mehr zu investieren, wenn die Qualität stimmt.
 
-Die Sprache für den Führungskräfte-Markt: Verwende Business-kompatible Begriffe: Performance-Coaching, Executive Resilience, Mental Fitness, Leadership Sustainability. Vermeide Begriffe, die im Unternehmenskontext Widerstand erzeugen: Esoterik, Spiritualität, Heilung, Energiearbeit. Die Substanz deiner Arbeit kann identisch sein — die Verpackung muss zum Empfänger passen.
+Die Sprache für den Führungskräfte-Markt: Verwende Begriffe, die im Unternehmenskontext anschlussfähig sind — Performance-Coaching, Executive Resilience, Mental Fitness, Leadership Sustainability. Und bleib dabei transparent: Dein Angebot muss halten, was seine Sprache verspricht, und dein Klient soll jederzeit wissen, was er bekommt. Zielgruppengerechte Kommunikation ist Übersetzung, nicht Verschleierung.
 
 Dein Angebot: Einzelcoaching als Kernangebot — zehn Sitzungen über sechs Monate als Standardpaket. Ergänzend: Führungsteam-Workshops — Stressmanagement, Resilienz, gesunde Führung — als halbtägige oder ganztägige Formate. Impulsvorträge für Unternehmensveranstaltungen. Und Online-Formate für Klienten mit wenig Zeit — Videocoaching, kurze Check-ins zwischen den Sitzungen.
 
-Der Zugang zum Markt: Über persönliche Netzwerke — jede zufriedene Führungskraft empfiehlt dich weiter. Über HR-Abteilungen — Personalverantwortliche suchen externe Coaches für ihre Führungskräfte. Über Unternehmensberater — die dich als Coach empfehlen, wenn ihre Klienten persönliche Unterstützung brauchen. Und über eine professionelle Online-Präsenz — LinkedIn-Profil, eine klare Webseite, gelegentliche Fachbeiträge, die deine Kompetenz zeigen.
+Der Zugang zum Markt: Über persönliche Netzwerke — jede zufriedene Führungskraft empfiehlt dich weiter. Über HR-Abteilungen — Personalverantwortliche suchen externe Coaches für ihre Führungskräfte. Über Unternehmensberater — die dich als Coach empfehlen, wenn ihre Klienten persönliche Unterstützung brauchen. Und über eine professionelle Online-Präsenz — Business-Netzwerk-Profil, eine klare Webseite, gelegentliche Fachbeiträge, die deine Kompetenz zeigen.
 
-Die Preisgestaltung im Führungskräfte-Segment: Führungskräfte-Coaching positioniert sich preislich oberhalb von Life-Coaching und Gesundheitscoaching. Recherchiere die marktüblichen Preise in deiner Region und positioniere dich bewusst — nicht am unteren Rand, denn das signalisiert mangelnde Erfahrung. Dein Preis ist ein Signal für deinen Wert — und Führungskräfte sind gewohnt, für Qualität zu zahlen.`,
+Die Preisgestaltung im Führungskräfte-Segment: Führungskräfte-Coaching positioniert sich preislich oberhalb von Life-Coaching und allgemeinem Wohlfühl-Coaching. Recherchiere die marktüblichen Preise in deiner Region und positioniere dich bewusst — nicht am unteren Rand, denn das signalisiert mangelnde Erfahrung. Dein Preis ist ein Signal für deinen Wert — und Führungskräfte sind gewohnt, für Qualität zu zahlen.`,
           uebung: {
             titel: 'Positionierungs-Konzept',
             anleitung: `Erstelle dein Positionierungs-Konzept für den Führungskräfte-Markt:
@@ -711,15 +721,15 @@ ___`,
         {
           id: 'C09-M6-L2',
           titel: 'Eigenes Stressmanagement als Coach',
-          inhalt: `Die ironischste Gefahr im Stressmanagement-Coaching: Selbst ausbrennen, während du andere vor dem Burnout bewahrst. Die Arbeit mit gestressten, unter Druck stehenden Führungskräften ist selbst stressig — die emotionale Belastung der Sitzungen, die organisatorischen Anforderungen des Praxisbetriebs und der Druck, als Coach selbst ein Vorbild für Stressmanagement zu sein.
+          inhalt: `Die ironischste Gefahr im Stressmanagement-Coaching: Selbst auszubrennen, während du andere beim Umgang mit ihrer Belastung begleitest. Die Arbeit mit gestressten, unter Druck stehenden Führungskräften ist selbst fordernd — die emotionale Dichte der Sitzungen, die organisatorischen Anforderungen des Praxisbetriebs und der Anspruch, als Coach selbst ein Vorbild für Stressmanagement zu sein.
 
 Deine eigene Stressmanagement-Praxis ist dein Fundament: Wende alles an, was du lehrst. Tägliche Meditation, regelmäßige Bewegung, ausreichend Schlaf, bewusste Ernährung, klare Grenzen. Nicht perfekt — konsequent. Ein Coach, der seine eigenen Werkzeuge nutzt, hat eine andere Ausstrahlung als einer, der sie nur kennt.
 
 Die Begrenzung der Sitzungszahl: Nicht mehr als vier bis fünf intensive Sitzungen pro Tag. Pausen zwischen den Sitzungen — mindestens fünfzehn Minuten, idealerweise dreißig. Eine Sitzung weniger als möglich ist besser als eine Sitzung zu viel.
 
-Die Supervision: Regelmäßige Supervision — mindestens monatlich — ist für Coaches, die mit hochbelasteten Klienten arbeiten, nicht optional. Die Supervision gibt dir einen Raum, in dem du über deine eigene Belastung sprechen kannst, blinde Flecken erkennst und neue Perspektiven gewinnst.
+Die Supervision: Regelmäßiger fachlicher Austausch — mindestens monatlich — ist für Coaches, die mit hochbelasteten Klienten arbeiten, nicht optional. Die Supervision gibt dir einen Raum, in dem du über deine eigene Belastung sprechen kannst, blinde Flecken erkennst und neue Perspektiven gewinnst. Sie schützt auch deine Klienten: Ein Coach, der die eigene Arbeit regelmäßig reflektiert, erkennt früher, wo sich Überengagement, Grenzverschiebungen oder festgefahrene Muster in die Begleitung einschleichen — und kann gegensteuern, bevor die Qualität leidet.
 
-Die Trennung zwischen Arbeit und Privatleben: Praktiziere, was du predigst. Feste Feierabendzeiten, freie Wochenenden, Urlaube ohne Erreichbarkeit. Wenn du diese Grenzen nicht einhältst, wirst du weder glaubwürdig noch langfristig leistungsfähig sein.
+Die Trennung zwischen Arbeit und Privatleben: Praktiziere, was du vermittelst. Feste Feierabendzeiten, freie Wochenenden, Urlaube ohne Erreichbarkeit. Wenn du diese Grenzen nicht einhältst, wirst du weder glaubwürdig noch langfristig leistungsfähig sein.
 
 Die persönliche Weiterentwicklung: Bilde dich weiter — in Coaching-Methoden, in Stressforschung, in angrenzenden Bereichen. Besuche Retreats, nicht nur als Anbieter, sondern als Teilnehmer. Lies, reflektiere, wachse. Die beste Investition in dein Business ist die Investition in dich selbst.`,
           uebung: {
@@ -754,15 +764,15 @@ Was ist der eine Punkt, den ich ab morgen verbessere? ___`,
         {
           id: 'C09-M6-L3',
           titel: 'Dein Weg als Stressmanagement-Coach',
-          inhalt: `Du hast die Grundlagen des Stressmanagement-Coachings für Führungskräfte gelernt — die Stresslandschaft der Führungskraft, die wissenschaftlichen Modelle, die Sofort-Werkzeuge, die nachhaltigen Strategien, die Coaching-Praxis und die holistische Vertiefung. Du hast ein Werkzeug in der Hand, das in der heutigen Arbeitswelt dringend gebraucht wird.
+          inhalt: `Du hast die Grundlagen des Stressmanagement-Coachings für Führungskräfte kennengelernt — die Stresslandschaft der Führungskraft, die hilfreichen Modelle, die Sofort-Werkzeuge, die nachhaltigen Strategien, die Coaching-Praxis und die ganzheitliche Vertiefung. Du hast ein Werkzeug in der Hand, das in der heutigen Arbeitswelt dringend gebraucht wird.
 
-Das Besondere an deinem Ansatz: Du arbeitest nicht nur mit der Oberfläche — du gehst tiefer. Du siehst hinter den Stresssymptomen die emotionalen Muster, hinter den Zeitproblemen die Werte-Konflikte, hinter dem Burnout die Sinnfrage. Diese Tiefe unterscheidet dich von Standard-Stressmanagement-Trainern und macht dich wertvoll für Führungskräfte, die mehr suchen als Zeitmanagement-Tipps.
+Das Besondere an deinem Ansatz: Du arbeitest nicht nur mit der Oberfläche — du gehst tiefer. Du siehst hinter den Stresssignalen die emotionalen Muster, hinter den Zeitproblemen die Werte-Konflikte, hinter der Erschöpfung die Sinnfrage. Diese Tiefe unterscheidet dich von Standard-Stressmanagement-Trainern und macht dich wertvoll für Führungskräfte, die mehr suchen als Zeitmanagement-Tipps.
 
-Die Wirkung deiner Arbeit: Wenn du einer Führungskraft hilfst, ihren Stress zu managen, hilfst du nicht nur einem Menschen — du beeinflusst ein ganzes System. Eine resiliente, gelassene, klar denkende Führungskraft schafft ein gesünderes Team, trifft bessere Entscheidungen und trägt zu einer humaneren Arbeitskultur bei. Deine Arbeit hat Hebelwirkung — sie multipliziert sich über die Führungskraft in das gesamte Unternehmen.
+Die Wirkung deiner Arbeit: Wenn du eine Führungskraft im Umgang mit ihrem Stress begleitest, begleitest du nicht nur einen Menschen — du beeinflusst ein ganzes System. Eine resiliente, gelassene, klar denkende Führungskraft schafft ein gesünderes Team, trifft bessere Entscheidungen und trägt zu einer humaneren Arbeitskultur bei. Deine Arbeit hat Hebelwirkung — sie multipliziert sich über die Führungskraft in das gesamte Unternehmen.
 
 Dein nächster Schritt: Beginne bei dir — wende die Werkzeuge an, lebe die Praxis, erfahre die Wirkung. Dann biete es an — zuerst im eigenen Netzwerk, dann breiter. Jede zufriedene Führungskraft öffnet Türen zu weiteren. Der Markt ist da — die Frage ist nicht, ob dein Angebot gebraucht wird, sondern wie schnell du es aufbauen kannst.
 
-Die Welt braucht Führungskräfte, die nicht nur leisten, sondern auch leben. Die nicht nur funktionieren, sondern auch fühlen. Die nicht nur entscheiden, sondern auch inne halten. Deine Aufgabe als Coach ist es, diese Balance möglich zu machen — eine Führungskraft, eine Sitzung, einen bewussten Atemzug nach dem anderen.
+Die Welt braucht Führungskräfte, die nicht nur leisten, sondern auch leben. Die nicht nur funktionieren, sondern auch fühlen. Die nicht nur entscheiden, sondern auch innehalten. Deine Aufgabe als Coach ist es, diese Balance möglich zu machen — eine Führungskraft, eine Sitzung, einen bewussten Atemzug nach dem anderen.
 
 Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
           uebung: {

@@ -35,3 +35,5 @@ nachpruef_rest.txt
 scan_*.txt
 p02_volltext.txt
 *_volltext.txt
+kursdetail_export.txt
+quiz_schema_check.txt

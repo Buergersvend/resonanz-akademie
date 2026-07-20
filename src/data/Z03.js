@@ -866,6 +866,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Welches Modell empfiehlt der Kurs den meisten ganzheitlich Tätigen?',
+      antworten: [
+        'Ausschließlich digitale Arbeit ohne jede Präsenz',
+        'Das hybride Modell — lokale Präsenz und digitale Reichweite kombiniert',
+        'Nur Präsenzarbeit ohne digitale Erweiterung',
+        'Ausschließlich automatisierte Online-Kurse',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was ist die Kernbotschaft zur Preisgestaltung?',
+      antworten: [
+        'Möglichst niedrige Preise signalisieren Großzügigkeit',
+        'Ein angemessener, fairer Preis schafft Respekt, Commitment und Tragfähigkeit',
+        'Der Preis sollte sich nur an den Erstellungskosten orientieren',
+        'Ermäßigungen sollten die Regel sein',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Warum ist eine eigene E-Mail-Liste laut Kurs besonders wertvoll?',
+      antworten: [
+        'Weil Follower auf Social Media zuverlässiger sind',
+        'Weil du die Liste selbst besitzt — unabhängig von Plattform-Algorithmen',
+        'Weil E-Mail-Marketing keinerlei rechtliche Anforderungen hat',
+        'Weil eine große Followerzahl automatisch mehr Klienten bringt',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche Haltung empfiehlt der Kurs für den Start („sanfter Launch")?',
+      antworten: [
+        'Erst starten, wenn alles perfekt ist',
+        'Mit dem funktionierenden Minimum starten und anhand echten Feedbacks verbessern',
+        'Möglichst viele Kanäle gleichzeitig perfekt aufbauen',
+        'Warten, bis die Webseite vollständig ausgereift ist',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie grenzt der Kurs die ganzheitliche Begleitung berufsrechtlich ab?',
+      antworten: [
+        'Sie darf Krankheiten diagnostizieren und behandeln',
+        'Sie arbeitet in Prävention, Persönlichkeitsentwicklung und Lebensgestaltung — keine Diagnose, keine Behandlung; bei gesundheitlichen Beschwerden Verweis an Arzt, Heilpraktiker oder Therapeut',
+        'Sie ersetzt die medizinische Versorgung',
+        'Sie benötigt keinerlei Abgrenzung',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Worauf ist bei der Nutzung von Testimonials laut Kurs zu achten?',
+      antworten: [
+        'Sie dürfen erfunden werden, solange sie überzeugend klingen',
+        'Sie müssen echt sein, mit ausdrücklicher Erlaubnis verwendet werden und dürfen keine Heil- oder Wirkversprechen enthalten',
+        'Sie sollten möglichst starke Heilwirkungen versprechen',
+        'Eine Erlaubnis der Klienten ist nicht nötig',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default Z03;

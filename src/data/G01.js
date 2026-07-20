@@ -678,6 +678,68 @@ Vergleiche. Staune. Und dann: Weiter üben.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Was ist der Kern von Meditation laut diesem Kurs?',
+      antworten: [
+        'Den Geist vollständig leer machen',
+        'Bewusstes Üben von Aufmerksamkeit',
+        'Stundenlanges Sitzen im Lotussitz',
+        'Ein religiöses Ritual befolgen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Meditation ersetzt bei ernsthaften seelischen oder körperlichen Beschwerden eine ärztliche oder therapeutische Abklärung.',
+      antworten: [
+        'Richtig — sie wirkt genauso wie Medikamente',
+        'Falsch — bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Richtig, sofern man täglich übt',
+        'Nur bei chronischen Schmerzen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was bedeutet das Bild vom „Ufer eines Flusses"?',
+      antworten: [
+        'Meditation nur in der Natur praktizieren',
+        'Gedanken wahrnehmen, ohne sich von ihnen mitreißen zu lassen',
+        'Jeden interessanten Gedanken festhalten',
+        'Den Gedankenfluss mit Willenskraft stoppen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was besagt die „Niemals-Null-Regel" für den Aufbau einer täglichen Praxis?',
+      antworten: [
+        'Nie unter 20 Minuten meditieren',
+        'An schwierigen Tagen mindestens eine Minute, damit die Kette nicht reißt',
+        'Niemals einen Tag auslassen, sonst beginnt man von vorn',
+        'Immer zur exakt gleichen Uhrzeit üben',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche Meditationsform wird im Kurs besonders für einen unruhigen, bewegungsbedürftigen Geist empfohlen?',
+      antworten: [
+        'Der Body Scan im Liegen',
+        'Die Gehmeditation',
+        'Möglichst langes reglos Sitzen',
+        'Vollständiger Verzicht auf Meditation',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie sind die im Kurs genannten Forschungshinweise (z. B. zu Stress oder Stimmung) einzuordnen?',
+      antworten: [
+        'Als Heilversprechen für bestimmte Erkrankungen',
+        'Als allgemeine Orientierung — ein Kurs stellt keine Diagnosen und ersetzt keine medizinische Behandlung',
+        'Als Garantie für messbare Ergebnisse nach acht Wochen',
+        'Als Ersatz für ärztlichen Rat bei Beschwerden',
+      ],
+      richtig: 1,
+    },
+  ],
 }
 
 export default G01

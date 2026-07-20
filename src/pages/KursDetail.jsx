@@ -15,6 +15,7 @@ import {
   isKursComplete,
 } from '../config/progress'
 import AppShell from '../components/AppShell'
+import QuizSection from '../components/QuizSection'
 
 export default function KursDetail() {
   const { kursId } = useParams()
@@ -233,6 +234,11 @@ export default function KursDetail() {
             })}
           </div>
         </div>
+
+        {/* Selbsttest (nur wenn Quiz-Daten vorhanden — freiwillig, ohne Kopplung an Abschluss) */}
+        {kurs.quiz && kurs.quiz.length > 0 && (
+          <QuizSection quiz={kurs.quiz} />
+        )}
 
         {/* Kurs-Abschluss */}
         {kursCompleted && (

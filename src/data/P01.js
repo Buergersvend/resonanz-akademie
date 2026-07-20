@@ -13,7 +13,7 @@ const P01 = {
   preis: 'Kostenlos',
   originalPreis: '299 €',
   status: 'coming',
-  desc: 'Der umfassendste EFT-Kurs der Resonanz Akademie. Du lernst die Klopfakupressur von Grund auf — von der ersten Klopfrunde bis zur professionellen Sitzungsführung mit Klienten. 10 Module führen dich durch Theorie, Praxis, fortgeschrittene Protokolle, Belief-Arbeit, Trauma-Techniken und den Aufbau deiner eigenen EFT-Praxis. Jede Lektion enthält praktische Übungen, die du sofort anwenden kannst.',
+  desc: 'Der umfassendste EFT-Kurs der Lernwelt. Du lernst die Klopfakupressur von Grund auf — von der ersten Klopfrunde bis zur professionellen Sitzungsführung mit Klienten. 10 Module führen dich durch Theorie, Praxis, fortgeschrittene Protokolle, Belief-Arbeit, Trauma-Techniken und den Aufbau deiner eigenen EFT-Praxis. Jede Lektion enthält praktische Übungen, die du sofort anwenden kannst.',
   module: [
     // ──────────────────────────────────────────────
     // MODUL 1 — Was ist EFT?

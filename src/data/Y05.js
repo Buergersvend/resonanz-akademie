@@ -333,7 +333,69 @@ Und damit: Danke, dass du diesen Weg gegangen bist. Du hast zwei reiche Deutungs
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Wie werden Human Design und Numerologie in diesem Kurs eingeordnet?',
+      antworten: [
+        'Als wissenschaftlich belegte Tatsachensysteme',
+        'Als symbolische Landkarten und Deutungsangebote für die Selbstreflexion — keine bewiesenen Tatsachenaussagen',
+        'Als medizinische Diagnosewerkzeuge',
+        'Als Verfahren zur Vorhersage der Zukunft',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wozu dient die Synthese beider Systeme in diesem Kurs?',
+      antworten: [
+        'Zur Beurteilung und Typisierung anderer Menschen',
+        'Ausschließlich zur eigenen Selbsterfahrung und Selbstreflexion',
+        'Zur Diagnose von Persönlichkeitsstörungen',
+        'Als verbindliches Urteil über den eigenen Lebensweg',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche Instanz hat laut Kurs immer das letzte Wort?',
+      antworten: [
+        'Die Zahl bzw. das Chart — sie legen fest, wer du bist',
+        'Dein eigenes Erleben und Überprüfen — die Deutung wird am Erleben gemessen, nie umgekehrt',
+        'Die Meinung des Kursleiters',
+        'Die numerologische Tagesqualität',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie sollst du mit dem Chart oder den Zahlen eines anderen Menschen umgehen?',
+      antworten: [
+        'Ihm seine Muster als feststehende Diagnose mitteilen',
+        'Entdeckungen nur als Einladung und Frage teilen und jedes Nein respektieren',
+        'Andere ungefragt nach Typen sortieren',
+        'Seine Zahlen als Etikett verwenden',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was gehört zu einem reifen Umgang mit dieser Selbsterfahrungsarbeit?',
+      antworten: [
+        'Deutungen bei anhaltenden Beschwerden über fachliche Hilfe zu stellen',
+        'Zu erkennen, dass Selbsterfahrung keine fachliche Hilfe ersetzt — bei gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Körperliche Symptome ausschließlich über das Chart zu deuten',
+        'Jede Krise allein mit der Synthese-Landkarte zu lösen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Woran erkennt man laut Kurs, dass die Selbsterfahrung lebendig und gesund bleibt?',
+      antworten: [
+        'Sie macht dich starrer und liefert feste Regeln für jede Situation',
+        'Sie macht dich weicher und verständnisvoller — die Landkarte dient dem Wanderer, nie umgekehrt',
+        'Sie ersetzt nach und nach dein eigenes Urteil',
+        'Sie schreibt dir vor, welche Entscheidungen du treffen musst',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default Y05;

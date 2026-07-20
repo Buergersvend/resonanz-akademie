@@ -2,25 +2,26 @@ const P12 = {
   id: 'P12',
   titel: 'Emotionale Intelligenz',
   bereich: 'psyche',
-  beschreibung: 'Entwickle deine emotionale Intelligenz auf allen fünf Ebenen — Selbstwahrnehmung, Selbstregulation, Motivation, Empathie und soziale Kompetenz. Diese Ausbildung verbindet wissenschaftliche Grundlagen mit praktischen Werkzeugen für dein persönliches Wachstum und deine professionelle Beratungsarbeit.',
+  beschreibung: 'Entwickle deine emotionale Intelligenz auf allen fünf Ebenen — Selbstwahrnehmung, Selbstregulation, Motivation, Empathie und soziale Kompetenz. Dieser Kurs verbindet wissenschaftliche Grundlagen mit praktischen Werkzeugen für dein persönliches Wachstum und deine begleitende Arbeit mit Menschen.',
   status: 'live',
   module: [
     {
       id: 'P12-M1',
+      nr: 1,
       titel: 'Grundlagen der Emotionalen Intelligenz',
       lektionen: [
         {
           id: 'P12-M1-L1',
           titel: 'Was ist Emotionale Intelligenz?',
-          inhalt: `Emotionale Intelligenz — EQ — ist die Fähigkeit, eigene und fremde Emotionen wahrzunehmen, zu verstehen, zu regulieren und konstruktiv einzusetzen. Der Begriff wurde durch Daniel Goleman populär, der in den neunziger Jahren zeigte, dass emotionale Kompetenzen für Lebenserfolg, Beziehungsqualität und Führungsfähigkeit mindestens ebenso wichtig sind wie kognitive Intelligenz — wenn nicht wichtiger.
+          inhalt: `Emotionale Intelligenz — EQ — ist die Fähigkeit, eigene und fremde Emotionen wahrzunehmen, zu verstehen, zu regulieren und konstruktiv einzusetzen. Der Begriff wurde in den neunziger Jahren populär, als die Forschung zeigte, dass emotionale Kompetenzen für Lebenserfolg, Beziehungsqualität und Führungsfähigkeit mindestens ebenso wichtig sind wie kognitive Intelligenz — wenn nicht wichtiger.
 
-Das Fünf-Komponenten-Modell nach Goleman beschreibt die fünf Kernkompetenzen der emotionalen Intelligenz: Selbstwahrnehmung — die Fähigkeit, eigene Emotionen in Echtzeit zu erkennen und zu benennen. Selbstregulation — die Fähigkeit, Impulse zu steuern und emotionale Zustände bewusst zu beeinflussen. Motivation — die Fähigkeit, sich selbst anzutreiben und auch bei Rückschlägen am Ball zu bleiben. Empathie — die Fähigkeit, die Emotionen anderer wahrzunehmen und nachzuempfinden. Und soziale Kompetenz — die Fähigkeit, Beziehungen zu gestalten, Konflikte zu lösen und andere zu inspirieren.
+Das Fünf-Komponenten-Modell der emotionalen Intelligenz beschreibt die fünf Kernkompetenzen: Selbstwahrnehmung — die Fähigkeit, eigene Emotionen in Echtzeit zu erkennen und zu benennen. Selbstregulation — die Fähigkeit, Impulse zu steuern und emotionale Zustände bewusst zu beeinflussen. Motivation — die Fähigkeit, sich selbst anzutreiben und auch bei Rückschlägen am Ball zu bleiben. Empathie — die Fähigkeit, die Emotionen anderer wahrzunehmen und nachzuempfinden. Und soziale Kompetenz — die Fähigkeit, Beziehungen zu gestalten, Konflikte zu lösen und andere zu inspirieren.
 
 Der entscheidende Unterschied zwischen IQ und EQ: Der IQ ist weitgehend stabil — er verändert sich im Erwachsenenalter kaum. Der EQ hingegen ist trainierbar — er kann in jedem Lebensalter entwickelt und verfeinert werden. Das macht emotionale Intelligenz zum demokratischsten aller Erfolgsfaktoren: Jeder Mensch kann daran arbeiten, unabhängig von seiner Ausgangslage.
 
-Die Forschung belegt die Bedeutung des EQ in beeindruckender Breite. Menschen mit hoher emotionaler Intelligenz haben stabilere Beziehungen, sind beruflich erfolgreicher, leiden seltener unter psychischen Erkrankungen, haben eine höhere Lebenszufriedenheit und leben im Durchschnitt sogar länger. In Führungspositionen ist der EQ der stärkste Einzelprädiktor für Effektivität — stärker als Fachwissen, Erfahrung oder IQ.
+Die Forschung unterstreicht die Bedeutung des EQ in beeindruckender Breite. Menschen mit hoher emotionaler Intelligenz berichten von stabileren Beziehungen, größerem beruflichem Erfolg und höherer Lebenszufriedenheit und gelten als widerstandsfähiger gegenüber seelischen Belastungen. In Führungspositionen gilt der EQ als einer der stärksten Prädiktoren für Effektivität — oft stärker als Fachwissen, Erfahrung oder IQ. Und zugleich bleibt die Grenze klar: EQ-Arbeit ist Persönlichkeitsentwicklung, keine Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-Für deine Praxis als holistische Beraterin ist emotionale Intelligenz doppelt relevant: als persönliche Kompetenz, die deine therapeutische Wirksamkeit bestimmt, und als Lehrinhalt, den du an deine Klienten weitergeben kannst. Ein emotional intelligenter Therapeut schafft einen sicheren Raum, liest seine Klienten präziser und reguliert seine eigenen Reaktionen souveräner. Und ein Klient, der seine emotionale Intelligenz entwickelt, braucht langfristig weniger therapeutische Unterstützung — er wird sein eigener bester Begleiter.`,
+Für deine Praxis als ganzheitliche Begleiterin ist emotionale Intelligenz doppelt relevant: als persönliche Kompetenz, die die Wirksamkeit deiner Begleitung bestimmt, und als Lehrinhalt, den du an deine Klienten weitergeben kannst. Eine emotional intelligente Begleiterin schafft einen sicheren Raum, liest ihre Klienten präziser und reguliert die eigenen Reaktionen souveräner. Und ein Klient, der seine emotionale Intelligenz entwickelt, braucht langfristig weniger äußere Unterstützung — er wird sein eigener bester Begleiter.`,
           uebung: {
             titel: 'EQ-Selbsteinschätzung',
             anleitung: `Bewerte dich ehrlich in den fünf Kernkompetenzen:
@@ -56,11 +57,11 @@ Diese Kompetenz wird dein Hauptfokus in diesem Kurs. Bewahre die Einschätzung a
 
 Die Amygdala — die Mandelkerne im Zentrum des Gehirns — sind die Feuermelder des emotionalen Systems. Sie scannen jede eingehende Information auf mögliche Bedrohung — blitzschnell, unbewusst und mit einer Geschwindigkeit, die dem bewussten Denken weit voraus ist. Wenn die Amygdala Gefahr erkennt — und sie irrt sich lieber einmal zu viel als einmal zu wenig —, löst sie die Kampf-oder-Flucht-Reaktion aus: Herzfrequenz steigt, Muskeln spannen sich an, Adrenalin und Cortisol fluten den Körper. Das passiert in Millisekunden — lange bevor der rationale Verstand die Situation analysiert hat.
 
-Daniel Goleman nannte dieses Phänomen den Amygdala-Hijack — die emotionale Entführung. In einem Moment bist du ruhig und besonnen, im nächsten explodierst du vor Wut, erstarrst vor Angst oder brichst in Tränen aus. Das ist kein Charakterfehler — es ist die Amygdala, die das Kommando übernommen hat. Der präfrontale Cortex — der rationale, planende, abwägende Teil des Gehirns — braucht mehrere Sekunden, um die Amygdala einzuholen und die Reaktion zu moderieren. In diesen Sekunden geschieht der Schaden — die Worte, die du nicht zurücknehmen kannst, die Entscheidungen, die du bereust.
+Dieses Phänomen wird als Amygdala-Hijack bezeichnet — die emotionale Entführung. In einem Moment bist du ruhig und besonnen, im nächsten explodierst du vor Wut, erstarrst vor Angst oder brichst in Tränen aus. Das ist kein Charakterfehler — es ist die Amygdala, die das Kommando übernommen hat. Der präfrontale Cortex — der rationale, planende, abwägende Teil des Gehirns — braucht mehrere Sekunden, um die Amygdala einzuholen und die Reaktion zu moderieren. In diesen Sekunden geschieht der Schaden — die Worte, die du nicht zurücknehmen kannst, die Entscheidungen, die du bereust.
 
 Emotionale Intelligenz auf neurologischer Ebene bedeutet: Die Verbindung zwischen dem präfrontalen Cortex und der Amygdala stärken. Je stärker diese Verbindung, desto schneller kann der rationale Verstand die emotionale Reaktion moderieren — nicht unterdrücken, sondern moderieren. Der Raum zwischen Reiz und Reaktion wird größer. Und in diesem Raum liegt die Freiheit der Wahl.
 
-Neuroplastizität — die Fähigkeit des Gehirns, sich durch Erfahrung und Training umzustrukturieren — ist die neurologische Grundlage für die Trainierbarkeit des EQ. Jedes Mal, wenn du eine Emotion bewusst wahrnimmst, statt automatisch zu reagieren, stärkst du die neuronale Verbindung zwischen präfrontalem Cortex und Amygdala. Jedes Mal, wenn du einen Impuls beobachtest, statt ihm zu folgen, wird der Muskel der Selbstregulation stärker. Meditation, Achtsamkeit und bewusstes Emotionstraining verändern die Gehirnstruktur messbar — sichtbar in bildgebenden Verfahren nach wenigen Wochen regelmäßiger Praxis.`,
+Neuroplastizität — die Fähigkeit des Gehirns, sich durch Erfahrung und Training umzustrukturieren — ist die neurologische Grundlage für die Trainierbarkeit des EQ. Jedes Mal, wenn du eine Emotion bewusst wahrnimmst, statt automatisch zu reagieren, stärkst du die neuronale Verbindung zwischen präfrontalem Cortex und Amygdala. Jedes Mal, wenn du einen Impuls beobachtest, statt ihm zu folgen, wird der Muskel der Selbstregulation stärker. Studien mit bildgebenden Verfahren deuten darauf hin, dass Meditation, Achtsamkeit und bewusstes Emotionstraining die Gehirnstruktur über Wochen regelmäßiger Praxis verändern können.`,
           uebung: {
             titel: 'Amygdala-Hijack erkennen',
             anleitung: `Erinnere dich an eine Situation in den letzten Wochen, in der du emotional überreagiert hast — Wut, Angst, Tränen, Erstarrung — und es hinterher bereut hast.
@@ -86,15 +87,15 @@ Diese drei Sekunden — der Raum zwischen Reiz und Reaktion — sind das Ziel de
         {
           id: 'P12-M1-L3',
           titel: 'Die emotionale Grundausstattung',
-          inhalt: `Der Mensch kommt mit einer emotionalen Grundausstattung zur Welt — universelle Basisemotionen, die in jeder Kultur, in jedem Zeitalter und in jeder Gesellschaft identifiziert werden können. Paul Ekman identifizierte sechs — Freude, Trauer, Wut, Angst, Ekel und Überraschung. Spätere Forscher erweiterten die Liste um Verachtung, Scham, Schuld, Stolz und weitere. Die genaue Anzahl ist umstritten, das Prinzip nicht: Es gibt ein universelles emotionales Alphabet, aus dem sich alle komplexeren Gefühle zusammensetzen.
+          inhalt: `Der Mensch kommt mit einer emotionalen Grundausstattung zur Welt — universelle Basisemotionen, die in jeder Kultur, in jedem Zeitalter und in jeder Gesellschaft identifiziert werden können. Die klassische Emotionsforschung identifizierte sechs — Freude, Trauer, Wut, Angst, Ekel und Überraschung. Spätere Arbeiten erweiterten die Liste um Verachtung, Scham, Schuld, Stolz und weitere. Die genaue Anzahl ist umstritten, das Prinzip nicht: Es gibt ein universelles emotionales Alphabet, aus dem sich alle komplexeren Gefühle zusammensetzen.
 
 Jede Basisemotion hat eine biologische Funktion. Angst schützt vor Gefahr — sie mobilisiert Flucht oder Erstarrung. Wut schützt Grenzen — sie mobilisiert Kampf und Durchsetzung. Trauer verarbeitet Verlust — sie mobilisiert Rückzug und Regeneration. Ekel schützt vor Vergiftung — er mobilisiert Ablehnung und Abwendung. Freude signalisiert Stimmigkeit — sie mobilisiert Annäherung und Wiederholung. Überraschung richtet die Aufmerksamkeit auf Neues — sie mobilisiert Orientierung und Bewertung.
 
 Emotionale Intelligenz bedeutet nicht, bestimmte Emotionen zu haben und andere nicht — sie bedeutet, alle Emotionen als Informationsquelle zu nutzen und bewusst zu wählen, wie man auf sie reagiert. Wut ist nicht das Problem — unkontrollierte Wut ist das Problem. Angst ist nicht das Problem — Angst, die dich lähmt, ist das Problem. Trauer ist nicht das Problem — Trauer, die nie verarbeitet wird, ist das Problem.
 
-Das emotionale Vokabular ist ein entscheidender Aspekt der emotionalen Intelligenz. Die meisten Menschen können zwischen drei bis fünf Emotionen unterscheiden: gut, schlecht, gestresst, müde, genervt. Emotional intelligente Menschen differenzieren feiner: nicht „schlecht", sondern „enttäuscht", „gekränkt", „überfordert", „einsam" oder „frustriert". Diese Differenzierung ist therapeutisch relevant — je präziser du ein Gefühl benennen kannst, desto besser kannst du es verstehen und regulieren.
+Das emotionale Vokabular ist ein entscheidender Aspekt der emotionalen Intelligenz. Die meisten Menschen können zwischen drei bis fünf Emotionen unterscheiden: gut, schlecht, gestresst, müde, genervt. Emotional intelligente Menschen differenzieren feiner: nicht „schlecht", sondern „enttäuscht", „gekränkt", „überfordert", „einsam" oder „frustriert". Diese Differenzierung ist für die Begleitung relevant — je präziser du ein Gefühl benennen kannst, desto besser kannst du es verstehen und regulieren.
 
-Forschung zeigt: Allein das präzise Benennen einer Emotion — affect labeling — reduziert die Amygdala-Aktivität messbar. Wenn du sagst „Ich bin wütend", anstatt einfach wütend zu sein, aktivierst du den präfrontalen Cortex, der die Emotion einordnet und damit automatisch moderiert. Das Benennen ist der erste Schritt der Regulation.`,
+Die Forschung deutet darauf hin: Allein das präzise Benennen einer Emotion — affect labeling — kann die Amygdala-Aktivität dämpfen. Wenn du sagst „Ich bin wütend", anstatt einfach wütend zu sein, aktivierst du den präfrontalen Cortex, der die Emotion einordnet und damit automatisch moderiert. Das Benennen ist der erste Schritt der Regulation.`,
           uebung: {
             titel: 'Emotionales Vokabular erweitern',
             anleitung: `Erweitere dein emotionales Vokabular:
@@ -119,6 +120,7 @@ Je feiner dein emotionales Vokabular, desto feiner deine emotionale Wahrnehmung 
     },
     {
       id: 'P12-M2',
+      nr: 2,
       titel: 'Selbstwahrnehmung',
       lektionen: [
         {
@@ -198,11 +200,11 @@ Dieses Thema ist dein Kern-Trigger — der emotionale Knopf, an dem du arbeiten 
 
 Viele Menschen haben gelernt, bestimmte Emotionen zu unterdrücken — weil sie in der Herkunftsfamilie nicht erlaubt waren, weil sie dem Selbstbild widersprechen oder weil sie sozial sanktioniert werden. „Starke Menschen haben keine Angst." „Gute Menschen empfinden keinen Neid." „Erfolgreiche Menschen sind nicht unsicher." Diese inneren Regeln schaffen emotionale blinde Flecken — Bereiche, in denen du nicht fühlst, was du fühlst, sondern fühlst, was du glaubst fühlen zu dürfen.
 
-Die Konsequenzen emotionaler Unehrlichkeit sind vielfältig: Unterdrückte Emotionen verschwinden nicht — sie zeigen sich in Körpersymptomen, in passiv-aggressivem Verhalten, in unerklärlichen Stimmungsschwankungen oder in explosiven Ausbrüchen, wenn der Druck zu groß wird. Sie zeigen sich in Projektionen — du siehst in anderen, was du in dir nicht sehen willst. Und sie zeigen sich in einer allgemeinen emotionalen Taubheit — wer die negativen Gefühle abstellt, verliert auch den Zugang zu den positiven.
+Die Konsequenzen emotionaler Unehrlichkeit sind vielfältig: Unterdrückte Emotionen verschwinden nicht — sie zeigen sich in Körperreaktionen, in passiv-aggressivem Verhalten, in unerklärlichen Stimmungsschwankungen oder in explosiven Ausbrüchen, wenn der Druck zu groß wird. Sie zeigen sich in Projektionen — du siehst in anderen, was du in dir nicht sehen willst. Und sie zeigen sich in einer allgemeinen emotionalen Taubheit — wer die negativen Gefühle abstellt, verliert auch den Zugang zu den positiven.
 
 Der Weg zur Selbstehrlichkeit beginnt mit einem simplen Akt: Erlaube dir, alles zu fühlen. Nicht alles auszuleben — aber alles zu fühlen. Neid fühlen ist nicht dasselbe wie neidisch handeln. Wut fühlen ist nicht dasselbe wie wütend angreifen. Die Emotion wahrzunehmen und zu benennen — ohne Urteil, ohne Scham, ohne den Drang, sie sofort loszuwerden — ist ein Akt radikaler Selbstakzeptanz.
 
-Für deine Arbeit als Therapeutin ist emotionale Selbstehrlichkeit unverzichtbar. Wenn du deine eigene Angst nicht fühlst, kannst du die Angst des Klienten nicht halten. Wenn du deinen eigenen Neid verleugnest, wirst du auf den Erfolg deiner Klienten ambivalent reagieren. Wenn du deine eigene Bedürftigkeit nicht kennst, wirst du die deiner Klienten entweder idealisieren oder ablehnen. Die Qualität deiner Arbeit ist direkt proportional zur Tiefe deiner emotionalen Selbstkenntnis.`,
+Für deine Arbeit als Begleiterin ist emotionale Selbstehrlichkeit unverzichtbar. Wenn du deine eigene Angst nicht fühlst, kannst du die Angst des Klienten nicht halten. Wenn du deinen eigenen Neid verleugnest, wirst du auf den Erfolg deiner Klienten ambivalent reagieren. Wenn du deine eigene Bedürftigkeit nicht kennst, wirst du die deiner Klienten entweder idealisieren oder ablehnen. Die Qualität deiner Arbeit ist direkt proportional zur Tiefe deiner emotionalen Selbstkenntnis.`,
           uebung: {
             titel: 'Schattenemotionen anerkennen',
             anleitung: `Arbeite mit deinen Schattenemotionen — den Gefühlen, die du normalerweise nicht zeigst oder zugibst:
@@ -229,20 +231,21 @@ Die Anerkennung ist der erste Schritt. Nicht die Lösung — die Anerkennung. De
     },
     {
       id: 'P12-M3',
+      nr: 3,
       titel: 'Selbstregulation',
       lektionen: [
         {
           id: 'P12-M3-L1',
           titel: 'Den Raum zwischen Reiz und Reaktion vergrößern',
-          inhalt: `Viktor Frankl schrieb: „Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt unsere Freiheit und unsere Macht, unsere Antwort zu wählen." Dieser Raum — die Millisekunden bis Sekunden zwischen dem Trigger und deiner Reaktion — ist das zentrale Übungsfeld der Selbstregulation. Je größer dieser Raum, desto freier bist du.
+          inhalt: `Ein bekannter Gedanke der Psychologie lautet: Zwischen Reiz und Reaktion liegt ein Raum — und in diesem Raum liegt unsere Freiheit, die eigene Antwort zu wählen. Dieser Raum — die Millisekunden bis Sekunden zwischen dem Trigger und deiner Reaktion — ist das zentrale Übungsfeld der Selbstregulation. Je größer dieser Raum, desto freier bist du.
 
 Die Pause-Technik ist das einfachste und wirkungsvollste Werkzeug: Wenn du eine starke emotionale Reaktion bemerkst, pausierst du — physisch und mental. Du tust nichts. Du sagst nichts. Du atmest. Drei Sekunden reichen oft aus, um den präfrontalen Cortex die Amygdala einholen zu lassen. Diese drei Sekunden sind der Unterschied zwischen einer Reaktion, die du bereust, und einer Antwort, auf die du stolz bist.
 
-Die physiologische Regulation nutzt den Körper als Hebel für die Emotion. Die verlängerte Ausatmung — vier Sekunden einatmen, sechs bis acht Sekunden ausatmen — aktiviert das parasympathische Nervensystem innerhalb von sechzig Sekunden. Diese Technik funktioniert in jeder Situation: im Meeting, im Streit, in der Prüfung, im Stau. Niemand bemerkt, dass du atmest — aber dein Nervensystem schaltet vom Kampfmodus in den Regulationsmodus.
+Die physiologische Regulation nutzt den Körper als Hebel für die Emotion. Die verlängerte Ausatmung — vier Sekunden einatmen, sechs bis acht Sekunden ausatmen — spricht das parasympathische Nervensystem an und hilft vielen Menschen innerhalb von etwa einer Minute, spürbar ruhiger zu werden. Diese Technik funktioniert in jeder Situation: im Meeting, im Streit, in der Prüfung, im Stau. Niemand bemerkt, dass du atmest — aber dein Nervensystem schaltet vom Kampfmodus in den Regulationsmodus.
 
 Das kognitive Reframing verändert nicht die Emotion, sondern die Bewertung der Situation. „Mein Chef kritisiert mich — das bedeutet, ich bin inkompetent" wird zu „Mein Chef gibt mir Feedback — das gibt mir die Chance, mich zu verbessern." Reframing ist keine Schönfärberei — es ist die bewusste Wahl einer hilfreicheren Perspektive unter mehreren möglichen Perspektiven. Die Situation bleibt gleich — deine emotionale Reaktion verändert sich.
 
-Die Technik des Benennens — affect labeling — nutzt die in der vorherigen Lektion beschriebene Wirkung: „Ich bin frustriert" zu sagen, reduziert die Frustration messbar. Du kannst diese Technik stumm anwenden — innerliches Benennen — oder laut, wenn die Situation es erlaubt. „Ich merke, dass ich gerade wütend werde" ist gleichzeitig Selbstwahrnehmung und Regulation.
+Die Technik des Benennens — affect labeling — nutzt die in der vorherigen Lektion beschriebene Wirkung: „Ich bin frustriert" zu sagen, kann die Frustration spürbar dämpfen. Du kannst diese Technik stumm anwenden — innerliches Benennen — oder laut, wenn die Situation es erlaubt. „Ich merke, dass ich gerade wütend werde" ist gleichzeitig Selbstwahrnehmung und Regulation.
 
 Die Stopp-Technik bei eskalierenden Emotionen: Wenn du merkst, dass eine Emotion die Kontrolle übernimmt, sagst du innerlich — oder laut — „Stopp." Dann verlässt du die Situation physisch — für eine Minute, fünf Minuten, eine Stunde. Nicht als Flucht, sondern als bewusste Regulationsmaßnahme. Du kommst zurück, wenn der präfrontale Cortex wieder das Sagen hat. In Partnerschaften kann diese Technik als Vereinbarung etabliert werden: „Wenn einer von uns Stopp sagt, machen wir dreißig Minuten Pause — und kommen dann zurück."`,
           uebung: {
@@ -278,7 +281,7 @@ Wut konstruktiv nutzen: Wut ist Energie — konzentrierte, mobilisierende Kraft.
 
 Angst als Kompass nutzen: Angst zeigt dir, was dir wichtig ist. Prüfungsangst zeigt, dass dir das Ergebnis wichtig ist. Verlustangst zeigt, dass dir die Beziehung wichtig ist. Existenzangst zeigt, dass dir Sicherheit wichtig ist. Die Frage ist nicht „Wie werde ich die Angst los?", sondern „Was sagt mir die Angst über meine Werte und Bedürfnisse?" — und dann: Handle im Einklang mit diesen Werten, trotz der Angst. Mut ist nicht die Abwesenheit von Angst — Mut ist Handeln in Anwesenheit von Angst.
 
-Scham transformieren: Scham ist die toxischste Emotion — sie sagt nicht „Ich habe etwas Schlechtes getan" (das wäre Schuld), sondern „Ich bin schlecht." Sie erzeugt den Impuls, sich zu verstecken, sich klein zu machen, unsichtbar zu werden. Das Gegenmittel: Scham braucht Verbindung, nicht Isolation. Brené Brown zeigte, dass Scham ihre Macht verliert, wenn sie ausgesprochen wird — in einem sicheren Kontext, gegenüber einem empathischen Zuhörer. Die Praxis: Wenn du Scham fühlst, sprich darüber — nicht mit jedem, aber mit einer Vertrauensperson. „Ich schäme mich gerade, weil..." Allein das Aussprechen reduziert die Macht der Scham dramatisch.
+Scham transformieren: Scham ist eine der schwersten Emotionen — sie sagt nicht „Ich habe etwas Schlechtes getan" (das wäre Schuld), sondern „Ich bin schlecht." Sie erzeugt den Impuls, sich zu verstecken, sich klein zu machen, unsichtbar zu werden. Das Gegenmittel: Scham braucht Verbindung, nicht Isolation. Die Forschung zur Scham zeigt, dass sie ihre Macht verliert, wenn sie ausgesprochen wird — in einem sicheren Kontext, gegenüber einem empathischen Zuhörer. Die Praxis: Wenn du Scham fühlst, sprich darüber — nicht mit jedem, aber mit einer Vertrauensperson. „Ich schäme mich gerade, weil..." Allein das Aussprechen reduziert die Macht der Scham deutlich.
 
 Trauer zulassen: Trauer ist der natürliche Verarbeitungsprozess für Verlust — und sie braucht Zeit, Raum und die Erlaubnis, da zu sein. Die Gesellschaft gibt Trauernden zunehmend weniger Raum — nach ein paar Wochen wird erwartet, dass man funktioniert. Emotionale Intelligenz bedeutet, der Trauer den Raum zu geben, den sie braucht — und anderen denselben Raum zu gewähren.`,
           uebung: {
@@ -310,7 +313,7 @@ Die Forschung identifiziert sieben Schutzfaktoren der emotionalen Resilienz: Emo
 
 Die tägliche Resilienz-Praxis umfasst drei Elemente: Erstens — die emotionale Grundpflege: ausreichend Schlaf, Bewegung, Ernährung und soziale Verbindung. Resilienz braucht ein Fundament. Ein erschöpfter, isolierter, schlecht ernährter Mensch hat weniger emotionale Reserven als ein ausgeruhter, verbundener, gut versorgter. Zweitens — die tägliche Reflexion: Was ist heute gut gelaufen? Was habe ich gemeistert? Wofür bin ich dankbar? Diese Praxis — drei gute Dinge des Tages — verschiebt die Aufmerksamkeit von den Problemen zu den Ressourcen und stärkt den Optimismus. Drittens — die bewusste Exposition: Dich regelmäßig kleinen Herausforderungen auszusetzen — ein schwieriges Gespräch führen, eine neue Fähigkeit lernen, eine Komfortzone verlassen — trainiert den Resilienzmuskel.
 
-Posttraumatisches Wachstum beschreibt das Phänomen, dass Menschen nach Krisen nicht nur zum alten Zustand zurückkehren, sondern darüber hinauswachsen — mit tieferer Lebensperspektive, stärkeren Beziehungen, neuen Prioritäten und einem erweiterten Selbstbild. Dieses Wachstum geschieht nicht automatisch — es erfordert bewusste Reflexion, Sinnfindung und die Bereitschaft, die Krise als Entwicklungschance zu nutzen. Deine Rolle als Beraterin: Nicht die Krise beschönigen, aber die Wachstumsperspektive anbieten — behutsam, zum richtigen Zeitpunkt.`,
+Posttraumatisches Wachstum beschreibt das Phänomen, dass Menschen nach Krisen nicht nur zum alten Zustand zurückkehren, sondern darüber hinauswachsen — mit tieferer Lebensperspektive, stärkeren Beziehungen, neuen Prioritäten und einem erweiterten Selbstbild. Dieses Wachstum geschieht nicht automatisch — es erfordert bewusste Reflexion, Sinnfindung und die Bereitschaft, die Krise als Entwicklungschance zu nutzen. Deine Rolle als Begleiterin: Nicht die Krise beschönigen, aber die Wachstumsperspektive anbieten — behutsam, zum richtigen Zeitpunkt. Und die Grenze bleibt klar: Traumafolgen und schwere seelische Krisen gehören in psychotherapeutische Begleitung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
             titel: 'Resilienz-Inventar',
             anleitung: `Bewerte deine sieben Resilienz-Schutzfaktoren:
@@ -329,7 +332,7 @@ Dein schwächster Faktor: ___
 Für den schwächsten Faktor — eine konkrete Übung für die nächste Woche:
 ___
 
-Zusätzlich — starte die Drei-gute-Dinge-Praxis: Schreibe jeden Abend drei Dinge auf, die heute gut gelaufen sind und warum. Halte vier Wochen durch — die Forschung zeigt, dass diese einfache Übung die Lebenszufriedenheit signifikant erhöht.`,
+Zusätzlich — starte die Drei-gute-Dinge-Praxis: Schreibe jeden Abend drei Dinge auf, die heute gut gelaufen sind und warum. Halte vier Wochen durch — viele Menschen erleben, dass diese einfache Übung die Zufriedenheit spürbar stärkt.`,
             dauer: '10 Min',
           },
         },
@@ -337,6 +340,7 @@ Zusätzlich — starte die Drei-gute-Dinge-Praxis: Schreibe jeden Abend drei Din
     },
     {
       id: 'P12-M4',
+      nr: 4,
       titel: 'Empathie',
       lektionen: [
         {
@@ -348,9 +352,9 @@ Kognitive Empathie — auch Perspektivübernahme genannt — ist die Fähigkeit,
 
 Emotionale Empathie — auch affektive Empathie genannt — ist die Fähigkeit, die Gefühle eines anderen Menschen tatsächlich mitzufühlen. Wenn jemand weint, spürst du selbst Traurigkeit. Wenn jemand sich freut, spürst du Freude. Diese Resonanz geschieht automatisch und wird durch Spiegelneuronen vermittelt — Nervenzellen, die beim Beobachten einer Handlung oder Emotion genauso feuern wie beim eigenen Erleben. Emotionale Empathie ist die Grundlage von Mitgefühl und Verbindung. Ihre Schattenseite: Zu viel emotionale Empathie ohne Regulation führt zu empathischem Stress — du übernimmst die Emotionen anderer und verlierst dich darin.
 
-Empathische Fürsorge — auch mitfühlendes Handeln — ist die Fähigkeit, aus dem Verstehen und Mitfühlen heraus ins Handeln zu kommen: trösten, helfen, unterstützen, begleiten. Sie verbindet kognitive und emotionale Empathie mit der Motivation, etwas Positives zu bewirken. Sie ist die reifste Form der Empathie und die Grundlage jeder therapeutischen Arbeit.
+Empathische Fürsorge — auch mitfühlendes Handeln — ist die Fähigkeit, aus dem Verstehen und Mitfühlen heraus ins Handeln zu kommen: trösten, helfen, unterstützen, begleiten. Sie verbindet kognitive und emotionale Empathie mit der Motivation, etwas Positives zu bewirken. Sie ist die reifste Form der Empathie und die Grundlage jeder begleitenden Arbeit.
 
-Für deine Praxis brauchst du alle drei: Kognitive Empathie, um deine Klienten zu verstehen. Emotionale Empathie, um echte Verbindung herzustellen. Und empathische Fürsorge, um wirkungsvoll zu helfen. Die Kunst liegt in der Balance — genug emotionale Empathie für Verbindung, genug kognitive Distanz für Klarheit, genug Fürsorge für Wirksamkeit.`,
+Für deine Praxis brauchst du alle drei: Kognitive Empathie, um deine Klienten zu verstehen. Emotionale Empathie, um echte Verbindung herzustellen. Und empathische Fürsorge, um wirkungsvoll zu unterstützen. Die Kunst liegt in der Balance — genug emotionale Empathie für Verbindung, genug kognitive Distanz für Klarheit, genug Fürsorge für Wirksamkeit.`,
           uebung: {
             titel: 'Empathie-Selbstprofil',
             anleitung: `Bestimme dein Empathie-Profil:
@@ -413,15 +417,15 @@ Tauscht die Rollen und wiederholt.`,
         {
           id: 'P12-M4-L3',
           titel: 'Empathische Grenzen — Mitgefühl ohne Mitleiden',
-          inhalt: `Empathie ohne Grenzen ist Selbstzerstörung. Wer jede Emotion jedes anderen Menschen unreflektiert aufnimmt und mitvollzieht, endet in empathischem Stress, emotionaler Erschöpfung und Burnout. Die Unterscheidung zwischen Mitgefühl und Mitleiden ist nicht nur theoretisch wichtig — sie ist überlebenswichtig für jeden, der therapeutisch arbeitet.
+          inhalt: `Empathie ohne Grenzen ist Selbstzerstörung. Wer jede Emotion jedes anderen Menschen unreflektiert aufnimmt und mitvollzieht, endet in empathischem Stress und emotionaler Erschöpfung. Die Unterscheidung zwischen Mitgefühl und Mitleiden ist nicht nur theoretisch wichtig — sie ist entscheidend für jeden, der Menschen professionell begleitet.
 
-Mitgefühl bedeutet: Ich nehme deinen Schmerz wahr, ich verstehe ihn und ich möchte dir helfen — aber ich trage ihn nicht. Ich stehe neben dir, nicht in dir. Ich bin berührt, aber nicht überwältigt. Ich bin präsent, aber nicht identifiziert. Mitgefühl hat eine aktive, warmherzige Qualität — Neurowissenschaftler zeigen, dass Mitgefühl andere Hirnareale aktiviert als empathischer Stress: Mitgefühl aktiviert Belohnungs- und Fürsorge-Zentren, empathischer Stress aktiviert Schmerz- und Angstzentren.
+Mitgefühl bedeutet: Ich nehme deinen Schmerz wahr, ich verstehe ihn und ich möchte dir helfen — aber ich trage ihn nicht. Ich stehe neben dir, nicht in dir. Ich bin berührt, aber nicht überwältigt. Ich bin präsent, aber nicht identifiziert. Mitgefühl hat eine aktive, warmherzige Qualität — die Forschung deutet darauf hin, dass Mitgefühl andere Hirnareale anspricht als empathischer Stress: Mitgefühl aktiviert Belohnungs- und Fürsorge-Zentren, empathischer Stress aktiviert Schmerz- und Angstzentren.
 
 Mitleiden bedeutet: Ich übernehme deinen Schmerz. Ich fühle, was du fühlst — nicht als Beobachter, sondern als Betroffener. Ich bin genauso erschüttert wie du. Mitleiden hat eine passive, erschöpfende Qualität — es hilft niemandem, denn zwei Leidende sind nicht hilfreicher als einer.
 
-Die Praxis der empathischen Abgrenzung: Vor jeder Sitzung ein kurzer innerer Check — bin ich bei mir? Habe ich genug Energie, um zu halten, ohne mich zu verlieren? Während der Sitzung: regelmäßige innere Überprüfung — ist das mein Gefühl oder das des Klienten? Wenn du merkst, dass du mitlittest statt mitzufühlen: drei bewusste Atemzüge, Aufmerksamkeit auf die eigenen Füße, innere Erinnerung an den eigenen sicheren Ort. Nach der Sitzung: bewusstes Abschütteln, Hände waschen, kurze Erdungsübung.
+Die Praxis der empathischen Abgrenzung: Vor jeder Sitzung ein kurzer innerer Check — bin ich bei mir? Habe ich genug Energie, um zu halten, ohne mich zu verlieren? Während der Sitzung: regelmäßige innere Überprüfung — ist das mein Gefühl oder das des Klienten? Wenn du merkst, dass du mitleidest statt mitzufühlen: drei bewusste Atemzüge, Aufmerksamkeit auf die eigenen Füße, innere Erinnerung an den eigenen sicheren Ort. Nach der Sitzung: bewusstes Abschütteln, Hände waschen, kurze Erdungsübung.
 
-Das Training des Mitgefühls — statt des Mitleidens — geschieht durch die Metta-Meditation oder Loving-Kindness-Meditation: Du richtest bewusst wohlwollende Gedanken auf dich selbst, auf geliebte Menschen, auf neutrale Menschen und schließlich auf schwierige Menschen. Diese Praxis stärkt die neuronalen Netzwerke des Mitgefühls und schützt vor empathischem Stress — belegt durch Studien von Tania Singer und Matthieu Ricard.`,
+Das Training des Mitgefühls — statt des Mitleidens — geschieht durch die Metta-Meditation, auch Meditation der liebenden Güte genannt: Du richtest bewusst wohlwollende Gedanken auf dich selbst, auf geliebte Menschen, auf neutrale Menschen und schließlich auf schwierige Menschen. Diese traditionsreiche Praxis gilt als wirksames Training der inneren Mitgefühls-Haltung und wird als Schutz vor empathischem Stress auch wissenschaftlich untersucht.`,
           uebung: {
             titel: 'Mitgefühl vs. Mitleid unterscheiden',
             anleitung: `Reflektiere eine Situation, in der du empathischen Stress erlebt hast — dich vom Leid eines anderen Menschen hast mitreißen lassen:
@@ -451,6 +455,7 @@ Spüre den Unterschied zwischen Mitgefühl (warm, aktiv, verbunden) und Mitleide
     },
     {
       id: 'P12-M5',
+      nr: 5,
       titel: 'Soziale Kompetenz',
       lektionen: [
         {
@@ -460,9 +465,9 @@ Spüre den Unterschied zwischen Mitgefühl (warm, aktiv, verbunden) und Mitleide
 
 Die Ich-Botschaft ist das Grundwerkzeug emotionaler Kommunikation. Statt „Du machst mich wütend" — eine Schuldzuweisung, die Abwehr auslöst — „Ich bin wütend, wenn das passiert, weil mir Respekt wichtig ist." Die Ich-Botschaft drückt das eigene Erleben aus, ohne den anderen anzugreifen. Sie enthält drei Elemente: das Gefühl, den Auslöser und das Bedürfnis. „Ich fühle mich ___, wenn ___, weil mir ___ wichtig ist."
 
-Verletzlichkeit als Stärke: Die Forschung von Brené Brown zeigt, dass Verletzlichkeit — die Bereitschaft, sich emotional zu öffnen und authentisch zu zeigen — der Schlüssel zu tiefer Verbindung ist. Nicht Perfektion schafft Nähe, sondern Authentizität. „Ich habe Angst" zu sagen erfordert mehr Mut als „Alles unter Kontrolle" — und es schafft unvergleichlich tiefere Verbindung.
+Verletzlichkeit als Stärke: Die Forschung zur Verletzlichkeit zeigt, dass die Bereitschaft, sich emotional zu öffnen und authentisch zu zeigen, der Schlüssel zu tiefer Verbindung ist. Nicht Perfektion schafft Nähe, sondern Authentizität. „Ich habe Angst" zu sagen erfordert mehr Mut als „Alles unter Kontrolle" — und es schafft unvergleichlich tiefere Verbindung.
 
-Das Vier-Ohren-Modell von Schulz von Thun beschreibt, dass jede Botschaft vier Ebenen hat: den Sachinhalt, die Selbstoffenbarung, den Beziehungsaspekt und den Appell. Emotionale Kommunikation achtet bewusst auf alle vier Ebenen: Was sage ich inhaltlich? Was zeige ich von mir? Was sage ich über unsere Beziehung? Was will ich erreichen? Je bewusster du auf allen vier Ebenen kommunizierst, desto klarer und wirksamer wird deine Botschaft.
+Das Vier-Ebenen-Modell der Kommunikation beschreibt, dass jede Botschaft vier Ebenen hat: den Sachinhalt, die Selbstoffenbarung, den Beziehungsaspekt und den Appell. Emotionale Kommunikation achtet bewusst auf alle vier Ebenen: Was sage ich inhaltlich? Was zeige ich von mir? Was sage ich über unsere Beziehung? Was will ich erreichen? Je bewusster du auf allen vier Ebenen kommunizierst, desto klarer und wirksamer wird deine Botschaft.
 
 Emotionale Validierung — die Anerkennung der Gefühle des anderen, auch wenn du anderer Meinung bist — ist das machtvollste Kommunikationswerkzeug in Konflikten. „Ich verstehe, dass dich das verletzt hat" heißt nicht „Du hast Recht und ich Unrecht" — es heißt „Dein Gefühl ist real und berechtigt." Validierung deeskaliert Konflikte schneller als jedes Argument, weil sie das Grundbedürfnis des anderen — gesehen und anerkannt zu werden — befriedigt.`,
           uebung: {
@@ -498,11 +503,11 @@ Prüfe jede Ich-Botschaft:
           titel: 'Konflikte emotional intelligent lösen',
           inhalt: `Konflikte sind nicht das Gegenteil guter Beziehungen — sie sind ein natürlicher Bestandteil jeder lebendigen Beziehung. Emotional intelligente Konfliktlösung bedeutet nicht, Konflikte zu vermeiden, sondern sie so zu führen, dass die Beziehung gestärkt statt zerstört wird.
 
-Die Gottman-Forschung — die umfassendste Studie über Beziehungserfolg und -scheitern — identifizierte vier Verhaltensweisen, die Beziehungen zerstören: Kritik (nicht Beschwerde, sondern Angriff auf den Charakter), Verachtung (Geringschätzung, Augenrollen, Sarkasmus), Mauern (Rückzug, Stonewalling, emotionale Unerreichbarkeit) und Abwehr (Rechtfertigung statt Zuhören). Diese vier Reiter der Apokalypse sind die Gegenpole emotionaler Intelligenz — und ihr Erkennen und Vermeiden ist der erste Schritt zur konstruktiven Konfliktführung.
+Die Beziehungsforschung identifizierte vier Verhaltensweisen, die Beziehungen zerstören: Kritik (nicht Beschwerde, sondern Angriff auf den Charakter), Verachtung (Geringschätzung, Augenrollen, Sarkasmus), Mauern (Rückzug, emotionale Unerreichbarkeit) und Abwehr (Rechtfertigung statt Zuhören). Diese vier Beziehungskiller sind die Gegenpole emotionaler Intelligenz — und ihr Erkennen und Vermeiden ist der erste Schritt zur konstruktiven Konfliktführung.
 
 Die sechs Schritte der emotional intelligenten Konfliktlösung: Erstens — Pause: Nicht im Affekt reagieren. Die Stopp-Technik anwenden, wenn nötig. Zweitens — Selbstwahrnehmung: Was fühle ich? Was wurde getriggert? Was brauche ich? Drittens — Empathie: Was fühlt der andere? Was braucht er? Was ist seine Perspektive? Viertens — Kommunikation: Ich-Botschaften, Validierung, aktives Zuhören. Fünftens — Lösungsorientierung: Nicht „Wer hat Schuld?", sondern „Was brauchen wir beide, damit es besser wird?" Sechstens — Versöhnung: Nach dem Konflikt — Anerkennung, Wertschätzung, Verbindung wiederherstellen.
 
-Die Reparatur nach einem Konflikt ist genauso wichtig wie die Konfliktführung selbst. Gottman zeigte, dass erfolgreiche Paare nicht weniger Konflikte haben als gescheiterte — sie reparieren schneller und effektiver. Eine Reparatur kann einfach sein: „Es tut mir leid, dass ich laut geworden bin." „Ich habe dich vorhin nicht gut behandelt — das war nicht in Ordnung." „Können wir nochmal von vorne anfangen?" Die Bereitschaft zur Reparatur erfordert Demut — die Fähigkeit, eigene Fehler anzuerkennen, ohne sich dadurch entwertet zu fühlen.`,
+Die Reparatur nach einem Konflikt ist genauso wichtig wie die Konfliktführung selbst. Die Forschung zeigt: Erfolgreiche Paare haben nicht weniger Konflikte als gescheiterte — sie reparieren schneller und effektiver. Eine Reparatur kann einfach sein: „Es tut mir leid, dass ich laut geworden bin." „Ich habe dich vorhin nicht gut behandelt — das war nicht in Ordnung." „Können wir nochmal von vorne anfangen?" Die Bereitschaft zur Reparatur erfordert Demut — die Fähigkeit, eigene Fehler anzuerkennen, ohne sich dadurch entwertet zu fühlen. Und sie erfordert Timing: Eine Reparatur, die zu früh kommt, wenn die Emotionen noch hochkochen, verpufft — eine, die tagelang aufgeschoben wird, lässt den Riss vernarben. Der beste Moment ist meist der erste ruhige Augenblick, in dem beide wieder ansprechbar sind.`,
           uebung: {
             titel: 'Konfliktstil-Reflexion',
             anleitung: `Reflektiere deinen typischen Konfliktstil:
@@ -513,7 +518,7 @@ Die Reparatur nach einem Konflikt ist genauso wichtig wie die Konfliktführung s
 □ Anpassung (nachgeben, um Harmonie zu wahren)
 □ Lösung (ansprechen, verhandeln, Kompromiss suchen)
 
-2. Welchen der „vier Reiter" erkenne ich bei mir?
+2. Welchen der vier Beziehungskiller erkenne ich bei mir?
 □ Kritik □ Verachtung □ Mauern □ Abwehr
 
 3. Was passiert in meinem Körper, wenn ein Konflikt eskaliert? ___
@@ -529,15 +534,15 @@ Teste diesen Schritt beim nächsten Konflikt — und beobachte, was sich veränd
         {
           id: 'P12-M5-L3',
           titel: 'Emotionale Führung und Inspiration',
-          inhalt: `Emotionale Führung ist die höchste Anwendung emotionaler Intelligenz — die Fähigkeit, den emotionalen Zustand einer Gruppe, eines Teams oder einer Beziehung bewusst zu beeinflussen. Als holistische Beraterin bist du eine emotionale Führerin: Du setzt den Ton der Sitzung, du regulierst das emotionale Klima im Raum und du inspirierst deine Klienten zu Veränderung und Wachstum.
+          inhalt: `Emotionale Führung ist die höchste Anwendung emotionaler Intelligenz — die Fähigkeit, den emotionalen Zustand einer Gruppe, eines Teams oder einer Beziehung bewusst zu beeinflussen. Als ganzheitliche Begleiterin bist du eine emotionale Führerin: Du setzt den Ton der Sitzung, du regulierst das emotionale Klima im Raum und du inspirierst deine Klienten zu Veränderung und Wachstum.
 
-Emotionale Ansteckung ist ein gut dokumentiertes Phänomen: Emotionen übertragen sich von Mensch zu Mensch — unbewusst, über Mimik, Gestik, Stimmlage und Körpersprache. Als Therapeutin setzt du den emotionalen Grundton. Wenn du ruhig und geerdet bist, beruhigt sich der Klient. Wenn du angespannt und unsicher bist, spürt der Klient das — und wird selbst unruhiger. Deine emotionale Selbstregulation ist daher nicht nur Selbstpflege — sie ist therapeutische Verantwortung.
+Emotionale Ansteckung ist ein gut dokumentiertes Phänomen: Emotionen übertragen sich von Mensch zu Mensch — unbewusst, über Mimik, Gestik, Stimmlage und Körpersprache. Als Begleiterin setzt du den emotionalen Grundton. Wenn du ruhig und geerdet bist, beruhigt sich der Klient. Wenn du angespannt und unsicher bist, spürt der Klient das — und wird selbst unruhiger. Deine emotionale Selbstregulation ist daher nicht nur Selbstpflege — sie ist professionelle Verantwortung.
 
 Die Kunst der Resonanz: Emotionale Führung bedeutet nicht, immer positiv und fröhlich zu sein — das wäre unecht. Sie bedeutet, in Resonanz mit der Situation zu gehen und gleichzeitig den Raum zu halten. Wenn ein Klient trauert, gehst du mit in die Trauer — aber du gehst nicht unter. Du bist die Uferbank des Flusses: Du begrenzt, du hältst, du gibst Richtung — aber du fließt nicht weg.
 
-Inspiration durch Authentizität: Die überzeugendste Form der emotionalen Führung ist das gelebte Beispiel. Ein Therapeut, der seine eigenen Emotionen versteht und reguliert, inspiriert den Klienten mehr als jede Technik. Nicht durch Perfektion — sondern durch den ehrlichen Umgang mit der eigenen Unvollkommenheit. „Ich kenne das Gefühl, das du beschreibst" — gesagt aus eigener Erfahrung, nicht aus einem Lehrbuch — schafft tiefere Verbindung als jede theoretische Erklärung.
+Inspiration durch Authentizität: Die überzeugendste Form der emotionalen Führung ist das gelebte Beispiel. Eine Begleiterin, die ihre eigenen Emotionen versteht und reguliert, inspiriert den Klienten mehr als jede Technik. Nicht durch Perfektion — sondern durch den ehrlichen Umgang mit der eigenen Unvollkommenheit. „Ich kenne das Gefühl, das du beschreibst" — gesagt aus eigener Erfahrung, nicht aus einem Lehrbuch — schafft tiefere Verbindung als jede theoretische Erklärung.
 
-Die emotionale Signatur deiner Praxis: Jede Therapeutin hat eine emotionale Grundstimmung, die sie in den Raum bringt — Wärme, Klarheit, Leichtigkeit, Tiefe, Ruhe. Diese Signatur ist nicht aufgesetzt — sie ist der natürliche Ausdruck deiner emotionalen Intelligenz, geformt durch deine Selbstarbeit, deine Erfahrung und deine authentische Präsenz.`,
+Die emotionale Signatur deiner Praxis: Jede Begleiterin hat eine emotionale Grundstimmung, die sie in den Raum bringt — Wärme, Klarheit, Leichtigkeit, Tiefe, Ruhe. Diese Signatur ist nicht aufgesetzt — sie ist der natürliche Ausdruck deiner emotionalen Intelligenz, geformt durch deine Selbstarbeit, deine Erfahrung und deine authentische Präsenz.`,
           uebung: {
             titel: 'Emotionale Signatur reflektieren',
             anleitung: `Reflektiere deine emotionale Signatur:
@@ -560,23 +565,24 @@ Bitte diese Woche eine Vertrauensperson um ehrliches Feedback: „Wie wirke ich 
     },
     {
       id: 'P12-M6',
+      nr: 6,
       titel: 'EQ in der Praxis',
       lektionen: [
         {
           id: 'P12-M6-L1',
-          titel: 'Emotionale Intelligenz als Beratungskompetenz',
-          inhalt: `Emotionale Intelligenz ist nicht ein Thema neben anderen in deiner Beratungsarbeit — sie ist das Fundament jeder wirksamen Begleitung. Die Qualität deiner therapeutischen Beziehung — belegt durch die Forschung als stärkster Einzelfaktor für den Therapieerfolg — ist ein direktes Produkt deiner emotionalen Intelligenz.
+          titel: 'Emotionale Intelligenz als Begleitungskompetenz',
+          inhalt: `Emotionale Intelligenz ist nicht ein Thema neben anderen in deiner begleitenden Arbeit — sie ist das Fundament jeder wirksamen Begleitung. Die Qualität der Arbeitsbeziehung zwischen dir und deinem Klienten — in der Forschung als einer der stärksten Faktoren für gelingende Begleitung beschrieben — ist ein direktes Produkt deiner emotionalen Intelligenz.
 
-Therapeutische Präsenz ist die Integration aller EQ-Kompetenzen in den Moment der Begegnung: Du nimmst deine eigenen Emotionen wahr und regulierst sie. Du nimmst die Emotionen des Klienten wahr und spiegelst sie. Du kommunizierst klar und empathisch. Du hältst den Raum — stabil, warm und sicher. Und du bleibst authentisch — du verbirgst deine menschliche Seite nicht hinter einer professionellen Maske.
+Begleitende Präsenz ist die Integration aller EQ-Kompetenzen in den Moment der Begegnung: Du nimmst deine eigenen Emotionen wahr und regulierst sie. Du nimmst die Emotionen des Klienten wahr und spiegelst sie. Du kommunizierst klar und empathisch. Du hältst den Raum — stabil, warm und sicher. Und du bleibst authentisch — du verbirgst deine menschliche Seite nicht hinter einer professionellen Maske.
 
-EQ-basierte Beratung folgt einem natürlichen Fluss: Zuerst verbinden — empathisches Zuhören, Validierung, Rapport aufbauen. Dann verstehen — gemeinsam die emotionale Landschaft des Klienten erkunden, Muster identifizieren, Trigger erkennen. Dann transformieren — Emotionen regulieren lernen, neue Perspektiven entwickeln, Verhaltensmuster verändern. Und schließlich integrieren — das Gelernte im Alltag verankern, Rückfälle vorbereiten, Selbstständigkeit stärken.
+EQ-basierte Begleitung folgt einem natürlichen Fluss: Zuerst verbinden — empathisches Zuhören, Validierung, Rapport aufbauen. Dann verstehen — gemeinsam die emotionale Landschaft des Klienten erkunden, Muster identifizieren, Trigger erkennen. Dann transformieren — Emotionen regulieren lernen, neue Perspektiven entwickeln, Verhaltensmuster verändern. Und schließlich integrieren — das Gelernte im Alltag verankern, Rückfälle vorbereiten, Selbstständigkeit stärken.
 
-Die Vermittlung von EQ-Kompetenzen an Klienten ist ein natürlicher Bestandteil der Beratung — nicht als Unterricht, sondern als gemeinsame Praxis. Du lehrst Selbstwahrnehmung, indem du den Klienten fragst: „Was fühlst du gerade?" Du lehrst Regulation, indem du Atemtechniken anleitest. Du lehrst Empathie, indem du sie vorlebst. Und du lehrst soziale Kompetenz, indem du die Beratungsbeziehung als Übungsfeld nutzt.
+Die Vermittlung von EQ-Kompetenzen an Klienten ist ein natürlicher Bestandteil der Begleitung — nicht als Unterricht, sondern als gemeinsame Praxis. Du lehrst Selbstwahrnehmung, indem du den Klienten fragst: „Was fühlst du gerade?" Du lehrst Regulation, indem du Atemtechniken anleitest. Du lehrst Empathie, indem du sie vorlebst. Und du lehrst soziale Kompetenz, indem du die Arbeitsbeziehung als Übungsfeld nutzt.
 
-Die häufigsten EQ-Themen in der Beratungspraxis: Klienten, die ihre Emotionen nicht benennen können. Klienten, die zwischen Unterdrückung und Explosion pendeln. Klienten, die sich von den Emotionen anderer überfluten lassen. Klienten, die Konflikte vermeiden um jeden Preis. Und Klienten, die sich nach tieferer Verbindung sehnen, aber nicht wissen, wie sie Verletzlichkeit zulassen können.`,
+Die häufigsten EQ-Themen in der Begleitungspraxis: Klienten, die ihre Emotionen nicht benennen können. Klienten, die zwischen Unterdrückung und Explosion pendeln. Klienten, die sich von den Emotionen anderer überfluten lassen. Klienten, die Konflikte vermeiden um jeden Preis. Und Klienten, die sich nach tieferer Verbindung sehnen, aber nicht wissen, wie sie Verletzlichkeit zulassen können. Bei allem gilt die klare Grenze der Begleitung: Seelische Erkrankungen gehören in psychotherapeutische Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
-            titel: 'EQ-Beratungssequenz planen',
-            anleitung: `Plane eine EQ-fokussierte Beratungssequenz für einen fiktiven Klienten:
+            titel: 'EQ-Begleitungssequenz planen',
+            anleitung: `Plane eine EQ-fokussierte Begleitungssequenz für einen fiktiven Klienten:
 
 Klient: Mann, 38, Führungskraft, klagt über häufige Wutausbrüche bei der Arbeit, die seine Karriere gefährden. Beziehungsprobleme wegen „Nicht-darüber-Reden-Können." Sagt: „Ich weiß nicht, was ich fühle — ich bin einfach immer genervt."
 
@@ -589,7 +595,7 @@ Was erforschst du mit ihm? ___
 Welche Fragen stellst du? ___
 
 Sitzung 3 — Selbstregulation:
-Welche Technik lehrst du? ___
+Welche Technik vermittelst du? ___
 Wie übt ihr sie? ___
 
 Sitzung 4 — Empathie und Kommunikation:
@@ -644,7 +650,7 @@ Starte morgen. Halte vier Wochen durch. Dann vergleiche deine EQ-Selbsteinschät
 
 Das Wichtigste, was du mitnimmst: Emotionale Intelligenz ist kein Talent — sie ist eine Praxis. Sie wächst nicht durch Lesen, sondern durch Leben. Jeder Tag, jede Begegnung, jede Emotion ist dein Übungsfeld. Der Raum zwischen Reiz und Reaktion wird größer. Die Feinheit deiner Wahrnehmung wird tiefer. Die Kraft deiner Regulation wird stärker. Nicht über Nacht — aber stetig, merklich, unaufhaltsam.
 
-Für deine Praxis bedeutet emotionale Intelligenz: Du wirst eine bessere Therapeutin. Nicht weil du mehr Techniken kennst, sondern weil du dich selbst besser kennst. Nicht weil du perfekt reguliert bist, sondern weil du bewusster mit deinen Emotionen umgehst. Nicht weil du immer empathisch bist, sondern weil du es öfter bemerkst, wenn du es nicht bist.
+Für deine Praxis bedeutet emotionale Intelligenz: Du wirst eine bessere Begleiterin. Nicht weil du mehr Techniken kennst, sondern weil du dich selbst besser kennst. Nicht weil du perfekt reguliert bist, sondern weil du bewusster mit deinen Emotionen umgehst. Nicht weil du immer empathisch bist, sondern weil du es öfter bemerkst, wenn du es nicht bist.
 
 Für dein Leben bedeutet emotionale Intelligenz: Tiefere Beziehungen. Klarere Kommunikation. Weniger Konflikte — und die, die bleiben, werden konstruktiver. Mehr Resilienz in schwierigen Zeiten. Mehr Freude in guten Zeiten. Und ein grundlegenderes Verständnis für das Menschsein — dein eigenes und das der Menschen, denen du begegnest.
 

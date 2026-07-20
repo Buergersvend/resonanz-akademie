@@ -317,7 +317,7 @@ In Modul 3 hast du drei praktische Werkzeuge erlernt: die Zwei-Punkt-Achtsamkeit
 
 Und in diesem Modul hast du einen konkreten Plan erstellt, wie du diese Werkzeuge in deinen Alltag integrierst.
 
-Das ist erst der Anfang. Die Resonanz Akademie bietet vertiefende Kurse zu jedem dieser Themen — von Atem- und Achtsamkeitsarbeit über Meditation bis hin zur bewussten Körperwahrnehmung.
+Das ist erst der Anfang. Die Lernwelt bietet vertiefende Kurse zu jedem dieser Themen — von Atem- und Achtsamkeitsarbeit über Meditation bis hin zur bewussten Körperwahrnehmung.
 
 Ein wichtiger Hinweis zum Abschluss: Die Übungen dieses Kurses dienen der Selbsterfahrung, Entspannung und persönlichen Entwicklung. Sie sind kein Ersatz für ärztliche oder therapeutische Behandlung und stellen kein Heilversprechen dar. Bei gesundheitlichen Beschwerden wende dich bitte an deine Ärztin oder deinen Arzt.
 

@@ -273,7 +273,7 @@ Schließe mit integrierenden, ruhigen Griffen ab: beide Füße halten, die Arme 
         {
           id: 'K03-M6-L3',
           titel: 'Integration in dein Angebot und Schlusshaltung',
-          inhalt: `Meridianwissen und Akupressur lassen sich stimmig in ein ganzheitliches Wellness-, Coaching- und Selbstfürsorge-Angebot integrieren. Als Absolvent der Human Resonanz Akademie verbindest du das Erfahrungswissen der Meridiane mit Achtsamkeit und Begleitkompetenz — als Bereicherung im Bereich Entspannung und Wohlbefinden.
+          inhalt: `Meridianwissen und Akupressur lassen sich stimmig in ein ganzheitliches Wellness-, Coaching- und Selbstfürsorge-Angebot integrieren. Nach diesem Kurs verbindest du das Erfahrungswissen der Meridiane mit Achtsamkeit und Begleitkompetenz — als Bereicherung im Bereich Entspannung und Wohlbefinden.
 
 Die Integration geschieht organisch und immer im Wohlfühl-Rahmen. Du kannst Menschen einfache Selbstakupressur-Punkte als Entspannungsanker für den Alltag mitgeben — etwa Herz 7 zum Zur-Ruhe-Kommen oder Magen 36 zum Erden. Du kannst die Meridianbilder als anregende Perspektive für Selbstwahrnehmung nutzen. Die Akupressur erweitert ein rein gesprächsbasiertes Angebot um eine körperliche, beruhigende Dimension der Selbstfürsorge.
 

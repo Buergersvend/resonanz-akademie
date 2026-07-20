@@ -625,6 +625,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Wie versteht dieser Kurs Bewusstseinsarbeit und Bewusstseinscoaching?',
+      antworten: [
+        'Als Heilbehandlung für psychische Erkrankungen',
+        'Als Arbeit im Bereich Persönlichkeitsentwicklung und Lebensgestaltung — keine Therapie, keine Heilbehandlung',
+        'Als Ersatz für Psychotherapie',
+        'Als Diagnoseverfahren für seelische Störungen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was beschreibt die Funktion des „Beobachters" am besten?',
+      antworten: [
+        'Ein weiterer Persönlichkeitsanteil, der bekämpft werden muss',
+        'Die Fähigkeit, Gedanken und Gefühle wahrzunehmen, ohne sich mit ihnen zu identifizieren',
+        'Ein Werkzeug, um unerwünschte Gefühle zu unterdrücken',
+        'Eine Technik, um Emotionen dauerhaft abzuschalten',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was ist die zentrale Aussage über das Verhältnis von Gedanken und Fakten?',
+      antworten: [
+        'Jeder Gedanke beschreibt eine Tatsache',
+        'Gedanken sind keine Fakten — man muss nicht jeden Gedanken glauben',
+        'Negative Gedanken sind immer wahr',
+        'Gedanken lassen sich nicht beobachten',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wofür stehen die vier Schritte der RAIN-Technik?',
+      antworten: [
+        'Für ein Verfahren zur Diagnose von Angststörungen',
+        'Für Recognize, Allow, Investigate, Not-Identify — einen bewussten Umgang mit schwierigen Emotionen',
+        'Für eine Methode, Emotionen möglichst schnell zu unterdrücken',
+        'Für eine Atemtechnik gegen körperliche Beschwerden',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie wird Intuition in diesem Kurs eingeordnet?',
+      antworten: [
+        'Als übernatürlicher sechster Sinn',
+        'Als Ergebnis unbewusster Informationsverarbeitung — die dennoch keine fachliche Abklärung ersetzt',
+        'Als zuverlässigste Grundlage für jede medizinische Entscheidung',
+        'Als Beweis für hellseherische Fähigkeiten',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was tust du, wenn im Verlauf der Arbeit anhaltende oder überwältigende seelische Belastungen sichtbar werden?',
+      antworten: [
+        'Die Belastung mit den Kurstechniken selbst behandeln',
+        'Sie ignorieren, weil Bewusstseinsarbeit alles lösen kann',
+        'An fachkundige Stellen verweisen — bei gesundheitlichen Beschwerden an Arzt, Heilpraktiker oder Therapeut',
+        'Eine Diagnose stellen und einen Behandlungsplan erstellen',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default B09;

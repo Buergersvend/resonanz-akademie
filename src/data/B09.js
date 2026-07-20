@@ -2,11 +2,12 @@ const B09 = {
   id: 'B09',
   titel: 'Bewusstseinsbildung & Steuerung',
   bereich: 'bewusstsein',
-  beschreibung: 'Erlerne die Kunst der bewussten Bewusstseinssteuerung — von den Grundlagen der Wahrnehmungspsychologie über Fokus- und Aufmerksamkeitstechniken bis zur gezielten Transformation deiner inneren Zustände. Diese Ausbildung macht dich zur Meisterin deines eigenen Bewusstseins und befähigt dich, andere Menschen auf dem Weg zu mehr Klarheit und Selbststeuerung zu begleiten.',
+  beschreibung: 'Erlerne die Kunst der bewussten Bewusstseinssteuerung — von den Grundlagen der Wahrnehmungspsychologie über Fokus- und Aufmerksamkeitstechniken bis zur gezielten Gestaltung deiner inneren Zustände. Dieser Kurs stärkt die Steuerung deines eigenen Bewusstseins und zeigt dir, wie du andere Menschen auf dem Weg zu mehr Klarheit und Selbststeuerung begleiten kannst.',
   status: 'live',
   module: [
     {
       id: 'B09-M1',
+      nr: 1,
       titel: 'Was ist Bewusstsein?',
       lektionen: [
         {
@@ -16,7 +17,7 @@ const B09 = {
 
 Die Wissenschaft beschreibt Bewusstsein als das subjektive Erleben — die innere Erfahrung, die jede Wahrnehmung, jeden Gedanken, jedes Gefühl begleitet. Du siehst nicht nur Rot — du erlebst Rot. Du hörst nicht nur Musik — du empfindest Musik. Dieses innere Erleben, diese Qualität der Erfahrung, ist das, was Bewusstsein von bloßer Informationsverarbeitung unterscheidet. Ein Computer verarbeitet Daten — aber er erlebt nichts dabei.
 
-Für deine Arbeit als Praktizierende ist eine funktionale Definition hilfreicher als eine philosophische: Bewusstsein ist deine Fähigkeit, wahrzunehmen, zu reflektieren und zu wählen. Wahrnehmen — was geschieht in und um mich herum? Reflektieren — was bedeutet das? Und wählen — wie reagiere ich darauf? Diese drei Fähigkeiten zusammen machen dich zum bewussten Gestalter deines Lebens, statt zum automatischen Reagierer auf äußere Reize.
+Für deine Arbeit als Begleiterin ist eine funktionale Definition hilfreicher als eine philosophische: Bewusstsein ist deine Fähigkeit, wahrzunehmen, zu reflektieren und zu wählen. Wahrnehmen — was geschieht in und um mich herum? Reflektieren — was bedeutet das? Und wählen — wie reagiere ich darauf? Diese drei Fähigkeiten zusammen machen dich zum bewussten Gestalter deines Lebens, statt zum automatischen Reagierer auf äußere Reize.
 
 Die meisten Menschen nutzen nur einen Bruchteil ihres Bewusstseinspotenzials. Sie leben im Autopilot-Modus — reagieren auf Reize, folgen Gewohnheiten, wiederholen Muster, ohne je innezuhalten und zu fragen: Ist das wirklich meine Wahl? Oder ist das ein Programm, das mich steuert? Die Bewusstseinsbildung beginnt mit dieser Frage — und sie verändert alles, was danach kommt.
 
@@ -42,15 +43,15 @@ Die meisten Menschen werden feststellen: Nein, sie waren sich nicht bewusst. Sie
           titel: 'Bewusstseinsebenen und Alltagstrance',
           inhalt: `Dein Bewusstsein bewegt sich ständig zwischen verschiedenen Ebenen — von der vollen Wachheit bis zum tiefen Schlaf, mit vielen Schattierungen dazwischen. Das Verständnis dieser Ebenen ist der erste Schritt zur bewussten Steuerung, denn nur was du erkennst, kannst du verändern.
 
-Die gewöhnliche Alltagstrance ist der Zustand, in dem die meisten Menschen den größten Teil ihres Tages verbringen. Es ist kein Schlaf und keine Bewusstlosigkeit — es ist ein Zustand halbautomatischen Funktionierens. Du fährst Auto, ohne bewusst zu lenken. Du isst, ohne bewusst zu schmecken. Du führst Gespräche, während dein Geist woanders ist. Du reagierst auf Emotionen, ohne sie zu bemerken. Dieser Zustand ist nicht pathologisch — er ist die Standardeinstellung des menschlichen Gehirns, das Energie spart, indem es Routine automatisiert.
+Die gewöhnliche Alltagstrance ist der Zustand, in dem die meisten Menschen den größten Teil ihres Tages verbringen. Es ist kein Schlaf und keine Bewusstlosigkeit — es ist ein Zustand halbautomatischen Funktionierens. Du fährst Auto, ohne bewusst zu lenken. Du isst, ohne bewusst zu schmecken. Du führst Gespräche, während dein Geist woanders ist. Du reagierst auf Emotionen, ohne sie zu bemerken. Dieser Zustand ist nicht krankhaft — er ist die Standardeinstellung des menschlichen Gehirns, das Energie spart, indem es Routine automatisiert.
 
-Das Problem der Alltagstrance: In diesem Zustand laufen die Programme — Glaubenssätze, emotionale Muster, Gewohnheiten — unkontrolliert ab. Du denkst nicht bewusst „Ich bin nicht gut genug" — der Gedanke denkt sich selbst, unter der Oberfläche, und steuert dein Verhalten, deine Entscheidungen und deine Gefühle, ohne dass du es bemerkst. Die Alltagstrance ist der Ort, an dem unbewusste Programme die Regie führen.
+Das Thema der Alltagstrance: In diesem Zustand laufen die Programme — Glaubenssätze, emotionale Muster, Gewohnheiten — weitgehend unbemerkt ab. Du denkst nicht bewusst „Ich bin nicht gut genug" — der Gedanke denkt sich selbst, unter der Oberfläche, und beeinflusst dein Verhalten, deine Entscheidungen und deine Gefühle, ohne dass du es bemerkst. Die Alltagstrance ist der Ort, an dem unbewusste Programme die Regie führen.
 
-Erhöhtes Bewusstsein — Mindfulness, Achtsamkeit, Gegenwärtigkeit — ist der Zustand, in dem du die Alltagstrance durchbrichst und bewusst wahrnimmst, was geschieht. Du bemerkst den Gedanken, der sich denkt. Du spürst das Gefühl, das sich breitmacht. Du siehst die Gewohnheit, die sich einschaltet. Und in diesem Bemerken entsteht ein Raum — der Raum der Wahl. Du kannst dem Impuls folgen oder eine andere Richtung wählen.
+Erhöhtes Bewusstsein — Achtsamkeit, Gegenwärtigkeit — ist der Zustand, in dem du die Alltagstrance durchbrichst und bewusst wahrnimmst, was geschieht. Du bemerkst den Gedanken, der sich denkt. Du spürst das Gefühl, das sich breitmacht. Du siehst die Gewohnheit, die sich einschaltet. Und in diesem Bemerken entsteht ein Raum — der Raum der Wahl. Du kannst dem Impuls folgen oder eine andere Richtung wählen.
 
-Flow-Bewusstsein ist ein Zustand erhöhter Bewusstheit bei gleichzeitig müheloser Leistung. Du bist vollkommen präsent, vollkommen fokussiert und vollkommen im Fluss. Die Selbstreflexion tritt zurück, die Handlung und das Bewusstsein verschmelzen. Sportler, Musiker, Künstler und Chirurgen kennen diesen Zustand — aber er ist nicht bestimmten Aktivitäten vorbehalten. Flow ist ein Bewusstseinszustand, der trainiert werden kann.
+Flow-Bewusstsein ist ein Zustand erhöhter Bewusstheit bei gleichzeitig müheloser Leistung. Du bist vollkommen präsent, vollkommen fokussiert und vollkommen im Fluss. Die Selbstreflexion tritt zurück, die Handlung und das Bewusstsein verschmelzen. Sportler, Musiker, Künstler und viele Menschen in konzentrierter Arbeit kennen diesen Zustand — aber er ist nicht bestimmten Aktivitäten vorbehalten. Flow ist ein Bewusstseinszustand, der trainiert werden kann.
 
-Transpersonales Bewusstsein umfasst Erfahrungen, die über die Grenzen des individuellen Selbst hinausgehen — Einheitserlebnisse, mystische Erfahrungen, das Gefühl tiefer Verbundenheit mit allem Lebendigen. Diese Zustände sind keine Halluzinationen und keine Pathologie — sie sind eine natürliche Fähigkeit des menschlichen Bewusstseins, die in allen Kulturen und Traditionen dokumentiert ist.`,
+Erweiterte Bewusstseinszustände umfassen Erfahrungen, die über die Grenzen des gewohnten Alltags-Ichs hinausgehen — Momente tiefer Verbundenheit, innerer Weite und Stille. Solche Zustände werden in vielen Kulturen und Traditionen beschrieben und als natürlicher Teil des menschlichen Erlebens verstanden. Sie sind ein Erfahrungsangebot, keine Leistungsnorm — und wo sie mit belastenden oder verwirrenden Erlebnissen einhergehen, gehört die Begleitung in fachkundige Hände.`,
           uebung: {
             titel: 'Alltagstrance-Protokoll',
             anleitung: `Führe heute ein Alltagstrance-Protokoll. Stelle dir alle zwei Stunden einen Alarm und beantworte in dem Moment:
@@ -70,13 +71,13 @@ Am Ende des Tages: Wie viel Prozent des Tages warst du wirklich bewusst anwesend
         {
           id: 'B09-M1-L3',
           titel: 'Der Beobachter — die Meta-Perspektive',
-          inhalt: `Die mächtigste Fähigkeit des menschlichen Bewusstseins ist die Fähigkeit zur Selbstbeobachtung — die Meta-Perspektive, der innere Beobachter, das Bewusstsein, das sich selbst beim Bewusstsein zuschaut. Diese Fähigkeit unterscheidet bewusstes Leben von automatischem Funktionieren und ist das Fundament jeder Bewusstseinsarbeit.
+          inhalt: `Eine der mächtigsten Fähigkeiten des menschlichen Bewusstseins ist die Fähigkeit zur Selbstbeobachtung — die Meta-Perspektive, der innere Beobachter, das Bewusstsein, das sich selbst beim Bewusstsein zuschaut. Diese Fähigkeit unterscheidet bewusstes Leben von automatischem Funktionieren und ist das Fundament jeder Bewusstseinsarbeit.
 
 Der Beobachter ist nicht ein anderer Teil von dir — er ist die tiefste Schicht deines Bewusstseins. Stell es dir so vor: Du hast Gedanken — aber du bist nicht deine Gedanken. Du hast Gefühle — aber du bist nicht deine Gefühle. Du hast einen Körper — aber du bist nicht nur dein Körper. Was bleibt, wenn du all das abziehst? Das, was wahrnimmt. Das, was beobachtet. Das, was da ist, bevor der erste Gedanke auftaucht und nachdem der letzte verklungen ist. Das ist der Beobachter.
 
 Die Aktivierung des Beobachters geschieht durch eine einfache innere Verschiebung: Statt in deinen Gedanken und Gefühlen zu sein, trittst du einen Schritt zurück und beobachtest sie. Du denkst nicht mehr „Ich bin wütend" — du bemerkst: „Da ist Wut." Du denkst nicht mehr „Ich bin nicht gut genug" — du bemerkst: „Da ist der Gedanke, nicht gut genug zu sein." Dieser subtile Unterschied verändert alles. Im ersten Fall bist du das Gefühl oder der Gedanke — identifiziert, verschmolzen, ohne Handlungsspielraum. Im zweiten Fall bist du der Beobachter des Gefühls oder Gedankens — distanziert genug, um zu wählen.
 
-Die therapeutische Bedeutung des Beobachters ist enorm. In dem Moment, in dem ein Klient lernt, seine Gedanken und Gefühle zu beobachten statt sich mit ihnen zu identifizieren, gewinnt er Handlungsspielraum. Er kann einem Angstgedanken zusehen, ohne in Panik zu verfallen. Er kann Trauer beobachten, ohne darin unterzugehen. Er kann einen destruktiven Impuls wahrnehmen, ohne ihm zu folgen. Der Beobachter schafft den Raum zwischen Reiz und Reaktion — und in diesem Raum liegt die Freiheit.
+Die Bedeutung des Beobachters für die Begleitung ist groß. In dem Moment, in dem ein Klient lernt, seine Gedanken und Gefühle zu beobachten statt sich mit ihnen zu identifizieren, gewinnt er Handlungsspielraum. Er kann einem Angstgedanken zusehen, ohne in Panik zu verfallen. Er kann Trauer beobachten, ohne darin unterzugehen. Er kann einen destruktiven Impuls wahrnehmen, ohne ihm zu folgen. Der Beobachter schafft den Raum zwischen Reiz und Reaktion — und in diesem Raum liegt die Freiheit.
 
 Die Stärkung des Beobachters ist eine Übungssache. Wie ein Muskel wird er stärker durch regelmäßiges Training. Meditation ist das klassische Training — aber nicht das einzige. Jeder Moment im Alltag, in dem du innehältst und bewusst wahrnimmst, was gerade geschieht, trainiert den Beobachter. Mit der Zeit wird die Beobachterperspektive zur Grundhaltung — nicht als Distanzierung vom Leben, sondern als bewusste Teilnahme am Leben.`,
           uebung: {
@@ -101,20 +102,21 @@ Phase 4 (2 Min): Beobachte den Beobachter. Wer ist es, der beobachtet? Kannst du
     },
     {
       id: 'B09-M2',
+      nr: 2,
       titel: 'Aufmerksamkeit und Fokus',
       lektionen: [
         {
           id: 'B09-M2-L1',
           titel: 'Aufmerksamkeit als Schlüsselressource',
-          inhalt: `Deine Aufmerksamkeit ist die wertvollste Ressource, die du besitzt — wertvoller als Zeit, Geld oder Energie. Denn wohin deine Aufmerksamkeit geht, dorthin fließt deine Energie. Was du mit Aufmerksamkeit nährst, wächst. Was du ignorierst, verkümmert. Diese einfache Wahrheit hat tiefgreifende Konsequenzen für dein Leben und deine Arbeit.
+          inhalt: `Deine Aufmerksamkeit ist eine der wertvollsten Ressourcen, die du besitzt — in mancher Hinsicht wertvoller als Zeit, Geld oder Energie. Denn wohin deine Aufmerksamkeit geht, dorthin fließt deine Energie. Was du mit Aufmerksamkeit nährst, wächst. Was du ignorierst, verkümmert. Diese einfache Wahrheit hat tiefgreifende Konsequenzen für dein Leben und deine Arbeit.
 
-In der modernen Welt ist deine Aufmerksamkeit unter ständigem Beschuss. Benachrichtigungen, Social Media, Nachrichten, E-Mails, Werbung — alles ist darauf optimiert, deine Aufmerksamkeit zu kapern. Die Aufmerksamkeitsökonomie behandelt deine Bewusstseinsressource als Ware, die geerntet und verkauft wird. Und die meisten Menschen lassen es geschehen — sie geben ihre wertvollste Ressource unbewusst ab, den ganzen Tag, jeden Tag.
+In der modernen Welt ist deine Aufmerksamkeit unter ständigem Beschuss. Benachrichtigungen, Social Media, Nachrichten, E-Mails, Werbung — vieles ist darauf optimiert, deine Aufmerksamkeit zu kapern. Die Aufmerksamkeitsökonomie behandelt deine Bewusstseinsressource als Ware, die geerntet und verkauft wird. Und die meisten Menschen lassen es geschehen — sie geben ihre wertvollste Ressource unbewusst ab, den ganzen Tag, jeden Tag.
 
 Bewusste Aufmerksamkeitssteuerung bedeutet: Du entscheidest, wohin deine Aufmerksamkeit geht. Nicht dein Smartphone, nicht die Nachrichtenredaktion, nicht der Social-Media-Algorithmus — du. Diese Entscheidung ist ein Akt der Souveränität, und sie erfordert Training, weil die Gewohnheit der Ablenkung tief sitzt.
 
-Die neurowissenschaftliche Perspektive bestätigt die Bedeutung der Aufmerksamkeit. Aufmerksamkeit ist kein passives Aufnehmen — sie ist ein aktiver Selektionsprozess. Dein Gehirn filtert aus der enormen Menge sensorischer Informationen das heraus, was du als relevant betrachtest. Dieser Filter wird geformt durch deine Erwartungen, deine Überzeugungen und deine emotionalen Zustände. Ein ängstlicher Mensch bemerkt Bedrohungen, die ein entspannter Mensch übersieht. Ein dankbarer Mensch bemerkt Schönes, das ein unzufriedener Mensch übersieht. Die Realität, die du erlebst, ist zu einem erheblichen Teil das Produkt deiner Aufmerksamkeit.
+Die neurowissenschaftliche Perspektive stützt die Bedeutung der Aufmerksamkeit. Aufmerksamkeit ist kein passives Aufnehmen — sie ist ein aktiver Selektionsprozess. Dein Gehirn filtert aus der enormen Menge sensorischer Informationen das heraus, was du als relevant betrachtest. Dieser Filter wird geformt durch deine Erwartungen, deine Überzeugungen und deine emotionalen Zustände. Ein ängstlicher Mensch bemerkt Bedrohungen, die ein entspannter Mensch übersieht. Ein dankbarer Mensch bemerkt Schönes, das ein unzufriedener Mensch übersieht. Die Realität, die du erlebst, ist zu einem erheblichen Teil das Produkt deiner Aufmerksamkeit.
 
-Für die therapeutische Arbeit hat das direkte Konsequenzen. Wenn du einem Klienten hilfst, seine Aufmerksamkeit bewusst zu steuern — weg von der Katastrophe, hin zur Ressource, weg vom Problem, hin zur Lösung, weg von der Angst, hin zur Möglichkeit — veränderst du seine erlebte Realität. Nicht durch Verleugnung, sondern durch bewusste Erweiterung des Wahrnehmungsfeldes.`,
+Für die begleitende Arbeit hat das direkte Konsequenzen. Wenn du einem Klienten hilfst, seine Aufmerksamkeit bewusst zu steuern — weg von der Katastrophe, hin zur Ressource, weg vom Problem, hin zur Lösung, weg von der Angst, hin zur Möglichkeit — veränderst du seine erlebte Realität. Nicht durch Verleugnung, sondern durch bewusste Erweiterung des Wahrnehmungsfeldes.`,
           uebung: {
             titel: 'Aufmerksamkeits-Audit',
             anleitung: `Führe heute ein ehrliches Aufmerksamkeits-Audit durch:
@@ -140,7 +142,7 @@ Abends: Erkenne das Muster. Wo gibst du Aufmerksamkeit unbewusst ab? Wo würdest
 
 Die Konzentrations-Meditation ist die Grundübung des Fokustrainings. Du wählst einen Fokuspunkt — den Atem, eine Kerzenflamme, ein Mantra, eine Körperempfindung — und richtest deine gesamte Aufmerksamkeit darauf. Wenn der Geist abwandert — und er wird abwandern —, bemerkst du es und kehrst zurück. Dieses Bemerken und Zurückkehren ist das eigentliche Training. Nicht das ununterbrochene Verweilen am Fokuspunkt, sondern das wiederholte Zurückbringen der Aufmerksamkeit stärkt den Fokusmuskel.
 
-Die Pomodoro-Technik überträgt das Fokusprinzip auf die Arbeit. Du arbeitest fünfundzwanzig Minuten mit voller Konzentration an einer einzigen Aufgabe — ohne Unterbrechung, ohne Multitasking, ohne Ablenkung. Dann machst du fünf Minuten Pause. Dann wieder fünfundzwanzig Minuten. Dieser Rhythmus nutzt die natürliche Kapazität des Gehirns für Konzentration und verhindert Ermüdung.
+Die Intervall-Technik überträgt das Fokusprinzip auf die Arbeit. Du arbeitest etwa fünfundzwanzig Minuten mit voller Konzentration an einer einzigen Aufgabe — ohne Unterbrechung, ohne Multitasking, ohne Ablenkung. Dann machst du fünf Minuten Pause. Dann wieder fünfundzwanzig Minuten. Dieser Rhythmus nutzt die natürliche Kapazität des Gehirns für Konzentration und verhindert Ermüdung.
 
 Einpunkt-Aufmerksamkeit im Alltag ist die Kunst, gewöhnliche Tätigkeiten mit voller Bewusstheit auszuführen. Wenn du isst, isst du — du scrollst nicht, liest nicht, planst nicht. Wenn du gehst, gehst du — du spürst den Boden unter deinen Füßen, die Luft auf deiner Haut, den Rhythmus deiner Schritte. Wenn du einem Menschen zuhörst, hörst du zu — wirklich, vollständig, ohne gleichzeitig deine Antwort zu formulieren.
 
@@ -166,20 +168,20 @@ Notiere: Welche Übung fiel dir am leichtesten? Welche am schwersten? Das zeigt 
         },
         {
           id: 'B09-M2-L3',
-          titel: 'Aufmerksamkeit als therapeutisches Werkzeug',
-          inhalt: `In der therapeutischen Arbeit ist deine Aufmerksamkeit dein primäres Instrument — wichtiger als jede Technik, jedes Werkzeug, jede Methode. Die Qualität deiner Aufmerksamkeit bestimmt die Qualität der Sitzung. Ein Klient, der deine volle, ungeteilte Aufmerksamkeit erhält, fühlt sich gesehen, gehört und sicher — und in diesem Gefühl der Sicherheit öffnen sich die Türen zur Transformation.
+          titel: 'Aufmerksamkeit als Werkzeug der Begleitung',
+          inhalt: `In der begleitenden Arbeit ist deine Aufmerksamkeit dein primäres Instrument — wichtiger als jede Technik, jedes Werkzeug, jede Methode. Die Qualität deiner Aufmerksamkeit bestimmt die Qualität der Sitzung. Ein Klient, der deine volle, ungeteilte Aufmerksamkeit erhält, fühlt sich gesehen, gehört und sicher — und in diesem Gefühl der Sicherheit öffnen sich die Türen zur Veränderung.
 
-Therapeutische Aufmerksamkeit unterscheidet sich von alltäglicher Aufmerksamkeit in drei Dimensionen. Erstens: Sie ist absichtslos. Du hörst nicht zu, um zu diagnostizieren, zu bewerten oder zu lösen — du hörst zu, um zu verstehen. Diese absichtslose Aufmerksamkeit gibt dem Klienten den Raum, sich zu entfalten, statt sich in eine Erwartung einzupassen.
+Die Aufmerksamkeit in der Begleitung unterscheidet sich von alltäglicher Aufmerksamkeit in drei Dimensionen. Erstens: Sie ist absichtslos. Du hörst nicht zu, um zu bewerten oder sofort zu lösen — du hörst zu, um zu verstehen. Diese absichtslose Aufmerksamkeit gibt dem Klienten den Raum, sich zu entfalten, statt sich in eine Erwartung einzupassen.
 
-Zweitens: Sie ist mehrdimensional. Du hörst nicht nur die Worte — du hörst den Tonfall, die Pausen, das Zögern, das Ungesagte. Du siehst nicht nur die Mimik — du siehst die Körperhaltung, die Handbewegungen, die Atemdynamik, die Hautfarbe. Du spürst nicht nur deine eigenen Reaktionen — du spürst die Atmosphäre im Raum, die energetische Qualität der Begegnung. Diese mehrdimensionale Wahrnehmung gibt dir Informationen, die kein Fragebogen und kein Test liefern kann.
+Zweitens: Sie ist mehrdimensional. Du hörst nicht nur die Worte — du hörst den Tonfall, die Pausen, das Zögern, das Ungesagte. Du siehst nicht nur die Mimik — du siehst die Körperhaltung, die Handbewegungen, die Atemdynamik. Du spürst nicht nur deine eigenen Reaktionen — du spürst die Atmosphäre im Raum, die Qualität der Begegnung. Diese mehrdimensionale Wahrnehmung gibt dir Informationen, die kein Fragebogen liefern kann.
 
-Drittens: Sie ist gleichzeitig fokussiert und weit. Du kannst dem Klienten mit engem Fokus zuhören und gleichzeitig mit weitem Bewusstsein den Gesamtkontext wahrnehmen — die systemischen Zusammenhänge, die Muster, die roten Fäden. Diese Doppelbewusstheit — Zoom und Panorama gleichzeitig — ist die höchste Form therapeutischer Aufmerksamkeit.
+Drittens: Sie ist gleichzeitig fokussiert und weit. Du kannst dem Klienten mit engem Fokus zuhören und gleichzeitig mit weitem Bewusstsein den Gesamtkontext wahrnehmen — die Zusammenhänge, die Muster, die roten Fäden. Diese Doppelbewusstheit — Zoom und Panorama gleichzeitig — ist die höchste Form der Aufmerksamkeit in der Begleitung.
 
-Die Lenkung der Aufmerksamkeit des Klienten ist eine therapeutische Intervention in sich. Wenn du den Klienten bittest, seine Aufmerksamkeit auf eine bestimmte Körperempfindung zu richten, aktivierst du die Körperwahrnehmung. Wenn du ihn bittest, den Moment vor dem Konflikt wahrzunehmen — den letzten Moment der Sicherheit —, aktivierst du seine Ressourcen. Wenn du ihn bittest, das Gefühl hinter dem Gedanken zu spüren, vertiefst du den Zugang zum Unterbewusstsein. Jede therapeutische Frage ist im Kern eine Aufmerksamkeitslenkung.
+Die Lenkung der Aufmerksamkeit des Klienten ist eine Intervention in sich. Wenn du den Klienten bittest, seine Aufmerksamkeit auf eine bestimmte Körperempfindung zu richten, aktivierst du die Körperwahrnehmung. Wenn du ihn bittest, den Moment vor dem Konflikt wahrzunehmen — den letzten Moment der Sicherheit —, aktivierst du seine Ressourcen. Wenn du ihn bittest, das Gefühl hinter dem Gedanken zu spüren, vertiefst du den Zugang zu inneren Prozessen. Jede begleitende Frage ist im Kern eine Aufmerksamkeitslenkung.
 
-Dein eigenes Aufmerksamkeitstraining ist die Grundlage für die therapeutische Aufmerksamkeit. Ein Therapeut, der selbst ständig abgelenkt ist, der seine eigenen Gedanken nicht beobachten kann, der keinen stabilen Fokus halten kann, wird diese Qualitäten nicht in die Sitzung bringen können. Deine tägliche Praxis — Meditation, Fokusübungen, Achtsamkeit im Alltag — ist daher nicht Selbstoptimierung, sondern professionelle Vorbereitung.`,
+Dein eigenes Aufmerksamkeitstraining ist die Grundlage dafür. Eine Begleiterin, die selbst ständig abgelenkt ist, die ihre eigenen Gedanken nicht beobachten kann, die keinen stabilen Fokus halten kann, wird diese Qualitäten nicht in die Sitzung bringen können. Deine tägliche Praxis — Meditation, Fokusübungen, Achtsamkeit im Alltag — ist daher nicht Selbstoptimierung, sondern professionelle Vorbereitung.`,
           uebung: {
-            titel: 'Therapeutisches Zuhören',
+            titel: 'Aufmerksames Zuhören',
             anleitung: `Übe mit einem Übungspartner — zehn Minuten:
 
 Der Übungspartner erzählt fünf Minuten lang frei über ein beliebiges Thema. Du hörst zu — und zwar so:
@@ -202,6 +204,7 @@ Besprecht danach: Wie hat es sich angefühlt, so gehört zu werden? Was war ande
     },
     {
       id: 'B09-M3',
+      nr: 3,
       titel: 'Emotionale Steuerung',
       lektionen: [
         {
@@ -209,13 +212,13 @@ Besprecht danach: Wie hat es sich angefühlt, so gehört zu werden? Was war ande
           titel: 'Emotionen verstehen — die innere Landkarte',
           inhalt: `Emotionen sind keine Störungen des klaren Denkens — sie sind Informationssignale deines Körper-Geist-Systems. Jede Emotion hat eine Funktion, eine Botschaft und eine Energie. Angst signalisiert Gefahr und mobilisiert Flucht. Wut signalisiert Grenzüberschreitung und mobilisiert Verteidigung. Trauer signalisiert Verlust und mobilisiert den Loslassungsprozess. Freude signalisiert Stimmigkeit und mobilisiert Wiederholung. Emotionen sind biologische Programme mit evolutionärem Sinn.
 
-Das Problem entsteht nicht durch die Emotionen selbst, sondern durch den Umgang mit ihnen. Die drei häufigsten dysfunktionalen Muster sind Unterdrückung, Überidentifikation und Vermeidung. Unterdrückung bedeutet, die Emotion nicht zu fühlen — sie runterzuschlucken, wegzudrücken, zu ignorieren. Das funktioniert kurzfristig, führt aber langfristig zu somatischen Symptomen und explosiven Ausbrüchen. Überidentifikation bedeutet, in der Emotion zu versinken — „Ich bin wütend" statt „Ich spüre Wut." Vermeidung bedeutet, Situationen zu meiden, die bestimmte Emotionen auslösen könnten — mit der Folge, dass das Leben immer enger wird.
+Das Thema entsteht nicht durch die Emotionen selbst, sondern durch den Umgang mit ihnen. Die drei häufigsten ungünstigen Muster sind Unterdrückung, Überidentifikation und Vermeidung. Unterdrückung bedeutet, die Emotion nicht zu fühlen — sie runterzuschlucken, wegzudrücken, zu ignorieren. Das funktioniert kurzfristig, führt aber langfristig oft zu körperlichen Beschwerden und explosiven Ausbrüchen. Überidentifikation bedeutet, in der Emotion zu versinken — „Ich bin wütend" statt „Ich spüre Wut." Vermeidung bedeutet, Situationen zu meiden, die bestimmte Emotionen auslösen könnten — mit der Folge, dass das Leben immer enger wird.
 
 Emotionale Kompetenz — die Fähigkeit, Emotionen bewusst wahrzunehmen, zu verstehen, zu regulieren und konstruktiv auszudrücken — ist eine Kernkompetenz der Bewusstseinssteuerung. Sie umfasst vier Stufen: Emotionale Wahrnehmung — ich bemerke, was ich fühle. Emotionales Verständnis — ich verstehe, warum ich es fühle. Emotionale Regulation — ich kann wählen, wie ich mit dem Gefühl umgehe. Emotionaler Ausdruck — ich kann das Gefühl angemessen kommunizieren.
 
 Die emotionale Landkarte jedes Menschen ist einzigartig — geformt durch Kindheitserfahrungen, familiäre Muster, kulturelle Prägung und persönliche Geschichte. Manche Menschen haben einen leichten Zugang zu Trauer, aber einen blockierten Zugang zu Wut. Andere können problemlos Freude zeigen, aber keine Verletzlichkeit. Das Erkennen der eigenen emotionalen Landkarte — welche Gefühle sind zugänglich, welche blockiert, welche übermäßig dominant — ist der erste Schritt zur emotionalen Reife.
 
-Für deine Arbeit als Praktizierende ist emotionale Kompetenz doppelt wichtig: Du brauchst sie für dich selbst — um in intensiven Sitzungen stabil zu bleiben. Und du brauchst sie als Werkzeug — um Klienten auf ihrem Weg zu emotionaler Reife zu begleiten.`,
+Für deine Arbeit als Begleiterin ist emotionale Kompetenz doppelt wichtig: Du brauchst sie für dich selbst — um in intensiven Sitzungen stabil zu bleiben. Und du brauchst sie als Werkzeug — um Klienten auf ihrem Weg zu emotionaler Reife zu begleiten.`,
           uebung: {
             titel: 'Emotionale Landkarte zeichnen',
             anleitung: `Zeichne deine persönliche emotionale Landkarte:
@@ -240,15 +243,15 @@ Diese Landkarte zeigt dir dein emotionales Profil — und die Bereiche, in denen
         {
           id: 'B09-M3-L2',
           titel: 'Zustandsmanagement — Emotionen bewusst wechseln',
-          inhalt: `Der mächtigste Aspekt der emotionalen Steuerung ist die Fähigkeit, deinen inneren Zustand bewusst zu verändern — nicht durch Unterdrückung eines unerwünschten Gefühls, sondern durch die bewusste Hinwendung zu einem gewählten Zustand. Diese Fähigkeit macht dich unabhängig von äußeren Umständen. Nicht weil die Umstände unwichtig wären, sondern weil du lernst, zwischen dem Reiz und deiner Reaktion einen Raum der Wahl zu schaffen.
+          inhalt: `Ein wichtiger Aspekt der emotionalen Steuerung ist die Fähigkeit, deinen inneren Zustand bewusst zu verändern — nicht durch Unterdrückung eines unerwünschten Gefühls, sondern durch die bewusste Hinwendung zu einem gewählten Zustand. Diese Fähigkeit macht dich unabhängiger von äußeren Umständen. Nicht weil die Umstände unwichtig wären, sondern weil du lernst, zwischen dem Reiz und deiner Reaktion einen Raum der Wahl zu schaffen.
 
-Der Zustandsanker ist eine Technik, die einen gewünschten emotionalen Zustand mit einem sensorischen Reiz verknüpft — einer Berührung, einem Wort, einer Geste, einem Bild. Du rufst den gewünschten Zustand intensiv hervor — zum Beispiel tiefe Ruhe, Selbstvertrauen oder Freude — und verknüpfst ihn im Moment der höchsten Intensität mit dem Anker. Durch Wiederholung wird der Anker so stark konditioniert, dass er den Zustand zuverlässig auslösen kann — auch in Situationen, in denen du ihn am dringendsten brauchst.
+Der Zustandsanker ist eine Technik, die einen gewünschten emotionalen Zustand mit einem sensorischen Reiz verknüpft — einer Berührung, einem Wort, einer Geste, einem Bild. Du rufst den gewünschten Zustand intensiv hervor — zum Beispiel tiefe Ruhe, Selbstvertrauen oder Freude — und verknüpfst ihn im Moment der höchsten Intensität mit dem Anker. Durch Wiederholung wird der Anker so stark geübt, dass er den Zustand zuverlässig auslösen kann — auch in Situationen, in denen du ihn am dringendsten brauchst.
 
-Die Atemsteuerung ist das unmittelbarste Werkzeug zur Zustandsveränderung. Schneller, flacher Atem aktiviert das sympathische Nervensystem — Stress, Angst, Kampfbereitschaft. Langsamer, tiefer Atem aktiviert das parasympathische Nervensystem — Entspannung, Ruhe, Regeneration. Die bewusste Verlängerung der Ausatmung — vier Sekunden einatmen, sechs bis acht Sekunden ausatmen — ist der schnellste Weg, einen aufgeregten Zustand in einen ruhigen zu transformieren. Diese Technik wirkt innerhalb von sechzig Sekunden, ist überall anwendbar und braucht keine Hilfsmittel.
+Die Atemsteuerung ist das unmittelbarste Werkzeug zur Zustandsveränderung. Schneller, flacher Atem geht meist mit Anspannung und Aufregung einher. Langsamer, tiefer Atem unterstützt Entspannung und Ruhe. Die bewusste Verlängerung der Ausatmung — vier Sekunden einatmen, sechs bis acht Sekunden ausatmen — ist einer der schnellsten Wege, einen aufgeregten Zustand in einen ruhigeren zu überführen. Diese Technik wird von vielen als innerhalb einer Minute spürbar erlebt, ist überall anwendbar und braucht keine Hilfsmittel.
 
-Körperhaltung und Bewegung beeinflussen den emotionalen Zustand direkt. Ein Mensch, der aufrecht steht, die Schultern zurück, den Blick nach oben gerichtet, kann schwerer in Depression verfallen als ein Mensch, der zusammengesunken sitzt und nach unten schaut. Diese Verbindung — das sogenannte Embodiment — ist bidirektional: Der Körper beeinflusst die Emotion, und die Emotion beeinflusst den Körper. Bewusste Körperhaltung ist daher eine Form der emotionalen Steuerung.
+Körperhaltung und Bewegung beeinflussen den emotionalen Zustand direkt. Ein Mensch, der aufrecht steht, die Schultern zurück, den Blick nach oben gerichtet, erlebt seinen inneren Zustand oft anders als ein Mensch, der zusammengesunken sitzt und nach unten schaut. Diese Verbindung — das sogenannte Embodiment — ist wechselseitig: Der Körper beeinflusst die Emotion, und die Emotion beeinflusst den Körper. Bewusste Körperhaltung ist daher eine Form der emotionalen Steuerung.
 
-Die innere Sprache — der fortwährende innere Dialog — formt deinen emotionalen Zustand stärker als jedes äußere Ereignis. Wenn dein innerer Dialog von Sorgen, Selbstkritik und Katastrophenszenarien dominiert wird, wirst du chronisch ängstlich und angespannt sein — unabhängig von den äußeren Umständen. Die bewusste Veränderung der inneren Sprache — nicht durch positives Denken als Verleugnung, sondern durch realistische, wohlwollende Selbstkommunikation — ist eine der nachhaltigsten Formen der Bewusstseinssteuerung.`,
+Die innere Sprache — der fortwährende innere Dialog — formt deinen emotionalen Zustand oft stärker als jedes äußere Ereignis. Wenn dein innerer Dialog von Sorgen, Selbstkritik und Katastrophenszenarien dominiert wird, wirst du dich häufig ängstlich und angespannt fühlen — unabhängig von den äußeren Umständen. Die bewusste Veränderung der inneren Sprache — nicht durch positives Denken als Verleugnung, sondern durch realistische, wohlwollende Selbstkommunikation — ist eine der nachhaltigsten Formen der Bewusstseinssteuerung.`,
           uebung: {
             titel: 'Zustandsanker installieren',
             anleitung: `Installiere einen Ruhe-Anker:
@@ -274,15 +277,17 @@ Stärke den Anker in den nächsten Tagen, indem du ihn bei jedem natürlichen Ru
         {
           id: 'B09-M3-L3',
           titel: 'Umgang mit schwierigen Emotionen',
-          inhalt: `Schwierige Emotionen — intensive Angst, tiefe Trauer, explosive Wut, überwältigende Scham — sind die Momente, in denen die Bewusstseinssteuerung am meisten gebraucht wird und am schwersten aufrechtzuerhalten ist. Die Fähigkeit, auch in emotionalen Stürmen den Beobachter aktiv zu halten und bewusste Wahlmöglichkeiten zu bewahren, ist das Kennzeichen emotionaler Reife.
+          inhalt: `Schwierige Emotionen — intensive Angst, tiefe Trauer, explosive Wut, überwältigende Scham — sind die Momente, in denen die Bewusstseinssteuerung am meisten gebraucht wird und am schwersten aufrechtzuerhalten ist. Die Fähigkeit, auch in emotionalen Stürmen den Beobachter aktiv zu halten und bewusste Wahlmöglichkeiten zu bewahren, ist ein Kennzeichen emotionaler Reife.
 
-Der erste Schritt im Umgang mit schwierigen Emotionen ist kontraintuitiv: Nicht dagegen ankämpfen, sondern durchlassen. Emotionen sind wie Wellen — sie steigen an, erreichen einen Höhepunkt und klingen ab. Wenn du einer Emotion erlaubst, sich zu entfalten, ohne sie zu unterdrücken oder zu verstärken, dauert ihr natürlicher Zyklus in der Regel neunzig Sekunden bis wenige Minuten. Was die Emotion verlängert, ist nicht das Gefühl selbst — es ist die Geschichte, die du über das Gefühl erzählst. Die Angst dauert neunzig Sekunden — die Angst vor der Angst kann Stunden dauern.
+Der erste Schritt im Umgang mit schwierigen Emotionen ist kontraintuitiv: Nicht dagegen ankämpfen, sondern durchlassen. Emotionen sind wie Wellen — sie steigen an, erreichen einen Höhepunkt und klingen ab. Wenn du einer Emotion erlaubst, sich zu entfalten, ohne sie zu unterdrücken oder zu verstärken, klingt ihre erste Welle oft schon nach kurzer Zeit ab. Was die Emotion verlängert, ist häufig nicht das Gefühl selbst — es ist die Geschichte, die du über das Gefühl erzählst. Die Angst dauert einen Moment — die Angst vor der Angst kann Stunden dauern.
 
 Die RAIN-Technik ist ein bewährtes Vier-Schritte-Modell für den bewussten Umgang mit schwierigen Emotionen. R steht für Recognize — erkenne die Emotion. Benenne sie: „Da ist Wut. Da ist Angst. Da ist Scham." A steht für Allow — erlaube der Emotion, da zu sein. Nicht willkommen heißen, nicht festhalten, einfach erlauben. I steht für Investigate — untersuche die Emotion mit freundlicher Neugier. Wo spürst du sie im Körper? Was sagt sie dir? Was braucht sie? N steht für Not-Identify — erkenne, dass du nicht die Emotion bist. Du hast Wut — du bist nicht Wut. Du erlebst Angst — du bist nicht Angst.
 
 Die Fenster-Technik hilft bei überwältigenden Emotionen: Du stellst dir vor, dass die Emotion auf der anderen Seite einer Fensterscheibe ist. Du kannst sie sehen, du kannst sie wahrnehmen — aber sie kann dich nicht überfluten, weil die Scheibe dazwischen ist. Diese Distanzierungstechnik ist keine Verleugnung — sie ist ein vorübergehender Schutz, der dir erlaubt, die Emotion zu beobachten, ohne von ihr überwältigt zu werden.
 
-Die Containment-Technik ist für Situationen, in denen eine Emotion zu einem ungünstigen Zeitpunkt auftaucht — in einem Meeting, in der Öffentlichkeit, in einer Sitzung. Du stellst dir vor, dass du die Emotion vorübergehend in einen sicheren Behälter gibst — eine Truhe, einen Tresor, ein verschließbares Gefäß. Du versprichst dir selbst, sie später herauszuholen und zu bearbeiten — und du hältst dieses Versprechen. Containment ist kein Unterdrücken — es ist bewusstes Aufschieben mit der Verpflichtung zur späteren Verarbeitung.`,
+Die Containment-Technik ist für Situationen, in denen eine Emotion zu einem ungünstigen Zeitpunkt auftaucht — in einem Meeting, in der Öffentlichkeit, in einer Sitzung. Du stellst dir vor, dass du die Emotion vorübergehend in einen sicheren Behälter gibst — eine Truhe, einen Tresor, ein verschließbares Gefäß. Du versprichst dir selbst, sie später herauszuholen und zu bearbeiten — und du hältst dieses Versprechen. Containment ist kein Unterdrücken — es ist bewusstes Aufschieben mit der Verpflichtung zur späteren Verarbeitung.
+
+Ein wichtiger Rahmen für all diese Techniken: Sie sind Werkzeuge der Selbststeuerung und der Begleitung im Bereich Persönlichkeitsentwicklung — sie ersetzen keine Behandlung. Wenn Emotionen anhaltend überwältigen, wenn Ängste den Alltag einschränken oder wenn belastende Erinnerungen sich aufdrängen, gehört das in fachkundige Hände. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
             titel: 'RAIN-Praxis',
             anleitung: `Wende die RAIN-Technik auf ein aktuell belastendes Gefühl an:
@@ -301,7 +306,9 @@ N — Not-Identify: Sage innerlich: „Ich habe dieses Gefühl. Aber ich bin nic
 
 Atme dreimal tief durch. Öffne die Augen.
 
-Notiere: Wie hat sich das Gefühl im Verlauf der Übung verändert? Ist es stärker, schwächer oder gleich geblieben?`,
+Notiere: Wie hat sich das Gefühl im Verlauf der Übung verändert? Ist es stärker, schwächer oder gleich geblieben?
+
+Hinweis: Wenn ein Gefühl beim Hinschauen immer überwältigender wird oder alte, sehr belastende Erinnerungen auftauchen, beende die Übung sanft und suche dir bei Bedarf fachliche Begleitung.`,
             dauer: '10 Min',
           },
         },
@@ -309,20 +316,21 @@ Notiere: Wie hat sich das Gefühl im Verlauf der Übung verändert? Ist es stär
     },
     {
       id: 'B09-M4',
+      nr: 4,
       titel: 'Gedankensteuerung',
       lektionen: [
         {
           id: 'B09-M4-L1',
           titel: 'Das Denken beobachten',
-          inhalt: `Der durchschnittliche Mensch hat zwischen sechzigtausend und achtzigtausend Gedanken pro Tag — die überwältigende Mehrheit davon unbewusst, repetitiv und negativ. Dieselben Sorgen, dieselben Selbstzweifel, dieselben Katastrophenszenarien kreisen Tag für Tag durch das Bewusstsein, ohne dass der Mensch es bemerkt. Diese gedankliche Grundströmung — das, was Buddhisten den „Affengeist" nennen — ist der mächtigste Einflussfaktor auf deine Lebensqualität, dein Verhalten und deine Gesundheit.
+          inhalt: `Der menschliche Geist produziert Tag für Tag eine kaum vorstellbare Menge an Gedanken — die überwältigende Mehrheit davon unbewusst, repetitiv und oft negativ getönt. Dieselben Sorgen, dieselben Selbstzweifel, dieselben Katastrophenszenarien kreisen Tag für Tag durch das Bewusstsein, ohne dass der Mensch es bemerkt. Diese gedankliche Grundströmung — in manchen Traditionen bildhaft der „unruhige Geist" genannt — ist ein mächtiger Einflussfaktor auf deine Lebensqualität, dein Verhalten und dein Wohlbefinden.
 
-Der erste Schritt der Gedankensteuerung ist nicht das Verändern der Gedanken — sondern das Beobachten. Du musst wissen, was du denkst, bevor du entscheiden kannst, ob du so weiterdenken möchtest. Die meisten Menschen haben keine Ahnung, was in ihrem Kopf vor sich geht. Sie identifizieren sich so vollständig mit ihrem Denken, dass sie den Unterschied zwischen sich und ihren Gedanken nicht mehr wahrnehmen können.
+Der erste Schritt der Gedankensteuerung ist nicht das Verändern der Gedanken — sondern das Beobachten. Du musst wissen, was du denkst, bevor du entscheiden kannst, ob du so weiterdenken möchtest. Die meisten Menschen haben keine klare Vorstellung davon, was in ihrem Kopf vor sich geht. Sie identifizieren sich so vollständig mit ihrem Denken, dass sie den Unterschied zwischen sich und ihren Gedanken kaum noch wahrnehmen können.
 
 Die Gedankenbeobachtung beginnt mit einer einfachen Übung: Setze dich hin, schließe die Augen und beobachte einfach, welche Gedanken kommen. Nicht eingreifen, nicht bewerten, nicht folgen — nur beobachten. Wie Züge, die durch einen Bahnhof fahren: Du schaust zu, aber du steigst nicht ein. Diese Übung offenbart die Natur des Denkens: Es ist automatisch, es ist unaufhörlich, und es ist erstaunlich repetitiv.
 
-Die Kategorisierung deiner Gedanken ist der nächste Schritt. Sobald du beobachtest, kannst du sortieren: Ist das ein Planungsgedanke? Ein Sorgengedanke? Eine Erinnerung? Eine Selbstbewertung? Ein Phantasie? Durch die Kategorisierung gewinnst du Distanz — du siehst den Gedanken als das, was er ist: eine mentale Aktivität, nicht die Realität.
+Die Kategorisierung deiner Gedanken ist der nächste Schritt. Sobald du beobachtest, kannst du sortieren: Ist das ein Planungsgedanke? Ein Sorgengedanke? Eine Erinnerung? Eine Selbstbewertung? Eine Phantasie? Durch die Kategorisierung gewinnst du Distanz — du siehst den Gedanken als das, was er ist: eine mentale Aktivität, nicht die Realität.
 
-Die entscheidende Erkenntnis: Gedanken sind keine Fakten. Ein Gedanke wie „Ich bin nicht gut genug" fühlt sich an wie eine Tatsache — aber er ist eine innere Aussage, geformt durch Erfahrung und Konditionierung. Die Fähigkeit, zwischen Gedanken und Fakten zu unterscheiden, ist eine der befreiendsten Erkenntnisse auf dem Weg der Bewusstseinsarbeit. Du bist nicht verpflichtet, jeden Gedanken zu glauben, der durch deinen Kopf geht.`,
+Die entscheidende Erkenntnis: Gedanken sind keine Fakten. Ein Gedanke wie „Ich bin nicht gut genug" fühlt sich an wie eine Tatsache — aber er ist eine innere Aussage, geformt durch Erfahrung und Prägung. Die Fähigkeit, zwischen Gedanken und Fakten zu unterscheiden, ist eine der befreiendsten Erkenntnisse auf dem Weg der Bewusstseinsarbeit. Du bist nicht verpflichtet, jeden Gedanken zu glauben, der durch deinen Kopf geht.`,
           uebung: {
             titel: 'Gedanken-Protokoll',
             anleitung: `Setze dich fünf Minuten hin. Schließe die Augen. Stelle einen Timer.
@@ -343,15 +351,15 @@ Diese fünf Minuten zeigen dir die Textur deines inneren Monologs — und warum 
         {
           id: 'B09-M4-L2',
           titel: 'Kognitive Umstrukturierung',
-          inhalt: `Kognitive Umstrukturierung ist die Kunst, dysfunktionale Denkmuster zu erkennen und durch hilfreichere zu ersetzen — nicht durch positives Denken als Verleugnung, sondern durch realistisches, differenziertes Denken, das der Komplexität der Realität gerecht wird.
+          inhalt: `Kognitive Umstrukturierung ist die Kunst, ungünstige Denkmuster zu erkennen und durch hilfreichere zu ersetzen — nicht durch positives Denken als Verleugnung, sondern durch realistisches, differenziertes Denken, das der Komplexität der Realität gerecht wird.
 
-Die häufigsten dysfunktionalen Denkmuster sind gut dokumentiert. Schwarz-Weiß-Denken sieht nur Extreme — alles oder nichts, Erfolg oder Versagen, gut oder schlecht. Katastrophisierung springt sofort zum schlimmsten möglichen Ausgang. Übergeneralisierung schließt aus einem einzelnen Ereignis auf eine universelle Regel — „Immer geht alles schief." Personalisierung bezieht alles auf sich selbst — „Es ist meine Schuld." Gedankenlesen unterstellt anderen Absichten ohne Beweise — „Er denkt sicher, dass ich inkompetent bin." Emotionales Denken verwechselt Gefühle mit Fakten — „Ich fühle mich wertlos, also bin ich wertlos."
+Die häufigsten ungünstigen Denkmuster sind gut beschrieben. Schwarz-Weiß-Denken sieht nur Extreme — alles oder nichts, Erfolg oder Versagen, gut oder schlecht. Katastrophisierung springt sofort zum schlimmsten möglichen Ausgang. Übergeneralisierung schließt aus einem einzelnen Ereignis auf eine universelle Regel — „Immer geht alles schief." Personalisierung bezieht alles auf sich selbst — „Es ist meine Schuld." Gedankenlesen unterstellt anderen Absichten ohne Beweise — „Er denkt sicher, dass ich inkompetent bin." Emotionales Denken verwechselt Gefühle mit Fakten — „Ich fühle mich wertlos, also bin ich wertlos."
 
 Die Umstrukturierung folgt drei Schritten. Erstens: Den automatischen Gedanken identifizieren und aufschreiben — genau so, wie er im Kopf auftaucht. „Ich werde die Präsentation vermasseln und alle werden mich auslachen." Zweitens: Den Gedanken prüfen — Welche Beweise gibt es dafür? Welche dagegen? Welches Denkmuster steckt dahinter? Ist der Gedanke hilfreich? Was würde ich einem Freund sagen, der so denkt? Drittens: Einen realistischeren Gedanken formulieren — „Ich bin nervös vor der Präsentation, was normal ist. Ich habe mich vorbereitet. Manche Teile werden gut laufen, manche weniger. Das ist menschlich."
 
-Die Umstrukturierung ist kein Selbstbetrug — sie ist eine Korrektur systematischer Denkfehler. Der dysfunktionale Gedanke ist nicht realistisch — er ist verzerrt. Der umstrukturierte Gedanke ist nicht positiv — er ist differenzierter und näher an der Realität.
+Die Umstrukturierung ist kein Selbstbetrug — sie ist eine Korrektur systematischer Denkfehler. Der ungünstige Gedanke ist nicht realistisch — er ist verzerrt. Der umstrukturierte Gedanke ist nicht einfach positiv — er ist differenzierter und näher an der Realität.
 
-Für die therapeutische Arbeit ist kognitive Umstrukturierung ein Werkzeug, das du Klienten beibringen kannst — als Selbsthilfetechnik für den Alltag. Es ersetzt keine tiefe Bewusstseinsarbeit, aber es gibt dem Klienten ein sofort anwendbares Werkzeug gegen die Tyrannei der automatischen Gedanken.`,
+Für die begleitende Arbeit ist kognitive Umstrukturierung ein Werkzeug, das du Klienten als Selbsthilfetechnik für den Alltag vermitteln kannst. Es ersetzt keine tiefere Prozessarbeit und keine Behandlung, aber es gibt dem Klienten ein sofort anwendbares Werkzeug gegen die Übermacht automatischer Gedanken.`,
           uebung: {
             titel: 'Gedanken-Check',
             anleitung: `Wähle einen belastenden Gedanken, der dich in letzter Zeit beschäftigt hat.
@@ -375,13 +383,13 @@ Schreibe den neuen Gedanken auf. Lies ihn laut vor. Wie fühlt er sich an — ve
           titel: 'Mentale Hygiene — den Geist klar halten',
           inhalt: `So wie du deinen Körper täglich pflegst — duschen, Zähne putzen, frische Kleidung — braucht auch dein Geist tägliche Pflege. Mentale Hygiene umfasst die bewussten Praktiken, die deinen Geist klar, fokussiert und frei von unnötigem Ballast halten.
 
-Morgendliche Geistesklarheit: Die ersten Minuten des Tages formen dein mentales Grundniveau. Statt sofort zum Smartphone zu greifen und dein Bewusstsein mit Nachrichten, Nachrichten und Fremdimpulsen zu fluten, beginne den Tag mit bewusstem Atmen, einer kurzen Meditation oder einer Intention für den Tag. Diese fünf Minuten Klarheit vor dem Eintauchen in den Alltag sind wertvoller als eine Stunde Meditation am Ende eines chaotischen Tages.
+Morgendliche Geistesklarheit: Die ersten Minuten des Tages formen dein mentales Grundniveau. Statt sofort zum Smartphone zu greifen und dein Bewusstsein mit Nachrichten und Fremdimpulsen zu fluten, beginne den Tag mit bewusstem Atmen, einer kurzen Meditation oder einer Intention für den Tag. Diese fünf Minuten Klarheit vor dem Eintauchen in den Alltag sind wertvoller als eine Stunde Meditation am Ende eines chaotischen Tages.
 
-Informationshygiene: Dein Geist ist das Produkt dessen, was du ihm zuführst. Wenn du den ganzen Tag Nachrichten, Social Media und Negativität konsumierst, wird dein Geist ängstlich, zerstreut und erschöpft. Wähle bewusst, welche Informationen du aufnimmst — qualitativ, quantitativ und zeitlich begrenzt. Es ist nicht Ignoranz, die Nachrichtenflut zu beschränken — es ist Selbstfürsorge.
+Informationshygiene: Dein Geist ist zu einem großen Teil das Produkt dessen, was du ihm zuführst. Wenn du den ganzen Tag Nachrichten, Social Media und Negativität konsumierst, wird dein Geist leicht unruhig, zerstreut und erschöpft. Wähle bewusst, welche Informationen du aufnimmst — qualitativ, quantitativ und zeitlich begrenzt. Es ist nicht Ignoranz, die Nachrichtenflut zu beschränken — es ist Selbstfürsorge.
 
-Das Gedankenreset am Abend verhindert, dass die Themen des Tages mit in die Nacht genommen werden. Schreibe alles auf, was im Kopf kreist — To-do-Listen, Sorgen, ungelöste Fragen. Das externalisiert die Gedanken und signalisiert dem Gehirn: Es ist aufgehoben, du kannst loslassen. Dann bewusst abschließen — drei Dinge, die heute gut waren, drei Dinge, für die du dankbar bist.
+Das Gedankenreset am Abend hilft, die Themen des Tages nicht mit in die Nacht zu nehmen. Schreibe alles auf, was im Kopf kreist — To-do-Listen, Sorgen, ungelöste Fragen. Das externalisiert die Gedanken und signalisiert dem Gehirn: Es ist aufgehoben, du kannst loslassen. Dann bewusst abschließen — drei Dinge, die heute gut waren, drei Dinge, für die du dankbar bist.
 
-Die Gedankenfasten-Praxis: Einmal pro Woche eine Stunde in bewusster Stille verbringen — keine Unterhaltung, keine Medien, keine Ablenkung. Nur du und dein Bewusstsein. Diese Stille ist anfangs unangenehm — der Geist rebelliert, sucht nach Stimulation, produziert Rastlosigkeit. Aber mit der Zeit wird die Stille zum Luxus — ein Raum, in dem der Geist sich reinigen, ordnen und erneuern kann.
+Die Gedankenfasten-Praxis: Einmal pro Woche eine Stunde in bewusster Stille verbringen — keine Unterhaltung, keine Medien, keine Ablenkung. Nur du und dein Bewusstsein. Diese Stille ist anfangs oft unangenehm — der Geist sucht nach Stimulation, produziert Rastlosigkeit. Aber mit der Zeit wird die Stille zum Luxus — ein Raum, in dem der Geist sich ordnen und erneuern kann.
 
 Mentale Grenzen setzen: Nicht jeder Gedanke, der kommt, verdient Aufmerksamkeit. Nicht jede Sorge, die auftaucht, verdient Analyse. Nicht jede Kritik, die du hörst, verdient Verinnerlichung. Mentale Hygiene bedeutet auch: Nein sagen zu Gedanken, die nicht hilfreich sind. Nicht kämpfen — einfach nicht einsteigen. Der Zug fährt vorbei, und du bleibst am Bahnsteig.`,
           uebung: {
@@ -412,20 +420,21 @@ Starte morgen. Halte vier Wochen durch. Dann evaluiere die Wirkung.`,
     },
     {
       id: 'B09-M5',
+      nr: 5,
       titel: 'Bewusstseinszustände gezielt nutzen',
       lektionen: [
         {
           id: 'B09-M5-L1',
           titel: 'Flow-Zustände aktivieren',
-          inhalt: `Flow — der Zustand völliger Versenkung in eine Tätigkeit, in dem Handlung und Bewusstsein verschmelzen — ist einer der produktivsten und befriedigendsten Bewusstseinszustände, die ein Mensch erleben kann. Im Flow verschwindet die Selbstreflexion, die Zeit verändert ihre Qualität, die Leistung steigt mühelos und das Erleben ist intrinsisch belohnend. Flow ist kein Glücksfall — er ist ein Zustand, der bewusst herbeigeführt werden kann, wenn die richtigen Bedingungen geschaffen werden.
+          inhalt: `Flow — der Zustand völliger Versenkung in eine Tätigkeit, in dem Handlung und Bewusstsein verschmelzen — ist einer der produktivsten und befriedigendsten Bewusstseinszustände, die ein Mensch erleben kann. Im Flow verschwindet die Selbstreflexion, die Zeit verändert ihre Qualität, die Leistung steigt mühelos und das Erleben ist von sich aus belohnend. Flow ist kein reiner Glücksfall — er ist ein Zustand, der bewusst begünstigt werden kann, wenn die richtigen Bedingungen geschaffen werden.
 
-Die Voraussetzungen für Flow sind gut erforscht. Erstens: Die Aufgabe muss herausfordernd genug sein, um dein volles Engagement zu erfordern — aber nicht so herausfordernd, dass sie Angst auslöst. Der Sweet Spot liegt knapp über deinem aktuellen Kompetenzniveau. Zweitens: Klare Ziele — du musst wissen, was du tust und wohin du willst. Drittens: Unmittelbares Feedback — du merkst sofort, ob das, was du tust, funktioniert. Viertens: Minimale Ablenkung — Benachrichtigungen aus, Tür zu, Fokus an.
+Die Voraussetzungen für Flow sind gut beschrieben. Erstens: Die Aufgabe muss herausfordernd genug sein, um dein volles Engagement zu erfordern — aber nicht so herausfordernd, dass sie Angst auslöst. Der Sweet Spot liegt knapp über deinem aktuellen Kompetenzniveau. Zweitens: Klare Ziele — du musst wissen, was du tust und wohin du willst. Drittens: Unmittelbares Feedback — du merkst sofort, ob das, was du tust, funktioniert. Viertens: Minimale Ablenkung — Benachrichtigungen aus, Tür zu, Fokus an.
 
 Die Flow-Vorbereitung umfasst die bewusste Gestaltung deiner Umgebung und deines inneren Zustands. Äußerlich: Schaffe einen ablenkungsfreien Raum. Innerlich: Bringe dich in einen Zustand entspannter Wachheit — nicht angespannt, nicht müde, sondern klar und offen. Eine kurze Meditation oder Atemübung vor der Arbeit kann die Schwelle zum Flow senken.
 
-Der Flow-Trigger ist der Moment, in dem du den Einstieg in den Flow bewusst einleitest. Beginne mit einer Aufgabe, die leicht genug ist, um den Einstieg zu erleichtern, und steigere dann die Komplexität. Die ersten fünf bis fünfzehn Minuten sind die kritische Phase — hier entscheidet sich, ob du in den Flow gleitest oder in der Ablenkung hängen bleibst. Widerstehe dem Impuls, in dieser Phase auf dein Handy zu schauen, eine Frage zu googeln oder kurz die E-Mails zu checken. Jede Unterbrechung in dieser Phase zerstört den Flow-Aufbau.
+Der Flow-Trigger ist der Moment, in dem du den Einstieg in den Flow bewusst einleitest. Beginne mit einer Aufgabe, die leicht genug ist, um den Einstieg zu erleichtern, und steigere dann die Komplexität. Die ersten fünf bis fünfzehn Minuten sind die kritische Phase — hier entscheidet sich, ob du in den Flow gleitest oder in der Ablenkung hängen bleibst. Widerstehe dem Impuls, in dieser Phase auf dein Handy zu schauen, eine Frage nachzuschlagen oder kurz die E-Mails zu checken. Jede Unterbrechung in dieser Phase zerstört den Flow-Aufbau.
 
-Flow in der therapeutischen Arbeit ist der Zustand, den du als Praktizierende anstrebst: vollständig präsent, intuitiv reagierend, mühelos fokussiert, in tiefer Verbindung mit dem Klienten. Dieser therapeutische Flow entsteht, wenn du deine Methoden so verinnerlicht hast, dass du nicht mehr über sie nachdenken musst — sie fließen durch dich hindurch. Die Grundlage dafür: Übung, Übung, Übung.`,
+Flow in der begleitenden Arbeit ist der Zustand, den du anstrebst: vollständig präsent, intuitiv reagierend, mühelos fokussiert, in tiefer Verbindung mit dem Klienten. Dieser Flow entsteht, wenn du deine Methoden so verinnerlicht hast, dass du nicht mehr über sie nachdenken musst — sie fließen durch dich hindurch. Die Grundlage dafür: Übung, Übung, Übung.`,
           uebung: {
             titel: 'Flow-Protokoll',
             anleitung: `Erinnere dich an einen Flow-Moment in deinem Leben — einen Moment, in dem du vollkommen versunken warst, die Zeit vergessen hast und die Handlung mühelos floss.
@@ -449,15 +458,15 @@ Plane diese Woche bewusst eine Flow-Session: Wähle eine Tätigkeit, schaffe die
         {
           id: 'B09-M5-L2',
           titel: 'Intuition und innere Führung',
-          inhalt: `Intuition ist kein mysteriöser sechster Sinn — sie ist das Ergebnis unbewusster Informationsverarbeitung. Dein Unterbewusstsein verarbeitet eine Vielfaches dessen, was dein bewusstes Denken erfassen kann. Es erkennt Muster, die zu komplex für den analytischen Verstand sind, und liefert das Ergebnis als Gefühl, als Impuls, als plötzliche Gewissheit — als Intuition.
+          inhalt: `Intuition ist kein mysteriöser sechster Sinn — sie lässt sich gut als Ergebnis unbewusster Informationsverarbeitung verstehen. Dein Unterbewusstsein verarbeitet ein Vielfaches dessen, was dein bewusstes Denken erfassen kann. Es erkennt Muster, die zu komplex für den analytischen Verstand sind, und liefert das Ergebnis als Gefühl, als Impuls, als plötzliche Gewissheit — als Intuition.
 
-Die Herausforderung der Intuition liegt nicht darin, sie zu entwickeln — sie ist bereits da. Die Herausforderung liegt darin, sie von anderen inneren Stimmen zu unterscheiden: von Angst, von Wunschdenken, von konditionierten Überzeugungen, von sozialem Druck. Echte Intuition hat bestimmte Qualitäten, die sie von diesen Imitationen unterscheiden.
+Die Herausforderung der Intuition liegt nicht darin, sie zu entwickeln — sie ist bereits da. Die Herausforderung liegt darin, sie von anderen inneren Stimmen zu unterscheiden: von Angst, von Wunschdenken, von übernommenen Überzeugungen, von sozialem Druck. Echte Intuition hat bestimmte Qualitäten, die sie von diesen Imitationen unterscheiden.
 
-Intuition fühlt sich ruhig an — nicht aufgeregt, nicht ängstlich, nicht drängend. Sie kommt oft leise, als stilles Wissen, als sanfter Impuls, als Klarheit ohne Begründung. Angst dagegen fühlt sich dringend an, eng, getrieben. Wunschdenken fühlt sich aufgeregt an, verlockend, emotional aufgeladen. Konditionierung fühlt sich automatisch an, reflexartig, wie ein „man sollte" statt ein „ich spüre." Intuition hat eine Qualität von Wahrheit, die sich im Körper verankert — oft als Gefühl in der Bauchgegend, als Weite in der Brust oder als stille Gewissheit im Geist.
+Intuition fühlt sich oft ruhig an — nicht aufgeregt, nicht ängstlich, nicht drängend. Sie kommt häufig leise, als stilles Wissen, als sanfter Impuls, als Klarheit ohne lange Begründung. Angst dagegen fühlt sich dringend an, eng, getrieben. Wunschdenken fühlt sich aufgeregt an, verlockend, emotional aufgeladen. Übernommene Prägung fühlt sich automatisch an, reflexartig, wie ein „man sollte" statt ein „ich spüre." Intuition hat eine Qualität von Stimmigkeit, die sich im Körper verankert — oft als Gefühl in der Bauchgegend, als Weite in der Brust oder als stille Gewissheit im Geist.
 
-Die Stärkung der Intuition beginnt mit dem Vertrauen in die eigene Wahrnehmung. Viele Menschen haben ihre intuitive Fähigkeit nicht verloren — sie haben gelernt, sie zu ignorieren. „Das bildest du dir nur ein." „Sei nicht so emotional." „Denk rational." Diese Botschaften haben die Verbindung zur Intuition unterbrochen. Die Wiederherstellung beginnt damit, die inneren Impulse ernst zu nehmen — sie wahrzunehmen, ihnen Raum zu geben und schrittweise zu lernen, ihnen zu vertrauen.
+Die Stärkung der Intuition beginnt mit dem Vertrauen in die eigene Wahrnehmung. Viele Menschen haben ihre intuitive Fähigkeit nicht verloren — sie haben gelernt, sie zu ignorieren. „Das bildest du dir nur ein." „Sei nicht so emotional." „Denk rational." Diese Botschaften haben die Verbindung zur Intuition unterbrochen. Die Wiederherstellung beginnt damit, die inneren Impulse ernst zu nehmen — sie wahrzunehmen, ihnen Raum zu geben und schrittweise zu lernen, ihnen angemessen zu vertrauen.
 
-Für die therapeutische Arbeit ist Intuition ein unverzichtbares Werkzeug. Die besten therapeutischen Entscheidungen — wann du eine Frage stellst, wann du schweigst, wann du tiefer gehst, wann du aufhörst — werden nicht durch Protokolle und Checklisten getroffen, sondern durch die Verbindung von Fachwissen und Intuition. Das Fachwissen gibt dir die Optionen — die Intuition sagt dir, welche Option in diesem Moment für diesen Klienten die richtige ist.`,
+Für die begleitende Arbeit ist Intuition ein wertvolles Werkzeug. Viele gute Entscheidungen in der Begleitung — wann du eine Frage stellst, wann du schweigst, wann du tiefer gehst, wann du innehältst — entstehen nicht durch starre Protokolle, sondern durch die Verbindung von Fachwissen und Intuition. Das Fachwissen gibt dir die Optionen — die Intuition hilft dir zu spüren, welche Option in diesem Moment für diesen Klienten stimmig ist. Wichtig bleibt: Intuition ersetzt keine fachliche Abklärung, wo diese nötig ist.`,
           uebung: {
             titel: 'Intuitions-Tagebuch',
             anleitung: `Führe eine Woche lang ein Intuitions-Tagebuch:
@@ -478,17 +487,17 @@ Die regelmäßige Beachtung der Intuition stärkt sie — wie einen Muskel, der 
         {
           id: 'B09-M5-L3',
           titel: 'Bewusste Zustandsübergänge',
-          inhalt: `Die Meisterschaft der Bewusstseinssteuerung liegt in der Fähigkeit, bewusst und fließend zwischen verschiedenen Bewusstseinszuständen zu wechseln — je nachdem, was die Situation erfordert. Ein Gespräch erfordert fokussierte Aufmerksamkeit. Kreative Arbeit erfordert offenen, assoziativen Geist. Therapeutische Arbeit erfordert gleichzeitigen Fokus und Weite. Entspannung erfordert das bewusste Loslassen aller Fokussierung.
+          inhalt: `Ein reifer Umgang mit Bewusstseinssteuerung zeigt sich in der Fähigkeit, bewusst und fließend zwischen verschiedenen Bewusstseinszuständen zu wechseln — je nachdem, was die Situation erfordert. Ein Gespräch erfordert fokussierte Aufmerksamkeit. Kreative Arbeit erfordert offenen, assoziativen Geist. Begleitende Arbeit erfordert gleichzeitigen Fokus und Weite. Entspannung erfordert das bewusste Loslassen aller Fokussierung.
 
 Der bewusste Zustandsübergang beginnt mit der Zustandswahrnehmung: In welchem Zustand bin ich gerade? Diese Frage klingt banal, aber die meisten Menschen stellen sie sich nie. Sie hetzen von Termin zu Termin, von Aufgabe zu Aufgabe, und nehmen ihren inneren Zustand als gegeben hin. Die bewusste Wahrnehmung des aktuellen Zustands ist der erste Schritt zur Veränderung.
 
 Der zweite Schritt: Die Zustandsentscheidung. Welcher Zustand wäre für die nächste Aktivität optimal? Brauche ich Energie oder Ruhe? Fokus oder Weite? Analytisches Denken oder kreatives Fließen? Empathische Offenheit oder klare Abgrenzung? Die bewusste Entscheidung für einen Zustand ist bereits der halbe Übergang.
 
-Der dritte Schritt: Die Übergangshandlung. Verschiedene Zustände erfordern verschiedene Übergänge. Von Stress zu Ruhe: Atemverlangsamung, Körperentspannung, Blick nach innen. Von Ruhe zu Fokus: Aufrechte Haltung, klare Intention, Aufmerksamkeit auf einen Punkt. Von Fokus zu Kreativität: Blick weiten, Assoziationen zulassen, inneren Zensor ausschalten. Von Alltagsbewusstsein zu therapeutischer Präsenz: Erdung, Zentrierung, Öffnung des Wahrnehmungsfeldes.
+Der dritte Schritt: Die Übergangshandlung. Verschiedene Zustände erfordern verschiedene Übergänge. Von Anspannung zu Ruhe: Atemverlangsamung, Körperentspannung, Blick nach innen. Von Ruhe zu Fokus: Aufrechte Haltung, klare Intention, Aufmerksamkeit auf einen Punkt. Von Fokus zu Kreativität: Blick weiten, Assoziationen zulassen, inneren Zensor lockern. Von Alltagsbewusstsein zu begleitender Präsenz: Erdung, Zentrierung, Öffnung des Wahrnehmungsfeldes.
 
 Die Kunst der Übergänge zeigt sich besonders in den Momenten zwischen den Aktivitäten — den Schwellen. Der Moment zwischen dem letzten Klienten und dem nächsten. Der Moment zwischen Arbeit und Feierabend. Der Moment zwischen Aktivität und Schlaf. Diese Schwellenmomente bewusst zu gestalten — statt sie mit Smartphone-Scrolling zu füllen — ist einer der wirkungsvollsten Hebel für die Lebensqualität.
 
-Die tägliche Praxis der Zustandsübergänge macht dich flexibel, resilient und adaptiv. Du wirst zum bewussten Gestalter deines inneren Erlebens — nicht als Kontrollfreak, der jede Emotion steuert, sondern als souveräner Mensch, der weiß, dass er wählen kann.`,
+Die tägliche Praxis der Zustandsübergänge macht dich flexibel, resilient und anpassungsfähig. Du wirst zum bewussten Gestalter deines inneren Erlebens — nicht als Kontrollfreak, der jede Emotion steuert, sondern als souveräner Mensch, der weiß, dass er wählen kann.`,
           uebung: {
             titel: 'Übergangs-Ritual',
             anleitung: `Gestalte drei bewusste Übergangsrituale für deinen Alltag:
@@ -513,25 +522,26 @@ Praktiziere diese drei Rituale eine Woche lang — konsequent, bewusst, ohne Aus
     },
     {
       id: 'B09-M6',
+      nr: 6,
       titel: 'Bewusstseinsarbeit in der Praxis',
       lektionen: [
         {
           id: 'B09-M6-L1',
           titel: 'Bewusstseinscoaching — Klienten begleiten',
-          inhalt: `Bewusstseinscoaching unterscheidet sich von klassischem Coaching durch seinen Fokus: Es geht nicht primär um Ziele, Strategien und Handlungspläne, sondern um die Erweiterung des Bewusstseins selbst. Der Klient lernt nicht nur, was er tun soll — er lernt, wer er ist, wie er wahrnimmt, wie er denkt und wie er diese Prozesse bewusst steuern kann.
+          inhalt: `Bewusstseinscoaching unterscheidet sich von klassischem Coaching durch seinen Fokus: Es geht nicht primär um Ziele, Strategien und Handlungspläne, sondern um die Erweiterung des Bewusstseins selbst. Der Klient lernt nicht nur, was er tun soll — er lernt, wer er ist, wie er wahrnimmt, wie er denkt und wie er diese Prozesse bewusst steuern kann. Wichtig ist dabei die klare Verortung: Diese Arbeit bewegt sich im Bereich Persönlichkeitsentwicklung und Lebensgestaltung. Sie ist keine Heilbehandlung und keine Psychotherapie. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 Der Einstieg ins Bewusstseinscoaching beginnt mit einer Standortbestimmung: Wie bewusst lebt der Klient aktuell? Wo ist er im Autopilot? Wo reagiert er automatisch? Welche Muster wiederholen sich? Welche Gedanken dominieren? Welche Emotionen sind zugänglich, welche blockiert? Diese Bestandsaufnahme — ohne Bewertung, nur mit Neugier — gibt beiden Seiten ein klares Bild des Ausgangspunkts.
 
 Die Arbeit selbst folgt dem Prinzip: Vom Beobachten zum Verstehen zum Wählen. Zuerst hilfst du dem Klienten, seine automatischen Muster zu beobachten — ohne sie sofort ändern zu wollen. Dann hilfst du ihm zu verstehen, woher diese Muster kommen — welche Erfahrungen, Überzeugungen und Ängste sie nähren. Und dann hilfst du ihm, bewusst zu wählen — neue Reaktionen auszuprobieren, neue Perspektiven einzunehmen, neue Gewohnheiten zu etablieren.
 
-Die Werkzeuge des Bewusstseinscoachings sind die Techniken, die du in diesem Kurs gelernt hast: Beobachterschulung, Aufmerksamkeitstraining, emotionale Regulation, kognitive Umstrukturierung, Zustandsmanagement, mentale Hygiene. Du lehrst diese Werkzeuge nicht als Theorie — du begleitest den Klienten durch die Erfahrung. Er spürt den Unterschied zwischen Autopilot und Bewusstheit nicht, weil du es ihm erklärst, sondern weil er es in der Sitzung erlebt.
+Die Werkzeuge des Bewusstseinscoachings sind die Techniken, die du in diesem Kurs gelernt hast: Beobachterschulung, Aufmerksamkeitstraining, emotionale Regulation, kognitive Umstrukturierung, Zustandsmanagement, mentale Hygiene. Du lehrst diese Werkzeuge nicht als bloße Theorie — du begleitest den Klienten durch die Erfahrung. Er spürt den Unterschied zwischen Autopilot und Bewusstheit nicht, weil du es ihm erklärst, sondern weil er es in der Sitzung erlebt.
 
-Die größte Herausforderung im Bewusstseinscoaching ist die Geduld. Bewusstseinsveränderung ist kein schneller Fix — sie ist ein Prozess, der Wochen und Monate dauert. Alte Muster sind tief eingegraben, neue Gewohnheiten brauchen Wiederholung. Deine Aufgabe ist es, diesen Prozess mit Geduld, Ermutigung und ehrlichem Feedback zu begleiten — ohne Druck, ohne Versprechen, aber mit dem tiefen Vertrauen, dass jeder Mensch die Fähigkeit hat, bewusster zu leben.`,
+Die größte Herausforderung im Bewusstseinscoaching ist die Geduld. Bewusstseinsveränderung ist kein schneller Fix — sie ist ein Prozess, der Wochen und Monate dauert. Alte Muster sind tief eingegraben, neue Gewohnheiten brauchen Wiederholung. Deine Aufgabe ist es, diesen Prozess mit Geduld, Ermutigung und ehrlichem Feedback zu begleiten — ohne Druck, ohne Heilversprechen, aber mit dem tiefen Vertrauen, dass jeder Mensch die Fähigkeit hat, bewusster zu leben. Und wo im Verlauf tiefere seelische Belastungen sichtbar werden, verweist du an fachkundige Stellen.`,
           uebung: {
             titel: 'Coaching-Einstieg üben',
             anleitung: `Übe den Einstieg in ein Bewusstseinscoaching mit einem Übungspartner:
 
-1. Begrüßung und Rahmen (3 Min): Erkläre in einfachen Worten, was Bewusstseinscoaching ist und wie ihr arbeiten werdet.
+1. Begrüßung und Rahmen (3 Min): Erkläre in einfachen Worten, was Bewusstseinscoaching ist und wie ihr arbeiten werdet — und wo seine Grenzen liegen (keine Behandlung, Verweis bei gesundheitlichen Themen).
 
 2. Standortbestimmung (10 Min): Stelle diese Fragen:
    - Wie bewusst lebst du im Alltag — auf einer Skala von 1 bis 10?
@@ -584,13 +594,13 @@ Am Sonntagabend: Schreibe eine Seite Reflexion. Was war leicht? Was war schwer? 
 
 Und doch stehst du erst am Anfang. Bewusstseinsarbeit ist keine Technik, die man „beherrscht" — sie ist ein lebenslanger Prozess der Vertiefung, der Verfeinerung und der immer tieferen Begegnung mit dir selbst. Jedes Plateau, das du erreichst, offenbart eine neue Ebene der Tiefe. Jede Erkenntnis öffnet eine neue Frage. Jeder Fortschritt zeigt dir, wie viel es noch zu entdecken gibt.
 
-Die tägliche Praxis ist dein verlässlichster Begleiter auf diesem Weg. Nicht die großen Durchbrüche zählen — es sind die stillen fünf Minuten am Morgen, die bewusste Minute am Mittag, die reflektierende Viertelstunde am Abend. Konsistenz schlägt Intensität. Eine tägliche fünfminütige Meditation über Jahre hinweg transformiert dein Bewusstsein tiefer als ein einwöchiges Retreat, dem keine Praxis folgt.
+Die tägliche Praxis ist dein verlässlichster Begleiter auf diesem Weg. Nicht die großen Durchbrüche zählen — es sind die stillen fünf Minuten am Morgen, die bewusste Minute am Mittag, die reflektierende Viertelstunde am Abend. Konsistenz schlägt Intensität. Eine tägliche fünfminütige Meditation über Jahre hinweg verändert dein Bewusstsein oft tiefer als ein einwöchiges Retreat, dem keine Praxis folgt.
 
-Die Gemeinschaft Gleichgesinnter gibt deinem Weg Halt und Inspiration. Suche dir Menschen, die ebenfalls bewusst leben wollen — eine Meditationsgruppe, eine Übungspartnerschaft, ein Netzwerk von Praktizierenden. Der gemeinsame Weg ist leichter, reicher und freudvoller als der einsame.
+Die Gemeinschaft Gleichgesinnter gibt deinem Weg Halt und Inspiration. Suche dir Menschen, die ebenfalls bewusst leben wollen — eine Meditationsgruppe, eine Übungspartnerschaft, ein Netzwerk von Begleitern. Der gemeinsame Weg ist leichter, reicher und freudvoller als der einsame.
 
-Und schließlich: Sei geduldig mit dir. Es wird Tage geben, an denen du in alte Muster zurückfällst. Tage, an denen der Autopilot gewinnt. Tage, an denen du vergisst, was du gelernt hast. Das ist kein Versagen — das ist menschlich. Jeder Moment, in dem du bemerkst, dass du unbewusst warst, ist ein Moment des Bewusstseins. Jedes Zurückkehren zur Praxis ist ein Sieg. Der Weg ist nicht das Ziel — der Weg ist die Praxis selbst.
+Und schließlich: Sei geduldig mit dir. Es wird Tage geben, an denen du in alte Muster zurückfällst. Tage, an denen der Autopilot gewinnt. Tage, an denen du vergisst, was du gelernt hast. Das ist kein Versagen — das ist menschlich. Jeder Moment, in dem du bemerkst, dass du unbewusst warst, ist ein Moment des Bewusstseins. Jedes Zurückkehren zur Praxis ist ein Gewinn. Der Weg ist nicht das Ziel — der Weg ist die Praxis selbst.
 
-Lebe bewusst. Wähle bewusst. Liebe bewusst. Dein Bewusstsein ist das kostbarste Geschenk, das du besitzt. Nutze es.`,
+Lebe bewusst. Wähle bewusst. Begegne dir und anderen bewusst. Dein Bewusstsein ist ein kostbares Geschenk. Nutze es.`,
           uebung: {
             titel: 'Abschluss-Reflexion und Commitment',
             anleitung: `Nimm dir Zeit für diese letzte Übung — sie ist die Brücke zwischen dem Kurs und deinem bewussten Leben:

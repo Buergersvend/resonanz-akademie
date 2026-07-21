@@ -1444,7 +1444,69 @@ Alle drei Wege sind richtig. Aromakunde skaliert — von einem einzigen Fläschc
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was besagt das Prinzip der Duftpräferenz in der Duftberatung?',
+      antworten: [
+        'Man sollte jedem Menschen pauschal Lavendel empfehlen',
+        'Der teuerste Duft ist immer der wirksamste',
+        'Menschen fühlen sich intuitiv zu den Düften hingezogen, die zu ihrer aktuellen Stimmung passen',
+        'Abneigungen gegen einen Duft sind für die Beratung bedeutungslos',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Warum tropft man ätherische Öle für ein Aromabad nicht direkt ins Wasser?',
+      antworten: [
+        'Weil ätherische Öle nicht wasserlöslich sind und unverdünnt auf der Haut reizen können — daher immer emulgieren (z. B. mit Sahne oder Salz)',
+        'Weil sie das Badewasser dauerhaft verfärben',
+        'Weil sie sich in Wasser sofort vollständig auflösen',
+        'Weil kaltes Wasser die Öle zerstört',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was ist bei versehentlichem Augenkontakt mit einem ätherischen Öl zu tun?',
+      antworten: [
+        'Sofort mit reichlich Wasser ausspülen',
+        'Das Auge kräftig reiben',
+        'Nichts tun — es vergeht von selbst',
+        'Mit Trägeröl (Fettöl) ausspülen, da Wasser das Öl nur verteilt',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Welche Aussage entspricht den allgemeinen Sicherheitsregeln der Aromakunde?',
+      antworten: [
+        'Lavendel und Teebaum dürfen bedenkenlos dauerhaft pur aufgetragen werden',
+        'Ätherische Öle immer verdünnen und nicht innerlich einnehmen',
+        'Eine höhere Dosis im Diffuser ist grundsätzlich besser',
+        'Öle gehören in Reichweite von Kindern, damit sie daran riechen können',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie ist die Aromakunde einzuordnen, wenn gesundheitliche Beschwerden auftreten?',
+      antworten: [
+        'Sie ersetzt bei den meisten Beschwerden den Arztbesuch',
+        'Sie darf Krankheiten diagnostizieren, solange keine Medikamente verordnet werden',
+        'Sie ist Pflanzen- und Duftkunde für das Wohlbefinden und ersetzt keine ärztliche, pharmazeutische oder heilkundliche Beratung — bei Beschwerden wird an Ärztin, Arzt, Apotheke oder Heilpraktiker verwiesen',
+        'Ätherische Öle heilen Krankheiten zuverlässig, wenn sie richtig dosiert werden',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Dosierung nennt der Kurs für ein Vollbad mit ätherischen Ölen?',
+      antworten: [
+        '20–30 Tropfen für eine möglichst intensive Wirkung',
+        '5–8 Tropfen (nie mehr als 10), zuvor in einem Emulgator wie Sahne oder Salz gebunden',
+        'Ein halbes Fläschchen pro Bad',
+        'Ein einziger Tropfen genügt für ein Vollbad',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default N01;

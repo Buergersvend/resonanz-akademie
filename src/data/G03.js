@@ -728,6 +728,68 @@ Dein Weg des bewussten Atmens hat begonnen.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Was bewirkt laut Kurs-Faustregel ein längeres Ausatmen im Vergleich zum Einatmen?',
+      antworten: [
+        'Es wirkt aktivierend und weckt auf',
+        'Es wirkt beruhigend — es aktiviert den Parasympathikus',
+        'Es hat keinen Einfluss auf das Nervensystem',
+        'Es stoppt die Verdauung dauerhaft',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welches Ein-/Ausatem-Verhältnis nutzt die „verlängerte Ausatmung" als Basis-Formel?',
+      antworten: [
+        '1:2 — doppelt so lang aus wie ein',
+        '2:1 — doppelt so lang ein wie aus',
+        '1:1 — exakt gleich lang ein und aus',
+        '3:1 — dreimal so lang ein wie aus',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie lautet der Rhythmus der 4-7-8-Atmung?',
+      antworten: [
+        '4 Sek halten, 7 Sek einatmen, 8 Sek ausatmen',
+        '4 Sek einatmen, 7 Sek ausatmen, 8 Sek halten',
+        '4 Sek einatmen, 7 Sek halten, 8 Sek ausatmen',
+        '8 Sek einatmen, 7 Sek halten, 4 Sek ausatmen',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Worin unterscheidet sich Bhastrika („Blasebalg") von Kapalabhati?',
+      antworten: [
+        'Bhastrika wird ausschließlich durch den Mund geatmet',
+        'Bei Bhastrika ist nur die Einatmung aktiv',
+        'Bei Bhastrika sind Ein- UND Ausatmung aktiv, bei Kapalabhati nur die Ausatmung (Einatmung passiv)',
+        'Es gibt keinen Unterschied zwischen beiden',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Sicherheitsregel gilt für die intensive Energieaufladung (Wim-Hof-Prinzip)?',
+      antworten: [
+        'Am besten im Wasser üben, weil das zusätzlich entspannt',
+        'Niemals im Wasser durchführen (Ertrinkungsgefahr), nicht beim Autofahren, nur im Sitzen oder Liegen — nicht bei Schwangerschaft, Epilepsie oder schweren Herz-Kreislauf-Erkrankungen',
+        'Immer im Stehen üben, damit man nicht einschläft',
+        'Uneingeschränkt für jede Person geeignet, auch beim Autofahren',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie wird „verbundenes Atmen" (Connected Breathing) im Kurs charakterisiert?',
+      antworten: [
+        'Als reine Entspannungstechnik mit bewussten Pausen zwischen den Atemzügen',
+        'Als Technik ausschließlich zum schnellen Einschlafen',
+        'Als Atemtechnik, die man nur beim Sport anwendet',
+        'Als kontinuierlicher Atemkreislauf ohne Pausen — kein Entspannungswerkzeug, sondern ein Prozess, der aufwühlt, bevor er klärt',
+      ],
+      richtig: 3,
+    },
+  ],
 }
 
 export default G03

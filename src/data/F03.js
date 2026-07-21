@@ -325,7 +325,69 @@ Zum Abschluss: Bei anhaltenden Beschwerden, Entwicklungssorgen oder gesundheitli
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Welchen Perspektivwechsel legt der bindungsorientierte Blick nahe?',
+      antworten: [
+        'Von „Wie belohne ich richtig?" zu „Wie bestrafe ich wirksam?"',
+        'Von „Wie bringe ich mein Kind zu richtigem Verhalten?" zu „Was möchte mein Kind mir mit seinem Verhalten zeigen?"',
+        'Von Bindung hin zu strikter Konsequenz',
+        'Von Empathie hin zu grenzenloser Permissivität',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welches der vier Bindungsmuster ist bei Kindern am häufigsten?',
+      antworten: [
+        'Unsicher-vermeidend',
+        'Unsicher-ambivalent',
+        'Sicher gebunden (etwa 60 %)',
+        'Desorganisiert',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie erklärt der Kurs die emotionalen Ausbrüche in der Trotzphase (1–3 Jahre)?',
+      antworten: [
+        'Das präfrontale Gehirn (Impulskontrolle) ist in diesem Alter noch nicht ausgereift — es ist kein bewusster Ungehorsam',
+        'Das Kind will die Eltern gezielt ärgern',
+        'Es ist immer ein Erziehungsfehler',
+        'Es zeigt eine ernsthafte Störung an',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was empfiehlt der Kurs für die Kommunikation mit Kindern?',
+      antworten: [
+        'Du-Anklagen wie „Du bist so unordentlich!"',
+        'Gefühle des Kindes sofort korrigieren',
+        'Möglichst viele Anweisungen geben',
+        'Ich-Botschaften statt Du-Anklagen und Gefühle anerkennen statt korrigieren',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wo liegt die Grenze dieses Kurses?',
+      antworten: [
+        'Er ersetzt bei Entwicklungssorgen den Kinderarzt',
+        'Er ist Bildung und Selbstwahrnehmung, keine Therapie oder Beratung Dritter — bei anhaltenden Beschwerden, Entwicklungssorgen oder gesundheitlichen Fragen an Kinderarzt, Therapeut oder Erziehungsberatung verweisen',
+        'Er befähigt zur professionellen Familienberatung',
+        'Er behandelt kindliche Störungen selbst',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welcher Dreischritt gilt laut Kurs als Kompass für alltägliche Herausforderungen?',
+      antworten: [
+        'Belohnen, Bestrafen, Ignorieren',
+        'Reden, Drohen, Durchsetzen',
+        'Verstehen, Beziehung, Struktur — das Verhalten verstehen, die Beziehung stärken, bei sich selbst ansetzen',
+        'Diagnose, Therapie, Kontrolle',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default F03;

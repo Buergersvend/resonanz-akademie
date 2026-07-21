@@ -925,7 +925,69 @@ Schreib ihn auf und bewahre ihn an einem Ort auf, an dem du ihn immer wieder sie
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Welche drei großen Aufgaben erfüllen Nährstoffe im Körper?',
+      antworten: [
+        'Sie liefern ausschließlich Energie',
+        'Diagnostizieren, behandeln und heilen',
+        'Energie liefern (Brennstoff), aufbauen/reparieren (Baustoff) und steuern/schützen (Wirkstoff)',
+        'Ausschließlich Baustoffe für Muskeln liefern',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Vitamine sind fettlöslich?',
+      antworten: [
+        'A, D, E und K',
+        'Alle B-Vitamine und Vitamin C',
+        'Nur Vitamin C',
+        'Calcium und Magnesium',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche Kombination verbessert die Aufnahme von pflanzlichem Eisen?',
+      antworten: [
+        'Eisen zusammen mit sehr viel Kaffee',
+        'Pflanzliches Eisen zusammen mit Vitamin C (z. B. Zitrone über Linsen)',
+        'Eisen ausschließlich pur, ohne andere Lebensmittel',
+        'Eisen zusammen mit hochdosierten Präparaten',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was stimmt laut Kurs über Tiefkühlgemüse?',
+      antworten: [
+        'Es ist grundsätzlich nährstoffarm',
+        'Es enthält niemals Vitamine',
+        'Nur frische Ware ist wertvoll',
+        'Erntefrisch eingefroren kann es mehr Nährstoffe enthalten als tagelang transportierte „frische" Ware',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie geht der Kurs mit dem Thema Mangel und Nahrungsergänzung um?',
+      antworten: [
+        'Ein Mangel lässt sich am Teller erspüren und selbst behandeln',
+        'Hochdosierte Präparate sind immer unbedenklich',
+        'Ein vermuteter Mangel gehört ärztlich abgeklärt (ggf. Laborwerte); gezielte Ergänzung und Dosierung gehören in ärztliche oder apothekerliche Hände',
+        'Vielfältig essen reicht, um jeden diagnostizierten Mangel selbst zu behandeln',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Warum bilden Ballaststoffe und Wasser ein „Team"?',
+      antworten: [
+        'Weil beide besonders viel Energie liefern',
+        'Ballaststoffe binden Wasser im Darm und wirken nur mit ausreichend Flüssigkeit wohltuend — mehr Ballaststoffe ohne genug Trinken kann das Gegenteil bewirken',
+        'Weil Wasser Ballaststoffe überflüssig macht',
+        'Weil beide gezuckerte Getränke ersetzen',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default N10;

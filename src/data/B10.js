@@ -339,6 +339,68 @@ Bewahre diese Reflexion auf. Lies sie in 4 Wochen noch einmal — du wirst staun
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Auf welchen drei Säulen beruht die Herzkohärenz-Arbeit laut Kurs?',
+      antworten: [
+        'Analyse, Bewertung und Problemlösung',
+        'Anstrengung, Willenskraft und Kontrolle',
+        'Bewusste Wahrnehmung, Intentionsarbeit und innere Resonanz',
+        'Diagnose, Medikation und Therapie',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was beschreibt der Zustand der „Kohärenz" in diesem Kurs?',
+      antworten: [
+        'Atem, Herzschlag und Empfinden finden in einen ruhigen, gleichmäßigen Rhythmus — sie schwingen harmonisch zusammen',
+        'Ein Zustand maximaler körperlicher Anstrengung',
+        'Das bewusste Unterdrücken aller Gefühle',
+        'Ein Zustand tiefer Bewusstlosigkeit',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welcher Atemrhythmus wird für die Kohärenzatmung als besonders beruhigend beschrieben?',
+      antworten: [
+        'So schnell wie möglich atmen',
+        'Nur einatmen, nicht ausatmen',
+        'Unregelmäßig, je nach spontanem Impuls',
+        'Etwa 5 Sekunden ein und 5 Sekunden aus — rund 6 Atemzüge pro Minute',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie sollte eine Intention bei der intentionsgeleiteten Aufmerksamkeit formuliert werden?',
+      antworten: [
+        'Als Verneinung: „Ich will weniger unruhig sein"',
+        'Immer positiv und im Präsens: „Ich bin in meiner Mitte"',
+        'In der Zukunftsform: „Irgendwann werde ich ruhig sein"',
+        'Möglichst kompliziert und ausführlich',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie ordnet der Kurs die Übungen gegenüber medizinischer Behandlung ein?',
+      antworten: [
+        'Sie sind ein Heilversprechen bei körperlichen Beschwerden',
+        'Sie ersetzen bei leichten Beschwerden den Arztbesuch',
+        'Sie dienen der Selbsterfahrung und sind kein Ersatz für ärztliche oder therapeutische Behandlung — bei gesundheitlichen Beschwerden an Ärztin oder Arzt wenden',
+        'Sie dürfen Diagnosen stellen, solange kein Medikament empfohlen wird',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was ist das Prinzip der „Zwei-Punkt-Achtsamkeit"?',
+      antworten: [
+        'Zwei verschiedene Atemtechniken gleichzeitig anwenden',
+        'Zwei Punkte am eigenen Körper gleichzeitig achtsam wahrnehmen und in der Wahrnehmung verbinden — das lenkt weg vom Gedankenkreisen',
+        'Zwei Ziele gleichzeitig im Leben verfolgen',
+        'Zwei Minuten lang die Luft anhalten',
+      ],
+      richtig: 1,
+    },
+  ],
 }
 
 export default B10

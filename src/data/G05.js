@@ -766,7 +766,69 @@ Schreibe einen kurzen Brief an dich selbst: Wie möchtest du Reiki in dein Leben
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was bedeutet „Reiki", und wie versteht sich der Praktizierende?',
+      antworten: [
+        'Reiki heißt „Heilung"; der Praktizierende gibt seine eigene Lebenskraft ab',
+        'Reiki heißt „universelle Lebensenergie" (Rei + Ki); der Praktizierende ist ein Kanal und gibt keine eigene Energie ab',
+        'Reiki heißt „Magie"; nur besonders Begabte können es',
+        'Reiki heißt „Massage"; man knetet die Energiezentren',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Womit beginnen die fünf Reiki-Lebensregeln (Gokai)?',
+      antworten: [
+        'Mit „Für immer und ewig …"',
+        'Mit „Nur wenn du willst …"',
+        'Mit „Niemals wieder …"',
+        'Mit „Gerade heute …" (z. B. sorge dich nicht, ärgere dich nicht, sei dankbar)',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie werden die Hände in der Reiki-Selbstpraxis eingesetzt?',
+      antworten: [
+        'Sanft aufgelegt oder wenige cm über dem Körper — Reiki ist keine Massage, es wird nicht gedrückt oder geknetet',
+        'Mit kräftigem Druck in die Muskeln',
+        'In ständiger knetender Bewegung',
+        'Nur mit den Fingerspitzen fest drückend',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was bewirkt die Reiki-Einstimmung laut Kurs?',
+      antworten: [
+        'Sie erzeugt die Energiefähigkeit vollständig neu',
+        'Sie ist ein mystischer Zauber ohne jede Grundlage',
+        'Sie erzeugt die Fähigkeit nicht, sondern aktiviert und verstärkt einen natürlichen, in jedem Menschen angelegten Prozess',
+        'Sie ist für die Praxis völlig überflüssig',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Grenzen der Reiki-Praxis sind „nicht verhandelbar"?',
+      antworten: [
+        'Reiki darf Diagnosen stellen, solange keine Medikamente empfohlen werden',
+        'Reiki stellt keine Diagnosen, verspricht keine Heilung und ersetzt keine ärztliche, heilpraktische oder psychotherapeutische Behandlung — bei Beschwerden wird an die Fachperson verwiesen',
+        'Reiki ersetzt bei leichten Beschwerden den Arzt',
+        'Reiki ist ein garantiertes Heilverfahren',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was gilt beim Teilen von Reiki mit Tieren?',
+      antworten: [
+        'Das Tier muss zum Stillhalten gezwungen werden',
+        'Reiki ersetzt bei kranken Tieren den Tierarzt',
+        'Tiere brauchen grundsätzlich längere Einheiten als Menschen',
+        'Das Tier entscheidet selbst, ob es Reiki annimmt; bei kranken oder verletzten Tieren ist immer der Tierarzt zuständig',
+      ],
+      richtig: 3,
+    },
+  ],
 }
 
 export default G05

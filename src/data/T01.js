@@ -311,7 +311,69 @@ Deine Wirkung liegt nicht in der Zahl deiner Kommunikationen — sie liegt in de
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was beschreibt der kinästhetische Kanal („Hellfühlen") in der Tierkommunikation?',
+      antworten: [
+        'Das Empfangen innerer Bilder aus der Perspektive des Tieres',
+        'Das Übertragen körperlicher und emotionaler Empfindungen des Tieres in den eigenen Körper',
+        'Das innere Hören von Worten und Sätzen',
+        'Ein plötzliches Wissen ohne Bild, Gefühl oder Stimme',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Worüber läuft die Verbindung laut Verbindungsprotokoll — und welche Fragen stellt man dem Tier?',
+      antworten: [
+        'Über den Kopf/Verstand; man stellt bevorzugt Ja-Nein-Fragen',
+        'Über den Bauch; man stellt gar keine Fragen',
+        'Über das Herz(chakra); man stellt offene Fragen statt Ja-Nein-Fragen',
+        'Über die Stimme; man gibt dem Tier Befehle',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'In der Emotionsübung löst du nach dem Wahrnehmen einer Emotion die Verbindung. Wie deutest du das Ergebnis?',
+      antworten: [
+        'Verschwindet die Emotion nach dem Lösen, war sie vom Tier; bleibt sie, war sie möglicherweise deine eigene',
+        'Bleibt die Emotion, war sie vom Tier; verschwindet sie, war sie deine eigene',
+        'Die Emotion ist immer die des Tieres, unabhängig vom Lösen',
+        'Emotionen lassen sich grundsätzlich nicht zuordnen',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie sollten Wahrnehmungen in der Tierkommunikation sprachlich mitgeteilt werden?',
+      antworten: [
+        'Als gesicherte Fakten: „Dein Tier hat …"',
+        'Als Diagnose mit konkreter Behandlungsempfehlung',
+        'Möglichst dramatisch, damit die Botschaft ankommt',
+        'Als Eindrücke, nicht als Fakten: „Ich nehme wahr, dass …" statt „Dein Tier sagt …"',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie verhält sich Tierkommunikation zur Tiermedizin?',
+      antworten: [
+        'Sie ersetzt den Tierarztbesuch, wenn die Wahrnehmung klar genug ist',
+        'Sie stellt keine Diagnosen und ersetzt keinen Tierarztbesuch — bei körperlichen Auffälligkeiten oder Erkrankungen gehört die Abklärung zum Tierarzt',
+        'Sie darf Behandlungen empfehlen, solange kein Medikament genannt wird',
+        'Sie ist der Tiermedizin überlegen, weil sie die Ursache energetisch erkennt',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Warum ist die Kategorie der „vagen Eindrücke" bei der Tagebuch-Auswertung besonders wichtig?',
+      antworten: [
+        'Weil vage Eindrücke immer die genauesten Treffer sind',
+        'Weil sie beweisen, dass Telepathie wissenschaftlich belegt ist',
+        'Weil vage Eindrücke sich wie Treffer anfühlen, aber auf fast alles passen könnten — sie ehrlich zu erkennen ist die Grundlage echten Wachstums',
+        'Weil man sie im Tagebuch grundsätzlich weglassen sollte',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default T01;

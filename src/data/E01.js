@@ -680,7 +680,69 @@ Du hast jetzt die Werkzeuge, um mit Energie zu arbeiten. Nutze sie — mit Weish
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Wie lautet das wichtigste Grundprinzip der Energiearbeit laut Kurs?',
+      antworten: [
+        'Energie entsteht nur durch körperliche Anstrengung',
+        'Energie folgt der Aufmerksamkeit — wohin die Aufmerksamkeit geht, dorthin fließt Energie',
+        'Energie lässt sich nicht bewusst lenken',
+        'Nur besonders begabte Menschen können Energie wahrnehmen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welcher der vier energetischen Wahrnehmungskanäle ist laut Kurs der häufigste?',
+      antworten: [
+        'Hellsehen (Clairvoyance)',
+        'Hellhören (Clairaudience)',
+        'Hellspüren (Clairsentience) — über körperliche Empfindungen',
+        'Hellwissen (Claircognizance)',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was bedeutet das Sanskrit-Wort „Chakra", und wie werden Chakren beschrieben?',
+      antworten: [
+        '„Rad" oder „Wirbel" — rotierende Energiewirbel entlang der Wirbelsäule, dynamisch und veränderlich',
+        '„Licht" — feste, unveränderliche Punkte',
+        '„Kanal" — gerade Linien durch den Körper',
+        '„Atem" — Luftströme in der Lunge',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was ist die „wichtigste Regel" beim Abgeben von Energie über die Hände?',
+      antworten: [
+        'Man gibt möglichst viel eigene Lebensenergie ab',
+        'Man nimmt vor allem die Energie des Gegenübers auf',
+        'Man arbeitet grundsätzlich ohne jede Erdung',
+        'Man gibt nie die eigene Lebensenergie ab — man ist Kanal, nicht Quelle; die Energie fließt von oben und unten durch einen hindurch',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie ist das Modell energetischer „Löcher" in der Aura einzuordnen?',
+      antworten: [
+        'Als medizinische Diagnose des Körperzustands',
+        'Als Beweis einer körperlichen Erkrankung',
+        'Als Wahrnehmungsmodell, keine Aussage über den Körper — bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Als sichere Grundlage, um anderen Menschen Diagnosen zu stellen',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche drei Grundpositionen stellt man vor jeder Energiearbeit her?',
+      antworten: [
+        'Sehen, Hören und Fühlen',
+        'Erdung, Zentrierung und Kanalisierung',
+        'Einatmen, Halten und Ausatmen',
+        'Vergangenheit, Gegenwart und Zukunft',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default E01;

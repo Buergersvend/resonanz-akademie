@@ -329,7 +329,69 @@ Nimm aus diesem Kurs vor allem eine Haltung mit: den freundlichen, wachen Blick 
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Wie sollte eine Affirmation laut Kurs formuliert werden?',
+      antworten: [
+        'In der Zukunftsform und mit Verneinungen',
+        'Im Präsens und positiv — z. B. „Ich bin ruhig und gelassen" statt „Ich habe keine Angst mehr"',
+        'Möglichst weit entfernt vom aktuellen Selbstbild',
+        'Immer als Frage formuliert',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Warum können Affirmationen kontraproduktiv wirken, die weit von der Selbstwahrnehmung entfernt sind?',
+      antworten: [
+        'Weil sie zu kurz sind',
+        'Weil sie im Präsens stehen',
+        'Weil das Gehirn sie sofort glaubt',
+        'Weil sie inneren Widerspruch erzeugen und den negativen Glaubenssatz verstärken können — besser sind Brückenaffirmationen',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Was beschreibt der Kreislauf von Gedanken, Gefühlen und Handeln?',
+      antworten: [
+        'Gedanken erzeugen Gefühle, Gefühle steuern Verhalten, Verhalten formt Erfahrung — der Kreislauf ist an jeder Stelle unterbrechbar',
+        'Nur Gedanken bestimmen die äußere Realität, ohne dass Handeln nötig ist',
+        'Gefühle sind unveränderlich und steuern alles allein',
+        'Handeln hat keinen Einfluss auf Erfahrungen',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was kennzeichnet die „Spiegelübung" in der Affirmationspraxis?',
+      antworten: [
+        'Man vermeidet jeglichen Blickkontakt',
+        'Man schreibt die Affirmation nur auf',
+        'Man spricht die Affirmation im direkten Blickkontakt mit sich selbst aus — das verstärkt die Wirkung und deckt Widerstand auf',
+        'Man wiederholt sie ausschließlich stumm im Kopf',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie ist Affirmationsarbeit gegenüber Therapie und Medizin einzuordnen?',
+      antworten: [
+        'Sie ersetzt bei seelischen Belastungen die Therapie',
+        'Sie ist Persönlichkeitsentwicklung, kein Ersatz für Therapie oder medizinische Behandlung — bei Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Sie beweist, dass man an seiner Krankheit selbst schuld ist',
+        'Sie darf Diagnosen ersetzen, solange man positiv denkt',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was beschreibt der „Obere-Grenze-Effekt"?',
+      antworten: [
+        'Die maximale Anzahl an Affirmationen pro Tag',
+        'Eine Obergrenze für die Länge einer Affirmation',
+        'Den Punkt, ab dem Affirmationen grundsätzlich nicht mehr wirken',
+        'Das unbewusste Ausbremsen des eigenen Aufschwungs, sobald eine gewohnte Schwelle des Wohlbefindens überschritten wird',
+      ],
+      richtig: 3,
+    },
+  ],
 };
 
 export default C08;

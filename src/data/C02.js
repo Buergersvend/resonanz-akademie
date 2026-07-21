@@ -317,7 +317,69 @@ Bleibe selbst ein lebendiges Beispiel für das, was du vermittelst. Deine eigene
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Welche drei Komponenten bilden laut Salutogenese-Modell das „Kohärenzgefühl"?',
+      antworten: [
+        'Diagnose, Therapie und Nachsorge',
+        'Ernährung, Bewegung und Schlaf',
+        'Verstehbarkeit, Handhabbarkeit und Sinnhaftigkeit',
+        'Körper, Geist und Seele',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Auf welchen fünf Säulen ruht ganzheitliches Wohlbefinden laut Kurs?',
+      antworten: [
+        'Körper, Psyche, Emotionen, soziale Beziehungen und Sinn-Dimension',
+        'Ernährung, Bewegung, Schlaf, Wasser und Luft',
+        'Diagnose, Behandlung, Rehabilitation, Prävention und Nachsorge',
+        'Geld, Karriere, Familie, Freizeit und Gesundheit',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie ist der Wirkungsbereich eines Wellnesscoachs abzugrenzen?',
+      antworten: [
+        'Er stellt Diagnosen und verordnet Therapien',
+        'Er behandelt Krankheiten anstelle des Arztes',
+        'Er darf Medikamente empfehlen, solange er nicht diagnostiziert',
+        'Er arbeitet in Prävention und Lebensstil — keine Diagnosen, keine Behandlung; bei Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Aus welchen drei Elementen besteht eine Gewohnheit als neurologische Schleife?',
+      antworten: [
+        'Wunsch, Plan und Erfolg',
+        'Auslöser, Routine und Belohnung',
+        'Gedanke, Gefühl und Handlung',
+        'Anfang, Mitte und Ende',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Worin unterscheidet sich ein „Ausrutscher" von einem „Rückfall"?',
+      antworten: [
+        'Ein Ausrutscher dauert länger als ein Rückfall',
+        'Es gibt keinen Unterschied zwischen beiden',
+        'Ein Ausrutscher ist ein einmaliges Abweichen, ein Rückfall die vollständige Rückkehr zum alten Muster — der Unterschied liegt oft in der Interpretation',
+        'Ein Rückfall ist immer geplant, ein Ausrutscher nie',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Atemtechnik nennt der Kurs zur schnellen körperlichen Stressregulation?',
+      antworten: [
+        'Die verlängerte Ausatmung (etwa 4 Sek ein, 6–8 Sek aus), die den Vagusnerv aktiviert',
+        'Möglichst schnelles Hecheln',
+        'Die Luft so lange wie möglich anhalten',
+        'Nur durch den Mund einatmen und nie ausatmen',
+      ],
+      richtig: 0,
+    },
+  ],
 };
 
 export default C02;

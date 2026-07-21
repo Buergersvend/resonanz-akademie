@@ -674,7 +674,69 @@ Dein wichtigster Lehrer auf diesem Weg ist nicht dieser Kurs, nicht ein Buch, ni
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was kennzeichnet die „Untere Welt" in der schamanischen Kosmologie?',
+      antworten: [
+        'Sie ist ein negativer Strafort, den man meiden sollte',
+        'Sie ist der Bereich der kosmischen Lehrer und Sternenwesen',
+        'Sie ist der Bereich der Krafttiere, der Erdheilung und der instinkthaften Weisheit — betreten durch symbolisches Hinabsteigen',
+        'Sie ist identisch mit der alltäglichen physischen Wirklichkeit',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'In welchem Gehirnwellen-Bereich bewegt sich der schamanische Bewusstseinszustand vor allem?',
+      antworten: [
+        'Im Theta-Bereich (4–8 Hz), unterstützt durch rhythmisches Trommeln von etwa 4–7 Schlägen pro Sekunde',
+        'Im Beta-Bereich (13–30 Hz) des aktiven Analysierens',
+        'In völliger Bewusstlosigkeit wie im Tiefschlaf',
+        'In einem Zustand ganz ohne Gehirnaktivität',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie findet man laut Kurs sein Krafttier?',
+      antworten: [
+        'Man wählt bewusst das Tier mit der stärksten kulturellen Bedeutung',
+        'Man sucht sich sein Lieblingstier aus',
+        'Man kauft eine Figur des gewünschten Tieres',
+        'Man findet es nicht durch Auswahl — es zeigt sich, oft überraschend, meist auf einer Reise in die Untere Welt',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Was gilt beim Räuchern mit Weißem Salbei („Smudging")?',
+      antworten: [
+        'Weißer Salbei ist die einzig wirksame Räucherpflanze',
+        'Die Ernte von Weißem Salbei ist ökologisch problematisch — heimischer Gartensalbei oder Beifuß sind ebenso wirksam und nachhaltiger',
+        'Man räuchert am besten bei fest geschlossenem Fenster',
+        'Man beginnt in der Raummitte und geht gegen den Uhrzeigersinn',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie ist Schamanismus im Verhältnis zu medizinischer und psychologischer Behandlung einzuordnen?',
+      antworten: [
+        'Er ersetzt bei schweren Traumata die psychologische Behandlung',
+        'Er ist eine gleichwertige Alternative zum Arztbesuch',
+        'Er ist ein Weg der Selbsterfahrung und ersetzt keinen Arztbesuch und keine Psychotherapie — bei gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Er darf Diagnosen stellen, solange keine Medikamente verordnet werden',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Rolle spielt die Absicht bei der schamanischen Reise?',
+      antworten: [
+        'Sie ist unwichtig — man lässt sich einfach treiben',
+        'Sie ist das „Steuerrad" der Reise und gibt ihr eine klare Richtung',
+        'Sie wird erst nach der Rückkehr formuliert',
+        'Sie ersetzt das Rückruf-Signal der Trommel',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default S01;

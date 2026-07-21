@@ -790,7 +790,69 @@ Der Atem ist der rote Faden, der alle Praktiken verbindet. Er ist die universell
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Wie wirken Ein- und Ausatmung auf das Nervensystem?',
+      antworten: [
+        'Die Einatmung aktiviert leicht den Sympathikus, die Ausatmung den Parasympathikus — deshalb beruhigt verlängerte Ausatmung',
+        'Beide aktivieren ausschließlich den Sympathikus',
+        'Die Ausatmung beschleunigt den Herzschlag',
+        'Die Atmung hat keinen Einfluss auf das autonome Nervensystem',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Worin unterscheiden sich Kapalabhati und Bhastrika?',
+      antworten: [
+        'Bhastrika nutzt nur die Einatmung aktiv',
+        'Kapalabhati arbeitet mit beiden Atemphasen aktiv',
+        'Bei Kapalabhati ist nur die Ausatmung aktiv (Einatmung passiv), bei Bhastrika sind Ein- UND Ausatmung aktiv',
+        'Es gibt keinen Unterschied zwischen beiden',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Atemfrequenz erzeugt die maximale Herzratenvariabilität („Kohärenz")?',
+      antworten: [
+        'Etwa 20 Atemzüge pro Minute',
+        'So schnell wie möglich atmen',
+        'Ein einziger Atemzug pro Minute',
+        'Etwa 6 Atemzüge pro Minute (rund 5–5,5 Sekunden ein und aus)',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Warum ist die Nasenatmung der Mundatmung vorzuziehen?',
+      antworten: [
+        'Weil sie den Sympathikus aktiviert',
+        'Die Nase filtert, befeuchtet und erwärmt die Luft und bildet Stickstoffmonoxid, das die Sauerstoffaufnahme verbessert',
+        'Weil Mundatmung die Schleimhäute besser befeuchtet',
+        'Weil sie schneller Luft liefert',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was gilt für intensive Atemarbeit und die Kälte-Atem-Praxis in Bezug auf Sicherheit?',
+      antworten: [
+        'Sie ist für jede Person uneingeschränkt geeignet',
+        'Intensive Hyperventilations-Übungen darf man auch im Wasser machen',
+        'Niemals im Wasser; Kontraindikationen u. a. Schwangerschaft, Epilepsie, Herz-Kreislauf-Erkrankungen — bei Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Bei Asthma darf man Medikamente eigenmächtig absetzen',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was ist das Kernprinzip des „verbundenen Atmens"?',
+      antworten: [
+        'Keine Pause zwischen Ein- und Ausatmung — ein durchgehender Atemkreislauf',
+        'Möglichst lange Pausen zwischen den Atemzügen',
+        'Nur einatmen, nie ausatmen',
+        'Den Atem so lange wie möglich anhalten',
+      ],
+      richtig: 0,
+    },
+  ],
 };
 
 export default G04;

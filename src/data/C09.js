@@ -799,6 +799,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Wann entsteht Stress laut dem Anforderungs-Ressourcen-Modell?',
+      antworten: [
+        'Wenn die wahrgenommenen Anforderungen die wahrgenommenen Ressourcen übersteigen',
+        'Nur wenn die Ressourcen die Anforderungen übersteigen',
+        'Immer, völlig unabhängig von den Ressourcen',
+        'Ausschließlich bei körperlicher Arbeit',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche drei Dimensionen kennzeichnen laut Kurs das Burnout?',
+      antworten: [
+        'Angst, Wut und Trauer',
+        'Schlaf, Ernährung und Bewegung',
+        'Erschöpfung, Zynismus und reduzierte Leistungsfähigkeit',
+        'Vergangenheit, Gegenwart und Zukunft',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie verhält sich das Coaching bei fortgeschrittenem Burnout oder gesundheitlichen Beschwerden?',
+      antworten: [
+        'Coaching ersetzt in diesem Fall die medizinische Behandlung',
+        'Coaching reicht dann nicht aus — Psychotherapie und ärztliche Begleitung sind der richtige Weg; bei Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Der Coach stellt selbst die Burnout-Diagnose',
+        'Man ignoriert die Symptome und arbeitet einfach weiter',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was bewirkt die „Gedanken-Defusion" im Stressmanagement?',
+      antworten: [
+        'Man verdrängt den Gedanken vollständig',
+        'Man glaubt jedem Gedanken sofort',
+        'Man lenkt sich möglichst schnell mit etwas anderem ab',
+        'Man schafft Distanz: „Ich habe gerade den Gedanken, dass …" statt „Ich schaffe das nie" — man ist nicht der Gedanke, man hat einen Gedanken',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Welchen Paradigmenwechsel empfiehlt der Kurs beim Umgang mit knapper Kapazität?',
+      antworten: [
+        'Nicht die Zeit managen, sondern die Energie — wichtige Aufgaben nach den Energiehochs planen',
+        'Noch enger takten und mehr in weniger Zeit quetschen',
+        'Alle Pausen streichen, um mehr zu schaffen',
+        'Ausschließlich nach freien Kalenderfenstern planen',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Auf welchen vier Säulen ruht die Führungskräfte-Resilienz?',
+      antworten: [
+        'Geld, Status, Macht und Kontrolle',
+        'Vergangenheit, Gegenwart, Zukunft und Ewigkeit',
+        'Die körperliche, die emotionale, die mentale und die Sinn-Säule',
+        'Diagnose, Therapie, Prävention und Nachsorge',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default C09;

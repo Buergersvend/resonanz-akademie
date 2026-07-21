@@ -442,6 +442,68 @@ Bewahre diese Reflexion auf. In 4 Wochen täglicher Praxis wiederholst du den Sc
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Wie wird die Aura im Kurs beschrieben?',
+      antworten: [
+        'Als ein einzelner, gleichmäßiger Lichtpunkt',
+        'Als fester Bestandteil der Haut ohne Ausdehnung',
+        'Als rotierendes Rad an der Wirbelsäule',
+        'Als mehrschichtiges Energiefeld — wie Zwiebelschichten, innen am dichtesten, nach außen feiner',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Welche Farbe wird dem Herzchakra (Anahata) zugeordnet?',
+      antworten: [
+        'Grün',
+        'Rot',
+        'Violett',
+        'Gelb',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie läuft die vollständige Chakra-Atmung („Regenbogenatmung") ab?',
+      antworten: [
+        'Nur ein einziger Atemzug in das wichtigste Chakra',
+        'Man atmet nacheinander durch alle 7 Chakren — von unten nach oben, je 3 Atemzüge pro Chakra',
+        'Von oben nach unten, ohne bei den einzelnen Chakren zu verweilen',
+        'Man hält die Luft an, bis alle Farben verblassen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'In welchem Abstand führt man beim Handscannen die Handfläche über den Körper?',
+      antworten: [
+        'Direkt auf der Haut, mit festem Druck',
+        'Mindestens einen Meter entfernt',
+        'Etwa 5–15 cm über dem Körper, ohne die Haut zu berühren',
+        'Der Abstand spielt keine Rolle',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie ordnet der Kurs die Aura- und Chakraarbeit gegenüber medizinischer Behandlung ein?',
+      antworten: [
+        'Sie deutet körperliche Beschwerden und ersetzt bei leichten Fällen den Arzt',
+        'Sie ist eine gleichwertige Alternative zur Psychotherapie',
+        'Sie darf Diagnosen stellen, solange keine Medikamente empfohlen werden',
+        'Sie ist ein Weg der Selbsterfahrung und ersetzt keine medizinische oder therapeutische Behandlung — bei körperlichen oder seelischen Beschwerden gehört die Abklärung zu Ärztin/Arzt, Heilpraktikerin oder Psychotherapeutin',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Was ist das Ziel der „energetischen Dusche" (Aura-Reinigung)?',
+      antworten: [
+        'Loszulassen, was nicht zu einem gehört — angesammelte Eindrücke aus der Umgebung reinigen',
+        'Die Chakren dauerhaft zum Stillstand zu bringen',
+        'Möglichst viele fremde Energien aufzunehmen',
+        'Die Aura vollständig aufzulösen',
+      ],
+      richtig: 0,
+    },
+  ],
 }
 
 export default K01

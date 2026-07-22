@@ -753,6 +753,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Wie definiert der Kurs Epigenetik?',
+      antworten: [
+        'Die gezielte Umschreibung der DNA-Sequenz durch positives Denken',
+        'Die Wissenschaft davon, wie Verhalten und Umwelt die Aktivität der Gene verändern — ohne die DNA-Sequenz selbst zu verändern',
+        'Die Lehre, dass die Gene das Schicksal unveränderlich festlegen',
+        'Ein Verfahren zur Heilung von Erbkrankheiten',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was bewirkt die DNA-Methylierung als wichtigste epigenetische Markierung?',
+      antworten: [
+        'Sie verändert die Reihenfolge der DNA-Bausteine dauerhaft',
+        'Sie hat keinen Einfluss auf die Genaktivität',
+        'Sie hängt eine Methylgruppe an bestimmte DNA-Stellen an und legt das betroffene Gen still',
+        'Sie repariert beschädigte Gene vollständig',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was zeigte die niederländische Hungerwinter-Studie zur transgenerationalen Epigenetik?',
+      antworten: [
+        'Kinder, die während der Hungersnot im Mutterleib waren, zeigten Jahrzehnte später ein erhöhtes Risiko für Herz-Kreislauf-Erkrankungen und Diabetes — teils bis in die Enkelgeneration',
+        'Hunger in der Schwangerschaft hat keinerlei Langzeitfolgen',
+        'Erworbene epigenetische Prägungen sind grundsätzlich nicht vererbbar',
+        'Die betroffenen Kinder waren dadurch immun gegen Stoffwechselerkrankungen',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche Nährstoffe dienen laut Kurs als „Methylgruppen-Lieferanten" für eine gesunde DNA-Methylierung?',
+      antworten: [
+        'Zucker, Transfette und Alkohol',
+        'Ausschließlich exotische Superfoods',
+        'Reiner Kaffee und Energydrinks',
+        'Folsäure, Vitamin B12, Cholin, Betain und Methionin — u. a. aus grünem Blattgemüse, Hülsenfrüchten, Eiern und Nüssen',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie beschreibt der Kurs das Verhältnis von Genen und Lebensstil („die Balance")?',
+      antworten: [
+        'Die Gene bestimmen alles; der Lebensstil ist bedeutungslos',
+        'Weder Allmacht noch Ohnmacht — „Gene laden die Pistole, der Lebensstil drückt den Abzug"; man kann viel beeinflussen, aber nicht alles (Gene, Umwelt und Zufall spielen mit)',
+        'Der Lebensstil kann jede Krankheit garantiert verhindern',
+        'Epigenetik erlaubt vollständige Kontrolle über die eigene Gesundheit',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche ethischen Grenzen zieht der Kurs ausdrücklich?',
+      antworten: [
+        'Er darf Krebs und Diabetes über den Lebensstil heilen',
+        'Er interpretiert Gentests und stellt genetische Diagnosen',
+        'Keine Heilversprechen und keine Schuldzuweisung an Kranke; keine Diagnosen und keine Interpretation von Gentests (das gehört in ärztliche Hand); bei Erkrankungen wie Depression, Angststörungen oder Traumafolgen sind Ärztinnen/Ärzte und Psychotherapeutinnen zuständig — der Kurs ersetzt keine Therapie oder medizinische Behandlung',
+        'Ein Heilversprechen ist zulässig, solange es motivierend wirkt',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default C10;

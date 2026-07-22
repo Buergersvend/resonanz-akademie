@@ -622,6 +622,68 @@ Bewahre diese Reflexion neben der Bestandsaufnahme aus Modul 1 auf. Lies beides 
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Wie versteht der Kurs Emotionen?',
+      antworten: [
+        'Als Störungen, die man beseitigen muss',
+        'Als reine Kopfsachen ohne Körperbezug',
+        'Als Signale mit Funktion — jede Emotion ist eine Information (z. B. Wut zeigt eine berührte Grenze)',
+        'Als grundsätzlich „gut" oder „schlecht"',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche vier Schritte umfasst die „Vier-Schritte-Wahrnehmung"?',
+      antworten: [
+        'Anhalten, Atmen, Wahrnehmen, Benennen',
+        'Analysieren, Argumentieren, Ablenken, Abschließen',
+        'Bewerten, Verdrängen, Vergessen, Verzeihen',
+        'Sehen, Hören, Riechen, Schmecken',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was geschieht laut Kurs mit Gefühlen, die dauerhaft weggedrückt werden?',
+      antworten: [
+        'Sie verschwinden zuverlässig und für immer',
+        'Sie verwandeln sich sofort in Freude',
+        'Sie stärken die körperliche Gesundheit',
+        'Sie bleiben als unerledigtes Thema und melden sich später wieder — als Stimmung, Anspannung oder überraschend heftige Reaktion',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Worin unterscheidet sich Selbstmitgefühl von Selbstmitleid?',
+      antworten: [
+        'Es gibt keinen Unterschied',
+        'Selbstmitleid sagt „armes Ich" und bleibt stehen; Selbstmitgefühl sagt „das ist schwer — und ich bleibe freundlich an meiner Seite" und geht weiter',
+        'Selbstmitgefühl bedeutet, besonders streng mit sich zu sein',
+        'Selbstmitgefühl heißt, Gefühle zu unterdrücken',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wo liegen die Grenzen der Selbsterfahrung in diesem Kurs?',
+      antworten: [
+        'Es gibt keine Grenzen — Selbstarbeit ersetzt jede Therapie',
+        'Bei belastenden Themen soll man einfach intensiver weiterarbeiten',
+        'Bei überflutenden Erinnerungen, anhaltender Niedergeschlagenheit oder schweren Themen ist professionelle Begleitung der richtige Weg; bei Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Man sollte Beschwerden möglichst selbst diagnostizieren',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wozu dient die Arbeit mit einem differenzierten „Gefühlswortschatz"?',
+      antworten: [
+        'Um Gefühle möglichst zu vermeiden',
+        'Je genauer man benennen kann, was man fühlt, desto besser kann man damit umgehen — „Ich bin enttäuscht, weil…" führt weiter als „Ich bin gestresst"',
+        'Um andere Menschen zu diagnostizieren',
+        'Gefühle brauchen grundsätzlich keine Worte',
+      ],
+      richtig: 1,
+    },
+  ],
 }
 
 export default P02

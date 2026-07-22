@@ -760,7 +760,69 @@ Was dich durch diese Phase trägt: Dein Warum. Warum willst du Coach sein? Was t
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was unterscheidet Coaching von Beratung (Consulting)?',
+      antworten: [
+        'Der Coach gibt konkrete Fachempfehlungen („Sie sollten X tun")',
+        'Coaching und Beratung sind identisch',
+        'Der Berater bringt Wissen und Antworten ein, der Coach bringt Fragen ein und befähigt den Klienten, selbst Lösungen zu finden',
+        'Der Coach löst die Probleme des Klienten für ihn',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie verteilt sich laut Kurs die Expertise im Coaching?',
+      antworten: [
+        'Der Klient ist Experte für sein Leben, der Coach ist Experte für den Prozess',
+        'Der Coach ist Experte für das Leben des Klienten',
+        'Beide sind gleichermaßen Experten für die Lösung',
+        'Niemand ist wirklich Experte',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Worin unterscheiden sich Empathie und Sympathie in der Coaching-Haltung?',
+      antworten: [
+        'Empathie bedeutet, mit dem Klienten mitzuleiden',
+        'Empathie versteht das Erleben des Klienten von innen und hält den Raum; Sympathie leidet mit und schafft Verstrickung',
+        'Sympathie ist die professionellere Haltung',
+        'Es gibt keinen Unterschied zwischen beiden',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wofür stehen die vier Phasen des GROW-Modells?',
+      antworten: [
+        'Gefühl, Reflexion, Ordnung, Wille',
+        'Grenze, Regel, Option, Weg',
+        'Grund, Realität, Offenheit, Wahrheit',
+        'Goal (Ziel), Reality (Realität), Options (Optionen), Will/Way Forward (Wille/Weg)',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wann muss ein Coach an einen Therapeuten verweisen?',
+      antworten: [
+        'Nie — Coaching kann alles abdecken',
+        'Bei Anzeichen psychischer Erkrankung wie anhaltender Antriebslosigkeit, Suizidgedanken, schwerer Angst oder Traumata — dann ist Coaching nicht der richtige Rahmen',
+        'Nur wenn der Klient ausdrücklich danach fragt',
+        'Erst wenn das Coaching mehrere Monate erfolglos war',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welcher Fragetyp gilt im Coaching als Fehler?',
+      antworten: [
+        'Offene Fragen',
+        'Kurze, fokussierte Fragen',
+        'Suggestivfragen („Glaubst du nicht auch, dass …?") — sie sind verpackte Ratschläge und untergraben die Autonomie des Klienten',
+        'Ziel-Fragen',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default C01;

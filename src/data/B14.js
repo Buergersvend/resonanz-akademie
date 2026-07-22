@@ -294,6 +294,68 @@ Die Arbeit für mehr Vitalität und Resilienz ist eine Einladung, Menschen dabei
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Wie ordnet der Kurs den Zusammenhang von innerem Erleben und Körper redlich ein?',
+      antworten: [
+        'Reines Denken kann jede Krankheit heilen oder verhindern',
+        'Inneres Erleben und Lebensstil sind ein wichtiger Faktor unter mehreren — nicht der alleinige, allmächtige Faktor',
+        'Der Körper hat mit dem inneren Erleben nichts zu tun',
+        'Kranke sind selbst schuld an ihrer Krankheit',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wann wird Stress laut Kurs problematisch?',
+      antworten: [
+        'Immer — jede Stressreaktion ist schädlich',
+        'Nur in der akuten, kurzfristigen Form',
+        'Wenn er chronisch wird — der Körper ist für kurze Stressphasen mit anschließender Erholung gemacht',
+        'Stress hat keinerlei körperliche Wirkung',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was besagt die redlich eingeordnete Grundidee der Epigenetik?',
+      antworten: [
+        'Man kann durch positives Denken gezielt Gene umprogrammieren und Krankheiten heilen',
+        'Die Gene legen alles starr und unveränderlich fest',
+        'Epigenetik hat mit dem Lebensstil nichts zu tun',
+        'Die Aktivität von Genen kann reguliert (stärker/schwächer abgelesen) werden, u. a. durch Lebensstil — ohne dass die Gene selbst verändert werden',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie gelingt nachhaltige Veränderung des Lebensstils laut Kurs?',
+      antworten: [
+        'Durch kleine, machbare Schritte, innere Motivation, den Aufbau neuer Gewohnheiten sowie Geduld und Selbstmilde',
+        'Durch möglichst große, radikale Umwälzungen auf einmal',
+        'Durch äußeren Druck und Strenge',
+        'Ausschließlich durch das Verbieten alter Gewohnheiten',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche Grenze zur Medizin wahrt der Kurs?',
+      antworten: [
+        'Die Arbeit heilt Krankheiten und ersetzt die ärztliche Behandlung',
+        'Kranke sind selbst schuld und brauchen keinen Arzt',
+        'Die Arbeit ist keine medizinische Behandlung und kein Ersatz — bei Krankheiten und körperlichen Beschwerden gehört die ärztliche Behandlung an erste Stelle; Schuldzuweisung an Kranke wird entschieden zurückgewiesen',
+        'Man darf Zellregeneration und Genheilung versprechen',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche förderlichen inneren Haltungen nennt der Kurs zur Stärkung von Resilienz?',
+      antworten: [
+        'Selbstkritik, Härte und ständiger Leistungsdruck',
+        'Selbstannahme, Zuversicht, Sinnerleben und Dankbarkeit',
+        'Gleichgültigkeit und Rückzug',
+        'Oberflächlicher Optimismus, der Schwieriges verleugnet',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default B14;

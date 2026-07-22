@@ -669,7 +669,69 @@ Formuliere für jede Stelle einen freundlichen Beispielsatz:
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was fasst der Begriff „Vitalstoffe" zusammen?',
+      antworten: [
+        'Kohlenhydrate, Fette und Eiweiß',
+        'Vitamine, Mineralstoffe und Spurenelemente — sie liefern keine Energie, sondern steuern und helfen',
+        'Ausschließlich Vitamin C und D',
+        'Nur Nahrungsergänzungsmittel',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welcher Nährstoff ist bei rein pflanzlicher (veganer) Ernährung der klassische „Sonderfall"?',
+      antworten: [
+        'Vitamin C',
+        'Magnesium',
+        'Vitamin B12 — es kommt fast ausschließlich in tierischen Lebensmitteln vor',
+        'Calcium',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welcher „wichtigste Küchen-Tipp" verbessert die Aufnahme von pflanzlichem Eisen?',
+      antworten: [
+        'Pflanzliches Eisen mit Vitamin C kombinieren (z. B. Zitrone über Linsen)',
+        'Eisen zusammen mit viel Kaffee aufnehmen',
+        'Eisen nur pur, ohne andere Lebensmittel',
+        'Eisen und fettlösliche Vitamine strikt meiden',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was gilt für die fettlöslichen Vitamine (A, D, E, K)?',
+      antworten: [
+        'Sie werden nicht gespeichert und müssen ständig zugeführt werden',
+        'Eine Überversorgung ist über normales Essen leicht möglich',
+        'Sie brauchen kein Fett zur Aufnahme',
+        'Sie werden gespeichert und brauchen etwas Fett zur Aufnahme; eine problematische Überversorgung entsteht praktisch nur durch hochdosierte Präparate',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie unterscheidet der Kurs Selbstwahrnehmung und Selbstdiagnose?',
+      antworten: [
+        'Beide sind dasselbe',
+        'Selbstdiagnose ist erwünscht, Selbstwahrnehmung überflüssig',
+        'Selbstwahrnehmung (achtsam bemerken, wie es einem geht) ist gesund; ein Mangel lässt sich nicht erspüren — er gehört ärztlich abgeklärt (Arzt und Labor)',
+        'Aus Müdigkeit lässt sich sicher auf Eisenmangel schließen',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Grundhaltung nennt der Kurs als beste „Vitalstoffstrategie"?',
+      antworten: [
+        'Einzelne „Wundernährstoffe" gezielt supplementieren',
+        'Vielfalt schlägt Einzelstoff — bunt, frisch und vollwertig essen deckt das Spektrum fast automatisch ab',
+        'Möglichst viele hochdosierte Präparate nehmen',
+        'Immer dasselbe essen, Hauptsache regelmäßig',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default N11;

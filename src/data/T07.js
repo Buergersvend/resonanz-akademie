@@ -295,7 +295,69 @@ Dein stiller Gewinn: Jeder Raum, den du klärst und harmonisierst, wird zu einem
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Wie versteht der Kurs Räume?',
+      antworten: [
+        'Als energetisch völlig neutrale, leere Behälter',
+        'Als lebendige Energiefelder, die die Energien ihrer Bewohner aufnehmen und speichern',
+        'Als Orte, die niemals eine Atmosphäre tragen',
+        'Als reine Bauwerke ohne jede Wirkung auf Menschen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was gilt beim Räuchern mit Weißem Salbei?',
+      antworten: [
+        'Er ist die einzig wirksame Räucherpflanze',
+        'Man räuchert am besten bei fest geschlossenen Fenstern',
+        'Wildsammlung ist ökologisch problematisch — angebauter Salbei oder heimische Alternativen wie Beifuß sind besser; beim Räuchern werden die Fenster geöffnet',
+        'Man beginnt in der Raummitte und geht gegen den Uhrzeigersinn',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welches Grundprinzip des Energieflusses nennt der Kurs?',
+      antworten: [
+        'Energie folgt der Aufmerksamkeit — ein Raum, der den Blick hindurchführt, hat guten Fluss; blockierte, dunkle Ecken stauen die Energie',
+        'Energie fließt nur bei völliger Dunkelheit',
+        'Möbel haben keinerlei Einfluss auf den Energiefluss',
+        'Ein Raum braucht keinen Ausgang für Energie',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie läuft ein Räucherritual laut Kurs ab?',
+      antworten: [
+        'Fenster geschlossen halten, damit der Rauch im Raum bleibt',
+        'In der Raummitte beginnen und gegen den Uhrzeigersinn gehen',
+        'Möglichst nur die Raummitte beräuchern, Ecken auslassen',
+        'Fenster öffnen, an der Eingangstür beginnen, im Uhrzeigersinn arbeiten (besonders in Ecken), danach 10–15 Minuten lüften',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wo liegen die Grenzen der Raumenergetik?',
+      antworten: [
+        'Sie ersetzt Baubiologie und Arzt vollständig',
+        'Sie darf fremde Wohnungen auch ungefragt „behandeln"',
+        'Sie ist keine Baubiologie, Architektur oder Medizin (bei Schimmel/Schadstoffen an Fachleute); bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut — und Räume anderer werden nur mit deren Einwilligung bearbeitet',
+        'Sie erklärt und behandelt gesundheitliche Beschwerden',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie wirkt die Klangreinigung (z. B. mit einer Klangschale) laut Kurs?',
+      antworten: [
+        'Sie hat rein dekorativen Zweck',
+        'Schallwellen bringen stagnierende Energie in Bewegung; in belasteten Bereichen klingt das Instrument oft dumpfer, in freien klarer und länger',
+        'Sie funktioniert ausschließlich im Freien',
+        'Klang verdichtet die Raumenergie dauerhaft',
+      ],
+      richtig: 1,
+    },
+  ],
 };
 
 export default T07;

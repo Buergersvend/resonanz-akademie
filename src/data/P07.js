@@ -686,6 +686,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Wie beschreibt der Kurs Hypnose?',
+      antworten: [
+        'Als Schlaf und Bewusstlosigkeit',
+        'Als vollständigen Kontrollverlust',
+        'Als natürlichen, fokussierten Bewusstseinszustand erhöhter Suggestibilität — kein Schlaf, kein Kontrollverlust',
+        'Als Zustand, in dem man alles vergisst und willenlos ist',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was stimmt laut Kurs über den hypnotischen Zustand?',
+      antworten: [
+        'Man ist nicht willenlos, kann jederzeit die Augen öffnen und tut nichts, was den eigenen Werten widerspricht',
+        'Man verliert vollständig die Kontrolle',
+        'Man vergisst immer alles Erlebte',
+        'Jeder Mensch reagiert exakt gleich',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie hängen Trancetiefe und therapeutischer Nutzen zusammen?',
+      antworten: [
+        'Nur in tiefer Trance ist Arbeit überhaupt möglich',
+        'Ohne tiefe Trance geschieht gar nichts',
+        'Je tiefer, desto besser — ausnahmslos',
+        'Der therapeutische Nutzen korreliert nicht streng mit der Trancetiefe; viele Veränderungen geschehen bereits in leichter Trance',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie funktioniert die „Ja-Kette" in Ericksons Sprachmustern?',
+      antworten: [
+        'Man gibt ausschließlich direkte Befehle',
+        'Man reiht mehrere wahre, überprüfbare Aussagen aneinander, sodass die abschließende Suggestion ebenfalls als wahr akzeptiert wird',
+        'Man widerspricht dem Klienten fortlaufend',
+        'Man stellt nur Fragen, ohne Aussagen zu treffen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche Grenze nennt der Kurs für die hypnotische Arbeit?',
+      antworten: [
+        'Hypnose eignet sich uneingeschränkt für alle akuten, unklaren Schmerzen',
+        'Schwere Traumata darf jeder Anfänger ohne Zusatzausbildung bearbeiten',
+        'Schwere Traumata erfordern spezialisierte Trauma-Ausbildung und Verweis an Traumatherapeuten; Schmerz-Hypnose nur bei medizinisch abgeklärten Schmerzen, nicht bei akuten unklaren Schmerzen',
+        'Schmerz sollte immer weghypnotisiert werden, egal woher er kommt',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie sollten therapeutische Suggestionen formuliert sein?',
+      antworten: [
+        'Positiv, gegenwärtig und sensorisch — „Du bist ruhig" statt „Du hast keine Angst", da das Unterbewusstsein Verneinungen schlecht verarbeitet',
+        'Möglichst mit vielen Verneinungen',
+        'Bevorzugt in der Zukunftsform',
+        'Ganz ohne jeden Sinnesbezug',
+      ],
+      richtig: 0,
+    },
+  ],
 };
 
 export default P07;

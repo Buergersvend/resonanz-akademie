@@ -676,6 +676,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'In welchem Gehirnwellen-Frequenzbereich liegt der für Theta-Healing zentrale Zustand?',
+      antworten: [
+        'Beta (14–30 Hz), der aktive Wachzustand',
+        'Delta (unter 4 Hz), der traumlose Tiefschlaf',
+        'Theta (4–7 Hz) — der Zustand kurz vor dem Einschlafen, in dem das Unterbewusstsein offen ist',
+        'Gamma (über 30 Hz), höchste Konzentration',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Auf welchen vier Ebenen können Glaubenssätze im Theta-Healing gespeichert sein?',
+      antworten: [
+        'Kern-, genetische, Seelen- und historische Ebene',
+        'Kopf, Herz, Bauch und Hand',
+        'Beta, Alpha, Theta und Delta',
+        'Vergangenheit, Gegenwart, Zukunft und Ewigkeit',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was ist das Ziel des „Grabens" in der Glaubenssatzarbeit?',
+      antworten: [
+        'Möglichst viele oberflächliche Sätze gleichzeitig zu ändern',
+        'Den Klienten von der Meinung der Praktizierenden zu überzeugen',
+        'Den Muskeltonus zu messen',
+        'Durch eine Kette von Warum-Fragen den tiefsten Kernglaubenssatz zu finden, der alle oberflächlichen speist',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Was zeigt der Muskeltest laut Kurs an?',
+      antworten: [
+        'Was objektiv und wissenschaftlich wahr ist',
+        'Was im Unterbewusstsein gespeichert ist — nicht, was objektiv wahr ist („Ich bin wertlos" kann als „wahr" erscheinen, ohne es zu sein)',
+        'Die körperliche Fitness des Klienten',
+        'Die Zukunft des Klienten',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche ethische Grenze nennt der Kurs für die Theta-Healing-Praxis?',
+      antworten: [
+        'Man darf Heilung und Wunder garantieren',
+        'Körper-Scanning ist eine gültige medizinische Diagnose',
+        'Keine falschen Versprechen und keine Heilversprechen; Körper-Scanning ersetzt keine medizinische Diagnostik — bei Themen jenseits der eigenen Kompetenz an Ärzte, Psychotherapeuten oder Fachpersonen verweisen',
+        'Man darf Fernheilung auch ohne Erlaubnis der Person durchführen',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was betont der Kurs zur Manifestationsarbeit im Theta-Healing?',
+      antworten: [
+        'Manifestation ersetzt kein Handeln — sie bereitet den inneren Boden, aber ohne konkretes Handeln bleibt die Visualisierung ein Tagtraum',
+        'Allein die Visualisierung genügt, Handeln ist überflüssig',
+        'Man kann jeden Wunsch ohne inneren Widerstand sofort manifestieren',
+        'Zweifeln und Kontrollieren verstärken die Manifestation',
+      ],
+      richtig: 0,
+    },
+  ],
 };
 
 export default B08;

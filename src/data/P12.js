@@ -684,6 +684,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Welche fünf Kernkompetenzen umfasst das Modell der emotionalen Intelligenz?',
+      antworten: [
+        'Lesen, Schreiben, Rechnen, Sprechen, Zuhören',
+        'Selbstwahrnehmung, Selbstregulation, Motivation, Empathie und soziale Kompetenz',
+        'IQ, EQ, Gedächtnis, Logik, Kreativität',
+        'Angst, Wut, Trauer, Freude, Ekel',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Worin unterscheiden sich IQ und EQ laut Kurs?',
+      antworten: [
+        'Beide sind ab der Geburt völlig unveränderlich',
+        'Der EQ ist stabil, der IQ trainierbar',
+        'Der IQ ist weitgehend stabil, der EQ hingegen ist in jedem Lebensalter trainierbar',
+        'Es gibt keinen Unterschied zwischen beiden',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was beschreibt der Begriff „Amygdala-Hijack"?',
+      antworten: [
+        'Die Amygdala übernimmt blitzschnell das Kommando und löst eine emotionale Reaktion aus, bevor der rationale Verstand (präfrontaler Cortex) aufholt',
+        'Einen bewusst geplanten, rein rationalen Denkprozess',
+        'Das vollständige und dauerhafte Ausschalten aller Emotionen',
+        'Einen Zustand tiefer Meditation',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche Wirkung hat das präzise Benennen einer Emotion („affect labeling")?',
+      antworten: [
+        'Es verstärkt die Emotion ins Unermessliche',
+        'Es hat keinerlei Wirkung auf das Gehirn',
+        'Es blockiert jedes Fühlen dauerhaft',
+        'Es kann die Amygdala-Aktivität dämpfen und aktiviert den präfrontalen Cortex, der die Emotion einordnet und moderiert',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie ist die Arbeit an emotionaler Intelligenz einzuordnen?',
+      antworten: [
+        'Als Ersatz für Psychotherapie bei schweren Krisen',
+        'Als Persönlichkeitsentwicklung, keine Behandlung — Traumafolgen und schwere seelische Krisen gehören in psychotherapeutische Begleitung; bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Als medizinische Diagnostik',
+        'Als Garantie, nie wieder negative Gefühle zu haben',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Worin unterscheiden sich Mitgefühl und Mitleiden?',
+      antworten: [
+        'Es gibt keinen Unterschied',
+        'Mitgefühl bedeutet, den Schmerz des anderen vollständig zu übernehmen',
+        'Mitgefühl nimmt den Schmerz wahr, ohne ihn zu tragen („neben dir, nicht in dir"); Mitleiden übernimmt den Schmerz und erschöpft',
+        'Mitleiden ist die reifste Form der Empathie',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default P12;

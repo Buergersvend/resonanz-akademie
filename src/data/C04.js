@@ -713,6 +713,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Was ist laut Kurs das eigentliche Problem bei der Ernährungsumstellung?',
+      antworten: [
+        'Fehlendes Ernährungswissen',
+        'Nicht das Wissen, sondern die Umsetzung — der „Graben" zwischen Wissen und tatsächlichem Handeln',
+        'Zu viel Gemüse auf dem Teller',
+        'Der Mangel an strengen Diäten',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welchen Effekt hat restriktives Denken (Einteilung in erlaubte und verbotene Lebensmittel) laut Kurs?',
+      antworten: [
+        'Es führt zuverlässig zu dauerhaftem Gewichtsverlust',
+        'Es hat keinerlei Einfluss auf das Essverhalten',
+        'Es ist paradoxerweise einer der stärksten Treiber für Überessen — Verbote verstärken das Verlangen',
+        'Es macht Essen automatisch gesünder',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Aus welchem Dreischritt besteht eine Gewohnheit — und wie verändert man sie?',
+      antworten: [
+        'Auslöser — Routine — Belohnung; man ersetzt die Routine und behält Auslöser und Belohnung bei',
+        'Wunsch — Plan — Erfolg; man löscht die Gewohnheit vollständig',
+        'Anfang — Mitte — Ende; man ändert nur den Auslöser',
+        'Denken — Fühlen — Handeln; man unterdrückt die Belohnung',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie erklärt der Kurs das Scheitern restriktiver Diäten und den Jojo-Effekt?',
+      antworten: [
+        'Die Menschen sind schlicht schwach und undiszipliniert',
+        'Restriktive Diäten scheitern in Wahrheit nie',
+        'Es liegt allein an zu wenig Kalorienzählen',
+        'Der Körper arbeitet biologisch gegen die Restriktion (Stoffwechsel sinkt, Hunger steigt) — der Jojo-Effekt ist der „Erfolg der Biologie", nicht menschliches Versagen',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie grenzt der Kurs sich von einer Ernährungstherapie ab?',
+      antworten: [
+        'Er ist eine vollwertige Ernährungstherapie und behandelt Essstörungen',
+        'Er vermittelt allgemeines Ernährungswissen zur Selbstbildung und ersetzt keine ärztliche, diätetische oder psychotherapeutische Behandlung — bei belastendem Essverhalten, Essstörungen oder Erkrankungen (z. B. Diabetes) an die entsprechenden Fachpersonen wenden',
+        'Er darf Diabetes und Nierenprobleme selbst behandeln',
+        'Er stellt bei Bedarf die Diagnose einer Essstörung',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Auf welcher Ebene wirkt nachhaltige Veränderung laut Kurs am stärksten?',
+      antworten: [
+        'Auf der Ergebnisebene („Ich will 5 Kilo abnehmen")',
+        'Auf der Ebene kurzfristiger Motivation',
+        'Auf der Identitätsebene („Ich bin ein Mensch, der sich gesund ernährt") — daraus folgen die Handlungen natürlich',
+        'Auf der Ebene möglichst strenger Verbote',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default C04;

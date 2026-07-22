@@ -682,7 +682,69 @@ Beginne bei dir selbst. Schau ehrlich auf deine eigenen Geld-Muster. Kläre, was
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Wie beschreibt der Kurs die grundlegende Natur des Geldes?',
+      antworten: [
+        'Geld ist ein materieller Gegenstand mit inhärentem Wert',
+        'Geld ist nur für reiche Menschen relevant',
+        'Geld ist im Kern eine kollektive Vereinbarung über Wert — eine Form von kollektivem Vertrauen',
+        'Geld hat mit der inneren Haltung nichts zu tun',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Auf welchen drei Ebenen wirken Geldblockaden laut Kurs — weshalb Affirmationen allein selten reichen?',
+      antworten: [
+        'Verstand (mental), Körper (somatisch) und Feld (energetisch)',
+        'Kopf, Konto und Karriere',
+        'Vergangenheit, Gegenwart und Zukunft',
+        'Einkommen, Ausgaben und Ersparnisse',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'In welchem Verhältnis stehen Perfektionismus und Prokrastination laut Kurs?',
+      antworten: [
+        'Sie sind komplette Gegensätze ohne jede Gemeinsamkeit',
+        'Prokrastination ist immer harmlos',
+        'Perfektionismus ist im Kern reine Qualitätskontrolle',
+        'Sie sind „Zwillinge" mit derselben Wurzel — der Angst, nicht gut genug zu sein',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie erklärt der Kurs Selbstsabotage?',
+      antworten: [
+        'Als Dummheit oder reinen Zufall',
+        'Als unbewussten Schutzmechanismus — z. B. Angst vor Erfolg, Loyalitätskonflikte oder Vertrautheit mit dem Mangel',
+        'Als bewusste, absichtliche Entscheidung',
+        'Als Zeichen mangelnder Intelligenz',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie ordnet der Kurs seine eigene Reichweite ein?',
+      antworten: [
+        'Als Finanzberatung mit Einkommensgarantie',
+        'Als Therapie-Ersatz für seelische Beschwerden',
+        'Als Selbsterfahrung ohne Erfolgs- oder Einkommensversprechen — keine Finanzberatung und keine Therapie; bei finanziellen oder rechtlichen Fragen an Schuldner-/Finanzberatung, Steuerberater oder Fachanwalt, bei Beschwerden an Arzt, Heilpraktiker oder Therapeut',
+        'Als garantierten Weg zum Reichtum',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was betont der Kurs zur „Manifestation"?',
+      antworten: [
+        'Sie ist kein Wunschkonzert — echte Manifestation verbindet Intention (Klarheit), Ausrichtung (Kohärenz) und Handlung',
+        'Ein Vision Board genügt, Handeln ist überflüssig',
+        'Je mehr man am Ergebnis festhält, desto sicherer kommt es',
+        'Manifestation funktioniert allein durch Wünschen auf der Couch',
+      ],
+      richtig: 0,
+    },
+  ],
 };
 
 export default C06;

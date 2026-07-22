@@ -748,7 +748,69 @@ Die Einladung: Sieh beide Systeme als Werkzeuge in deinem Koffer. Nicht das eine
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Welche Zahlen gelten als „Meisterzahlen" und werden NICHT weiter reduziert?',
+      antworten: [
+        '1, 2 und 3',
+        '7, 8 und 9',
+        '11, 22 und 33',
+        '10, 20 und 30',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Woraus wird die Lebenszahl berechnet?',
+      antworten: [
+        'Ausschließlich aus dem Geburtsdatum (Tag, Monat, Jahr)',
+        'Aus den Vokalen des Namens',
+        'Aus den Konsonanten des Namens',
+        'Aus dem aktuellen Kalenderjahr',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Aus welchen Buchstaben wird die Herzenszahl (Seelenzahl) berechnet?',
+      antworten: [
+        'Aus allen Buchstaben des Namens',
+        'Aus den Konsonanten des Namens',
+        'Aus dem Geburtsdatum',
+        'Aus den Vokalen des Geburtsnamens — sie tragen die innere Schwingung',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Welcher Ausspruch wird Pythagoras zugeschrieben und bildet eine Grundlage der westlichen Numerologie?',
+      antworten: [
+        '„Alles ist Zahl" — das Universum ist auf Zahlenverhältnissen aufgebaut',
+        '„Zahlen sind bloße Mengen ohne Bedeutung"',
+        '„Nur gerade Zahlen sind wichtig"',
+        '„Zahlen lassen sich nicht deuten"',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie versteht der Kurs die Numerologie und ihre Grenzen?',
+      antworten: [
+        'Als Wahrsagerei, die die Zukunft sicher vorhersagt',
+        'Als Werkzeug der Selbsterkenntnis — kein Wahrsagen; die Zahlen beschreiben Potenziale und Tendenzen, keine festgeschriebenen Eigenschaften, und ersetzen keine eigenständige Entscheidungsfindung',
+        'Als festgeschriebene Bestimmung, der man nicht entkommt',
+        'Als Ersatz für alle eigenen Entscheidungen',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was beschreibt das „Persönliche Jahr" in der Numerologie?',
+      antworten: [
+        'Die unveränderliche Lebensaufgabe',
+        'Die Anzahl der Buchstaben im Namen',
+        'Die übergeordnete Energie und Qualität des aktuellen Jahres innerhalb eines 9-Jahres-Zyklus',
+        'Das Geburtsjahr als feste, gleichbleibende Zahl',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default Z01;

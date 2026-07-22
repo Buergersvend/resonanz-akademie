@@ -755,6 +755,68 @@ Gratulation — du hast einen Kurs abgeschlossen, der dein Verhältnis zu deiner
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Worauf beruht die Wirkung von Affirmationen laut Kurs?',
+      antworten: [
+        'Das Unterbewusstsein ignoriert wiederholte Sätze',
+        'Das Unterbewusstsein unterscheidet kaum zwischen realer und lebhaft vorgestellter Erfahrung; Wiederholung stärkt die zugrunde liegenden neuronalen Verbindungen',
+        'Nur laut gesprochene Sätze haben eine Wirkung',
+        'Worte haben keinen Einfluss auf den Körper',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie sollte eine wirksame Affirmation formuliert sein?',
+      antworten: [
+        'Positiv und im Präsens — z. B. „Ich bin mutig" statt „Ich habe keine Angst" oder „Ich werde mutig sein"',
+        'In der Zukunftsform und mit Verneinungen',
+        'Möglichst vage und allgemein',
+        'Ohne jede emotionale Beteiligung',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wozu dienen „Brückenaffirmationen"?',
+      antworten: [
+        'Um möglichst große Sprünge im Selbstbild zu erzwingen',
+        'Um Affirmationen ganz zu vermeiden',
+        'Als Zwischenstufen, die das Unterbewusstsein akzeptieren kann, wenn der Sprung zur Ziel-Affirmation zu groß ist (z. B. „Ich bin offen für …")',
+        'Um den inneren Widerstand absichtlich zu verstärken',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie lange dauert es laut Kurs im Schnitt, bis eine neue Gewohnheit automatisch wird?',
+      antworten: [
+        'Genau 3 Tage',
+        'Sofort nach dem ersten Mal',
+        'Genau 21 Tage',
+        'Durchschnittlich etwa 66 Tage — die meisten geben zwischen Tag 21 und 66 auf, kurz bevor die Transformation beginnt',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Was gilt, wenn hinter hartnäckigen negativen Glaubenssätzen tiefere seelische Belastungen stehen?',
+      antworten: [
+        'Man sollte einfach häufiger und lauter affirmieren, bis es vergeht',
+        'Affirmationen ersetzen in diesem Fall eine Psychotherapie vollständig',
+        'Affirmationstraining ist Selbsterfahrung und ersetzt keine therapeutische Behandlung — bei seelischer Belastung gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Solche Belastungen sind ohnehin immer nur Einbildung',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Warum gilt der Morgen als „goldene Zeit" für Affirmationsarbeit?',
+      antworten: [
+        'Kurz nach dem Aufwachen ist das Gehirn in einem Theta-nahen Zustand und das Unterbewusstsein besonders empfänglich',
+        'Weil man morgens am wenigsten konzentriert ist',
+        'Weil Affirmationen nur vor dem Frühstück wirken',
+        'Weil das Gehirn morgens keine neuen Verbindungen bildet',
+      ],
+      richtig: 0,
+    },
+  ],
 }
 
 export default P03

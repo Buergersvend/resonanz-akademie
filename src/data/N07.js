@@ -757,7 +757,69 @@ In einer Welt, die die Gesundheitsverantwortung an Ärzte, Versicherungen und Ph
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was bedeutet „Ayurveda" und was ist seine Grundidee?',
+      antworten: [
+        '„Wissen vom Leben"; die zentrale Idee ist Individualität — jeder Mensch hat eine einzigartige Konstitution (Prakriti), statt eines Universal-Lebensstils',
+        '„Kunst der Chirurgie"; alle Menschen brauchen denselben Lebensstil',
+        '„Lehre der Sterne"; die Geburtszeit bestimmt das ganze Leben',
+        '„Kunst des Fastens"; nur Verzicht führt zu Wohlbefinden',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche Elemente und Funktionen ordnet der Kurs den drei Doshas zu?',
+      antworten: [
+        'Vata = Feuer (Struktur), Pitta = Erde (Bewegung), Kapha = Luft (Transformation)',
+        'Vata = Äther + Luft (Bewegung), Pitta = Feuer + Wasser (Transformation), Kapha = Wasser + Erde (Struktur)',
+        'Alle drei Doshas bestehen nur aus dem Element Feuer',
+        'Die Doshas haben mit den fünf Elementen nichts zu tun',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was unterscheidet Prakriti von Vikriti?',
+      antworten: [
+        'Prakriti ist die Tageszeit, Vikriti die Jahreszeit',
+        'Beide bezeichnen genau dasselbe',
+        'Prakriti ist die bei der Zeugung festgelegte Grundkonstitution; Vikriti ist der aktuelle Zustand (beeinflusst durch Ernährung, Lebensstil, Jahreszeit, Alter, Stress)',
+        'Prakriti ist eine Krankheit, Vikriti die Heilung davon',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was ist „Agni" und wie lautet die goldene Regel der ayurvedischen Ernährung?',
+      antworten: [
+        'Agni ist das Verdauungsfeuer; die goldene Regel lautet: iss nur, wenn du wirklich hungrig bist — sonst entsteht Ama (unverdaute Reste)',
+        'Agni ist ein Gewürz; man soll den ganzen Tag über snacken',
+        'Agni ist eine Massagetechnik; man soll ausschließlich abends essen',
+        'Agni ist eine Jahreszeit; man soll Mahlzeiten grundsätzlich auslassen',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was empfiehlt der Kurs zu den sechs Geschmacksrichtungen (Rasas)?',
+      antworten: [
+        'Nur der süße Geschmack ist erlaubt',
+        'Eine ideale Mahlzeit enthält alle sechs Geschmacksrichtungen (süß, sauer, salzig, scharf, bitter, herb)',
+        'Es gibt im Ayurveda nur drei Geschmacksrichtungen',
+        'Der Geschmack spielt im Ayurveda keine Rolle',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wie grenzt der Kurs seine Reichweite ausdrücklich ab?',
+      antworten: [
+        'Er ist eine vollständige medizinische Ausbildung und darf Diagnosen stellen',
+        'Er darf Medikamente empfehlen und deren Absetzen anordnen',
+        'Mit ihm kann man komplexe ayurvedische Therapien wie Panchakarma selbst durchführen',
+        'Er vermittelt Ayurveda als Kultur- und Selbsterfahrungswissen — keine medizinische oder heilkundliche Ausbildung, stellt keine Diagnosen, empfiehlt keine Heilmittel oder Dosierungen und ersetzt keine ärztliche, heilpraktische oder ernährungsfachliche Versorgung; bei Beschwerden an Ärztin, Arzt oder Fachperson',
+      ],
+      richtig: 3,
+    },
+  ],
 };
 
 export default N07;

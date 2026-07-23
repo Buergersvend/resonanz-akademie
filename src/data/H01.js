@@ -682,7 +682,69 @@ Human Design bietet keine Antworten auf alle Fragen des Lebens. Aber es gibt dir
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Aus welchen vier Quellsystemen ist Human Design als Synthese aufgebaut?',
+      antworten: [
+        'Astrologie, I Ging, Kabbala und das hinduistische Chakra-System',
+        'Tarot, Runen, Numerologie und Feng Shui',
+        'Psychologie, Genetik, Neurologie und Soziologie',
+        'Ayurveda, TCM, Homöopathie und Akupunktur',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was stellen die schwarze und die rote Seite der Körpergrafik dar?',
+      antworten: [
+        'Schwarz steht für die Zukunft, Rot für die Vergangenheit',
+        'Schwarz = Persönlichkeit/bewusst (exakter Geburtszeitpunkt), Rot = Design/unbewusst (ca. 88 Tage vor der Geburt)',
+        'Schwarz sind die guten, Rot die schlechten Eigenschaften',
+        'Beide Seiten sind identisch und daher redundant',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche Strategie ordnet Human Design dem Generator zu?',
+      antworten: [
+        'Informieren, bevor er handelt',
+        'Auf eine Einladung warten',
+        'Reagieren — auf das Leben antworten statt zu initiieren, geführt vom sakralen Ja/Nein',
+        'Einen vollständigen Mondzyklus abwarten',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Rolle spielt der Verstand bei Entscheidungen laut Human Design?',
+      antworten: [
+        'Der Verstand ist der zuverlässigste Entscheider',
+        'Der Verstand ist nicht als persönlicher Entscheider designed — er ist Werkzeug zum Denken und Analysieren; entscheiden soll die körperbasierte innere Autorität',
+        'Nur der Verstand darf über große Lebensfragen entscheiden',
+        'Verstand und innere Autorität sind dasselbe',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was bedeutet ein offenes (undefiniertes) Zentrum in der Körpergrafik?',
+      antworten: [
+        'Einen Defekt, der behoben werden muss',
+        'Dass diese Energie konsistent und zuverlässig aus dir selbst kommt',
+        'Dass das Zentrum bedeutungslos ist',
+        'Dass du die Energie dieses Bereichs von außen aufnimmst und verstärkst — ein Ort der Konditionierung, aber auch potenzieller Weisheit',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wie versteht sich Human Design laut Kurs selbst?',
+      antworten: [
+        'Als Glaubenssystem, dem man vertrauen muss',
+        'Als deterministische Vorhersage, die das Schicksal festlegt',
+        'Als praktisches Experiment und Werkzeug der Selbsterkenntnis — kein Dogma; man soll es ausprobieren und beobachten, nicht einfach glauben',
+        'Als medizinisches Diagnoseverfahren',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default H01;

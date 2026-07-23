@@ -797,7 +797,69 @@ Formuliere einen persönlichen Leitsatz für deinen Umgang mit dem Thema Nahrung
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Wie sind Nahrungsergänzungsmittel rechtlich eingeordnet?',
+      antworten: [
+        'Als Arzneimittel mit strengem Zulassungsverfahren',
+        'Als Lebensmittel — sie durchlaufen kein Arzneimittel-Zulassungsverfahren und dürfen keine heilende oder lindernde Wirkung gegen Krankheiten beanspruchen',
+        'Als verschreibungspflichtige Medizin',
+        'Als Heilmittel gegen bestimmte Beschwerden',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was besagt der Leitsatz „Essen zuerst"?',
+      antworten: [
+        'Man soll vor jedem Präparat erst die doppelte Menge essen',
+        'Nahrungsergänzung ist die Regel, gute Ernährung die Ausnahme',
+        'Eine vielfältige, vollwertige Ernährung ist für die meisten der beste Weg zur Nährstoffversorgung — Ergänzung ist die Ausnahme, nicht die Regel',
+        'Lebensmittel und Tabletten sind völlig gleichwertig',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was sagt der Kurs zum Grundsatz „viel hilft viel" bei Nährstoffen?',
+      antworten: [
+        'Er stimmt — mehr ist bei Nährstoffen immer besser',
+        'Er gilt nur für Kinder',
+        'Nur natürliche Stoffe können grundsätzlich nie schaden',
+        'Er ist oft falsch und manchmal gefährlich — hochdosierte Präparate umgehen die natürliche Aufnahmebremse; besonders fettlösliche Vitamine (A, D, E, K), Eisen und manche Spurenelemente können schaden',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Welche Regel nennt der Kurs für Menschen, die Medikamente einnehmen?',
+      antworten: [
+        'Jede Nahrungsergänzung sollte vorher mit Arzt oder Apotheke besprochen werden — ausnahmslos, auch scheinbar harmlose Vitamine und Mineralstoffe',
+        'Vitamine kann man bei Medikamenten bedenkenlos dazunehmen',
+        'Erst ab fünf Medikamenten muss man aufpassen',
+        'Wechselwirkungen gibt es bei Nahrungsergänzung nicht',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Was sagt der Kurs zum Placebo-Effekt bei Nahrungsergänzung?',
+      antworten: [
+        'Er ist reine Einbildung und ein Zeichen von Schwäche',
+        'Er ist real; ein subjektiv wahrgenommener Nutzen (bzw. persönliche „Erfolgsgeschichten") ist deshalb kein Beleg für die tatsächliche Wirksamkeit des Stoffes',
+        'Er beweist, dass jedes Präparat wirkt',
+        'Er spielt beim Thema keine Rolle',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wo verläuft laut Kurs die „harte Grenze"?',
+      antworten: [
+        'Der Verbraucher darf selbst Präparate und Mengen empfehlen',
+        'Etiketten darf man nicht lesen',
+        'Die Frage „Was nehme ich wann?" (welches Präparat, welche Menge, zu welchem Zweck) gehört ausschließlich in die Hände von Arzt und Apotheke — keine Produkt-/Mengenempfehlung, kein „gut gegen" eine Beschwerde; erlaubt bleibt Verbraucher-Aufklärung (Etiketten, Werbung, Risiken)',
+        'Man darf sagen, jemand habe einen Mangel und solle deshalb etwas nehmen',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default N12;

@@ -656,6 +656,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Was kennzeichnet Akupressur laut Kurs?',
+      antworten: [
+        'Sie arbeitet mit Nadeln wie die Akupunktur',
+        'Sie nutzt dieselben Punkte wie die Akupunktur, aber statt Nadeln sanften Druck mit Händen und Fingern',
+        'Sie ist ein allgemeines Durchkneten der Muskeln ohne bestimmte Punkte',
+        'Sie ist eine rein westliche Erfindung ohne TCM-Bezug',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welchen Unterschied macht die Richtung beim kreisenden Druck?',
+      antworten: [
+        'Es gibt keinen Unterschied zwischen den Richtungen',
+        'Beide Richtungen wirken immer aktivierend',
+        'Im Uhrzeigersinn tonisierend (stärkend), gegen den Uhrzeigersinn sedierend (beruhigend)',
+        'Nur die Dauer zählt, die Richtung ist egal',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche Grundregel nennt der Kurs für die Akupressur?',
+      antworten: [
+        'Immer nur eine Körperseite behandeln',
+        'Am besten direkt nach einer großen Mahlzeit arbeiten',
+        'Auf offenen Wunden besonders intensiv arbeiten',
+        'Bilateral arbeiten (beide Seiten); nicht auf offenen Wunden oder Entzündungen; in der Schwangerschaft bestimmte Punkte wie Hegu (Di4) meiden',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wofür gilt der Punkt Zusanli (Magen 36) in der TCM?',
+      antworten: [
+        'Als wichtigster Stärkungspunkt — er tonisiert das Qi und hebt die Energie (der „Drei-Meilen-Punkt")',
+        'Als reiner Schönheitspunkt für die Haut',
+        'Als Punkt, der ausschließlich Kopfschmerzen auslöst',
+        'Als Punkt, den man niemals stimulieren darf',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie ordnet der Kurs die TCM-Zuordnung von Emotionen zu Organen ein?',
+      antworten: [
+        'Als exakte medizinische Diagnose',
+        'Als altes Erklärungsmodell und ausdrücklich keine Diagnose — nur als sanfte Anregung zur eigenen Balance, nicht um bei sich oder anderen Krankheiten zu erkennen oder zu behandeln',
+        'Als Methode, um bei anderen Krankheiten festzustellen',
+        'Als wissenschaftlich bewiesenen Kausalzusammenhang',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche Grenzen und Sicherheitsregeln nennt der Kurs für die Akupressur?',
+      antworten: [
+        'Akupressur ersetzt jede ärztliche Behandlung und dient als Notfallhilfe',
+        'Bei Fieber, Thrombose und offenen Wunden ist sie besonders angezeigt',
+        'Sie ist eine Wohlfühl- und Entspannungsanwendung, ersetzt keine medizinische Diagnostik oder Behandlung und heilt keine Krankheiten; keine Anwendung bei offenen Wunden, Thrombose oder Fieber; bei Anzeichen von Herzinfarkt oder Schlaganfall sofort den Notruf 112; bei gesundheitlichen Beschwerden an Ärztin, Arzt oder Heilpraktiker',
+        'Bei Anzeichen eines Herzinfarkts darf man erst in Ruhe Punkte drücken',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default K04;

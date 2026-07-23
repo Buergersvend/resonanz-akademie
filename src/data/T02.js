@@ -287,7 +287,69 @@ Die Einladung: Bleibe neugierig. Bleibe offen. Bleibe demütig. Und höre nie au
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was lernt man laut Kurs bei der Verfeinerung des visuellen Wahrnehmungskanals?',
+      antworten: [
+        'Nur noch einzelne Standbilder zu empfangen',
+        'Zwischen symbolischen Bildern und wörtlichen Eindrücken zu unterscheiden (z. B. ob eine „Kette" real gemeint oder ein Symbol für Gefangenschaft ist)',
+        'Ausschließlich die Zukunft des Tieres vorherzusagen',
+        'Bilder grundsätzlich zu ignorieren',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was ist laut Kurs der „Goldstandard" der professionellen Qualitätssicherung?',
+      antworten: [
+        'Doppelblind-Übungen — zwei Tierkommunikatoren arbeiten unabhängig mit demselben Tier und vergleichen die Ergebnisse; Abweichungen zeigen Projektionsfallen',
+        'Möglichst schnell möglichst viele Aussagen zu treffen',
+        'Den Besitzer von den eigenen Eindrücken zu überzeugen',
+        'Nur mit einem einzigen Wahrnehmungskanal zu arbeiten',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie geht der Kurs mit zukunftsbezogenen Eindrücken um?',
+      antworten: [
+        'Sie werden als sichere Prophezeiung verkündet',
+        'Sie gelten als die verlässlichsten Informationen überhaupt',
+        'Sie sind die unsichersten Informationen und werden nur als Möglichkeit geteilt, nie als Prophezeiung',
+        'Sie werden dem Besitzer grundsätzlich verschwiegen',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was gilt beim Konzept „Das Tier als Spiegel des Menschen"?',
+      antworten: [
+        'Jede Tierkrankheit spiegelt ein bestimmtes menschliches Gefühl wider',
+        'Es geht nur um Krankheiten, nicht um Stimmungen',
+        'Der Mensch ist immer schuld am Verhalten seines Tieres',
+        'Es geht ausschließlich um emotionale Resonanz (Stimmungen und Verhalten); körperliche Erkrankungen sind niemals als „Spiegelung" zu deuten — sie haben medizinische Ursachen und gehören tierärztlich abgeklärt',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Was empfiehlt der Kurs zur Selbstfürsorge in der intensiven Arbeit?',
+      antworten: [
+        'Sich in Krisen vollständig zu verausgaben',
+        'Energetische Hygiene (Entrollen, Erden, Feldbereinigung), die Sitzungsdauer begrenzen und die Emotionen des Besitzers nicht als eigene übernehmen',
+        'Niemals Pausen zu machen',
+        'Die eigenen Tiere ständig telepathisch zu analysieren',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Wo verläuft die klare Grenze der Tierkommunikation laut Kurs?',
+      antworten: [
+        'Sie darf Krankheiten diagnostizieren und behandeln',
+        'Sie ersetzt bei einem Unfall die tierärztliche Versorgung',
+        'Sie ist keine Tierheilkunde: keine gesundheitlichen Diagnosen, keine „Körper-Scans", keine Krankheitsbenennung; sie ersetzt in keinem Fall die tierärztliche Versorgung — bei gesundheitlichen oder Verhaltensfragen ist immer die Tierärztin, der Tierarzt oder eine Fachperson zuständig',
+        'Bei der Frage nach dem Einschläfern trifft der Kommunikator die Entscheidung',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default T02;

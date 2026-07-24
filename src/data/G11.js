@@ -459,6 +459,68 @@ Nach 7 Tagen: Wie hat sich dein Alltag verändert?`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Was beschreibt der Kurs mit dem Bild „Du bist ein energetischer Schwamm"?',
+      antworten: [
+        'Dass man körperlich ständig Wasser trinken muss',
+        'Dass dein Energiefeld ständig Energie von Menschen, Räumen und Situationen aufnimmt und abgibt — Anzeichen sind z. B. plötzliche Stimmungswechsel oder Erschöpfung nach sozialen Situationen',
+        'Dass Energie nur von innen kommt und Äußeres keine Rolle spielt',
+        'Dass ausschließlich unsensible Menschen betroffen sind',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Auf welchen drei Säulen ruht die Energiehygiene laut Kurs?',
+      antworten: [
+        'Reinigung, Schutz und Stärkung',
+        'Ernährung, Schlaf und Sport',
+        'Meditation, Gebet und Fasten',
+        'Isolation, Abschottung und Rückzug',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche drei Grundmethoden der energetischen Reinigung nennt der Kurs?',
+      antworten: [
+        'Salzbad, Räuchern und Klangschale',
+        'Ausschließlich kaltes Duschen',
+        'Lichtdusche, Abstreifen und Erd-Erdung',
+        'Schlafen, Essen und Trinken',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie beschreibt der Kurs die „Energieblase"?',
+      antworten: [
+        'Als Isolationswerkzeug, das dich völlig von der Welt abschneidet',
+        'Als Technik, die nur nachts funktioniert',
+        'Als Mauer, die jede Verbindung blockiert',
+        'Als Filter bzw. Schutzhülle, die belastende Energie abhält, aber Liebe und positive Verbindung durchlässt (wie eine Sonnenbrille) — ausdrücklich kein Isolationswerkzeug',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Was gilt laut Kurs für den „Spiegelschild"?',
+      antworten: [
+        'Man schickt dem Gegenüber bewusst etwas Böses zurück',
+        'Er ist für den dauerhaften Dauerbetrieb gedacht',
+        'Er reflektiert Energie neutral zum Absender zurück (kein Angriff), ist nur für spezifische, intensive Situationen gedacht und wird danach bewusst wieder aufgelöst',
+        'Er ersetzt die Erdung vollständig',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wie versteht der Kurs „Energieschutz" — und was ist er ausdrücklich NICHT?',
+      antworten: [
+        'Bewusstes Wählen und Filtern, welche Energie man aufnimmt — ein „Sieb, kein Isolationswerkzeug"; eine Selbstfürsorge-Praxis für sensible und empathische Menschen',
+        'Eine Mauer, die einen komplett von anderen abschottet und isoliert',
+        'Ein Ersatz für die ärztliche oder therapeutische Abklärung körperlicher Beschwerden',
+        'Eine Garantie, nie wieder erschöpft oder krank zu werden',
+      ],
+      richtig: 0,
+    },
+  ],
 }
 
 export default G11

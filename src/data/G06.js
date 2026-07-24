@@ -1237,7 +1237,69 @@ Dieser Kurs ist kein Abschluss — er ist ein Anfang. Die weitere Beschäftigung
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was bedeutet das Sanskrit-Wort „Yoga" — und wie definiert Patanjali eine Asana?',
+      antworten: [
+        '„Anstrengung"; eine Asana ist eine möglichst fordernde, anstrengende Haltung',
+        '„Verbindung/Vereinigung"; eine Asana ist „sthira sukham" — stabil und zugleich angenehm',
+        '„Wettkampf"; eine Asana ist eine sportliche Bestleistung auf der Matte',
+        '„Ruhe"; eine Asana ist reines Stillsitzen ganz ohne Körperarbeit',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was beschreibt Patanjalis „Achtgliedriger Pfad" (Ashtanga)?',
+      antworten: [
+        'Acht Aufwärmübungen, die man vor dem Sport absolviert',
+        'Acht fortgeschrittene Atemtechniken für geübte Yogis',
+        'Acht Glieder des Yogaweges — von Yama/Niyama (Ethik) über Asana und Pranayama bis zu Dharana, Dhyana und Samadhi',
+        'Acht verschiedene Yogastile zur Auswahl für Einsteiger',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Wodurch unterscheidet sich Vinyasa Yoga von Yin Yoga?',
+      antworten: [
+        'Vinyasa synchronisiert Bewegung mit dem Atem (fließend); Yin hält passive Haltungen lange (3–5 Min) und arbeitet am Bindegewebe',
+        'Vinyasa ist vollständig passiv; Yin ist der besonders dynamische, fließende Stil',
+        'Beide sind praktisch identisch und unterscheiden sich nur im Namen',
+        'Vinyasa arbeitet an den Faszien; Yin synchronisiert jeden einzelnen Atemzug',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche drei Haupt-Nadis (Energiekanäle) nennt der Kurs?',
+      antworten: [
+        'Vata, Pitta und Kapha',
+        'Prana, Apana und Samana',
+        'Mula, Uddiyana und Jalandhara',
+        'Sushumna (Zentralkanal), Ida (kühlend, links) und Pingala (aktivierend, rechts)',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Welche Rolle hat Pranayama im Yoga?',
+      antworten: [
+        'Es ist die vierte der acht Stufen und die direkteste Methode, Prana (Lebensenergie) zu lenken',
+        'Es ist eine reine Aufwärmübung ohne weitere Bedeutung',
+        'Es ist eine besondere Ernährungsform innerhalb des Yoga',
+        'Es ist die achte und damit letzte Stufe des Yogapfades',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie ist im Kurs mit körperlichen Grenzen und dem „Prana"-Modell umzugehen?',
+      antworten: [
+        'Yoga heilt Krankheiten zuverlässig, indem es blockiertes Prana wieder zum Fließen bringt',
+        'Kontraindikationen wie Bluthochdruck oder Epilepsie darf man bei genügend Disziplin ignorieren',
+        'Man übt achtsam und respektiert körperliche Grenzen; bei Kontraindikationen oder Beschwerden ärztlich abklären — das Prana-Modell ist eine Betrachtungsweise, kein Heilversprechen',
+        'Bei Schwindel oder Unwohlsein atmet man einfach intensiver weiter, statt zu pausieren',
+      ],
+      richtig: 2,
+    },
+  ],
 };
 
 export default G06;

@@ -706,7 +706,69 @@ Du bist eingeladen, diesen Weg zu gehen — einen Atemzug nach dem anderen. Nich
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'Was ist Meditation laut Kurs ausdrücklich NICHT?',
+      antworten: [
+        'Das Erzwingen eines Zustands, in dem man an nichts denkt',
+        'Die bewusste Lenkung der Aufmerksamkeit',
+        'Das Beobachten von Gedanken und Gefühlen, ohne zu reagieren',
+        'Ein verändertes Verhältnis zu den eigenen Gedanken',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche Gehirnveränderungen nennt der Kurs bei regelmäßig Meditierenden?',
+      antworten: [
+        'Die Amygdala wächst und wird reaktiver',
+        'Der präfrontale Kortex wird dicker, die Amygdala kleiner und weniger reaktiv, das Default Mode Network weniger aktiv',
+        'Das Gehirn verändert sich nachweislich überhaupt nicht',
+        'Ausschließlich der Sehkortex verändert sich',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'In welche zwei Grundrichtungen lassen sich laut Kurs alle Meditationstechniken einteilen?',
+      antworten: [
+        'Religiöse und weltliche Meditation',
+        'Sitzende und liegende Meditation',
+        'Fokussierte Aufmerksamkeit (Konzentration auf ein Objekt) und offenes Gewahrsein (Beobachten ohne Fokusobjekt)',
+        'Laute und leise Meditation',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Welche drei Schlüsselelemente kennzeichnen Achtsamkeit („Sati")?',
+      antworten: [
+        'Absichtsvoll, gegenwärtig und nicht-wertend',
+        'Schnell, laut und wiederholt',
+        'Religiös, ritualisiert und still',
+        'Analytisch, bewertend und zielorientiert',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche fünf universellen Hindernisse (Nivaranas) nennt der Kurs?',
+      antworten: [
+        'Hunger, Durst, Müdigkeit, Kälte und Hitze',
+        'Unruhe/Zerstreuung, Schläfrigkeit/Dumpfheit, Zweifel, Abneigung/Widerstand und Gier nach Erlebnissen',
+        'Angst, Wut, Trauer, Freude und Ekel',
+        'Lärm, Licht, Zeitmangel, Schmerz und Langeweile',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche ethische Grenze zieht der Kurs für die Meditationsbegleitung?',
+      antworten: [
+        'Meditation heilt Krankheiten und ersetzt jede Behandlung',
+        'Der Begleiter ist eine Autorität über der Erfahrung der anderen',
+        'Bei anhaltenden Beschwerden genügt einfach mehr Meditation',
+        'Keine Heilversprechen — Meditation ist kein Allheilmittel und ersetzt keine medizinische oder therapeutische Behandlung; bei körperlichen oder seelischen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut; Begleitung nur auf Augenhöhe und freiwillig',
+      ],
+      richtig: 3,
+    },
+  ],
 };
 
 export default G09;

@@ -721,6 +721,68 @@ Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
       ],
     },
   ],
+  quiz: [
+    {
+      frage: 'Woraus wird die Herzenszahl berechnet?',
+      antworten: [
+        'Aus dem vollständigen Geburtsdatum',
+        'Nur aus den Vokalen des Geburtsnamens',
+        'Nur aus den Konsonanten des Geburtsnamens',
+        'Aus allen Buchstaben des Geburtsnamens',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welche Zahlen gelten in der Numerologie als Meisterzahlen, die nicht weiter reduziert werden?',
+      antworten: [
+        'Drei, Sechs und Neun',
+        'Eins, Fünf und Sieben',
+        'Zwei, Vier und Acht',
+        'Elf, Zweiundzwanzig und Dreiunddreißig',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Was beschreibt das „persönliche Jahr" in der Numerologie?',
+      antworten: [
+        'Einen Neun-Jahres-Zyklus, in dem jedes Jahr eine bestimmte Zahlenenergie trägt',
+        'Die unveränderliche Lebensaufgabe aus dem Geburtsdatum',
+        'Die Qualität, wie andere einen wahrnehmen',
+        'Die Kompatibilität zwischen zwei Menschen',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Wie wird die Beziehungszahl in der Beziehungsnumerologie berechnet?',
+      antworten: [
+        'Aus der Differenz der beiden Geburtsjahre',
+        'Nur aus den Vokalen der beiden Namen',
+        'Aus der Summe der beiden Lebenszahlen (auf eine Quersumme reduziert)',
+        'Aus der Summe von Lebenszahl und Ausdruckszahl einer Person',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was beschreiben „fehlende Zahlen" im numerologischen Profil?',
+      antworten: [
+        'Zahlen, die im Geburtsdatum besonders häufig auftauchen und verstärkt wirken',
+        'Zahlen von eins bis neun, die im Geburtsnamen nicht vorkommen (Entwicklungsfelder)',
+        'Die Meisterzahlen, die im Profil überbetont und ausbalanciert werden müssen',
+        'Die aktuelle Zeitqualität, die das laufende persönliche Jahr vorgibt',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Was sagt der Kurs zu den Grenzen der Numerologie bei körperlichen oder gesundheitlichen Beschwerden?',
+      antworten: [
+        'Sie kann über die persönliche Tageszahl die passende Behandlung bestimmen',
+        'Sie ersetzt bei Beschwerden die ärztliche Abklärung durch Zahlendeutung',
+        'Sie kann die Zukunft vorhersagen und Beschwerden numerologisch auflösen',
+        'Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+      ],
+      richtig: 3,
+    },
+  ],
 };
 
 export default Y03;

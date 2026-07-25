@@ -325,7 +325,69 @@ Dein Ziel ist nicht, alles über Human Design zu wissen. Dein Ziel ist, das, was
         }
       ]
     }
-  ]
+  ],
+  quiz: [
+    {
+      frage: 'In welche drei großen Schaltkreisgruppen sind die Tore und Kanäle laut Kurs organisiert?',
+      antworten: [
+        'Oberer, mittlerer und unterer Schaltkreis',
+        'Sonnen-, Mond- und Erd-Schaltkreis',
+        'Individueller, kollektiver und Stammes-Schaltkreis',
+        'Aktiver, passiver und neutraler Schaltkreis',
+      ],
+      richtig: 2,
+    },
+    {
+      frage: 'Was beschreibt die „elektromagnetische Verbindung" bei einem offenen Kanal?',
+      antworten: [
+        'Zwei Menschen, die zusammen einen Kanal vervollständigen und dadurch eine magnetische Anziehung erleben — mit Gefahr der Abhängigkeit',
+        'Einen Kanal, der bei jedem Menschen automatisch vollständig definiert ist',
+        'Eine rein technische Störung in der Software-Berechnung',
+        'Die gleichzeitige Aktivierung aller neun Zentren',
+      ],
+      richtig: 0,
+    },
+    {
+      frage: 'Welche Reihenfolge der sechs Linien nennt der Kurs?',
+      antworten: [
+        'Naturtalent, Forscher, Experimentator, Netzwerker, Universalisierer, Vorbild',
+        'Forscher, Naturtalent, Experimentator, Netzwerker, Universalisierer, Reflektor',
+        'Forscher, Naturtalent, Manifestor, Projektor, Universalisierer, Vorbild',
+        'Forscher, Naturtalent, Experimentator, Netzwerker, Universalisierer, Vorbild',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Wann findet laut Kurs der erste Saturn-Return statt?',
+      antworten: [
+        'Etwa mit 18 bis 20 Jahren',
+        'Etwa mit 28 bis 30 Jahren',
+        'Etwa mit 41 Jahren (Uranus-Opposition)',
+        'Etwa mit 50 Jahren (Chiron-Return)',
+      ],
+      richtig: 1,
+    },
+    {
+      frage: 'Welches Nicht-Selbst-Thema ordnet der Kurs dem Generator zu?',
+      antworten: [
+        'Wut',
+        'Verbitterung',
+        'Enttäuschung',
+        'Frustration',
+      ],
+      richtig: 3,
+    },
+    {
+      frage: 'Was empfiehlt der Kurs beim Experimentieren mit der Ernährungsvariable im Hinblick auf körperliche oder gesundheitliche Beschwerden?',
+      antworten: [
+        'Die Abklärung gehört zu Arzt, Heilpraktiker oder Therapeut',
+        'Beschwerden ausschließlich über die Ernährungsvariable selbst zu regulieren',
+        'Solche Beschwerden zu ignorieren, da sie nur Konditionierung seien',
+        'Die Determination so lange zu wechseln, bis die Beschwerden verschwinden',
+      ],
+      richtig: 0,
+    },
+  ],
 };
 
 export default Y02;

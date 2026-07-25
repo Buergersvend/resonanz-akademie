@@ -224,7 +224,7 @@ Schreibe diese drei Beweise auf und lies sie dir jeden Morgen vor. Nicht als lee
 
 ### Universelle Muster, individuelle Ausprägung
 
-Es gibt Glaubenssätze, die so verbreitet sind, dass fast jeder Mensch mindestens zwei oder drei davon in sich trägt. Sie zu kennen, hilft dir, sie schneller bei dir selbst — und in der Arbeit mit Klienten — zu identifizieren.
+Es gibt Glaubenssätze, die so verbreitet sind, dass fast jeder Mensch mindestens zwei oder drei davon in sich trägt. Sie zu kennen, hilft dir, sie schneller bei dir selbst zu erkennen.
 
 **1. "Ich bin nicht genug."**
 Das universellste aller Programme. Es kann sich auf alles beziehen — nicht klug genug, nicht schön genug, nicht erfolgreich genug, nicht spirituell genug. Die energetische Signatur: ein zusammengezogener Solarplexus, eine kleine, eingeengte Aura, das ständige Gefühl, beweisen zu müssen. Dieser Glaubenssatz erzeugt entweder Rückzug (Vermeidung) oder Überleistung (Kompensation) — beides Versuche, das Grundgefühl zu übertönen.
@@ -349,7 +349,7 @@ Der Bambus überlebt den Sturm nicht, weil er stärker ist als die Eiche. Er üb
 
 **2. Innerer Beobachter** — Die Fähigkeit, einen Schritt zurückzutreten und die eigene Situation zu beobachten, statt in ihr unterzugehen. "Ich bin wütend" statt "Die Wut ist alles, was ich bin." Meditation trainiert genau diese Fähigkeit.
 
-**3. Emotionale Durchlässigkeit** — Resiliente Menschen unterdrücken ihre Gefühle nicht. Sie lassen sie fließen — durch sich hindurch, nicht gegen sich. Trauer darf da sein. Wut darf da sein. Angst darf da sein. Sie kommen, sie werden gefühlt, sie gehen. Festhalten oder Unterdrücken erzeugt Stauung — und Stauung erzeugt Krankheit.
+**3. Emotionale Durchlässigkeit** — Resiliente Menschen unterdrücken ihre Gefühle nicht. Sie lassen sie fließen — durch sich hindurch, nicht gegen sich. Trauer darf da sein. Wut darf da sein. Angst darf da sein. Sie kommen, sie werden gefühlt, sie gehen. Festhalten oder Unterdrücken kostet Kraft — Energie, die dann an anderer Stelle fehlt.
 
 **4. Sinn und Bedeutung** — Krisen, die als sinnlos erlebt werden, zerstören. Krisen, die als Wachstumsmöglichkeit gedeutet werden können — wenn auch erst im Nachhinein — stärken. Das bedeutet nicht, Leid zu romantisieren. Es bedeutet, die Frage zu stellen: "Was kann ich aus dieser Erfahrung mitnehmen?"
 
@@ -358,6 +358,8 @@ Der Bambus überlebt den Sturm nicht, weil er stärker ist als die Eiche. Er üb
 **6. Körperliche Basis** — Schlaf, Ernährung, Bewegung. Klingt banal, ist fundamental. Ein erschöpfter Körper hat keine Ressourcen für Resilienz. Energetisch gesehen: Ein vitaler, gepflegter physischer Körper ist die Basis für ein starkes Energiefeld.
 
 **7. Spirituelle Verankerung** — Die Verbindung zu etwas Größerem — ob du es Gott, Universum, Quelle, Natur oder höheres Selbst nennst. Diese Verbindung gibt dir die Perspektive, dass du mehr bist als deine aktuelle Krise. Dass es einen größeren Zusammenhang gibt, auch wenn du ihn gerade nicht siehst.
+
+Diese sieben Säulen sind Orientierung für die eigene Wahrnehmung, kein Ersatz für fachliche Einschätzung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Resilienz ist trainierbar
 
@@ -391,13 +393,15 @@ Die energetische Sichtweise ist radikal anders: Emotionen sind Informationen. Si
 
 **Freude** sagt: "Das ist richtig. Hier bist du auf deinem Weg. Mehr davon." Freude ist der Kompass, der dir zeigt, was zu dir gehört. Wenn du etwas tust und Freude empfindest — ohne Anstrengung, ohne Überzeugung — bist du in Resonanz mit deinem authentischen Selbst.
 
-**Trauer** sagt: "Etwas Wertvolles geht oder ist gegangen. Lass es los." Trauer ist das Gefühl der Transformation — sie begleitet jedes Ende, jeden Abschied, jede Veränderung. Sie ist nicht das Problem — sie ist der Heilungsprozess. Unterdrückte Trauer wird zu Depression.
+**Trauer** sagt: "Etwas Wertvolles geht oder ist gegangen. Lass es los." Trauer ist das Gefühl der Transformation — sie begleitet jedes Ende, jeden Abschied, jede Veränderung. Sie ist nicht das Problem — sie ist der Weg hindurch. Trauer, der kein Raum gegeben wird, bleibt oft lange spürbar.
 
-**Wut** sagt: "Eine Grenze wurde überschritten. Schütze dich." Wut ist pure Lebensenergie. Sie ist das Feuer, das dich aufstehen lässt, wenn du unterdrückt wirst. Gesunde Wut setzt Grenzen und verteidigt den eigenen Raum. Unterdrückte Wut wird zu passiver Aggression, Zynismus oder Selbstzerstörung.
+**Wut** sagt: "Eine Grenze wurde überschritten. Schütze dich." Wut ist pure Lebensenergie. Sie ist das Feuer, das dich aufstehen lässt, wenn du unterdrückt wirst. Gesunde Wut setzt Grenzen und verteidigt den eigenen Raum. Wut, die keinen Ausdruck findet, zeigt sich oft indirekt — als Rückzug, als Zynismus oder als Härte gegen dich selbst.
 
 **Angst** sagt: "Achtung — hier könnte Gefahr sein. Sei wachsam." In ihrer gesunden Form ist Angst ein Überlebensmechanismus — sie schärft die Sinne und bereitet den Körper auf Reaktion vor. In ihrer chronischen Form — wenn sie ohne reale Bedrohung dauerhaft aktiv ist — wird sie zur Blockade.
 
 **Scham** sagt: "Du hast gegen eine soziale Norm verstoßen." Scham ist das schmerzhafteste aller Gefühle, weil sie nicht das Verhalten betrifft (das wäre Schuld), sondern das Selbst: "Ich bin falsch." Toxische Scham — das Grundgefühl, als Mensch defekt zu sein — ist einer der tiefsten Hebel in der Persönlichkeitsarbeit.
+
+Diese Zuordnungen sind Deutungsangebote zur Selbstwahrnehmung, keine Einordnung von Krankheitsbildern. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Emotionale Kompetenz in vier Schritten
 
@@ -424,7 +428,7 @@ Jeder Mensch hat einen Schatten. Er besteht nicht nur aus "negativen" Eigenschaf
 
 In der Kindheit hat jeder Mensch ein vollständiges Spektrum an Eigenschaften, Impulsen und Ausdrucksformen. Dann beginnt die Selektion: "Sei nicht so wild" — die Wildheit geht in den Schatten. "Gib nicht an" — der Stolz geht in den Schatten. "Sei tapfer, wein nicht" — die Verletzlichkeit geht in den Schatten. "Mädchen sind brav" — die Wut geht in den Schatten. "Jungs sind stark" — die Zärtlichkeit geht in den Schatten.
 
-Alles, was nicht willkommen war, wird in einen inneren Keller gesperrt. Aber es verschwindet nicht. Es lebt weiter — als Projektion auf andere ("Ich hasse an ihm, was ich an mir nicht sehen will"), als Selbstsabotage (das Potenzial, das sich nie entfalten darf), als körperliche Symptome (die Wut, die nie raus durfte, wird zur chronischen Verspannung) oder als Suchtverhalten (der Versuch, das Unterdrückte kurzfristig zu befreien).
+Alles, was nicht willkommen war, wird in einen inneren Keller gesperrt. Aber es verschwindet nicht. Es lebt weiter — als Projektion auf andere ("Ich hasse an ihm, was ich an mir nicht sehen will"), als Selbstsabotage (das Potenzial, das sich nie entfalten darf), als anhaltende innere Anspannung oder als Suchtverhalten (der Versuch, das Unterdrückte kurzfristig zu befreien).
 
 ### Schattenarbeit in drei Schritten
 
@@ -691,17 +695,21 @@ Die Persönlichkeitsentwicklungsindustrie ist ein Milliardenmarkt — und nicht 
 
 Wenn deine Persönlichkeitsentwicklung dazu führt, dass du dich ständig ungenügend fühlst, dann ist sie Teil des Problems geworden, nicht der Lösung. Die ultimative Reife in der persönlichen Entwicklung ist die Fähigkeit, das Streben loszulassen und in der Fülle des Augenblicks zu ruhen — ohne den Impuls, etwas verbessern zu müssen.
 
-### Ethik in der Arbeit mit anderen
+### Grenzen der Selbsterfahrung
 
-Wenn du die Werkzeuge dieses Kurses in der Arbeit mit Klienten einsetzt, gelten klare ethische Grundsätze:
+So wertvoll die Arbeit an dir selbst ist — sie hat Grenzen, und die zu kennen gehört zur Reife dazu.
 
-**Kein Druck.** Jeder Mensch hat das Recht, genau da zu bleiben, wo er ist. Du kannst einladen, inspirieren, begleiten — aber niemals drängen. Schattenarbeit, Glaubenssatzauflösung, emotionale Prozesse — all das darf nur geschehen, wenn der Klient bereit ist und einwilligt.
+**Kein Druck gegen dich selbst.** Du hast das Recht, genau da zu bleiben, wo du gerade bist. Nicht jede Schicht will heute angeschaut werden. Wenn eine Übung sich hart, kalt oder erzwungen anfühlt, ist das ein Signal zum Innehalten — nicht zum Durchhalten. Schattenarbeit und emotionale Prozesse brauchen deine Zustimmung, nicht deine Disziplin.
 
-**Keine Abhängigkeit erzeugen.** Dein Ziel als Begleiter ist es, überflüssig zu werden. Wenn ein Klient nach Monaten immer noch "ohne dich nicht kann", hast du etwas falsch gemacht. Gute Persönlichkeitsarbeit stärkt die Autonomie — nicht die Abhängigkeit.
+**Keine neue Abhängigkeit.** Werkzeuge sollen dich freier machen, nicht bedürftiger. Wenn du merkst, dass du ohne eine bestimmte Methode, ein bestimmtes Buch oder eine bestimmte Person nicht mehr zurechtkommst, ist das kein Fortschritt — es ist eine neue Bindung. Gute Selbstarbeit stärkt deine Eigenständigkeit.
 
-**Eigene Kompetenzgrenzen kennen.** Persönlichkeitsarbeit ist keine Psychotherapie. Wenn ein Klient unter schweren Depressionen, Psychosen, Suizidgedanken oder schwerem Trauma leidet, verweise weiter an einen qualifizierten Therapeuten. Du kannst ergänzen — nicht ersetzen.
+**Deine eigenen Grenzen kennen.** Selbsterfahrung ist keine Psychotherapie. Manche Themen brauchen fachliche Begleitung — anhaltende Niedergeschlagenheit, überwältigende Erinnerungen, das Gefühl, den Boden zu verlieren, oder Gedanken, dir das Leben zu nehmen. Das ist kein Scheitern deiner Arbeit an dir. Es ist die richtige Einschätzung einer Situation, für die es Fachleute gibt. In akuten Krisen ist die Telefonseelsorge rund um die Uhr und kostenfrei erreichbar: 0800 111 0 111, 0800 111 0 222 oder 116 123.
 
-**Eigene Arbeit zuerst.** Du kannst niemanden an einen Ort führen, an dem du selbst noch nicht warst. Deine wichtigste Qualifikation als Begleiter ist nicht dein Wissen — es ist deine eigene gelebte Transformation. Arbeite an dir selbst, bevor du an anderen arbeitest. Und höre nie auf damit.
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
+
+**Dein Netz kennen.** Nimm dir einen Moment und schreibe drei Namen auf: einen Menschen, den du anrufen kannst, wenn es dir gut geht und du etwas teilen möchtest. Einen, den du anrufen kannst, wenn es dir schlecht geht. Und eine Stelle — Praxis, Beratung, Hotline — an die du dich wenden würdest, wenn beides nicht reicht. Wenn dir bei einer der drei Zeilen nichts einfällt, ist das die wichtigste Erkenntnis dieser Lektion.
+
+**Deine eigene Erfahrung zählt.** Gelesenes Wissen und gelebte Erfahrung sind zweierlei. Was du an dir selbst durchgearbeitet hast, trägt anders als das, was du nur verstanden hast. Bleib an dir dran — und hör nicht auf damit.
 
 ### Der größere Zusammenhang
 

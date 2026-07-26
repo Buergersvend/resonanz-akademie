@@ -65,7 +65,7 @@ Persönlichkeitsentwicklung aus energetischer Sicht bedeutet: Schicht für Schic
 
 ### Dein Energiefeld erzählt deine Geschichte
 
-Die Art, wie du dich in der Welt zeigst — selbstbewusst oder zurückhaltend, offen oder verschlossen, kraftvoll oder zögerlich — hat ein direktes Gegenstück in deinem Energiefeld. Energetische Diagnostik und Persönlichkeitsarbeit sind deshalb untrennbar verbunden.
+Die Art, wie du dich in der Welt zeigst — selbstbewusst oder zurückhaltend, offen oder verschlossen, kraftvoll oder zögerlich — hat ein direktes Gegenstück in deinem Energiefeld. Energetische Selbstwahrnehmung und Persönlichkeitsarbeit sind deshalb untrennbar verbunden.
 
 ### Der Solarplexus — Sitz der persönlichen Macht
 
@@ -314,11 +314,11 @@ Bleibe 5 bis 10 Minuten in diesem Zustand. Dann ziehe die Energie langsam in den
 
 ### Die Kraft-Haltung (2 Minuten)
 
-Dein Körper beeinflusst deine Psyche genauso stark wie umgekehrt. Wenn du dich klein machst — Schultern nach vorne, Blick nach unten, Arme verschränkt — signalisiert dein Körper deinem Gehirn: "Ich bin bedroht. Ich muss mich schützen." Und dein Gehirn produziert Cortisol — das Stresshormon.
+Dein Körper beeinflusst deine Psyche genauso stark wie umgekehrt. Wenn du dich klein machst — Schultern nach vorne, Blick nach unten, Arme verschränkt — signalisiert dein Körper deinem Gehirn: "Ich bin bedroht. Ich muss mich schützen." Und das Gefühl von Bedrohung verstärkt sich.
 
-Wenn du dich aufrichtest — Schultern zurück, Brust offen, Blick geradeaus, Füße hüftbreit, Hände in die Hüften — signalisiert dein Körper: "Ich bin sicher. Ich bin stark." Und dein Gehirn antwortet mit einem Anstieg von Testosteron und einem Abfall von Cortisol.
+Wenn du dich aufrichtest — Schultern zurück, Brust offen, Blick geradeaus, Füße hüftbreit, Hände in die Hüften — signalisiert dein Körper: "Ich bin sicher. Ich bin stark." Und das Gefühl von Sicherheit verstärkt sich.
 
-Mach das jeden Morgen: 2 Minuten aufrecht stehen. Brust offen. Kinn leicht angehoben. Atme tief. Spüre den Boden unter deinen Füßen. Du brauchst nichts zu denken — die Haltung allein verändert deine Biochemie.
+Mach das jeden Morgen: 2 Minuten aufrecht stehen. Brust offen. Kinn leicht angehoben. Atme tief. Spüre den Boden unter deinen Füßen. Du brauchst nichts zu denken — die Haltung allein verändert dein Körpergefühl.
 
 ### Das Wertschätzungs-Ritual (5 Minuten abends)
 
@@ -407,7 +407,7 @@ Diese Zuordnungen sind Deutungsangebote zur Selbstwahrnehmung, keine Einordnung 
 
 **Schritt 1: Wahrnehmen.** Lerne, Emotionen zu bemerken, während sie geschehen — nicht erst hinterher. "Ich bin gerade wütend." "Da ist Angst." Je schneller du ein Gefühl identifizierst, desto mehr Handlungsspielraum hast du.
 
-**Schritt 2: Benennen.** Wissenschaftliche Studien zeigen: Allein das Benennen einer Emotion reduziert ihre Intensität um bis zu 50 Prozent. Die Amygdala (das Alarmzentrum des Gehirns) beruhigt sich, wenn der präfrontale Kortex (Sprachzentrum) das Gefühl einordnet. Deshalb: Benenne, was du fühlst — so präzise wie möglich.
+**Schritt 2: Benennen.** Viele Menschen erleben, dass ein Gefühl an Schärfe verliert, sobald es einen Namen hat. Deshalb: Benenne, was du fühlst — so präzise wie möglich.
 
 **Schritt 3: Fühlen.** Lass das Gefühl da sein. Nicht analysieren, nicht interpretieren, nicht wegmachen. Wo im Körper spürst du es? Wie groß ist es? Hat es eine Farbe, eine Temperatur, eine Textur? Atme dorthin. Gib dem Gefühl Raum.
 
@@ -654,7 +654,7 @@ Schreibe deine Vision auf. Nicht als Ziel-Liste — als lebendige Beschreibung. 
 
 Persönlichkeitsentwicklung geschieht nicht in Workshops oder Kursen. Sie geschieht im Alltag — in den tausend kleinen Momenten, in denen du dich entscheidest, bewusst statt automatisch zu handeln. Workshops und Kurse geben dir Werkzeuge. Tägliche Praxis gibt dir Transformation.
 
-Die Hirnforschung bestätigt: Neue neuronale Bahnen entstehen nicht durch einmaliges Erleben, sondern durch Wiederholung. 21 Tage braucht es, um eine neue Gewohnheit zu etablieren. 66 Tage, um sie zu automatisieren. 90 Tage, um eine dauerhafte Veränderung der Persönlichkeitsstruktur zu bewirken.
+Entscheidend ist nicht das einmalige Erleben, sondern die Wiederholung. Wie lange es dauert, bis sich etwas eingespielt anfühlt, ist von Mensch zu Mensch verschieden — die Erfahrung vieler Übender spricht für Wochen, nicht für Tage.
 
 ### Dein 20-Minuten-Morgenritual
 

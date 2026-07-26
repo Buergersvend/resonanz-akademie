@@ -75,7 +75,7 @@ Meditation ist eines der am intensivsten erforschten Gebiete der Neurowissenscha
 
 ### Was Menschen körperlich wahrnehmen
 
-Viele Menschen beschreiben nach längerer regelmäßiger Praxis, dass sie ruhiger in den Tag gehen, körperliche Anspannung früher bemerken und abends leichter zur Ruhe kommen. Wie deutlich das ausfällt, ist von Mensch zu Mensch verschieden. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
+Viele Menschen beschreiben nach längerer regelmäßiger Praxis, dass sie ruhiger in den Tag gehen, körperliche Anspannung früher bemerken und abends leichter zur Ruhe kommen. Wie deutlich das ausfällt, ist von Mensch zu Mensch verschieden. Die Meditationsforschung untersucht diese Beobachtungen unter anderem in den Bereichen Stressverarbeitung, Schlafqualität, Schmerzwahrnehmung und Immunfunktion — mit uneinheitlicher Studienlage und ohne Aussage darüber, was im Einzelfall eintritt. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Was Menschen innerlich wahrnehmen
 

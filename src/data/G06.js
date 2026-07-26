@@ -676,7 +676,7 @@ Im Yoga ist Pranayama keine Nebensache — es ist die vierte der acht Stufen des
 
 **Wirkung:** Reinigend, energetisierend, klärend. Kapalabhati feuert das innere Feuer (Agni) an, reinigt die Atemwege, aktiviert den Solarplexus und vertreibt Müdigkeit. Kapala = Schädel, Bhati = Leuchten — nach einer Runde leuchtet der Kopf tatsächlich klarer.
 
-**Kontraindikationen:** Schwangerschaft, Menstruation (umstritten), Bluthochdruck, Hernien, akute Baucherkrankungen, Epilepsie. Bei Schwindel oder Unwohlsein sofort aufhören.
+**Kontraindikationen:** Schwangerschaft, Menstruation (umstritten), Bluthochdruck, Hernien, akute Baucherkrankungen, Epilepsie. Bei Schwindel oder Unwohlsein sofort aufhören. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Nadi Shodhana — die Wechselatmung
 
@@ -1191,7 +1191,7 @@ Yoga ohne Ethik ist Gymnastik. Die ethischen Grundlagen des Yoga — allen voran
 
 **Ahimsa (Gewaltlosigkeit):** Übe so, dass du dich nicht verletzt — körperlich oder emotional. Keine Haltung, die Schmerzen verursacht. Keine innere Stimme, die dich beschämt. "Push through the pain" ist keine Yoga-Philosophie.
 
-**Satya (Wahrhaftigkeit):** Sei ehrlich über dein Können und deine Grenzen. Wenn eine Haltung heute nicht geht — sie geht heute nicht. Wenn dein Körper ein Signal sendet, das du nicht einordnen kannst — nimm es ernst und hole dir fachlichen Rat.
+**Satya (Wahrhaftigkeit):** Sei ehrlich über dein Können und deine Grenzen. Wenn eine Haltung heute nicht geht — sie geht heute nicht. Wenn dein Körper ein Signal sendet, das du nicht einordnen kannst — nimm es ernst und hole dir fachlichen Rat. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 **Asteya (Nicht-Stehlen):** Stiehl dir nicht selbst die Praxis durch Aufschieben. Stiehl dir nicht die Erfahrung, indem du während der Übung schon beim nächsten Termin bist.
 

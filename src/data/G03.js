@@ -33,9 +33,9 @@ Wenn du gestresst bist, wird dein Atem flach und schnell. Wenn du entspannt bist
 
 Dieses Prinzip — den Körper über den Atem zu steuern — ist seit Jahrtausenden bekannt. Im Yoga heißt es Pranayama (Steuerung der Lebensenergie). In der modernen Wissenschaft nennt man es Atemregulation des autonomen Nervensystems. Die Sprache ist anders, das Ergebnis identisch.
 
-Was kontrolliertes Atmen nachweislich bewirkt: Es senkt den Blutdruck. Es reduziert Cortisol. Es aktiviert den Vagusnerv — den Hauptnerv deines Entspannungssystems. Es verändert die Gehirnwellenmuster von stressbedingtem Beta zu entspanntem Alpha und Theta. Es stärkt das Immunsystem. Es verbessert die Herzratenvariabilität — ein Schlüsselmarker für Gesundheit und Resilienz.
+Womit sich die Atemforschung befasst: mit dem Einfluss der Atmung auf das autonome Nervensystem, auf den Vagusnerv als Hauptnerv des Entspannungssystems, auf Gehirnwellenmuster und auf die Herzratenvariabilität — eine Messgröße, die in Untersuchungen häufig herangezogen wird. Was Übende selbst beschreiben, ist meist einfacher: Der Puls beruhigt sich, der Kopf wird klarer, die Anspannung im Körper lässt nach.
 
-Und das Beste: All das passiert innerhalb von Minuten. Nicht nach Wochen des Übens — sofort. Dein erster bewusster Atemzug verändert bereits deine Biochemie.
+Bemerkenswert ist, wie schnell sich etwas verändert: nicht erst nach Wochen des Übens. Viele Menschen bemerken schon nach den ersten bewussten Atemzügen einen Unterschied in ihrer Anspannung.
 
 In diesem Kurs lernst du verschiedene Atemtechniken für verschiedene Zwecke: Beruhigung, Aktivierung, Reinigung, emotionale Befreiung und tiefe Transformation. Am Ende hast du einen vollständigen Werkzeugkasten, den du in jeder Lebenssituation einsetzen kannst.`,
           uebung: {
@@ -62,7 +62,7 @@ Das autonome Nervensystem hat zwei Hauptäste:
 
 Der Sympathikus ist dein Gaspedal. Er aktiviert die Kampf-oder-Flucht-Reaktion: Herzfrequenz steigt, Muskeln spannen sich an, Adrenalin wird ausgeschüttet, die Verdauung stoppt. In Gefahrensituationen ist das lebensrettend. Im Dauermodus ist es zerstörerisch.
 
-Der Parasympathikus ist deine Bremse. Er aktiviert den Ruhe-und-Erholungsmodus: Herzfrequenz sinkt, Muskeln entspannen sich, Verdauung arbeitet, Immunsystem wird aktiv. Hier heilt, regeneriert und wächst dein Körper.
+Der Parasympathikus ist deine Bremse. Er aktiviert den Ruhe-und-Erholungsmodus: Herzfrequenz sinkt, Muskeln entspannen sich, Verdauung arbeitet, Immunsystem wird aktiv. Hier erholt und regeneriert sich der Körper.
 
 Das Problem der modernen Welt: Die meisten Menschen haben ein chronisch überaktives Gaspedal. Dauerstress, Bildschirmzeit, Informationsflut, Existenzangst — der Sympathikus läuft auf Hochtouren, und die Bremse kommt kaum zum Einsatz.
 
@@ -282,7 +282,7 @@ Nach allen 3 Runden: 5 normale Atemzüge. Augen geschlossen. Wie fühlt sich dei
 
 Das Prinzip: 30 tiefe, vollständige Atemzüge in schnellem Rhythmus (kontrollierte Hyperventilation), gefolgt von einem Atemanhalten nach der Ausatmung (Retention), und abschließend einem tiefen Einatmen mit Halten. Dieser Zyklus wird 3 Mal wiederholt.
 
-Was passiert physiologisch? Die 30 kraftvollen Atemzüge übersättigen dein Blut mit Sauerstoff und senken den CO₂-Spiegel. Beim anschließenden Atemanhalten nach der Ausatmung erlebst du eine Phase, in der dein Körper den verbleibenden Sauerstoff extrem effizient nutzt. Die Milz gibt rote Blutkörperchen frei, Adrenalin wird ausgeschüttet, und das Immunsystem wird aktiviert.
+Was dabei geschieht: Die kraftvollen Atemzüge senken den CO₂-Spiegel im Blut. Weil der Atemdrang vor allem durch steigendes CO₂ ausgelöst wird, setzt er beim anschließenden Atemanhalten später ein — deshalb lässt sich der Atem ungewöhnlich lange halten. Was darüber hinaus im Körper geschieht, ist Gegenstand der Forschung und nicht abschließend geklärt.
 
 Was du erlebst: Kribbeln in den Händen und im Gesicht. Leichtigkeit. Manchmal Euphorie. Während des Anhaltens: überraschend wenig Atemdrang (weil der CO₂-Spiegel bereits niedrig ist). Manche Menschen halten beim ersten Mal 1–2 Minuten — weit länger als sie für möglich gehalten hätten.
 

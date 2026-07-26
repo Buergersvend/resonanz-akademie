@@ -14,7 +14,7 @@ const G03 = {
   preis: 'Kostenlos',
   originalPreis: '129 €',
   status: 'live',
-  desc: 'Die Kraft deines Atems als Transformationswerkzeug — von beruhigenden Pranayama-Techniken über den Wim-Hof-Ansatz bis zu tiefem verbundenem Atmen. 6 Module mit sofort wirksamen Atemtechniken für Stressabbau, Energieaktivierung und emotionale Befreiung.',
+  desc: 'Die Kraft deines Atems als Transformationswerkzeug — von beruhigenden Pranayama-Techniken über intensive Kälte-Atem-Techniken bis zu tiefem verbundenem Atmen. 6 Module mit sofort wirksamen Atemtechniken für Stressabbau, Energieaktivierung und emotionale Befreiung.',
   module: [
     // ──────────────────────────────────────────────
     // MODUL 1 — Atem als Lebenskraft
@@ -277,8 +277,8 @@ Nach allen 3 Runden: 5 normale Atemzüge. Augen geschlossen. Wie fühlt sich dei
         },
         {
           id: 'G03-M3-L2',
-          titel: 'Energieaufladung nach Wim-Hof-Prinzip',
-          inhalt: `Die Atemtechnik, die durch den niederländischen Extremsportler bekannt wurde, ist eine der intensivsten Breathwork-Methoden überhaupt. Sie kombiniert Hyperventilation mit Atemanhalten und erzeugt physiologische Zustände, die normalerweise nur durch extreme Kälte oder intensive körperliche Anstrengung erreicht werden.
+          titel: 'Energieaufladung durch intensive Atmung',
+          inhalt: `Diese Atemtechnik ist eine der intensivsten Breathwork-Methoden überhaupt. Sie kombiniert Hyperventilation mit Atemanhalten und erzeugt physiologische Zustände, die normalerweise nur durch extreme Kälte oder intensive körperliche Anstrengung erreicht werden.
 
 Das Prinzip: 30 tiefe, vollständige Atemzüge in schnellem Rhythmus (kontrollierte Hyperventilation), gefolgt von einem Atemanhalten nach der Ausatmung (Retention), und abschließend einem tiefen Einatmen mit Halten. Dieser Zyklus wird 3 Mal wiederholt.
 
@@ -770,7 +770,7 @@ Dein Weg des bewussten Atmens hat begonnen.`,
       richtig: 2,
     },
     {
-      frage: 'Welche Sicherheitsregel gilt für die intensive Energieaufladung (Wim-Hof-Prinzip)?',
+      frage: 'Welche Sicherheitsregel gilt für die intensive Energieaufladung durch Hyperventilation?',
       antworten: [
         'Am besten im Wasser üben, weil das zusätzlich entspannt',
         'Niemals im Wasser durchführen (Ertrinkungsgefahr), nicht beim Autofahren, nur im Sitzen oder Liegen — nicht bei Schwangerschaft, Epilepsie oder schweren Herz-Kreislauf-Erkrankungen',

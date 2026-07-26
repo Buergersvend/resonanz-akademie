@@ -73,11 +73,11 @@ Meditation ist eines der am intensivsten erforschten Gebiete der Neurowissenscha
 
 **Telomere** — die Schutzkappen der Chromosomen, deren Verkürzung mit Alterung korreliert — bleiben bei regelmäßig Meditierenden länger. Meditation verlangsamt nachweislich die zelluläre Alterung.
 
-### Körperliche Effekte
+### Was Menschen körperlich wahrnehmen
 
-Reduktion von Cortisol (Stresshormon) um 15 bis 25 Prozent bei regelmäßiger Praxis. Senkung des Blutdrucks — vergleichbar mit medikamentöser Behandlung bei leichtem Bluthochdruck. Stärkung des Immunsystems — Meditierende produzieren mehr Antikörper nach Grippeimpfung. Reduktion chronischer Schmerzen — Achtsamkeitsmeditation reduziert die subjektive Schmerzwahrnehmung um bis zu 40 Prozent. Verbesserung des Schlafs — besonders bei Insomnie.
+Viele Menschen beschreiben nach längerer regelmäßiger Praxis, dass sie ruhiger in den Tag gehen, körperliche Anspannung früher bemerken und abends leichter zur Ruhe kommen. Wie deutlich das ausfällt, ist von Mensch zu Mensch verschieden. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-### Psychische Effekte
+### Was Menschen innerlich wahrnehmen
 
 Reduktion von Angst und Depression — Meta-Analysen zeigen Effektstärken vergleichbar mit Antidepressiva bei leichter bis mittlerer Depression. Verbesserung der Konzentration und Aufmerksamkeit — nach 8 Wochen Achtsamkeitstraining messbar. Erhöhung der emotionalen Intelligenz — bessere Emotionserkennung, bessere Regulation, mehr Empathie. Steigerung des subjektiven Wohlbefindens — Meditierende berichten konsistent über höhere Lebenszufriedenheit.
 
@@ -446,7 +446,7 @@ Was geschieht, wenn du 20 Minuten so sitzt, ist bemerkenswert: Die Grenze zwisch
 
 ### Waldbaden (Shinrin-Yoku)
 
-Die japanische Praxis des Waldbadens ist wissenschaftlich gut untersucht: 2 Stunden bewusster Aufenthalt im Wald senkt Cortisol um 16 Prozent, Blutdruck um 2 Prozent, Pulsfrequenz um 4 Prozent und steigert die Aktivität natürlicher Killerzellen (Immunsystem) um 50 Prozent. Die Effekte halten bis zu 30 Tage an.
+Die japanische Praxis des Waldbadens ist eine der bekanntesten Formen von Achtsamkeit im Freien. Wer sich ein bis zwei Stunden ohne festes Ziel im Wald aufhält, beschreibt danach oft ein spürbar ruhigeres Körpergefühl — und dass diese Ruhe noch eine Weile nachwirkt.
 
 Waldbaden ist keine Wanderung — es ist langsames, zielloses Sich-Aufhalten im Wald. Stehen bleiben. An einem Baum lehnen. Moos berühren. Luft riechen. Der Wald ist die Meditation — du bist der Meditierende.
 

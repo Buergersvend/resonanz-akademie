@@ -257,7 +257,7 @@ Was passiert im Körper? Kapalabhati erhöht den Sauerstoffgehalt im Blut massiv
 
 Wann einsetzen? Morgens statt Kaffee. Vor kreativer Arbeit, die Klarheit braucht. Bei Müdigkeit am Nachmittag. Vor dem Sport als Warm-up.
 
-Wann NICHT einsetzen? Bei Schwangerschaft, Epilepsie, unkontrolliertem Bluthochdruck, kürzlichen Bauchoperationen. Und nicht direkt nach dem Essen.`,
+Wann NICHT einsetzen? Bei Schwangerschaft, Epilepsie, unkontrolliertem Bluthochdruck, kürzlichen Bauchoperationen. Und nicht direkt nach dem Essen. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
             titel: 'Kapalabhati — 3 Runden',
             anleitung: `Sitze aufrecht. 3 normale Atemzüge zur Vorbereitung.
@@ -287,7 +287,7 @@ Was passiert physiologisch? Die 30 kraftvollen Atemzüge übersättigen dein Blu
 Was du erlebst: Kribbeln in den Händen und im Gesicht. Leichtigkeit. Manchmal Euphorie. Während des Anhaltens: überraschend wenig Atemdrang (weil der CO₂-Spiegel bereits niedrig ist). Manche Menschen halten beim ersten Mal 1–2 Minuten — weit länger als sie für möglich gehalten hätten.
 
 Sicherheitshinweise — WICHTIG:
-Führe diese Übung niemals im Wasser durch (Ertrinkungsgefahr). Nicht beim Autofahren. Nicht im Stehen (Ohnmacht möglich). Immer im Sitzen oder Liegen auf einer sicheren Unterlage. Bei Schwangerschaft, Epilepsie oder schweren Herz-Kreislauf-Erkrankungen nicht durchführen.
+Führe diese Übung niemals im Wasser durch (Ertrinkungsgefahr). Nicht beim Autofahren. Nicht im Stehen (Ohnmacht möglich). Immer im Sitzen oder Liegen auf einer sicheren Unterlage. Bei Schwangerschaft, Epilepsie oder schweren Herz-Kreislauf-Erkrankungen nicht durchführen. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 Start langsam. Wenn dir schwindelig wird, pausiere. Dein Körper muss sich an die Intensität gewöhnen.`,
           uebung: {

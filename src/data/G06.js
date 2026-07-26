@@ -695,7 +695,7 @@ Rechte Hand: Zeige- und Mittelfinger einfalten, Daumen und Ringfinger frei.
 
 **Verhältnis:** Beginne mit 4:4:4 (Einatmen:Halten:Ausatmen). Steigere auf 4:8:8, dann 4:16:8 für Fortgeschrittene. Nie forcieren.
 
-**Wirkung:** Tiefe Beruhigung, mentale Klarheit, emotionale Balance. Nadi Shodhana ist die beste Vorbereitung auf Meditation. Regelmäßige Praxis (täglich 5–10 Minuten) hat messbare Auswirkungen auf Herzratenvariabilität und Cortisolspiegel.
+**Was Übende beschreiben:** Tiefe Beruhigung, mentale Klarheit, emotionale Balance. Nadi Shodhana wird traditionell als Vorbereitung auf die Meditation genutzt. Empfohlener Umfang: täglich 5–10 Minuten.
 
 ### Pranayama in der Asana-Praxis
 

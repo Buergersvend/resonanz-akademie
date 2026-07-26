@@ -53,11 +53,11 @@ Nach 60 Sekunden: Wie viele waren es? Die meisten Menschen kommen auf 15–30. D
 
 Die wichtigsten Befunde:
 
-Gehirnstruktur: Regelmäßige Meditation verdickt nachweislich den präfrontalen Cortex — den Bereich, der für Entscheidungsfindung, Impulskontrolle und emotionale Regulation zuständig ist. Gleichzeitig schrumpft die Amygdala, das Angstzentrum. Dein Gehirn wird buchstäblich umgebaut.
+Gehirnstruktur: Ein Forschungszweig befasst sich mit Unterschieden im Gehirn langjährig Meditierender — besonders im präfrontalen Cortex, der mit Entscheidungsfindung, Impulskontrolle und emotionaler Regulation in Verbindung gebracht wird, und in der Amygdala, die an der Verarbeitung von Angst beteiligt ist. Die Befunde sind uneinheitlich und lassen keinen Schluss darauf zu, was im Einzelfall geschieht.
 
-Stressreaktion: Meditation senkt den Cortisolspiegel, verringert die Aktivität des sympathischen Nervensystems (Kampf-oder-Flucht) und stärkt den Parasympathikus (Ruhe-und-Erholung). Chronischer Stress wird auf biologischer Ebene reduziert.
+Stressreaktion: Ein zweiter Schwerpunkt ist das autonome Nervensystem mit seinen beiden Ästen — dem Sympathikus (Kampf-oder-Flucht) und dem Parasympathikus (Ruhe-und-Erholung). Was Übende selbst beschreiben, ist meist einfacher: Der Alltag fühlt sich weniger getrieben an.
 
-Immunsystem: Studien zeigen, dass Meditierende höhere Antikörperspiegel entwickeln und weniger krankheitsanfällig sind. Die Entzündungswerte im Blut sinken messbar.
+Immunsystem: Ein dritter Untersuchungsbereich ist der Zusammenhang zwischen anhaltender Anspannung und Immunfunktion, etwa über Entzündungsmarker im Blut. Auch hier ist die Studienlage uneinheitlich.
 
 Emotionale Gesundheit: Meta-Analysen bestätigen die Wirksamkeit bei Angststörungen, Depressionen und chronischem Stress — teilweise vergleichbar mit Medikamenten, aber ohne Nebenwirkungen.
 

@@ -442,7 +442,7 @@ Diese Kälte-Atem-Technik ist eine Form der kontrollierten Hyperventilation, gef
 
 Runde: 30 bis 40 tiefe, kräftige Atemzüge — vollständig einatmen (Brust und Bauch), passiv ausatmen (nicht forciert). Durch Nase oder Mund. Nach dem letzten Atemzug: vollständig ausatmen und den Atem anhalten — so lange wie angenehm (typisch 1–3 Minuten). Dann: tief einatmen, Atem 15 Sekunden halten, loslassen. Das ist eine Runde. Typisch: 3 bis 4 Runden.
 
-Was passiert: Durch die Hyperventilation sinkt der CO2-Spiegel, die Sauerstoffsättigung steigt auf nahezu 100 Prozent. Wenn du dann den Atem nach der Ausatmung anhältst, ist der normale Atemdrang (ausgelöst durch steigendes CO2) verzögert — deshalb kannst du ungewöhnlich lange halten. Gleichzeitig schüttet der Körper Adrenalin aus — viele Übende erleben dabei einen Schub an Wachheit und Klarheit.
+Was dabei geschieht: Durch die schnelle Atmung sinkt der CO2-Spiegel im Blut. Weil der normale Atemdrang vor allem durch steigendes CO2 ausgelöst wird, setzt er beim anschließenden Atemanhalten später ein — deshalb lässt sich der Atem ungewöhnlich lange halten. Viele Übende erleben dabei einen Schub an Wachheit und Klarheit.
 
 **Säule 2: Kälteexposition**
 

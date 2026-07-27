@@ -38,11 +38,11 @@ const FORMATE = [
 ]
 
 const UNTERSCHIEDE = [
-  { andere: 'Starre Kurs-Struktur', hr: 'Persönliches Assessment → individueller Lernpfad' },
+  { andere: 'Starre Kurs-Struktur', hr: 'Frei wählbare Reihenfolge, eigenes Tempo' },
   { andere: 'Generische Inhalte', hr: 'Praxisnah aufgebaute, eigenständige Inhalte' },
   { andere: 'Überladene Plattformen', hr: 'Klar, schnell, intuitiv' },
-  { andere: 'Manuelle Prüfungsbewertung', hr: 'Automatische Quiz & Teilnahmebestätigungen' },
-  { andere: 'Theorie ohne Anwendung', hr: 'Brücke zwischen Energetik, Bewusstsein & Technologie' },
+  { andere: 'Zugang nur gegen Gebühr', hr: 'Alle Inhalte kostenfrei' },
+  { andere: 'Theorie ohne Anwendung', hr: 'Verbindung von Selbsterfahrung, Bewusstsein & Technologie' },
   { andere: 'Keine Community', hr: 'Resonanz-Netzwerk: Gleichgesinnte verbinden sich' },
 ]
 
@@ -456,8 +456,8 @@ export default function Landing() {
           
           <p className="hero-rise d2" style={hero.subtitle}>
             {LIVE_COUNT} Kurse, persönliche Lernpfade und Teilnahmezertifikate. 
-            Von einem Praktiker für Praktiker — mit persönlichem Assessment 
-            und klar strukturierten Inhalten in digitalem Format.
+            Aus der eigenen Praxis entstanden — für Menschen, die sich selbst 
+            besser verstehen wollen. Klar strukturierte Inhalte in digitalem Format.
           </p>
           
           <div className="hero-rise d3" style={hero.actions}>

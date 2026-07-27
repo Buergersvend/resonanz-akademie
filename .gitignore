@@ -39,3 +39,6 @@ kursdetail_export.txt
 quiz_schema_check.txt
 # Quiz-Backfill-Exporte (lokal)
 quiz_backfill_*.txt
+
+KURSMATRIX.md
+KURSMATRIX.csv

@@ -59,7 +59,7 @@ Die äußeren Formen unterscheiden sich — das innere Prinzip ist identisch: Be
 
 ### Messbare Veränderungen in Gehirn und Körper
 
-Meditation ist eines der am intensivsten erforschten Gebiete der Neurowissenschaft. Tausende von Studien mit bildgebenden Verfahren (fMRT, EEG, PET) haben nachgewiesen, was Meditierende seit Jahrtausenden berichten: Meditation verändert das Gehirn — funktionell und strukturell.
+Meditation gehört zu den intensiv erforschten Themen der Neurowissenschaft. Zahlreiche Studien mit bildgebenden Verfahren (fMRT, EEG, PET) haben Veränderungen im Gehirn beschrieben. Die Befunde sind nicht in allen Punkten einheitlich, zeigen aber wiederkehrende Muster — die folgenden Beispiele geben den derzeitigen Forschungsstand wieder, keine Gewissheit für den Einzelfall.
 
 ### Was sich im Gehirn verändert
 
@@ -71,7 +71,7 @@ Meditation ist eines der am intensivsten erforschten Gebiete der Neurowissenscha
 
 **Insula** — der Bereich für Körperwahrnehmung und Empathie — wird bei Meditierenden stärker. Bessere Interozeption (Spüren des eigenen Körpers) und bessere Empathie (Spüren des Zustands anderer).
 
-**Telomere** — die Schutzkappen der Chromosomen, deren Verkürzung mit Alterung korreliert — bleiben bei regelmäßig Meditierenden länger. Meditation verlangsamt nachweislich die zelluläre Alterung.
+**Telomere** — die Schutzkappen der Chromosomen, deren Verkürzung mit dem Alter zusammenhängt — sind ebenfalls Gegenstand der Meditationsforschung. Die bisherigen Ergebnisse sind uneinheitlich und erlauben keine Aussage darüber, was im Einzelfall geschieht.
 
 ### Was Menschen körperlich wahrnehmen
 
@@ -79,11 +79,11 @@ Viele Menschen beschreiben nach längerer regelmäßiger Praxis, dass sie ruhige
 
 ### Was Menschen innerlich wahrnehmen
 
-Reduktion von Angst und Depression — Meta-Analysen zeigen Effektstärken vergleichbar mit Antidepressiva bei leichter bis mittlerer Depression. Verbesserung der Konzentration und Aufmerksamkeit — nach 8 Wochen Achtsamkeitstraining messbar. Erhöhung der emotionalen Intelligenz — bessere Emotionserkennung, bessere Regulation, mehr Empathie. Steigerung des subjektiven Wohlbefindens — Meditierende berichten konsistent über höhere Lebenszufriedenheit.
+Viele Übende beschreiben mehr innere Ruhe und einen gelasseneren Umgang mit belastenden Gedanken. Häufig genannt werden außerdem: bessere Konzentration, ein feineres Gespür für die eigenen Gefühlslagen und mehr Zufriedenheit im Alltag. Wie stark das ausfällt, ist individuell sehr verschieden. Meditation ist kein Ersatz für eine ärztliche oder psychotherapeutische Behandlung — verordnete Medikamente werden niemals eigenmächtig abgesetzt oder verändert. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Wie viel Praxis braucht es?
 
-Die gute Nachricht: Messbare Veränderungen beginnen bereits nach 8 Wochen mit 20 Minuten täglicher Praxis. Strukturelle Gehirnveränderungen zeigen sich nach etwa 2 Monaten regelmäßiger Meditation. Langzeitpraktizierende (über 10.000 Stunden) zeigen die dramatischsten Veränderungen — aber du brauchst kein Mönch zu werden, um zu profitieren. 10 bis 20 Minuten täglich reichen für signifikante Verbesserungen.`
+Die gute Nachricht: Es braucht keine extremen Zeiten. In vielen Untersuchungen wurde mit rund 20 Minuten täglich über acht Wochen gearbeitet. Menschen mit sehr langer Praxis zeigen die deutlichsten Unterschiede — aber du brauchst kein Mönch zu werden. 10 bis 20 Minuten täglich sind ein Maß, mit dem sich gut arbeiten lässt.`
         },
         {
           id: 'G09-M1-L3',
@@ -191,7 +191,9 @@ Die Empfindungen verändern sich ständig — und genau das ist die Einsicht: An
 
 ### Vipassana im Alltag
 
-Du musst kein 10-Tage-Retreat besuchen, um Vipassana zu üben (obwohl es empfehlenswert ist). Die Grundtechnik — systematisches Körperscannen mit Gleichmut — kannst du in jeder Sitzung praktizieren. 20 Minuten: 5 Minuten Anapana (Atembeobachtung), dann 15 Minuten Körperscan. Von oben nach unten, von unten nach oben. Beobachten, was ist. Nicht reagieren. Loslassen.`
+Du musst kein 10-Tage-Retreat besuchen, um Vipassana zu üben (obwohl es empfehlenswert ist). Die Grundtechnik — systematisches Körperscannen mit Gleichmut — kannst du in jeder Sitzung praktizieren. 20 Minuten: 5 Minuten Anapana (Atembeobachtung), dann 15 Minuten Körperscan. Von oben nach unten, von unten nach oben. Beobachten, was ist. Nicht reagieren. Loslassen.
+
+Ein Hinweis zum Umgang mit Schmerz: Gleichmut heißt nicht, Warnsignale zu ignorieren. Anhaltender oder zunehmender Schmerz ist ein Grund, die Haltung zu verändern oder die Übung zu beenden. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
         {
           id: 'G09-M2-L3',
@@ -218,7 +220,7 @@ Dann: linker Fußrücken. Linke Ferse. Linkes Sprunggelenk. Linker Unterschenkel
 
 Weiter: Becken, unterer Rücken, Bauch, oberer Rücken, Brust, Schultern. Dann die Arme — Finger, Hände, Unterarme, Oberarme. Hals. Kiefer. Gesicht. Stirn. Scheitel.
 
-Am Ende: den ganzen Körper gleichzeitig wahrnehmen — als Ganzes, als Einheit. Atme und spüre den Körper als lebendiges Energiefeld.
+Am Ende: den ganzen Körper gleichzeitig wahrnehmen — als Ganzes, als Einheit. Atme und spüre den Körper als lebendiges, zusammenhängendes Ganzes.
 
 **Kurzversion (10–15 Minuten):** Größere Körperbereiche zusammenfassen: Füße und Beine → Becken und Bauch → Rücken und Brust → Arme und Hände → Hals und Kopf → Ganzer Körper.
 
@@ -289,17 +291,17 @@ Die Tradition der Mantra-Meditation ist mindestens 3500 Jahre alt — die Vedisc
 
 ### Wie Mantras wirken
 
-**Neurobiologisch:** Die rhythmische Wiederholung aktiviert den Vagusnerv (über die Vibration im Kehlkopf beim lauten Chanten), synchronisiert die Gehirnhälften und erzeugt kohärente Gehirnwellenmuster — ähnlich wie tiefe Meditation, aber mit weniger Aufwand.
+**Körperlich:** Lautes Chanten erzeugt eine spürbare Vibration im Kehlkopf- und Brustraum. Der gleichmäßige Rhythmus verlangsamt den Atem — beides wird meist als beruhigend erlebt und macht diese Form für viele leichter zugänglich als stille Meditation.
 
 **Psychologisch:** Das Mantra verdrängt das Gedankenkarussell. Nicht durch Unterdrückung, sondern durch Ersetzung. Statt zehn chaotischer Gedanken gibt es nur einen — den Mantra-Klang. Und dieser eine wird zunehmend transparent, bis er sich auflöst und Stille freigibt.
 
-**Energetisch:** Jeder Klang hat eine Schwingungsfrequenz. Bestimmte Klänge resonieren mit bestimmten Energiezentren. "OM" vibriert im Scheitelbereich. "RAM" im Solarplexus. "YAM" im Herzen. Durch die Wiederholung werden die zugehörigen Chakren stimuliert und aktiviert.
+**Seelisch-symbolisch:** Jeder Klang wird körperlich anders erlebt. In der überlieferten Zuordnung gehört "OM" zum Scheitelbereich, "RAM" zum Solarplexus, "YAM" zum Herzen. Viele Übende beschreiben beim Wiederholen ein deutliches Empfinden in genau diesen Bereichen — als Wahrnehmung, nicht als messbarer Vorgang.
 
 ### Personalisierte Mantra-Meditation
 
 Eine der bekanntesten Formen der Mantra-Meditation im Westen wurde in den 1950er Jahren aus der indischen Übungstradition systematisiert und weltweit verbreitet. Das Prinzip: Du erhältst ein persönliches Mantra (traditionell ein Sanskrit-Klang ohne Bedeutung) und wiederholst es 20 Minuten lang, zweimal täglich — morgens und abends.
 
-Die TM-Technik zeichnet sich durch absolute Mühelosigkeit aus: Du wiederholst das Mantra nicht aktiv — du lässt es kommen und gehen. Wenn Gedanken auftauchen, kehrst du sanft zum Mantra zurück. Kein Fokus, kein Zwang, kein Kampf.
+Diese Übungsweise zeichnet sich durch absolute Mühelosigkeit aus: Du wiederholst das Mantra nicht aktiv — du lässt es kommen und gehen. Wenn Gedanken auftauchen, kehrst du sanft zum Mantra zurück. Kein Fokus, kein Zwang, kein Kampf.
 
 ### Universelle Mantras zum Selbstpraktizieren
 
@@ -401,11 +403,11 @@ Manche Menschen tragen so viel angestaute Energie in sich — Stress, Wut, Unruh
 
 Die bekannteste Aktiv-Meditation besteht aus fünf Phasen (jeweils 10 Minuten, Gesamtdauer 60 Minuten):
 
-**Phase 1: Chaotisches Atmen** — Schnell, tief, durch die Nase, so chaotisch und intensiv wie möglich. Keine Kontrolle, keine Ordnung — reines energetisches Aufwühlen.
+**Phase 1: Chaotisches Atmen** — Schnell, tief, durch die Nase, so chaotisch und intensiv wie möglich. Keine Kontrolle, keine Ordnung — reines Aufwühlen.
 
 **Phase 2: Katharsis** — Lass alles raus. Schreien, weinen, lachen, schütteln, tanzen, stampfen. Keine Zensur. Der Körper und die Emotionen dürfen sich ausdrücken — ungefiltert, unkontrolliert, total.
 
-**Phase 3: Hüpfen** — Springe mit erhobenen Armen auf und ab und rufe "HU! HU! HU!" bei jeder Landung. Die Erschütterung aktiviert das Energiezentrum im Unterbauch und löst tiefere Blockaden.
+**Phase 3: Hüpfen** — Springe mit erhobenen Armen auf und ab und rufe "HU! HU! HU!" bei jeder Landung. Die Erschütterung wird im Unterbauch deutlich spürbar; viele erleben sie als lösend.
 
 **Phase 4: Freeze** — Wenn die Musik stoppt: Sofort einfrieren. Stehen bleiben, in welcher Haltung du gerade bist. Nicht bewegen. Beobachte, was in dir geschieht — die Energie, die jetzt frei zirkuliert, die Stille nach dem Sturm.
 
@@ -413,15 +415,17 @@ Die bekannteste Aktiv-Meditation besteht aus fünf Phasen (jeweils 10 Minuten, G
 
 Diese Meditation ist nicht für jeden — sie ist intensiv, laut und emotional. Aber für Menschen, die mit klassischer Stille-Meditation nicht zurechtkommen, kann sie das Tor öffnen.
 
+**Bevor du das ausprobierst.** Das schnelle, intensive Atmen der ersten Phase verändert kurzfristig die Atemchemie und kann Schwindel, Kribbeln oder Muskelanspannung auslösen. Die Katharsis-Phase kann starke Gefühle hervorholen. Diese Form ist deshalb nicht geeignet bei Schwangerschaft, Herz-Kreislauf-Erkrankungen, Epilepsie, Netzhautproblemen, akuten psychischen Krisen oder unverarbeiteten traumatischen Erfahrungen. Übe nicht allein, wenn du zum ersten Mal so intensiv arbeitest, und höre sofort auf, wenn Schwindel, Herzrasen oder Panik auftreten. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
+
 ### Ekstatischer Tanz
 
 Ekstatischer Tanz ist eine moderne Form der Tanzmeditation: 2 bis 3 Stunden Tanzen, meist barfuß, zu einer Playlist, die von langsam und meditativ über ekstatisch und wild zurück zu still und kontemplativ führt. Ohne Alkohol, ohne Gespräche auf der Tanzfläche, ohne Choreografie.
 
 Die Regel: Bewege dich, wie dein Körper sich bewegen will — nicht wie du "tanzen solltest". Lass den Körper führen, nicht den Kopf. Was entsteht, ist eine Kombination aus körperlicher Entladung, emotionaler Befreiung und tiefer Präsenz — Meditation durch Bewegung.
 
-### 5Rhythmen nach Gabrielle Roth
+### Strukturierte Tanzmeditation in Phasen
 
-Es gibt strukturierte Tanzmeditations-Systeme, die typischerweise in fünf Phasen durch eine Welle von Bewegungsqualitäten führen: fließend, klar und rhythmisch (Staccato), wild und ungeordnet (Chaos), leicht und verspielt, schließlich still und nach innen gewandt. Jede Phase steht für eine energetische Qualität — zusammen bilden sie einen Bogen von der Erdung zur inneren Ruhe.`
+Es gibt strukturierte Tanzmeditations-Systeme, die typischerweise in fünf Phasen durch eine Welle von Bewegungsqualitäten führen: fließend, klar und rhythmisch (Staccato), wild und ungeordnet (Chaos), leicht und verspielt, schließlich still und nach innen gewandt. Jede Phase trägt eine eigene Stimmung — zusammen bilden sie einen Bogen von der Erdung zur inneren Ruhe.`
         },
         {
           id: 'G09-M4-L3',
@@ -490,7 +494,7 @@ Stille Menschen: Zazen, Vipassana, Kontemplation. Bewegte Menschen: Gehmeditatio
 
 **2. Ziel.** Was willst du von deiner Praxis?
 
-Stressreduktion: Achtsamkeitsmeditation, Kohärenzatmung, Body-Scan. Spirituelle Vertiefung: Vipassana, Kontemplation, Mantra. Emotionale Heilung: Metta, Herzmeditation, Naturmeditation. Mentale Klarheit: Zazen, Trataka (Kerzenmeditation), Atemzählung. Energetische Entwicklung: Chakra-Meditation, Pranayama-Meditation, Kundalini-Meditation.
+Mehr innere Ruhe: Achtsamkeitsmeditation, Kohärenzatmung, Body-Scan. Spirituelle Vertiefung: Vipassana, Kontemplation, Mantra. Emotionale Balance: Metta, Herzmeditation, Naturmeditation. Mentale Klarheit: Zazen, Trataka (Kerzenmeditation), Atemzählung. Seelisch-symbolische Vertiefung: Chakra-Meditation, Pranayama-Meditation, Kundalini-Meditation.
 
 **3. Lebenssituation.** Wie viel Zeit hast du? Wo lebst du? Was erlaubt dein Alltag?
 
@@ -549,7 +553,11 @@ Widerstand ist kein Zeichen, dass du aufhören sollst — es ist ein Zeichen, da
 
 Die Sucht nach besonderen Erlebnissen ist das Hindernis der Fortgeschrittenen. Du meditierst nicht mehr, um präsent zu sein — du meditierst, um "etwas zu erleben". Jede Sitzung wird bewertet: gut oder schlecht, tief oder oberflächlich.
 
-**Was hilft:** Lass alle Erwartungen los. Es gibt keine gute und keine schlechte Meditation. Es gibt nur: die Praxis. Jede Sitzung, in der du dich hingesetzt hast, ist vollständig — unabhängig davon, was passiert ist.`
+**Was hilft:** Lass alle Erwartungen los. Es gibt keine gute und keine schlechte Meditation. Es gibt nur: die Praxis. Jede Sitzung, in der du dich hingesetzt hast, ist vollständig — unabhängig davon, was passiert ist.
+
+### Wann Meditation nicht das richtige Werkzeug ist
+
+Diese fünf Hindernisse gehören zur normalen Übung. Etwas anderes sind anhaltende Zustände, die sich durch Üben nicht bessern oder verstärken: schwere Niedergeschlagenheit, starke Ängste, das Gefühl, neben sich zu stehen, oder aufsteigende Bilder aus belastenden Erfahrungen. Das sind keine Hindernisse, an denen man sich durchbeißt — das sind Hinweise, sich Unterstützung zu holen. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
         {
           id: 'G09-M5-L3',
@@ -638,7 +646,7 @@ Komm langsam zurück. Bewege deine Finger. Deine Zehen. Öffne die Augen, wenn d
 
 ### Wenn du im vertrauten Kreis begleitest
 
-Begleite nur Menschen, die von sich aus Interesse zeigen, und immer freiwillig: Jeder darf die Meditation jederzeit beenden oder die Augen öffnen. Du bist Begleiter auf Augenhöhe, keine Autorität über der Erfahrung anderer – die inneren Bilder und Einsichten gehören immer der Person selbst. Bei körperlichen oder seelischen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut; Meditation ist kein Ersatz für Behandlung.
+Begleite nur Menschen, die von sich aus Interesse zeigen, und immer freiwillig: Jeder darf die Meditation jederzeit beenden oder die Augen öffnen. Du bist Begleiter auf Augenhöhe, keine Autorität über der Erfahrung anderer – die inneren Bilder und Einsichten gehören immer der Person selbst. Meditation ist kein Ersatz für eine Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Der wichtigste Punkt
 
@@ -764,7 +772,7 @@ Du bist eingeladen, diesen Weg zu gehen — einen Atemzug nach dem anderen. Nich
         'Meditation heilt Krankheiten und ersetzt jede Behandlung',
         'Der Begleiter ist eine Autorität über der Erfahrung der anderen',
         'Bei anhaltenden Beschwerden genügt einfach mehr Meditation',
-        'Keine Heilversprechen — Meditation ist kein Allheilmittel und ersetzt keine medizinische oder therapeutische Behandlung; bei körperlichen oder seelischen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut; Begleitung nur auf Augenhöhe und freiwillig',
+        'Keine Heilversprechen — Meditation ist kein Allheilmittel und ersetzt keine medizinische oder therapeutische Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Begleitung nur auf Augenhöhe und freiwillig',
       ],
       richtig: 3,
     },

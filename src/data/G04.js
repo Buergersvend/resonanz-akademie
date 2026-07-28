@@ -30,7 +30,7 @@ const G04 = {
 
 ### Mehr als Sauerstoff rein, CO2 raus
 
-Die meisten Menschen verstehen Atmung als simplen Gasaustausch: Sauerstoff einatmen, Kohlendioxid ausatmen. Das stimmt — aber es kratzt nur an der Oberfläche. Bewusste Atmung verändert die Biochemie deines gesamten Körpers, den pH-Wert deines Blutes, die Aktivität deines Nervensystems und sogar die Genexpression.
+Die meisten Menschen verstehen Atmung als simplen Gasaustausch: Sauerstoff einatmen, Kohlendioxid ausatmen. Das stimmt — aber es kratzt nur an der Oberfläche. Bewusste Atmung verändert den pH-Wert deines Blutes und die Aktivität deines Nervensystems — beides messbar und binnen Minuten.
 
 ### Die Mechanik
 
@@ -110,11 +110,11 @@ Es macht keinen Sinn, fortgeschrittene Atemtechniken auf einem dysfunktionalen A
 
 Die Nase ist das Organ, das für die Atmung designed ist. Der Mund ist für Essen und Sprechen da. Das klingt trivial, hat aber tiefgreifende Konsequenzen:
 
-Die Nase filtert die Luft — Härchen und Schleimhäute fangen Partikel, Bakterien und Allergene ab. Die Nase befeuchtet die Luft — trockene Luft schädigt die Bronchien. Die Nase erwärmt die Luft — kalte Luft reizt die Atemwege. Die Nase produziert Stickstoffmonoxid (NO) — ein Gas, das die Blutgefäße erweitert, die Sauerstoffaufnahme in der Lunge um 10 bis 15 Prozent verbessert und antimikrobiell wirkt.
+Die Nase filtert die Luft — Härchen und Schleimhäute fangen Partikel, Bakterien und Allergene ab. Die Nase befeuchtet die Luft — trockene Luft schädigt die Bronchien. Die Nase erwärmt die Luft — kalte Luft reizt die Atemwege. Die Nase produziert Stickstoffmonoxid (NO) — ein Gas, das die Blutgefäße weitstellt und die Aufnahme von Sauerstoff in der Lunge unterstützt.
 
-Mundatmung dagegen: trocknet die Schleimhäute aus, fördert Karies und Zahnfleischerkrankungen, führt zu Schnarchen und Schlafapnoe, erzeugt chronische Überatmung (zu viel CO2-Verlust) und aktiviert den Sympathikus — Mundatmung ist Stressatmung.
+Mundatmung dagegen trocknet die Schleimhäute aus, begünstigt eine schnellere und flachere Atmung und aktiviert eher den Sympathikus — Mundatmung ist Stressatmung.
 
-**Praktische Umstellung:** Wenn du gewohnheitsmäßig durch den Mund atmest, beginne bewusst, tagsüber immer wieder den Mund zu schließen und durch die Nase zu atmen. Nachts kann Mundtape (spezielles, hautfreundliches Tape über die Lippen) helfen, die Nasenatmung zu trainieren — klingt seltsam, ist aber eine etablierte Technik mit messbaren Verbesserungen der Schlafqualität.
+**Praktische Umstellung:** Wenn du gewohnheitsmäßig durch den Mund atmest, beginne bewusst, tagsüber immer wieder den Mund zu schließen und durch die Nase zu atmen. Das genügt als Einstieg — die Umstellung geschieht über viele kleine Wiederholungen im Wachzustand. Von Hilfsmitteln, die die Atmung im Schlaf beeinflussen sollen, ist ohne vorherige Abklärung abzuraten: Schnarchen und nächtliche Atempausen können ernste Ursachen haben. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Bauchatmung — Die Rückkehr zum Natürlichen
 
@@ -134,7 +134,7 @@ Technik: Atme durch die Nase ein und lenke den Atem bewusst nach unten — in de
 
 Die erweiterte Form: Dreiteilig atmen. Zuerst füllt sich der Bauch (untere Lunge), dann der Brustkorb (mittlere Lunge), dann der Schlüsselbeinbereich (obere Lunge) — eine Welle von unten nach oben. Die Ausatmung kehrt die Welle um: oben loslassen, Brust entspannen, Bauch sanft einziehen.
 
-Diese vollständige Yogaatmung nutzt das gesamte Lungenvolumen — die meisten Menschen nutzen nur 30 bis 40 Prozent ihrer Kapazität. Allein diese Erweiterung verbessert die Sauerstoffversorgung, reduziert die Atemfrequenz und beruhigt das Nervensystem.`
+Diese vollständige Yogaatmung nutzt bewusst den ganzen Atemraum. Im Alltag atmen wir alle deutlich flacher — das ist in Ruhe völlig normal und kein Defizit. Als Übung hält sie Zwerchfell und Brustkorb beweglich, verlangsamt die Atemfrequenz und wird als beruhigend erlebt.`
         }
       ]
     },
@@ -242,7 +242,7 @@ Ujjayi ist die Atemtechnik, die in Yoga-Klassen weltweit am häufigsten verwende
 
 **Technik:**
 
-Atme durch die Nase ein und aus, aber verengen dabei leicht die Stimmritze im Hals — als ob du einen Spiegel anhauchen wolltest, aber mit geschlossenem Mund. Es entsteht ein hörbares, sanftes Rauschen — manchmal verglichen mit dem Klang des Meeres oder mit Darth Vaders Atem.
+Atme durch die Nase ein und aus, aber verengen dabei leicht die Stimmritze im Hals — als ob du einen Spiegel anhauchen wolltest, aber mit geschlossenem Mund. Es entsteht ein hörbares, sanftes Rauschen — oft verglichen mit dem Klang der Meeresbrandung.
 
 Halte den Ujjayi-Klang gleichmäßig — bei der Einatmung und bei der Ausatmung. Die leichte Verengung verlangsamt den Luftstrom automatisch und verlängert den Atem.
 
@@ -260,7 +260,7 @@ Sitze aufrecht. Schließe die Augen. Optional: Shanmukhi Mudra — mit den Finge
 
 Atme tief durch die Nase ein. Beim Ausatmen: summe mit geschlossenem Mund — ein gleichmäßiges "Mmmmmm". Spüre die Vibration in Kopf, Kiefer, Brust. Halte den Ton so lange wie angenehm. Wiederhole 7 bis 11 Runden.
 
-**Wirkung:** Sofortige Beruhigung des Nervensystems, Reduktion von Blutdruck und Herzfrequenz, tiefe Entspannung des Kieferbereichs (besonders wertvoll bei Bruxismus/CMD), Aktivierung des parasympathischen Nervensystems, förderlich für Schlaf. Studien zeigen, dass Bhramari die Produktion von Stickstoffmonoxid in den Nasennebenhöhlen um das 15-Fache steigert — ein starker antimikrobieller und gefäßerweiternder Effekt.
+**Erfahrung:** Viele Übende erleben eine schnelle Beruhigung, ein spürbares Lösen der Kieferspannung und eine ruhigere Grundstimmung. Das Summen erzeugt eine deutliche Vibration im Kopf- und Brustbereich, die als angenehm und ordnend beschrieben wird. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Kumbhaka — Die Kunst des Atemanhaltens
 
@@ -353,7 +353,7 @@ Das verbundene Atemmuster erzeugt mehrere parallele Prozesse:
 
 **Physiologisch:** Ähnlich wie beim intensiven Atmen sinkt der CO2-Spiegel, der pH-Wert steigt. Aber weil das Tempo moderater ist, sind die Effekte weniger extrem und besser steuerbar.
 
-**Energetisch:** Das pausenlose Atmen "füllt" den Energiekörper kontinuierlich auf. Blockaden, die den Energiefluss normalerweise unterbrechen, werden mit jedem Atemzug konfrontiert. Irgendwann "bricht" die Blockade — und die Energie fließt frei durch die zuvor blockierte Zone. Dieser Moment wird oft als intensive körperliche oder emotionale Empfindung erlebt.
+**Seelisch-symbolisch:** Das pausenlose Atmen wird oft so erlebt, als würde es einen inneren Raum kontinuierlich auffüllen. Stellen, an denen sich innerlich etwas verschlossen anfühlt, treten dabei deutlicher hervor. Manche Übende beschreiben einen Moment, in dem sich eine solche Enge löst — begleitet von einer intensiven körperlichen oder emotionalen Empfindung.
 
 **Emotional:** Verbundenes Atmen bringt unterdrückte Emotionen an die Oberfläche — sanfter als das sehr intensive Atmen, aber oft mit überraschender Präzision. Der Körper "wählt", welche Blockade als nächstes gelöst wird — du musst nichts steuern.
 
@@ -469,7 +469,7 @@ Nicht jede Atemtechnik muss eine spirituelle Erfahrung sein. Manche der wirkungs
 
 ### Box-Breathing (Quadrat-Atmung)
 
-Auch bekannt als "Navy SEAL Breathing" — wird von Spezialeinheiten unter Extremstress eingesetzt.
+Wird von Spezialeinheiten des Militärs unter Extremstress eingesetzt — daher ihr Ruf als besonders verlässliche Technik.
 
 4 Sekunden einatmen. 4 Sekunden halten. 4 Sekunden ausatmen. 4 Sekunden halten. Wiederhole 4 bis 8 Runden.
 
@@ -483,7 +483,7 @@ Eine Technik aus der ayurvedischen Tradition, die besonders bei Einschlafproblem
 
 Einatmen durch die Nase: 4 Sekunden. Atem halten: 7 Sekunden. Ausatmen durch den Mund (mit einem hörbaren "Whoosh"): 8 Sekunden. Wiederhole 4 Runden.
 
-**Wirkung:** Die verlängerte Ausatmung und die lange Haltephase aktivieren den Parasympathikus extrem effektiv. Viele Anwender berichten, dass sie nach 2 bis 3 Runden einschlafen — auch bei chronischer Insomnie.
+**Erfahrung:** Die verlängerte Ausatmung und die Haltephase sprechen den beruhigenden Zweig des Nervensystems an. Viele Übende berichten, dass sie nach einigen Runden deutlich ruhiger werden und leichter zur Ruhe finden.
 
 **Tipp:** Wenn 4-7-8 zu lang ist, beginne mit 3-5-6 und steigere. Der Schlüssel ist das Verhältnis (Ausatmung mindestens doppelt so lang wie Einatmung), nicht die absoluten Zahlen.
 
@@ -495,7 +495,7 @@ Die wissenschaftlich am besten untersuchte Atemtechnik für langfristige Gesundh
 
 Das ergibt etwa 5,5 Atemzüge pro Minute — exakt die Frequenz, bei der die Herzratenvariabilität maximal wird, Herz und Atem synchronisieren und das autonome Nervensystem in einen Zustand optimaler Balance kommt.
 
-**Wirkung:** Reduktion von Blutdruck, Angst und Stresshormonen. Verbesserung der Immunfunktion, der Verdauung, des Schlafs und der emotionalen Regulation. Bei regelmäßiger Praxis (täglich 10–20 Minuten) messbare Verbesserungen nach 2 bis 4 Wochen.
+**Erfahrung:** Viele Übende berichten von mehr Ruhe, gleichmäßigerer Stimmung und leichterem Zur-Ruhe-Kommen am Abend. Das stellt sich bei regelmäßiger Übung allmählich ein, nicht nach einer einzelnen Sitzung.
 
 ### Physiologischer Seufzer
 
@@ -505,7 +505,7 @@ Doppel-Einatmung durch die Nase: Erst ein normaler Atemzug, dann sofort ein zwei
 
 Ein einziger physiologischer Seufzer reduziert die Erregung des sympathischen Nervensystems messbar. Drei hintereinander und du spürst, wie sich dein Körper entspannt.
 
-Diese Technik ist neurobiologisch fundiert — sie wurde von Andrew Huberman an der Stanford University erforscht und ist das Äquivalent zum "Reset-Knopf" deines Nervensystems.`
+Der doppelte Einatemzug ist kein Kunstgriff — der Körper zeigt dieses Muster von sich aus: beim Schluchzen, beim Gähnen, im Schlaf. Bewusst eingesetzt wirkt er wie ein Reset-Knopf für dein Nervensystem.`
         },
         {
           id: 'G04-M4-L3',
@@ -629,7 +629,9 @@ Lege dich auf den Rücken. Knie angewinkelt. Füße flach auf dem Boden. Lege be
 
 Atme langsam und tief ein. Spüre, wie sich das Zwerchfell unter deinen Händen nach unten bewegt. Beim Ausatmen: drücke sanft — sehr sanft — mit den Fingern in den Oberbauch und begleite das Zwerchfell beim Aufsteigen.
 
-Wiederhole 10 bis 15 Atemzüge. Oft beginnt das Zwerchfell nach einigen Wiederholungen zu "zittern" oder zu "flattern" — das ist ein Zeichen dafür, dass eine chronische Spannung sich löst. Emotionen können auftauchen: Trauer, Wut, sogar Lachen. Lass alles zu.
+Wiederhole 10 bis 15 Atemzüge. Oft beginnt das Zwerchfell nach einigen Wiederholungen zu "zittern" oder zu "flattern" — viele erleben das als Zeichen dafür, dass sich eine lange gehaltene Spannung löst. Emotionen können auftauchen: Trauer, Wut, sogar Lachen. Lass alles zu.
+
+Der Druck bleibt dabei immer sanft. Wenn Schmerz auftritt, brich die Übung ab. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 **Technik 3 — Verbundenes Atmen mit Fokus**
 
@@ -668,7 +670,7 @@ Wenn ein Mensch dir von seelischer oder körperlicher Belastung erzählt, ist di
 
 In schamanischen Traditionen ist der Atem die Verbindung zwischen sichtbarer und unsichtbarer Welt. In der yogischen Tradition ist er die Brücke zwischen Körper und Geist. In der modernen Wissenschaft ist er die Brücke zwischen willkürlichem und autonomem Nervensystem.
 
-Egal welche Sprache du sprichst — der Atem ist immer die Brücke. Er ist das Werkzeug, das jeder Mensch hat, das nichts kostet, das immer verfügbar ist und das tiefgreifende Veränderungen bewirken kann — physisch, emotional, energetisch und spirituell.
+Egal welche Sprache du sprichst — der Atem ist immer die Brücke. Er ist das Werkzeug, das jeder Mensch hat, das nichts kostet und das immer verfügbar ist — körperlich, emotional und seelisch-symbolisch.
 
 Dein Atem ist dein treuester Begleiter. Er ist mit dir, seit dem Moment deiner Geburt. Er wird bei dir sein bis zu deinem letzten Augenblick. Zwischen diesen beiden Atemzügen liegt dein ganzes Leben — und die Möglichkeit, es bewusst zu gestalten.`
         }
@@ -704,9 +706,9 @@ Für akuten Stress, Panik, Nervosität, Ärger:
 
 ### Tägliche Praxis — 5 bis 20 Minuten
 
-Für langfristige Gesundheit, emotionale Balance und energetische Klarheit:
+Für emotionale Balance und innere Klarheit im Alltag:
 
-**Morgens (aktivierend):** 3 Runden Kälte-Atem-Atmung (15 Minuten) oder Kapalabhati (5 Minuten). Weckt auf und energetisiert.
+**Morgens (aktivierend):** Kapalabhati (5 Minuten) — weckt auf und bringt Klarheit. Wenn du die Kälte-Atem-Praxis für dich geprüft hast, alternativ 3 Runden (15 Minuten). Für beide gelten die Kontraindikationen aus Modul 3 unverändert.
 
 **Mittags (balancierend):** 5 Minuten Nadi Shodhana (Wechselatmung). Balanciert die Gehirnhälften, löst die Mittagsträgheit, klärt den Geist für den Nachmittag.
 
@@ -716,11 +718,13 @@ Für langfristige Gesundheit, emotionale Balance und energetische Klarheit:
 
 Einmal pro Woche eine längere Atempraxis. Optionen:
 
-20 Minuten Pranayama-Sequenz (Kapalabhati, Nadi Shodhana, Ujjayi, Bhramari in Folge). 30 Minuten verbundenes Atmen (in sicherer Umgebung). 15 Minuten Kälte-Atem-Praxis + kalte Dusche. 45 Minuten Atemmeditation (einfach sitzen und den natürlichen Atem beobachten — die älteste und tiefste Praxis).
+20 Minuten Pranayama-Sequenz (Kapalabhati, Nadi Shodhana, Ujjayi, Bhramari in Folge). 30 Minuten verbundenes Atmen — in sicherer Umgebung und nur, wenn die Kontraindikationen aus Modul 3 für dich geklärt sind. 15 Minuten Kälte-Atem-Praxis + kalte Dusche, unter denselben Voraussetzungen. 45 Minuten Atemmeditation (einfach sitzen und den natürlichen Atem beobachten — die älteste und schlichteste Übung).
 
 ### Situationsbezogene Anwendungen
 
-**Vor einer Prüfung/Vortrag:** Box-Breathing + 2 Minuten Ujjayi. **Bei Schmerzen:** Langsame Bauchatmung in den Schmerzbereich. **Bei Trauer:** Seufzer-Atmung — tief ein, tönend "Aaah" aus, zulassen. **Bei Müdigkeit:** 20 Runden Kapalabhati oder 2 Runden Bhastrika. **Bei Wut:** 10 kräftige Ausatmungen durch den Mund (Löwen-Atem). **Vor Meditation:** 5 Minuten Nadi Shodhana, dann Stille. **Vor dem Einschlafen:** 4-7-8-Atmung, 4 Runden.`
+**Vor einer Prüfung/Vortrag:** Box-Breathing + 2 Minuten Ujjayi. **Bei innerer Unruhe:** Langsame Bauchatmung mit verlängerter Ausatmung. **Bei Trauer:** Seufzer-Atmung — tief ein, tönend "Aaah" aus, zulassen. **Bei Müdigkeit:** 20 Runden Kapalabhati oder 2 Runden Bhastrika. **Bei Wut:** 10 kräftige Ausatmungen durch den Mund (Löwen-Atem). **Vor Meditation:** 5 Minuten Nadi Shodhana, dann Stille. **Vor dem Einschlafen:** 4-7-8-Atmung, 4 Runden.
+
+Diese Zuordnungen sind Anregungen für die eigene Übung, keine Anwendungsempfehlungen bei Beschwerden. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
         {
           id: 'G04-M6-L2',
@@ -729,7 +733,7 @@ Einmal pro Woche eine längere Atempraxis. Optionen:
 
 ### Warum gute Vorsätze scheitern — und was stattdessen funktioniert
 
-Die meisten Menschen, die einen Atemkurs absolvieren, sind begeistert. Sie spüren die Wirkung, sie verstehen die Mechanismen, sie nehmen sich vor, täglich zu üben. Zwei Wochen später haben 90 Prozent aufgehört. Nicht weil die Techniken nicht wirken — sondern weil der Übergang von der Begeisterung zur Gewohnheit der schwierigste Schritt ist.
+Die meisten Menschen, die einen Atemkurs absolvieren, sind begeistert. Sie spüren die Wirkung, sie verstehen die Mechanismen, sie nehmen sich vor, täglich zu üben. Zwei Wochen später übt nur noch ein kleiner Teil von ihnen. Nicht weil die Techniken nicht wirken — sondern weil der Übergang von der Begeisterung zur Gewohnheit der schwierigste Schritt ist.
 
 ### Die Minimalismus-Strategie
 
@@ -753,7 +757,9 @@ Führe ein einfaches Atemtagebuch oder nutze eine Streak-App. Notiere täglich: 
 
 Nach 3 bis 6 Wochen regelmäßiger Praxis kommt bei vielen Menschen ein Plateau: Die anfängliche Begeisterung lässt nach, die dramatischen Effekte der ersten Tage normalisieren sich, die Praxis fühlt sich "gewöhnlich" an. Das ist nicht das Zeichen, aufzuhören — es ist das Zeichen, dass die Praxis wirkt. Die Veränderungen sind jetzt subtiler: besserer Schlaf, weniger Reaktivität, mehr Ruhe in Stresssituationen, höhere Grundenergie.
 
-Wenn du durch das Plateau hindurchgehst — weitermachst, ohne spektakuläre Erlebnisse zu erwarten — beginnt die eigentliche Transformation. Die Atempraxis wird vom Werkzeug zur Lebensweise. Und das ist der Punkt, an dem sich alles ändert.`
+Wenn du durch das Plateau hindurchgehst — weitermachst, ohne spektakuläre Erlebnisse zu erwarten — beginnt die eigentliche Veränderung. Die Atempraxis wird vom Werkzeug zur Lebensweise.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
         {
           id: 'G04-M6-L3',
@@ -764,7 +770,7 @@ Wenn du durch das Plateau hindurchgehst — weitermachst, ohne spektakuläre Erl
 
 Atemtechniken sind mächtige Werkzeuge — und Macht erfordert Verantwortung. Einige wichtige Grundsätze:
 
-**Kenne deine Grenzen.** Nicht jede Technik ist für jeden Menschen geeignet. Nicht jede Situation erlaubt intensive Atemarbeit. Bevor du eine Technik empfiehlst oder anleitest — prüfe die Kontraindikationen. Jedes Mal.
+**Kenne deine Grenzen.** Nicht jede Technik ist für jeden Menschen geeignet. Nicht jede Situation erlaubt intensive Atemarbeit. Bevor du eine Technik für dich übernimmst — lies die Kontraindikationen. Jedes Mal.
 
 **Weniger ist oft mehr.** Die Versuchung ist groß, gleich zu den intensivsten Techniken zu greifen, weil die Effekte dramatischer sind. Aber in den meisten Situationen sind die sanften Techniken wirksamer — und sicherer. Wer seit 40 Jahren flach atmet, braucht keine intensive Session — sondern erst einmal Bauchatmung.
 

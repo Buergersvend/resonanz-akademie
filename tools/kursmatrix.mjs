@@ -17,6 +17,7 @@ const DATA = path.join(REPO, 'src', 'data');
 const URTEILE = path.join(REPO, 'tools', 'kursmatrix_urteile.json');
 const OUT_MD = path.join(REPO, 'KURSMATRIX.md');
 const OUT_CSV = path.join(REPO, 'KURSMATRIX.csv');
+const OUT_KENN = path.join(REPO, 'tools', 'kursmatrix_kennzahlen.json');
 
 const PFLICHT = 'zu Arzt, Heilpraktiker oder Therapeut';
 
@@ -245,6 +246,28 @@ const csv = [spalten.join(';')]
   .join('\r\n');
 fs.writeFileSync(OUT_CSV, '\uFEFF' + csv, 'utf8');   // BOM nur fuer Excel-CSV, nicht fuer Kursdateien
 
+// ---------------------------------------------------------------- Kennzahlen-Export
+// Maschinenlesbarer Auszug derselben Messung. Aendert nichts an der Messung,
+// leitet nur ab. Quelle fuer tools/fortschritt.mjs.
+const stufensumme = live.reduce((s, z) => s + z.stufe, 0);
+const stufensummeMax = live.length * 4;
+
+const kennzahlen = {
+  generiert: heute,
+  dateien: zeilen.length,
+  live: live.length,
+  coming: coming.length,
+  quiz: quizErfuellt.length,
+  verweis: verweisErfuellt.length,
+  ankerfrei: ankerFrei.length,
+  mechanisch: mechanisch.length,
+  volltextabgenommen: fertig.length,
+  stufensumme,
+  stufensumme_max: stufensummeMax,
+  klassen: { '1': kl[0], '2': kl[1], '3': kl[2], '4': kl[3], '5': kl[4] }
+};
+fs.writeFileSync(OUT_KENN, JSON.stringify(kennzahlen, null, 2), 'utf8');
+
 console.log('\n--- Ergebnis ---');
 console.log('LIVE ' + live.length
   + ' · Quiz ' + quizErfuellt.length
@@ -253,3 +276,4 @@ console.log('LIVE ' + live.length
   + ' · mechanisch versorgt ' + mechanisch.length
   + ' · volltextabgenommen ' + fertig.length);
 console.log('GRUEN geschrieben: KURSMATRIX.md · KURSMATRIX.csv · tools/kursmatrix_urteile.json');
+console.log('Stufensumme ' + stufensumme + '/' + stufensummeMax);

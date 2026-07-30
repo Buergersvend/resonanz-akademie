@@ -321,7 +321,9 @@ Das ist erst der Anfang. Die Lernwelt bietet vertiefende Kurse zu jedem dieser T
 
 Ein wichtiger Hinweis zum Abschluss: Die Übungen dieses Kurses dienen der Selbsterfahrung, Entspannung und persönlichen Entwicklung. Sie sind kein Ersatz für ärztliche oder therapeutische Behandlung und stellen kein Heilversprechen dar. Bei gesundheitlichen Beschwerden wende dich bitte an deine Ärztin oder deinen Arzt.
 
-Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
+Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
             titel: 'Abschluss-Reflexion',
             anleitung: `Beantworte zum Abschluss diese drei Fragen — ehrlich und aus dem Herzen:

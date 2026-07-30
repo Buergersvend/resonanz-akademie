@@ -688,7 +688,9 @@ Dein nächster Schritt: Wende das Gelernte bei dir selbst an. Jede Erfahrung leh
 
 Ernährung ist ein Akt der Liebe — zum eigenen Körper, zur eigenen Gesundheit, zum eigenen Leben. In diesem Kurs hast du begonnen, diese Liebe (wieder) zu entdecken — eine Mahlzeit, eine Gewohnheit, einen bewussten Bissen nach dem anderen.
 
-Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.`,
+Dein Weg der Resonanz hat begonnen. Vertraue dem Prozess.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
             titel: 'Abschluss-Reflexion',
             anleitung: `Beantworte zum Abschluss:

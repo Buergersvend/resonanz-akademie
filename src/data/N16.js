@@ -247,7 +247,9 @@ Wir haben gesehen, wie Symbole innere Zustände spiegeln und ausrichten können,
 
 Den festen Rahmen bildet die klare Grenze zu Medizin und Therapie. Bei körperlicher oder seelischer Erkrankung, bei Krisen und Not tritt symbolische Arbeit zurück und verweist an professionelle Hilfe. Diese Demut und Klarheit sind das Fundament jeder seriösen Praxis.
 
-Wer symbolische Arbeit so versteht und anwendet — ehrlich, respektvoll, im klaren Rahmen —, verfügt über ein wertvolles, sicheres Werkzeug. Es eröffnet Menschen einen achtsamen, kreativen Zugang zu sich selbst, stärkt Reflexion und Wohlbefinden und bleibt dabei redlich. Genau in dieser Verbindung aus Tiefe und Klarheit liegt der bleibende Wert der symbolischen Arbeit.`,
+Wer symbolische Arbeit so versteht und anwendet — ehrlich, respektvoll, im klaren Rahmen —, verfügt über ein wertvolles, sicheres Werkzeug. Es eröffnet Menschen einen achtsamen, kreativen Zugang zu sich selbst, stärkt Reflexion und Wohlbefinden und bleibt dabei redlich. Genau in dieser Verbindung aus Tiefe und Klarheit liegt der bleibende Wert der symbolischen Arbeit.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
         },
       ],
     },

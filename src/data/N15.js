@@ -248,7 +248,9 @@ Durchgehend zog sich eine bewusste Entscheidung: Statt einer Logik von „Kraut 
 
 Den festen Rahmen bilden die Sicherheitsthemen: die Verwechslungsgefahr und die Notwendigkeit sicherer Bestimmung, das unterschätzte Risiko von Wechselwirkungen, die besondere Vorsicht bei Risikogruppen und die klare Grenze zu Arzt und Apotheke. Diese Klarheit schützt und macht das Wissen erst verantwortbar.
 
-Wer Pflanzen in diesem Geist versteht — mit Wissen, Wertschätzung, kritischem Blick und klarer Sicherheitshaltung —, gewinnt einen tiefen, lebendigen Bezug zur Natur und kann dieses Wissen mit Freude und gutem Gewissen weitergeben. Das ist der bleibende Wert dieses Nachschlagewerks: Begeisterung und Verantwortung in einem.`,
+Wer Pflanzen in diesem Geist versteht — mit Wissen, Wertschätzung, kritischem Blick und klarer Sicherheitshaltung —, gewinnt einen tiefen, lebendigen Bezug zur Natur und kann dieses Wissen mit Freude und gutem Gewissen weitergeben. Das ist der bleibende Wert dieses Nachschlagewerks: Begeisterung und Verantwortung in einem.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
         },
       ],
     },

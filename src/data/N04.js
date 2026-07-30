@@ -249,7 +249,9 @@ Wir haben gesehen, warum Pflanzen wirken, welche Stoffgruppen es gibt und warum 
 
 Durchgehend zog sich die klare Grenze zur Heilkunde: keine Indikationen, keine Dosierungen, keine Heilversprechen — und bei gesundheitlichen Fragen der Verweis an Arzt und Apotheker. Diese Grenze ist nicht Schwäche, sondern das Fundament eines seriösen, verantwortlichen Umgangs.
 
-Die Haltung, die dieser Kurs vermitteln will, verbindet zwei Dinge, die zusammengehören: echte Begeisterung und Wertschätzung für die Pflanzenwelt und ein nüchternes, kritisches Sicherheitsbewusstsein. Wer wirksame Pflanzen so versteht — mit Wissen, Respekt, kritischem Blick und klarer Grenze —, gewinnt einen tiefen, mündigen Bezug zu ihnen und kann dieses Wissen verantwortlich weitergeben. Das ist der bleibende Wert dieses Kurses.`,
+Die Haltung, die dieser Kurs vermitteln will, verbindet zwei Dinge, die zusammengehören: echte Begeisterung und Wertschätzung für die Pflanzenwelt und ein nüchternes, kritisches Sicherheitsbewusstsein. Wer wirksame Pflanzen so versteht — mit Wissen, Respekt, kritischem Blick und klarer Grenze —, gewinnt einen tiefen, mündigen Bezug zu ihnen und kann dieses Wissen verantwortlich weitergeben. Das ist der bleibende Wert dieses Kurses.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
         },
       ],
     },

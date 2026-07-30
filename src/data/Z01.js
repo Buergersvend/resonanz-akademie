@@ -744,7 +744,9 @@ Human Design sagt dir: "Du bist ein emotionaler Manifestor mit Profil 4/6." Nume
 
 Für Praktiker, die beide Systeme beherrschen, eröffnet sich die Möglichkeit einer besonders tiefen Beratung. Das numerologische Porträt ergänzt das Human Design Reading um eine Ebene, die manche Klienten intuitiver zugänglich finden — Zahlen sind konkreter und greifbarer als Zentren und Kanäle.
 
-Die Einladung: Sieh beide Systeme als Werkzeuge in deinem Koffer. Nicht das eine ist "richtiger" als das andere. Sie sind verschiedene Sprachen, die dasselbe Geheimnis beschreiben — die unwiederholbare Einzigartigkeit jedes Menschen.`
+Die Einladung: Sieh beide Systeme als Werkzeuge in deinem Koffer. Nicht das eine ist "richtiger" als das andere. Sie sind verschiedene Sprachen, die dasselbe Geheimnis beschreiben — die unwiederholbare Einzigartigkeit jedes Menschen.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         }
       ]
     }

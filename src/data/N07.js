@@ -753,7 +753,9 @@ Wenn dich Ayurveda tiefer fasziniert, gibt es viele Wege, dein Wissen für dich 
 
 Ayurveda schenkt dir etwas, das in der modernen Welt selten geworden ist: die Fähigkeit, deinen eigenen Körper zu verstehen. Nicht über Bluttests und Laborwerte — über direktes Spüren, Beobachten und Anpassen. Du lernst, die Sprache deines Körpers zu lesen — und ihm zu antworten. Nicht mit Pillen, sondern mit Nahrung, Rhythmus, Kräutern und bewusster Lebensführung.
 
-In einer Welt, die die Gesundheitsverantwortung an Ärzte, Versicherungen und Pharmaunternehmen delegiert hat, ist dieses Wissen revolutionär. Dein Körper gehört dir. Deine Gesundheit gehört dir. Und das Wissen, wie du beides pflegst, gehört dir — seit 5000 Jahren.`
+In einer Welt, die die Gesundheitsverantwortung an Ärzte, Versicherungen und Pharmaunternehmen delegiert hat, ist dieses Wissen revolutionär. Dein Körper gehört dir. Deine Gesundheit gehört dir. Und das Wissen, wie du beides pflegst, gehört dir — seit 5000 Jahren.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         }
       ]
     }

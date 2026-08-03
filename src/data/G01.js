@@ -37,19 +37,19 @@ Meditation verändert dieses Verhältnis. Nicht indem du die Gedanken abschaltes
 
 Stell dir vor, du sitzt am Ufer eines Flusses. Die Gedanken sind das Wasser — sie fließen vorbei. Normalerweise springst du bei jedem interessanten Gedanken ins Wasser und lässt dich mitreißen. Meditation bedeutet: am Ufer sitzen bleiben und zusehen.
 
-Diese Fähigkeit — Gedanken wahrzunehmen ohne sich mit ihnen zu identifizieren — verändert alles. Deine Reaktionen werden bewusster. Dein Stresslevel sinkt. Deine Klarheit steigt. Und das passiert nicht nach Jahren des Übens, sondern oft schon nach wenigen Wochen regelmäßiger Praxis.`,
+Diese Fähigkeit — Gedanken wahrzunehmen ohne sich mit ihnen zu identifizieren — beschreiben viele Übende als den eigentlichen Unterschied. Reaktionen können bewusster ausfallen, Anspannung weniger bestimmend wirken, der Kopf klarer erscheinen. Ob und wann sich etwas verändert, ist von Mensch zu Mensch verschieden.`,
           uebung: {
             titel: 'Eine Minute Stille',
             anleitung: `Stelle einen Timer auf 60 Sekunden. Schließe die Augen. Deine einzige Aufgabe: Zähle, wie viele einzelne Gedanken in dieser Minute auftauchen. Nicht bewerten, nicht festhalten — nur zählen.
 
-Nach 60 Sekunden: Wie viele waren es? Die meisten Menschen kommen auf 15–30. Das ist dein Ausgangswert. Am Ende des Kurses wiederholst du diese Übung — und wirst überrascht sein.`,
+Nach 60 Sekunden: Wie viele waren es? Die meisten Menschen kommen auf 15–30. Das ist dein Ausgangswert. Am Ende des Kurses wiederholst du diese Übung und vergleichst in Ruhe.`,
             dauer: '2 Min',
           },
         },
         {
           id: 'G01-M1-L2',
           titel: 'Was die Wissenschaft sagt',
-          inhalt: `Meditation ist eine der am intensivsten erforschten Praktiken der letzten 30 Jahre. Tausende von Studien belegen messbare Veränderungen in Gehirn, Körper und Psyche — und zwar nicht bei Mönchen nach 20 Jahren Praxis, sondern bei ganz normalen Menschen nach wenigen Wochen.
+          inhalt: `Meditation gehört zu den in den vergangenen Jahrzehnten häufig untersuchten Praktiken. Es gibt eine umfangreiche Forschungsliteratur zu Gehirn, Körper und Psyche — mit unterschiedlichen Methoden, sehr verschiedenen Untersuchungsgruppen und uneinheitlichen Ergebnissen. Was diese Forschung nicht leisten kann, ist eine Aussage darüber, was bei dir geschieht.
 
 Die wichtigsten Befunde:
 
@@ -59,11 +59,11 @@ Stressreaktion: Ein zweiter Schwerpunkt ist das autonome Nervensystem mit seinen
 
 Immunsystem: Ein dritter Untersuchungsbereich ist der Zusammenhang zwischen anhaltender Anspannung und Immunfunktion, etwa über Entzündungsmarker im Blut. Auch hier ist die Studienlage uneinheitlich.
 
-Emotionale Gesundheit: Meta-Analysen bestätigen die Wirksamkeit bei Angststörungen, Depressionen und chronischem Stress — teilweise vergleichbar mit Medikamenten, aber ohne Nebenwirkungen.
+Ein vierter Bereich betrifft Stimmung und emotionales Erleben. Dazu gibt es Übersichtsarbeiten, deren Ergebnisse fachlich diskutiert werden; die zugrunde liegenden Studien unterscheiden sich in Aufbau, Größe und Qualität erheblich. Meditation ist keine Behandlung und tritt an die Stelle keiner Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-Aufmerksamkeit und Fokus: Schon nach 4 Tagen Meditationstraining verbessert sich die Fähigkeit zur sustained attention — dem anhaltenden Fokus auf eine Aufgabe.
+Aufmerksamkeit und Fokus: Ein weiterer Untersuchungsgegenstand ist die anhaltende Aufmerksamkeit (sustained attention) — der Fokus auf eine Aufgabe über längere Zeit. Einzelne Untersuchungen arbeiten dabei mit sehr kurzen Übungszeiträumen; verallgemeinern lässt sich daraus wenig.
 
-Das Bemerkenswerte: Diese Effekte treten nicht erst nach Jahren auf. Viele Studien zeigen signifikante Veränderungen bereits nach 8 Wochen mit 10–20 Minuten täglicher Praxis. Einige Effekte — wie die Reduktion von Angst und die Verbesserung der Stimmung — sind schon nach einer einzelnen Sitzung messbar.`,
+Das Bemerkenswerte: Diese Effekte treten nicht erst nach Jahren auf. Häufig genannte Zeiträume in solchen Untersuchungen liegen bei mehreren Wochen mit täglicher Übung von etwa zehn bis zwanzig Minuten. Diese Angaben beschreiben Studiendesigns — sie sagen nichts darüber, was bei dir eintritt, in welchem Ausmaß oder ob überhaupt.`,
           uebung: {
             titel: 'Dein persönlicher Baseline-Check',
             anleitung: `Bewerte dich selbst auf einer Skala von 1–10 in diesen fünf Bereichen. Schreibe die Zahlen auf — du wirst sie am Ende des Kurses erneut bewerten.
@@ -71,7 +71,7 @@ Das Bemerkenswerte: Diese Effekte treten nicht erst nach Jahren auf. Viele Studi
 1. Innere Ruhe im Alltag: ___/10
 2. Fähigkeit, mich zu konzentrieren: ___/10
 3. Umgang mit Stress: ___/10
-4. Schlafqualität: ___/10
+4. Umgang mit Ablenkung: ___/10
 5. Allgemeines Wohlbefinden: ___/10
 
 Sei ehrlich — es gibt keine richtigen oder falschen Antworten. Dieser Baseline ist nur für dich.`,
@@ -234,7 +234,7 @@ Die Technik: Du beginnst an den Füßen und wanderst langsam aufwärts — Füß
 
 Die Kunst des Body Scans liegt im Nicht-Verändern-Wollen. Wenn du eine Verspannung findest, versuche nicht sofort, sie aufzulösen. Beobachte sie. Atme in sie hinein. Oft löst sich Spannung allein dadurch, dass sie bewusst wahrgenommen wird — ohne jedes Zutun.
 
-Der Body Scan eignet sich hervorragend als Abendpraxis, weil er den Körper auf natürliche Weise entspannt. Er ist auch ein kraftvolles Werkzeug bei Einschlafproblemen, chronischen Schmerzen und psychosomatischen Beschwerden.`,
+Viele Übende nutzen den Body Scan als Abendpraxis, weil das langsame Durchgehen des Körpers den Tag zur Ruhe kommen lässt. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Der Body Scan ist keine Behandlung und ersetzt keine ärztliche Einschätzung.`,
           uebung: {
             titel: 'Geführter Body Scan — 7 Minuten',
             anleitung: `Lege dich hin oder sitze bequem. Timer auf 7 Minuten. Schließe die Augen.
@@ -266,7 +266,7 @@ Die Praxis: Wähle eine kurze Strecke — 5 bis 10 Meter reichen. Du gehst hin, 
 
 Die Gehmeditation hat einen besonderen Vorteil: Du kannst sie in deinen Alltag integrieren, ohne zusätzliche Zeit zu brauchen. Der Weg zur Arbeit, der Gang zum Supermarkt, die Treppe im Büro — jeder Weg kann zur Meditation werden, wenn du ihn bewusst gehst.
 
-Ein weiterer Vorteil: Gehmeditation ist besonders hilfreich bei starker Unruhe, Angst oder wenn du nach langem Sitzen eine Meditationsform brauchst, die den Körper einbezieht.`,
+Ein weiterer Vorteil: Gehmeditation bezieht den Körper ein. Manche Übende greifen darauf zurück, wenn Stillsitzen an einem Tag schwerfällt oder wenn nach langem Sitzen Bewegung guttut.`,
           uebung: {
             titel: 'Gehmeditation — 5 Minuten',
             anleitung: `Finde einen Platz, an dem du 5–10 Meter ungestört gehen kannst (Zimmer, Flur, Garten).
@@ -284,11 +284,11 @@ Beobachte: Wie fühlt sich bewusstes Gehen an im Vergleich zum automatischen Geh
         {
           id: 'G01-M3-L3',
           titel: 'Liebende-Güte-Meditation — Das Herz öffnen',
-          inhalt: `Die Liebende-Güte-Meditation (im Buddhismus „Metta" genannt) ist die vielleicht transformativste aller Meditationsformen. Während die Atemmeditation den Geist trainiert und der Body Scan den Körper erschließt, öffnet Metta das Herz.
+          inhalt: `Die Liebende-Güte-Meditation (im Buddhismus „Metta" genannt) ist eine Meditationsform, die viele Übende als besonders berührend beschreiben. Während die Atemmeditation den Geist trainiert und der Body Scan den Körper erschließt, öffnet Metta das Herz.
 
 Das Prinzip: Du sendest bewusst Wünsche des Wohlwollens — zuerst an dich selbst, dann an andere. Dabei verwendest du einfache Sätze wie: „Möge ich glücklich sein. Möge ich gesund sein. Möge ich in Frieden leben."
 
-Die Wissenschaft dahinter ist beeindruckend: Studien zeigen, dass regelmäßige Metta-Praxis die Fähigkeit zur Empathie messbar steigert, Entzündungsmarker im Blut senkt, und sogar die Telomere — die Schutzkappen unserer Chromosomen — verlangsamt verkürzen lässt. Liebevolle Gedanken verändern buchstäblich deine Biologie.
+Die Wissenschaft dahinter ist beeindruckend: In der Forschung zur Metta-Praxis werden unter anderem Empathiefähigkeit, Entzündungsmarker und Zellalterung als Messgrößen herangezogen. Die vorliegenden Untersuchungen sind überwiegend klein und in ihren Ergebnissen uneinheitlich; ein Rückschluss darauf, was bei einer einzelnen Person geschieht, lässt sich daraus nicht ziehen. Was Übende selbst berichten, ist meist schlichter: ein wärmerer Blick auf sich und andere.
 
 Der Ablauf in konzentrischen Kreisen:
 
@@ -343,11 +343,11 @@ Notiere: Wie hat es sich angefühlt, dir selbst Gutes zu wünschen? War es leich
         {
           id: 'G01-M4-L1',
           titel: 'Bauchatmung — Die natürliche Tiefatmung',
-          inhalt: `Die meisten Erwachsenen atmen falsch — flach, in die Brust, mit angespanntem Bauch. Babys und Kleinkinder atmen natürlich in den Bauch — tief, rhythmisch, entspannt. Irgendwann haben wir das verlernt, durch Stress, durch „Bauch einziehen", durch chronische Anspannung.
+          inhalt: `Viele Erwachsene atmen im Alltag flach, in die Brust, mit angespanntem Bauch. Babys und Kleinkinder atmen natürlich in den Bauch — tief, rhythmisch, entspannt. Irgendwann haben wir das verlernt, durch Stress, durch „Bauch einziehen", durch chronische Anspannung.
 
 Die Bauchatmung (auch Zwerchfellatmung genannt) ist keine Technik — sie ist die Rückkehr zur natürlichen Atmung. Wenn du in den Bauch atmest, senkt sich das Zwerchfell, die Lunge füllt sich vollständig, und dein Nervensystem erhält das Signal: „Alles ist sicher."
 
-Physiologisch passiert Folgendes: Das Zwerchfell drückt beim Einatmen auf den Solarplexus-Nervenknoten (Plexus coeliacus), der direkt mit dem Vagusnerv verbunden ist. Der Vagusnerv ist der Hauptnerv des Parasympathikus — des Entspannungssystems. Tiefe Bauchatmung stimuliert also direkt dein Beruhigungssystem.
+Als Erklärungsmodell wird häufig die Lage des Zwerchfells angeführt: seine Nähe zum Plexus coeliacus und zum Vagusnerv, der zum Parasympathikus gehört — dem Teil des Nervensystems, das mit Erholung in Verbindung gebracht wird. Wie stark und auf welchem Weg die Atmung darauf wirkt, ist Gegenstand der Forschung und nicht abschließend geklärt.
 
 Wie du die Bauchatmung wiederlernst: Lege eine Hand auf deine Brust und eine auf deinen Bauch. Atme normal. Welche Hand bewegt sich mehr? Wenn die Brusthand sich mehr bewegt, atmest du flach. Ziel ist, dass die Bauchhand sich deutlich hebt und senkt, während die Brusthand relativ still bleibt.
 
@@ -381,7 +381,7 @@ Warum funktioniert das so gut? Das Zählen gibt dem präfrontalen Cortex eine Au
 
 Die fortgeschrittene Variante: Zähle von 10 rückwärts bis 1. Das erfordert etwas mehr Konzentration und ist ein guter nächster Schritt, wenn das Vorwärtszählen zu einfach wird.
 
-Die Meditations-Variante: Zähle 4 Sekunden ein, halte 4 Sekunden, atme 4 Sekunden aus, halte 4 Sekunden. Dieser „Box Breathing" Rhythmus (auch 4-4-4-4 genannt) wird von Spezialeinheiten und Astronauten genutzt, um unter extremem Stress ruhig zu bleiben. Er wirkt, weil er dem Nervensystem einen präzisen, vorhersagbaren Rhythmus gibt.
+Die Meditations-Variante: Zähle 4 Sekunden ein, halte 4 Sekunden, atme 4 Sekunden aus, halte 4 Sekunden. Dieser Rhythmus (auch 4-4-4-4 oder „Box Breathing" genannt) ist verbreitet, weil das Zählen eine klare, vorhersagbare Struktur vorgibt, an der die Aufmerksamkeit Halt findet.
 
 Die Zählatmung ist perfekt für Tage, an denen dein Monkey Mind besonders wild ist. Die Struktur gibt dir Halt — wie ein Geländer auf einer schwankenden Brücke.`,
           uebung: {
@@ -414,7 +414,7 @@ In der Praxis bedeutet das: Du sitzt, du bemerkst den Atem, und du lässt ihn se
 
 Diese Form der Atemmeditation führt dich tiefer als alle Techniken, weil sie das Loslassen von Kontrolle trainiert. Und Loslassen von Kontrolle ist eine der wichtigsten Fähigkeiten, die Meditation dir schenken kann — nicht nur auf dem Kissen, sondern im Leben.
 
-Wenn der Atem sich von selbst vertieft und verlangsamt — und das wird er — widersetze dich nicht. Wenn er flach und schnell wird — auch das ist in Ordnung. Du bist der Zeuge. Nicht der Regisseur.`,
+Wenn der Atem sich von selbst vertieft und verlangsamt, widersetze dich nicht. Wenn er flach und schnell wird — auch das ist in Ordnung. Du bist der Zeuge. Nicht der Regisseur.`,
           uebung: {
             titel: 'Stilles Beobachten — 5 Minuten',
             anleitung: `Setze dich an deinen Meditationsplatz. Timer auf 5 Minuten.
@@ -551,7 +551,7 @@ Die Achtsamkeitsanker sind der Übergang von „ich meditiere" zu „ich lebe ac
           titel: 'Gewohnheit aufbauen — Die 30-Tage-Struktur',
           inhalt: `Du hast jetzt alle Werkzeuge. Du kennst verschiedene Meditationsformen, Atemtechniken und Alltagsanker. Die entscheidende Frage ist nicht mehr „Was soll ich tun?" sondern „Wie bleibe ich dran?"
 
-Forschung zur Gewohnheitsbildung zeigt: Der wichtigste Faktor ist nicht Willenskraft, sondern Struktur. Willenskraft ist eine begrenzte Ressource — sie aufzubrauchen ist ein Verliererspiel. Struktur hingegen funktioniert auf Autopilot.
+In der Literatur zur Gewohnheitsbildung wird weniger die Willenskraft betont als die Struktur. Willenskraft ist eine begrenzte Ressource — sie aufzubrauchen ist ein Verliererspiel. Struktur hingegen funktioniert auf Autopilot.
 
 Die 30-Tage-Struktur für deine Meditationspraxis:
 
@@ -655,7 +655,7 @@ Das Wertvollste, was du aus diesem Kurs mitnimmst, ist kein Wissen — es ist ei
 
 Dieser stille Raum wartet auf dich — morgens auf deinem Kissen, mittags in einem bewussten Atemzug, abends im Moment bevor du einschläfst. Er wird größer, je öfter du kommst.
 
-Dein Weg der Stille hat begonnen.`,
+Dein Weg der Stille hat begonnen. Und noch ein Wort zum Schluss: Meditation ist Übung, keine Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
             titel: 'Abschluss-Meditation & Baseline-Vergleich',
             anleitung: `Zum Abschluss: Meditiere 10 Minuten mit deiner Lieblingstechnik.
@@ -665,13 +665,13 @@ Danach bewerte dich erneut in den fünf Bereichen von Modul 1:
 1. Innere Ruhe im Alltag: ___/10 (vorher: ___)
 2. Fähigkeit, mich zu konzentrieren: ___/10 (vorher: ___)
 3. Umgang mit Stress: ___/10 (vorher: ___)
-4. Schlafqualität: ___/10 (vorher: ___)
+4. Umgang mit Ablenkung: ___/10 (vorher: ___)
 5. Allgemeines Wohlbefinden: ___/10 (vorher: ___)
 
 Und wiederhole die 60-Sekunden-Übung: Zähle deine Gedanken in 1 Minute.
 Vorher: ___ Gedanken. Jetzt: ___ Gedanken.
 
-Vergleiche. Staune. Und dann: Weiter üben.`,
+Vergleiche — ohne Bewertung. Es gibt hier kein Ergebnis, das richtig oder falsch wäre. Und dann: Weiter üben.`,
             dauer: '15 Min',
           },
         },

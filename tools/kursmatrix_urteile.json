@@ -80,7 +80,7 @@
     "notiz": ""
   },
   "G01": {
-    "abgenommen_gegen": null,
+    "abgenommen_gegen": "12c52d1",
     "notiz": ""
   },
   "G02": {
@@ -97,7 +97,7 @@
   },
   "G05": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "Klasse 2 ohne jeden abkl-Treffer: nennt Heilpraktiker, verweist aber nirgends. \"Wortlaut pruefen\" ist irrefuehrend, es gibt keinen Verweis."
   },
   "G06": {
     "abgenommen_gegen": null,
@@ -125,7 +125,7 @@
   },
   "H01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "Klasse 4 ist Messartefakt: einziger abkl-Treffer ist \"abklingen\", keine Verweisstelle. Faktisch Klasse 5, reine Anhaengung."
   },
   "K01": {
     "abgenommen_gegen": null,
@@ -149,7 +149,7 @@
   },
   "N02": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "Klasse 4 zutreffend: Verweisstelle vorhanden (\"aerztlich abklaeren\"), es fehlt der Pflichtwortlaut mit Heilpraktiker und Therapeut."
   },
   "N04": {
     "abgenommen_gegen": null,
@@ -205,7 +205,7 @@
   },
   "P03": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "Klasse 1 irrefuehrend: Pflichtsatz existiert nicht. Einziger Fragment-Treffer Z. 804 im Quiz, verengt auf seelische Belastung. Gemessen 04.08.2026 (verweisort.mjs). Vorrang vor G03."
   },
   "P04": {
     "abgenommen_gegen": null,

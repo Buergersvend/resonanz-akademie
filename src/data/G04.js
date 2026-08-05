@@ -75,9 +75,9 @@ Aber du kannst atmen. Und über den Atem erreichst du das autonome Nervensystem 
 
 Dein autonomes Nervensystem hat zwei Hauptzweige:
 
-**Der Sympathikus** ist dein Gaspedal. Er aktiviert, mobilisiert, beschleunigt. Herzschlag hoch, Blutdruck hoch, Muskeln angespannt, Verdauung gestoppt, Stresshormone im Blut. Das ist die Kampf-oder-Flucht-Reaktion — überlebenswichtig in Gefahr, zerstörerisch im Dauerbetrieb.
+**Der Sympathikus** ist dein Gaspedal. Er aktiviert, mobilisiert, beschleunigt. Herzschlag hoch, Blutdruck hoch, Muskeln angespannt, Verdauung gestoppt, Stresshormone im Blut. Das ist die Kampf-oder-Flucht-Reaktion — überlebenswichtig in Gefahr, auf Dauer aber anstrengend. Viele Menschen beschreiben das als Anspannung, die nicht mehr nachlässt.
 
-**Der Parasympathikus** ist deine Bremse. Er beruhigt und regeneriert. Herzschlag runter, Verdauung aktiv, Immunsystem arbeitet, Wachstumsprozesse laufen, der Körper repariert sich. Das ist der Ruhe-und-Verdauungs-Modus.
+**Der Parasympathikus** ist deine Bremse. Er ist der Gegenspieler. Ihm wird der Ruhe-und-Verdauungs-Modus zugeordnet: Der Herzschlag wird ruhiger, die Verdauung kommt in Gang. Viele Menschen beschreiben diesen Zustand als Gelöstheit oder Schwere im Körper.
 
 Der Schlüssel: Die Einatmung aktiviert den Sympathikus leicht (Herzschlag steigt messbar). Die Ausatmung aktiviert den Parasympathikus (Herzschlag sinkt). Deshalb beruhigen Techniken mit verlängerter Ausatmung — und aktivieren Techniken mit betonter Einatmung.
 

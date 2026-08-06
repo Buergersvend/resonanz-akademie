@@ -763,10 +763,10 @@ Gratulation — du hast einen Kurs abgeschlossen, der dein Verhältnis zu deiner
   ],
   quiz: [
     {
-      frage: 'Worauf beruht die Wirkung von Affirmationen laut Kurs?',
+      frage: 'Was ist laut Kurs der Grundgedanke hinter Affirmationen?',
       antworten: [
         'Das Unterbewusstsein ignoriert wiederholte Sätze',
-        'Das Unterbewusstsein unterscheidet kaum zwischen realer und lebhaft vorgestellter Erfahrung; Wiederholung stärkt die zugrunde liegenden neuronalen Verbindungen',
+        'Eine lebhaft vorgestellte Erfahrung kann sich innerlich aehnlich anfuehlen wie eine erlebte; was oft wiederholt wird, denkt man mit der Zeit leichter',
         'Nur laut gesprochene Sätze haben eine Wirkung',
         'Worte haben keinen Einfluss auf den Körper',
       ],
@@ -793,12 +793,12 @@ Gratulation — du hast einen Kurs abgeschlossen, der dein Verhältnis zu deiner
       richtig: 2,
     },
     {
-      frage: 'Wie lange dauert es laut Kurs im Schnitt, bis eine neue Gewohnheit automatisch wird?',
+      frage: 'Was sagt der Kurs darueber, wie lange eine neue Gewohnheit braucht?',
       antworten: [
         'Genau 3 Tage',
         'Sofort nach dem ersten Mal',
         'Genau 21 Tage',
-        'Durchschnittlich etwa 66 Tage — die meisten geben zwischen Tag 21 und 66 auf, kurz bevor die Transformation beginnt',
+        'Wochen bis Monate, je nach Person und Vorhaben — viele hoeren zu frueh auf, weil sich noch nichts von selbst anfuehlt',
       ],
       richtig: 3,
     },
@@ -813,9 +813,9 @@ Gratulation — du hast einen Kurs abgeschlossen, der dein Verhältnis zu deiner
       richtig: 2,
     },
     {
-      frage: 'Warum gilt der Morgen als „goldene Zeit" für Affirmationsarbeit?',
+      frage: 'Was beschreiben viele Menschen am Morgen als „goldene Zeit" für Affirmationsarbeit?',
       antworten: [
-        'Kurz nach dem Aufwachen ist das Gehirn in einem Theta-nahen Zustand und das Unterbewusstsein besonders empfänglich',
+        'Kurz nach dem Aufwachen sind viele Menschen noch offener und weniger kritisch als spaeter am Tag',
         'Weil man morgens am wenigsten konzentriert ist',
         'Weil Affirmationen nur vor dem Frühstück wirken',
         'Weil das Gehirn morgens keine neuen Verbindungen bildet',

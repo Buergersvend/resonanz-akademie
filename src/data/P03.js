@@ -754,7 +754,7 @@ Sprich diesen Commitment-Satz laut aus — vor dem Spiegel, mit Hand auf dem Her
 
 Dann: Starte deinen Tracker. Tag 1 beginnt jetzt.
 
-Gratulation — du hast einen Kurs abgeschlossen, der dein Verhältnis zu deiner eigenen Sprache für immer verändert hat.`,
+Gratulation — du hast einen Kurs abgeschlossen, der dir Werkzeuge für den Umgang mit deiner eigenen Sprache an die Hand gibt.`,
             dauer: '5 Min',
           },
         },

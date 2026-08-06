@@ -18,13 +18,13 @@ const P03 = {
         {
           id: 'P03-M1-L1',
           titel: 'Die Macht der Sprache',
-          inhalt: `Worte sind mehr als Schall und Tinte. Jedes Wort, das du sprichst, denkst oder hörst, löst eine Kaskade von Reaktionen in deinem Nervensystem aus — messbar, reproduzierbar und weitreichender als die meisten Menschen ahnen.
+          inhalt: `Worte sind mehr als Schall und Tinte. Jedes Wort, das du sprichst, denkst oder hörst, wirkt oft weiter, als die meisten Menschen vermuten — das lässt sich an einem einfachen Beispiel selbst beobachten.
 
 Wenn jemand zu dir sagt "Stell dir eine Zitrone vor — du schneidest sie auf, der Saft läuft über deine Finger, du beißt hinein" — dann produziert dein Mund Speichel. Obwohl keine Zitrone da ist. Obwohl du weißt, dass es nur Worte sind. Dein Körper reagiert trotzdem.
 
-Dieses Prinzip ist der Schlüssel zum Verständnis von Affirmationen: Dein Unterbewusstsein unterscheidet nicht zwischen einer realen Erfahrung und einer lebhaft vorgestellten. Worte, die mit Überzeugung und Wiederholung gesprochen werden, erzeugen neuronale Muster — genau wie tatsächliche Erlebnisse.
+In der Arbeit mit Affirmationen wird daraus ein einfacher Gedanke abgeleitet: Eine lebhaft vorgestellte Erfahrung kann sich innerlich ganz ähnlich anfühlen wie eine tatsächlich erlebte. Worte, die mit Überzeugung und Wiederholung gesprochen werden, hinterlassen einen Eindruck — genau wie tatsächliche Erlebnisse.
 
-Neurowissenschaftlich betrachtet passiert Folgendes: Wenn du einen Satz wiederholst, stärkt sich die synaptische Verbindung, die diesem Gedanken zugrunde liegt. Je öfter du den Satz wiederholst, desto stärker wird die Verbindung — bis sie zu einer automatischen Überzeugung wird. Das funktioniert in beide Richtungen: Negative Sätze verstärken negative Überzeugungen, positive Sätze verstärken positive.
+Das gängige Bild dahinter ist einfach: Was du oft denkst, denkst du mit der Zeit leichter. Je öfter du den Satz wiederholst, desto stärker wird die Verbindung — bis sie zu einer automatischen Überzeugung wird. Das funktioniert in beide Richtungen: Negative Sätze verstärken negative Überzeugungen, positive Sätze verstärken positive.
 
 Affirmationen nutzen diesen Mechanismus bewusst und gezielt.`,
           uebung: {
@@ -39,7 +39,7 @@ Runde 2: Wiederhole 30 Sekunden lang: "Ich bin wach. Energie fließt durch mich.
 
 Notiere den Unterschied. Wie hat sich dein Körper in Runde 1 vs. Runde 2 angefühlt? Energie? Haltung? Atmung?
 
-Das, was du gerade erlebt hast, ist der Beweis: Worte verändern deinen körperlichen Zustand — in Sekunden.`,
+Was du gerade beobachtet hast, ist deine eigene Erfahrung — und die ist es, worum es in diesem Kurs geht.`,
             dauer: '3 Min',
           },
         },
@@ -83,17 +83,17 @@ Dieses Protokoll ist oft ein Augenöffner. Es zeigt dir schwarz auf weiß, welch
           titel: 'Die Neuroplastizität — dein Verbündeter',
           inhalt: `Ein verbreitetes Bild besagt, das Gehirn sei nach der Kindheit "fertig" und unveränderbar. Dieses Bild gilt heute als überholt — unter dem Stichwort Neuroplastizität wird beschrieben, dass Lern- und Anpassungsprozesse ein Leben lang möglich sind. Für die Arbeit mit Affirmationen ist das der ermutigende Gedanke dahinter: Gewohntes ist nicht endgültig.
 
-Neuroplastizität bedeutet: Jeder Gedanke, den du denkst, verändert die physische Struktur deines Gehirns. Wiederholte Gedanken stärken bestimmte neuronale Verbindungen und schwächen andere. Was du oft denkst, wird zur Autobahn — schnell und mühelos. Was du selten denkst, verkümmert zum Trampelpfad.
+Der Gedanke dahinter: Was du oft denkst, wird vertrauter — was du selten denkst, tritt in den Hintergrund. Manche Gedanken bekommen durch Wiederholung mehr Gewicht als andere. Was du oft denkst, wird zur Autobahn — schnell und mühelos. Was du selten denkst, verkümmert zum Trampelpfad.
 
 Für Affirmationen bedeutet das konkret:
 
 Die ersten Tage: Die neue Affirmation fühlt sich fremd an, vielleicht sogar unwahr. Normal — du legst gerade einen neuen Trampelpfad an, während die alte Autobahn noch dominant ist.
 
-Nach 1–2 Wochen: Der neue Pfad wird breiter. Die Affirmation fühlt sich vertrauter an. Du ertappst dich dabei, den Satz spontan zu denken.
+Nach einer Weile: Der neue Pfad wird breiter. Die Affirmation fühlt sich vertrauter an. Du ertappst dich dabei, den Satz spontan zu denken.
 
-Nach 3–4 Wochen: Die neue Verbindung beginnt, mit der alten zu konkurrieren. Situationen, in denen du früher automatisch "Ich kann das nicht" gedacht hast, werden von "Ich schaffe das" unterbrochen.
+Etwas später: Der neue Satz beginnt, mit dem alten zu konkurrieren. Situationen, in denen du früher automatisch "Ich kann das nicht" gedacht hast, werden von "Ich schaffe das" unterbrochen.
 
-Nach 2–3 Monaten: Die neue Überzeugung wird zur neuen Autobahn. Sie läuft automatisch, ohne bewusste Anstrengung. Das ist der Moment, in dem echte Transformation stattfindet.
+Mit der Zeit: Die neue Überzeugung wird zur neuen Autobahn. Sie läuft automatisch, ohne bewusste Anstrengung. Das ist der Moment, in dem echte Transformation stattfindet.
 
 Der Schlüssel ist Konsistenz. Nicht Intensität, sondern Wiederholung über Zeit. 5 Minuten täglich schlagen 1 Stunde einmal pro Woche — bei Weitem.`,
           uebung: {
@@ -124,7 +124,7 @@ Diese Überzeugung wird dein erstes "Projekt" in den kommenden Modulen. Du wirst
           titel: 'Die 5 Regeln einer wirksamen Affirmation',
           inhalt: `Nicht jeder positive Satz ist eine wirksame Affirmation. Es gibt klare Regeln, die den Unterschied machen zwischen einem Satz, der dein Unterbewusstsein erreicht, und einem, der an der Oberfläche abprallt.
 
-Regel 1 — Positiv formulieren: Dein Unterbewusstsein kann keine Verneinung verarbeiten. "Ich habe keine Angst" erzeugt das Bild von Angst. Stattdessen: "Ich bin mutig und vertraue mir."
+Regel 1 — Positiv formulieren: Eine verbreitete Faustregel lautet, dass Verneinungen schwer vorstellbar sind. "Ich habe keine Angst" erzeugt das Bild von Angst. Stattdessen: "Ich bin mutig und vertraue mir."
 
 Regel 2 — Präsens verwenden: Nicht "Ich werde selbstbewusst sein" (Zukunft = noch nicht real), sondern "Ich bin selbstbewusst." Das Präsens signalisiert dem Unterbewusstsein: Das ist bereits meine Realität.
 
@@ -132,7 +132,7 @@ Regel 3 — Persönlich und spezifisch: "Alles wird gut" ist vage. "Ich handle i
 
 Regel 4 — Emotional aufgeladen: Eine Affirmation, die dich kalt lässt, wirkt kaum. Sie muss etwas in dir auslösen — ein Ziehen, eine Sehnsucht, ein "Ja, das will ich sein!" Wenn du sie liest und nichts spürst, formuliere um.
 
-Regel 5 — Glaubbar: "Ich bin Milliardär" wird bei den meisten Menschen auf inneren Widerstand stoßen. Das Unterbewusstsein erkennt die Diskrepanz und blockiert. Besser: "Mein Wohlstand wächst jeden Tag" oder "Ich bin offen für Fülle in meinem Leben." Die Affirmation darf ambitioniert sein, aber nicht so weit von deiner aktuellen Realität entfernt, dass sie unglaubwürdig wird.`,
+Regel 5 — Glaubbar: "Ich bin Milliardär" wird bei den meisten Menschen auf inneren Widerstand stoßen. Der Abstand zur eigenen Erfahrung ist zu groß, und der Satz stößt auf inneren Widerstand. Besser: "Mein Wohlstand wächst jeden Tag" oder "Ich bin offen für Fülle in meinem Leben." Die Affirmation darf ambitioniert sein, aber nicht so weit von deiner aktuellen Realität entfernt, dass sie unglaubwürdig wird.`,
           uebung: {
             titel: 'Regel-Check',
             anleitung: `Hier sind 5 Affirmationen. Prüfe jede gegen die 5 Regeln und korrigiere die fehlerhaften:
@@ -180,7 +180,7 @@ Noch einige Beispiele für die Transformation:
 "Niemand versteht mich" → "Ich drücke mich klar aus und ziehe Menschen an, die mich verstehen."
 "Ich habe kein Glück" → "Gute Dinge fließen in mein Leben, weil ich offen dafür bin."
 
-Beachte: Die neue Affirmation soll sich anfühlen wie eine Einladung — nicht wie ein Befehl. Dein Unterbewusstsein reagiert besser auf sanfte Überzeugung als auf Druck.`,
+Beachte: Die neue Affirmation soll sich anfühlen wie eine Einladung — nicht wie ein Befehl. Viele Menschen erleben sanfte Überzeugung als tragfähiger denn Druck.`,
           uebung: {
             titel: 'Deine persönliche Affirmation',
             anleitung: `Nimm deine stärkste negative Überzeugung aus Modul 1 und verwandle sie jetzt:
@@ -264,7 +264,7 @@ Tipp: Schreibe sie auf eine Karteikarte oder in die Notiz-App deines Handys — 
 
 Die Grundform ist simpel: Du stehst vor einem Spiegel, schaust dir selbst in die Augen und sprichst deine Affirmation laut aus.
 
-Was dabei passiert, ist alles andere als simpel. Der Augenkontakt mit dir selbst aktiviert Hirnareale, die mit Selbstwahrnehmung und emotionaler Verarbeitung verbunden sind. Du kannst dir selbst nicht in die Augen schauen und gleichzeitig "auschecken" — der Spiegel zwingt dich in volle Präsenz.
+Was dabei passiert, ist alles andere als simpel. Der Augenkontakt mit dir selbst holt dich in eine ungewohnte Aufmerksamkeit. Du kannst dir selbst nicht in die Augen schauen und gleichzeitig "auschecken" — der Spiegel zwingt dich in volle Präsenz.
 
 Für viele Menschen ist diese Übung anfangs unangenehm. Manche können sich nicht länger als wenige Sekunden in die Augen schauen. Manche fühlen Widerstand, Scham oder den Impuls, wegzuschauen. Das ist normal — und es ist wichtig. Denn genau dieser Widerstand zeigt dir, wie tief die negative Überzeugung sitzt, die du ersetzen willst.
 
@@ -297,8 +297,8 @@ Wenn es sich unangenehm anfühlt — gut. Das zeigt, dass du an der richtigen St
         },
         {
           id: 'P03-M3-L2',
-          titel: 'Schreibtechnik — die Hand-Gehirn-Verbindung',
-          inhalt: `Das handschriftliche Schreiben von Affirmationen ist eine unterschätzte, aber außerordentlich wirksame Technik. Der Grund liegt in der Neurowissenschaft: Handschrift aktiviert andere Hirnareale als Tippen oder Sprechen. Die motorische Komponente — jeder Buchstabe wird einzeln geformt — verlangsamt den Prozess und gibt dem Gehirn mehr Zeit, den Inhalt zu verarbeiten und zu integrieren.
+          titel: 'Schreibtechnik — mit der Hand schreiben',
+          inhalt: `Das handschriftliche Schreiben von Affirmationen ist eine unterschätzte, aber außerordentlich wirksame Technik. Der Grund ist einfacher, als man denkt: Handschrift ist langsamer als Tippen oder Sprechen. Die motorische Komponente — jeder Buchstabe wird einzeln geformt — verlangsamt den Prozess und lässt mehr Zeit, beim Inhalt zu bleiben.
 
 Die klassische Methode:
 Schreibe deine Affirmation 15–20 Mal hintereinander auf Papier. Nicht abschreiben, sondern jedes Mal bewusst neu formulieren — als würdest du den Satz zum ersten Mal denken.
@@ -309,7 +309,7 @@ Schreibe die gleiche Affirmation in drei Perspektiven:
 • Du-Form: "[Dein Name], du bist mutig und vertraust deinem Weg."
 • Er/Sie-Form: "[Dein Name] ist mutig und vertraut seinem/ihrem Weg."
 
-Warum drei Perspektiven? Weil negative Überzeugungen oft aus verschiedenen Quellen stammen — eigene Gedanken (Ich), Aussagen anderer über dich (Du), und gesellschaftliche Urteile (Er/Sie). Indem du in allen drei Perspektiven affirmierst, erreichst du alle Schichten.
+Warum drei Perspektiven? Weil negative Überzeugungen oft aus verschiedenen Quellen stammen — eigene Gedanken (Ich), Aussagen anderer über dich (Du), und gesellschaftliche Urteile (Er/Sie). Indem du in allen drei Perspektiven affirmierst, sprichst du alle drei Quellen an.
 
 Die Journaling-Methode:
 Schreibe morgens nach dem Aufwachen 5 Minuten lang frei über deine Affirmation — nicht nur den Satz, sondern wie es sich anfühlt, wenn er wahr ist. "Ich bin mutig und vertraue meinem Weg. Das bedeutet für mich, dass ich heute..." Diese Methode verbindet die Affirmation mit konkreten Bildern und Handlungen.`,
@@ -337,19 +337,19 @@ Beobachte: Welche Perspektive fühlt sich am stärksten an? Welche löst den mei
         {
           id: 'P03-M3-L3',
           titel: 'Körperbasierte Verankerung',
-          inhalt: `Affirmationen wirken noch tiefer, wenn du deinen Körper einbeziehst. Dein Unterbewusstsein speichert Informationen nicht nur als Gedanken, sondern auch als Körpergefühle, Haltungen und Bewegungen. Körperbasierte Verankerung nutzt diese Verbindung.
+          inhalt: `Affirmationen wirken noch tiefer, wenn du deinen Körper einbeziehst. Vieles, was wir über uns denken, zeigt sich auch als Körpergefühl, Haltung und Bewegung. Körperbasierte Verankerung nutzt diese Verbindung.
 
 Technik 1 — Power Posing + Affirmation:
-Nimm eine aufrechte, raumgreifende Haltung ein — Brust offen, Schultern zurück, Kinn leicht angehoben. Diese Haltung allein verändert bereits deine Hormonspiegel (mehr Testosteron, weniger Cortisol). Sprich in dieser Haltung deine Affirmation — dein Körper bestätigt, was dein Mund sagt.
+Nimm eine aufrechte, raumgreifende Haltung ein — Brust offen, Schultern zurück, Kinn leicht angehoben. Viele Menschen beschreiben, dass sich diese Haltung allein schon anders anfühlt als eine zusammengesunkene. Sprich in dieser Haltung deine Affirmation — dein Körper bestätigt, was dein Mund sagt.
 
 Technik 2 — Herzhand-Verankerung:
-Lege eine Hand auf dein Herz, während du die Affirmation sprichst. Die Berührung aktiviert den Vagusnerv und erzeugt ein Gefühl von Sicherheit. Dein Nervensystem interpretiert: "Dieser Satz ist sicher. Dieser Satz darf bleiben."
+Lege eine Hand auf dein Herz, während du die Affirmation sprichst. Die eigene Berührung wird von vielen Menschen als beruhigend erlebt — eine Geste, die man auch anderen gibt, wenn man sie trösten will.
 
 Technik 3 — Geh-Affirmation:
-Gehe spazieren und sprich bei jedem Schritt ein Wort deiner Affirmation. "Ich — bin — mutig — und — vertraue — meinem — Weg." Der Rhythmus des Gehens verankert den Satz in deiner Motorik — ähnlich wie ein Lied, das du beim Laufen hörst, danach noch stundenlang im Kopf bleibt.
+Gehe spazieren und sprich bei jedem Schritt ein Wort deiner Affirmation. "Ich — bin — mutig — und — vertraue — meinem — Weg." Der Rhythmus des Gehens trägt den Satz mit — ähnlich wie ein Lied, das du beim Laufen hörst, danach noch stundenlang im Kopf bleibt.
 
 Technik 4 — Atemverankerung:
-Verbinde die Affirmation mit deinem Atemrhythmus. Einatmen: "Ich bin mutig." Ausatmen: "Ich vertraue meinem Weg." Der Atemrhythmus ist einer der tiefsten Rhythmen deines Körpers — was daran gekoppelt wird, wird tief verankert.
+Verbinde die Affirmation mit deinem Atemrhythmus. Einatmen: "Ich bin mutig." Ausatmen: "Ich vertraue meinem Weg." Der Atem läuft ohnehin den ganzen Tag — ein Rhythmus, an den sich ein Satz gut anhängen lässt.
 
 Experimentiere mit allen vier Techniken und finde heraus, welche sich für dich am natürlichsten anfühlt. Die beste Technik ist die, die du tatsächlich jeden Tag anwendest.`,
           uebung: {
@@ -386,7 +386,7 @@ Dein Unterbewusstsein hat eine Kernaufgabe: dich zu schützen. Und eine seiner S
 
 Die häufigsten Widerstände und ihre Ursachen:
 
-"Das ist doch Quatsch" — Der intellektuelle Widerstand. Dein Verstand will Beweise, bevor er etwas glaubt. Lösung: Erinnere dich an die Neuroplastizität. Du baust gerade neue neuronale Verbindungen — natürlich fühlt sich das anfangs fremd an.
+"Das ist doch Quatsch" — Der intellektuelle Widerstand. Dein Verstand will Beweise, bevor er etwas glaubt. Lösung: Du übst gerade etwas Neues — natürlich fühlt sich das anfangs fremd an.
 
 "Das stimmt nicht für mich" — Der Identitätswiderstand. Die neue Affirmation passt nicht zu deinem Selbstbild. Lösung: Formuliere eine Brückenaffirmation (dazu gleich mehr).
 
@@ -458,7 +458,7 @@ Sprich alle 4 Stufen nacheinander aus. Wo fühlst du den geringsten Widerstand? 
           titel: 'Emotionale Aufladung — der Turbo',
           inhalt: `Du weißt jetzt, wie du Affirmationen formulierst und wie du Widerstände überwindest. Jetzt lernst du den Faktor, der eine Affirmation von "nett" zu "transformativ" macht: emotionale Aufladung.
 
-Dein Unterbewusstsein lernt nicht durch Worte allein — es lernt durch Gefühle. Eine Affirmation, die du mechanisch wiederholst, wie ein Mantra ohne Bedeutung, erzeugt schwache neuronale Verbindungen. Eine Affirmation, die du fühlst, während du sie sprichst, erzeugt starke Verbindungen.
+Worte allein bleiben oft blass. Eine Affirmation, die du mechanisch wiederholst, wie ein Mantra ohne Bedeutung, geht meist an dir vorbei. Eine Affirmation, die du fühlst, während du sie sprichst, bleibt eher hängen.
 
 Die Technik der emotionalen Aufladung:
 
@@ -505,7 +505,7 @@ Ab jetzt: Jede Affirmation wird gefühlt gesprochen. Neutral ist verboten.`,
         {
           id: 'P03-M5-L1',
           titel: 'Morgenritual — den Tag programmieren',
-          inhalt: `Der Morgen ist die goldene Zeit für Affirmationsarbeit. In den ersten Minuten nach dem Aufwachen befindet sich dein Gehirn noch in einem Zustand zwischen Schlaf und Wachheit — dem sogenannten Theta-Zustand. In diesem Zustand ist das Unterbewusstsein besonders empfänglich für neue Informationen.
+          inhalt: `Der Morgen ist die goldene Zeit für Affirmationsarbeit. In den ersten Minuten nach dem Aufwachen bist du noch in einem Zustand zwischen Schlaf und Wachheit. Viele Menschen beschreiben, dass sie in dieser Zeit offener und weniger kritisch sind als später am Tag.
 
 Dein Morgenritual — 7 Minuten für einen anderen Tag:
 
@@ -547,7 +547,7 @@ Ziel: eine durchgehende Reihe von mehreren Wochen. Ein Post-It am Nachttisch hil
         {
           id: 'P03-M5-L2',
           titel: 'Abendritual — den Tag integrieren',
-          inhalt: `Wenn der Morgen der Moment des Säens ist, dann ist der Abend der Moment des Gießens. Dein Unterbewusstsein verarbeitet im Schlaf, was du ihm zuletzt gegeben hast. Die letzten Gedanken vor dem Einschlafen haben überproportionalen Einfluss auf deine innere Programmierung.
+          inhalt: `Wenn der Morgen der Moment des Säens ist, dann ist der Abend der Moment des Gießens. Was du zuletzt gedacht hast, begleitet dich oft in den Schlaf. Viele Menschen erleben die letzten Minuten vor dem Einschlafen als besonders nachwirkend.
 
 Dein Abendritual — 5 Minuten für tiefe Integration:
 
@@ -563,7 +563,7 @@ Vor dem Spiegel, Augenkontakt, Affirmation 5 Mal. Leise, langsam, mit Liebe.
 Minute 5 — Einschlaf-Programmierung:
 Im Bett, Augen zu. Wiederhole deine Affirmation innerlich, immer langsamer, bis sie in den Schlaf übergeht.
 
-Die Einschlaf-Programmierung ist besonders kraftvoll, weil dein Gehirn beim Einschlafen vom Beta- in den Alpha- und dann in den Theta-Zustand übergeht — genau die Frequenzen, in denen das Unterbewusstsein am empfänglichsten ist.`,
+Das Einschlafen ist ein sanfter Übergang — vom wachen Denken ins Dösen und weiter in den Schlaf. Viele Menschen empfinden diesen Übergang als eine besonders weiche, aufnahmebereite Zeit.`,
           uebung: {
             titel: 'Abendritual planen',
             anleitung: `Beantworte diese Planungsfragen:
@@ -612,7 +612,7 @@ Platziere deine Affirmation an Orten, die du täglich siehst:
 Strategie 4 — Stille Wiederholung:
 Im Wartezimmer, in der Bahn, beim Spaziergang — wiederhole deine Affirmation innerlich wie ein sanftes Mantra. Kein Druck, kein Performance-Denken. Einfach wiederholen.
 
-Je mehr Berührungspunkte du zwischen deiner Affirmation und deinem Alltag schaffst, desto schneller wird sie zur automatischen Überzeugung.`,
+Je mehr Berührungspunkte du zwischen deiner Affirmation und deinem Alltag schaffst, desto vertrauter wird sie dir.`,
           uebung: {
             titel: '3 Trigger definieren',
             anleitung: `Definiere 3 Alltags-Trigger und verknüpfe sie mit deiner Affirmation oder einer Mikro-Affirmation:
@@ -626,7 +626,7 @@ Trigger 2: Wenn ich _______________
 Trigger 3: Wenn ich _______________
 → sage ich innerlich: "_______________"
 
-Setze alle 3 heute noch um. Der erste Trigger, den du automatisch ausführst, ohne daran denken zu müssen, ist dein Durchbruch — das bedeutet, die neue Gewohnheit hat sich verankert.`,
+Setze alle 3 heute noch um. Der erste Trigger, den du ausführst, ohne daran denken zu müssen, ist ein schönes Zeichen — die Gewohnheit trägt sich selbst.`,
             dauer: '5 Min',
           },
         },

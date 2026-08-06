@@ -48,7 +48,7 @@ Das, was du gerade erlebt hast, ist der Beweis: Worte verändern deinen körperl
           titel: 'Dein innerer Dialog — die Bestandsaufnahme',
           inhalt: `Bevor du anfängst, neue Überzeugungen zu pflanzen, ist es wichtig zu verstehen, welche Sätze bereits in dir laufen. Dein innerer Dialog — das, was du dir selbst sagst, oft ohne es bewusst zu bemerken — ist das mächtigste Affirmationsprogramm, das es gibt. Und es läuft seit Jahrzehnten.
 
-Forschungen schätzen, dass ein Mensch zwischen 60.000 und 80.000 Gedanken pro Tag hat. Davon sind etwa 80% negativ und etwa 95% Wiederholungen vom Vortag. Das bedeutet: Die meisten Menschen befinden sich in einer Endlosschleife aus negativen Selbstgesprächen, ohne es zu merken.
+Wie viele Gedanken ein Mensch täglich hat, lässt sich nicht seriös beziffern — die Zahlen, die dazu im Umlauf sind, gehen weit auseinander. Was viele Menschen dagegen aus eigener Beobachtung berichten: Die eigenen Selbstgespräche wiederholen sich, und sie fallen häufiger kritisch aus als freundlich. Oft fällt das erst auf, wenn man beginnt, bewusst hinzuhören.
 
 Typische negative Affirmationen, die unbewusst laufen:
 "Ich kann das nicht."
@@ -81,7 +81,7 @@ Dieses Protokoll ist oft ein Augenöffner. Es zeigt dir schwarz auf weiß, welch
         {
           id: 'P03-M1-L3',
           titel: 'Die Neuroplastizität — dein Verbündeter',
-          inhalt: `Lange glaubte die Wissenschaft, das Gehirn sei nach der Kindheit "fertig verdrahtet" — unveränderbar. Heute wissen wir: Das stimmt nicht. Dein Gehirn verändert sich dein ganzes Leben lang. Diese Fähigkeit heißt Neuroplastizität, und sie ist dein mächtigster Verbündeter beim Affirmationstraining.
+          inhalt: `Ein verbreitetes Bild besagt, das Gehirn sei nach der Kindheit "fertig" und unveränderbar. Dieses Bild gilt heute als überholt — unter dem Stichwort Neuroplastizität wird beschrieben, dass Lern- und Anpassungsprozesse ein Leben lang möglich sind. Für die Arbeit mit Affirmationen ist das der ermutigende Gedanke dahinter: Gewohntes ist nicht endgültig.
 
 Neuroplastizität bedeutet: Jeder Gedanke, den du denkst, verändert die physische Struktur deines Gehirns. Wiederholte Gedanken stärken bestimmte neuronale Verbindungen und schwächen andere. Was du oft denkst, wird zur Autobahn — schnell und mühelos. Was du selten denkst, verkümmert zum Trampelpfad.
 

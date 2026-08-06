@@ -204,8 +204,8 @@
     "notiz": ""
   },
   "P03": {
-    "abgenommen_gegen": null,
-    "notiz": "Klasse 1 irrefuehrend: Pflichtsatz existiert nicht. Einziger Fragment-Treffer Z. 804 im Quiz, verengt auf seelische Belastung. Gemessen 04.08.2026 (verweisort.mjs). Vorrang vor G03."
+    "abgenommen_gegen": "9c49daa",
+    "notiz": "Volltextabnahme 06.08.2026 - 822 Zeilen gelesen, 37 Fundstellen behoben in 7 Commits: Kursbeschreibung, Zahlen/Autoritaet (60000 Gedanken, University College London, 21/66-Tage-Komplex an 8 Stellen), Wirkmechanismus in Erfahrungsform (Hormonspiegel, Vagusnerv, Theta/Alpha/Beta, synaptisch), Pflichtverweis 3x im Lektionstext (7/48/80 Prozent Leseweg), Quiz nachgezogen, Abbruchkriterium Phase 2. Vorher: Klasse 1 irrefuehrend, Pflichtsatz nur in Quizantwort Z. 804, Wortlaut verengt. ANKER1. Begriffs-Grep sauber. Offen: C5 Schutzhinweise (Z. 34, 269/294, 333, 494)."
   },
   "P04": {
     "abgenommen_gegen": null,

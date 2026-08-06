@@ -390,7 +390,7 @@ Die häufigsten Widerstände und ihre Ursachen:
 
 "Das stimmt nicht für mich" — Der Identitätswiderstand. Die neue Affirmation passt nicht zu deinem Selbstbild. Lösung: Formuliere eine Brückenaffirmation (dazu gleich mehr).
 
-"Es verändert sich ja nichts" — Der Ungedulds-Widerstand. Du erwartest schnelle Ergebnisse. Lösung: Neuroplastizität braucht mindestens 21 Tage für erste Veränderungen, 66 Tage für echte Gewohnheitsbildung.
+"Es verändert sich ja nichts" — Der Ungedulds-Widerstand. Du erwartest schnelle Ergebnisse. Lösung: Neue Gewohnheiten brauchen erfahrungsgemäß Wochen bis Monate, nicht Tage. Wer nach zwei Wochen aufhört, weil sich noch nichts von selbst anfühlt, hört meist zu früh auf.
 
 "Ich fühle mich albern" — Der Scham-Widerstand. Oft verbunden mit der Überzeugung, dass man es nicht verdient hat, gut über sich zu denken. Lösung: Genau das ist die Überzeugung, die transformiert werden will.`,
           uebung: {
@@ -540,7 +540,7 @@ Morgenritual-Checkliste:
 
 Notiere danach: Wie fühlt sich der Start in den Tag an? Unterschied zum normalen Aufstehen?
 
-Ziel: 21 Tage am Stück. Ein Post-It am Nachttisch hilft als Erinnerung.`,
+Ziel: eine durchgehende Reihe von mehreren Wochen. Ein Post-It am Nachttisch hilft als Erinnerung.`,
             dauer: '7 Min',
           },
         },
@@ -639,32 +639,32 @@ Setze alle 3 heute noch um. Der erste Trigger, den du automatisch ausführst, oh
       lektionen: [
         {
           id: 'P03-M6-L1',
-          titel: 'Die 66-Tage-Regel',
+          titel: 'Warum Dranbleiben länger dauert als erwartet',
           inhalt: `Du hast jetzt alle Werkzeuge für eine transformative Affirmationspraxis. Die große Frage ist: Wie bleibst du dran?
 
-Forschungen der University College London haben gezeigt, dass es durchschnittlich 66 Tage dauert, bis eine neue Gewohnheit automatisch wird. Nicht 21 Tage, wie oft behauptet — 66. Das ist wichtiger als es klingt, denn die meisten Menschen geben zwischen Tag 21 und Tag 66 auf — genau dann, wenn die eigentliche Transformation gerade beginnt.
+Die verbreitete Angabe, eine neue Gewohnheit brauche 21 Tage, hält keiner Prüfung stand. Untersuchungen zur Gewohnheitsbildung kommen auf deutlich längere und stark schwankende Zeiträume — je nach Person und Vorhaben. Praktisch heißt das: Wer nach drei Wochen aufhört, weil sich noch nichts von selbst anfühlt, hört meist zu früh auf. Genau in dieser Phase geben die meisten auf.
 
 Die 4 Phasen der Gewohnheitsbildung:
 
-Phase 1 — Honeymoon (Tag 1–7): Alles ist neu und aufregend. Die Motivation ist hoch. Genieße diese Phase.
+Phase 1 — Der Anfang: Alles ist neu und aufregend. Die Motivation ist hoch. Genieße diese Phase.
 
-Phase 2 — Widerstand (Tag 8–30): Die Neuheit ist verflogen, der Alltag holt dich ein. Du vergisst Tage, zweifelst. Das ist normal. Genau hier scheitern die meisten. Dein Job: Weitermachen, auch wenn es sich sinnlos anfühlt.
+Phase 2 — Der Durchhänger: Die Neuheit ist verflogen, der Alltag holt dich ein. Du vergisst Tage, zweifelst. Das ist normal. Genau hier hören die meisten auf. Wenn du magst: dranbleiben, auch wenn es sich gerade sinnlos anfühlt. Anders liegt der Fall, wenn das Üben dich belastet statt trägt — dann ist Pause die richtige Antwort, nicht mehr Disziplin.
 
-Phase 3 — Gewöhnung (Tag 31–50): Es wird leichter. Du vergisst seltener. Die Affirmation fühlt sich vertrauter an. Erste Veränderungen im Alltag werden sichtbar.
+Phase 3 — Es wird leichter: Du merkst, dass es weniger Überwindung kostet. Du vergisst seltener. Die Affirmation fühlt sich vertrauter an. Erste Veränderungen im Alltag werden sichtbar.
 
-Phase 4 — Integration (Tag 51–66+): Die Affirmation wird zum automatischen Gedanken. Du ertappst dich dabei, sie spontan zu denken, ohne bewusste Anstrengung. Das ist der Moment der echten Transformation.
+Phase 4 — Es läuft von selbst: Die Affirmation wird zum vertrauten Gedanken. Du ertappst dich dabei, sie spontan zu denken, ohne bewusste Anstrengung. Das ist der Moment der echten Transformation.
 
-Ein versäumter Tag ist kein Grund aufzuhören. Die Regel ist nicht "66 perfekte Tage in Folge" — die Regel ist "66 Tage, in denen du es mehr tust als nicht." Rückschläge sind eingeplant.`,
+Ein versäumter Tag ist kein Grund aufzuhören. Die Regel ist nicht "eine perfekte Serie" — die Regel ist "ein Zeitraum, in dem du es mehr tust als nicht." Rückschläge sind eingeplant.`,
           uebung: {
-            titel: '66-Tage-Tracker starten',
+            titel: 'Deinen Tracker starten',
             anleitung: `Erstelle einen simplen Tracker für deine Affirmationspraxis:
 
-Option A — Papier: Zeichne 66 Kästchen auf ein Blatt. Hänge es dort auf, wo du es täglich siehst. Kreuze jeden Tag an, an dem du dein Morgen- ODER Abendritual gemacht hast.
+Option A — Papier: Zeichne Kästchen für die kommenden zwei Monate auf ein Blatt. Hänge es dort auf, wo du es täglich siehst. Kreuze jeden Tag an, an dem du dein Morgen- ODER Abendritual gemacht hast.
 
-Option B — Digital: Erstelle eine Notiz in deinem Handy mit 66 Zeilen. Trage jeden Tag ein Häkchen ein.
+Option B — Digital: Erstelle eine Notiz in deinem Handy mit einer Zeile pro Tag. Trage jeden Tag ein Häkchen ein.
 
 Startdatum: _______________
-Tag 66 fällt auf: _______________
+Angepeiltes Ende: _______________
 
 Dein Minimum pro Tag: Eine Affirmation, einmal gesprochen, mit Gefühl. Das zählt als Häkchen. Alles darüber hinaus ist Bonus.
 
@@ -728,7 +728,7 @@ In Modul 4 hast du gelernt, Widerstände zu überwinden — mit Brückenaffirmat
 
 In Modul 5 hast du ein tägliches System etabliert — Morgenritual, Abendritual und Mikro-Affirmationen im Alltag.
 
-In diesem Modul hast du die Langzeitperspektive — die 66-Tage-Regel und eine Roadmap für die kommenden Monate.
+In diesem Modul hast du die Langzeitperspektive — den langen Atem und eine Roadmap für die kommenden Monate.
 
 Das Wichtigste zum Schluss: Die Affirmation selbst ist nur ein Werkzeug. Das wahre Werkzeug bist du — dein Bewusstsein, deine Entscheidung, jeden Tag aufs Neue zu wählen, wie du mit dir sprichst. Diese Wahl hast du jetzt. Nutze sie.
 
@@ -746,7 +746,7 @@ Beispiele:
 
 Sprich diesen Commitment-Satz laut aus — vor dem Spiegel, mit Hand auf dem Herzen, mit vollem Gefühl.
 
-Dann: Starte deinen 66-Tage-Tracker. Tag 1 beginnt jetzt.
+Dann: Starte deinen Tracker. Tag 1 beginnt jetzt.
 
 Gratulation — du hast einen Kurs abgeschlossen, der dein Verhältnis zu deiner eigenen Sprache für immer verändert hat.`,
             dauer: '5 Min',

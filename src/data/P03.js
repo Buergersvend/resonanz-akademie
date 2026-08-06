@@ -7,7 +7,7 @@ const P03 = {
   stunden: '3–4h',
   preis: 'Kostenlos',
   originalPreis: '89 €',
-  beschreibung: 'Wie Affirmationen wirklich funktionieren — jenseits von Wunschdenken. Lerne die Wissenschaft, die Technik und die tägliche Praxis, um mit gezielten Worten dein Unterbewusstsein neu zu programmieren.',
+  beschreibung: 'Ein Selbsterfahrungskurs zur bewussten Sprache. Du lernst, wie Affirmationen formuliert und in den Alltag eingebaut werden — mit Techniken, Ritualen und Übungen zum Ausprobieren.',
   status: 'live',
   module: [
     {

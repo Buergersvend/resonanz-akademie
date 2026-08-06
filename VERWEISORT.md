@@ -1,6 +1,6 @@
 # Verweisort — resonanz-akademie
 
-> Generiert 2026-08-04 von `tools/verweisort.mjs`. **Nicht von Hand bearbeiten.**
+> Generiert 2026-08-06 von `tools/verweisort.mjs`. **Nicht von Hand bearbeiten.**
 > Read-only auf `src/data` (71 Dateien, ohne `kurse.js`).
 
 Gemessen wird nicht *ob*, sondern *wo* der Pflichtverweis steht. Ein Verweis, der
@@ -25,8 +25,8 @@ Es gilt per Konstruktion Vollsatz ≤ Fragment ≤ Abkl je Ort.
 | Kennzahl | Wert |
 |---|---|
 | LIVE-Kurse | **53** |
-| Kurse mit `Vollsatz_Inhalt >= 1` | **28 / 53** |
-| Kurse mit `Vollsatz_Inhalt >= 3` | **12 / 53** |
+| Kurse mit `Vollsatz_Inhalt >= 1` | **29 / 53** |
+| Kurse mit `Vollsatz_Inhalt >= 3` | **13 / 53** |
 
 ---
 
@@ -55,7 +55,6 @@ Es gilt per Konstruktion Vollsatz ≤ Fragment ≤ Abkl je Ort.
 | **N12** | Nahrungsergänzung mit Verstand | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **N13** | Hautgesundheit ganzheitlich | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **N14** | Schilddrüsengesundheit ganzheitlich | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **P03** | Affirmationstraining — Worte als Werkzeug | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
 | **S15** | Traumarbeit & innere Bilderwelten | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **T01** | Tierkommunikation — Einstieg | 5 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **T02** | Tierkommunikation — Vertiefung | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -80,6 +79,7 @@ Es gilt per Konstruktion Vollsatz ≤ Fragment ≤ Abkl je Ort.
 | **E01** | Einführung Energiearbeit | 3 | 1 | 0 | 3 | 1 | 0 | 3 | 0 | 0 |
 | **G01** | Meditation — Grundlagen & Praxis | 3 | 2 | 0 | 3 | 1 | 0 | 3 | 0 | 0 |
 | **P02** | Emotionale Prägungen verstehen und ihnen begegnen | 4 | 1 | 0 | 3 | 1 | 0 | 3 | 0 | 0 |
+| **P03** | Affirmationstraining — Worte als Werkzeug | 3 | 1 | 0 | 3 | 1 | 0 | 3 | 0 | 0 |
 | **P05** | Persönlichkeitstraining energetisch | 3 | 0 | 0 | 3 | 0 | 0 | 3 | 0 | 0 |
 | **P12** | Emotionale Intelligenz | 3 | 1 | 0 | 3 | 1 | 0 | 3 | 0 | 0 |
 | **T07** | Hausreinigung & Raumenergetik | 3 | 2 | 0 | 3 | 2 | 0 | 3 | 1 | 0 |
@@ -102,7 +102,7 @@ Anzeige: Whitespace als `·`, Laenge bleibt 12 Zeichen.
 
 | Fortsetzung (12 Zeichen) | Anzahl | Kurse |
 |---|---|---|
-| `ärung·zu·Arz` | 90 | B09 ×2, B10, C02 ×4, C04, C06 ×2, C08 ×6, C09 ×4, C10 ×2, E01 ×4, F03, G01 ×4, G03 ×2, G04 ×13, G06 ×2, G09 ×8, N04, N07, N15, N16, P02 ×4, P03, P05 ×3, P12 ×4, S01 ×4, T07 ×5, Y02, Y03 ×2, Y05 ×4, Z01, Z03 |
+| `ärung·zu·Arz` | 93 | B09 ×2, B10, C02 ×4, C04, C06 ×2, C08 ×6, C09 ×4, C10 ×2, E01 ×4, F03, G01 ×4, G03 ×2, G04 ×13, G06 ×2, G09 ×8, N04, N07, N15, N16, P02 ×4, P03 ×4, P05 ×3, P12 ×4, S01 ×4, T07 ×5, Y02, Y03 ×2, Y05 ×4, Z01, Z03 |
 | `ärung·zu·Kin` | 4 | F03 ×4 |
 | `ärung·zum·Ti` | 4 | T01 ×4 |
 | `ärung·zum·Ar` | 3 | K03 ×3 |
@@ -169,7 +169,7 @@ Anzeige: Whitespace als `·`, Laenge bleibt 12 Zeichen.
 | `ingt,·sich·"` | 1 | G08 |
 | `opfst.····Mi` | 1 | G11 |
 
-Summe 171 Treffer in 66 Wortformen.
+Summe 174 Treffer in 66 Wortformen.
 
 ## Warnungen — Summenerhaltung
 
@@ -200,4 +200,4 @@ Keine. Rohtext- und normalisierte Zaehlung stimmen in allen 71 Dateien ueberein.
 | P23 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | S17 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-*Generiert 2026-08-04 · 71 Dateien gelesen · read-only auf src/data*
+*Generiert 2026-08-06 · 71 Dateien gelesen · read-only auf src/data*

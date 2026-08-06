@@ -59,7 +59,9 @@ Typische negative Affirmationen, die unbewusst laufen:
 
 Diese Sätze sind Affirmationen — nur eben destruktive. Sie wurden irgendwann von außen übernommen (Eltern, Lehrer, Gesellschaft) und durch jahrelange Wiederholung zu "Wahrheiten" in deinem Unterbewusstsein.
 
-Die gute Nachricht: Was programmiert wurde, kann umprogrammiert werden. Und genau das ist das Ziel dieses Kurses.`,
+Die gute Nachricht: Was programmiert wurde, kann umprogrammiert werden. Und genau das ist das Ziel dieses Kurses.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
             titel: 'Innerer-Dialog-Protokoll',
             anleitung: `In den nächsten 2 Stunden (oder morgen den ganzen Vormittag) achte bewusst auf deine Selbstgespräche. Jedes Mal, wenn du einen bewertenden Gedanken über dich selbst bemerkst, schreibe ihn auf.
@@ -392,7 +394,9 @@ Die häufigsten Widerstände und ihre Ursachen:
 
 "Es verändert sich ja nichts" — Der Ungedulds-Widerstand. Du erwartest schnelle Ergebnisse. Lösung: Neue Gewohnheiten brauchen erfahrungsgemäß Wochen bis Monate, nicht Tage. Wer nach zwei Wochen aufhört, weil sich noch nichts von selbst anfühlt, hört meist zu früh auf.
 
-"Ich fühle mich albern" — Der Scham-Widerstand. Oft verbunden mit der Überzeugung, dass man es nicht verdient hat, gut über sich zu denken. Lösung: Genau das ist die Überzeugung, die transformiert werden will.`,
+"Ich fühle mich albern" — Der Scham-Widerstand. Oft verbunden mit der Überzeugung, dass man es nicht verdient hat, gut über sich zu denken. Lösung: Genau das ist die Überzeugung, die transformiert werden will.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
             titel: 'Widerstand protokollieren',
             anleitung: `Sprich deine stärkste Affirmation 5 Mal laut vor dem Spiegel. Achte dabei auf JEDE innere Reaktion, die dagegen spricht.
@@ -654,7 +658,9 @@ Phase 3 — Es wird leichter: Du merkst, dass es weniger Überwindung kostet. Du
 
 Phase 4 — Es läuft von selbst: Die Affirmation wird zum vertrauten Gedanken. Du ertappst dich dabei, sie spontan zu denken, ohne bewusste Anstrengung. Das ist der Moment der echten Transformation.
 
-Ein versäumter Tag ist kein Grund aufzuhören. Die Regel ist nicht "eine perfekte Serie" — die Regel ist "ein Zeitraum, in dem du es mehr tust als nicht." Rückschläge sind eingeplant.`,
+Ein versäumter Tag ist kein Grund aufzuhören. Die Regel ist nicht "eine perfekte Serie" — die Regel ist "ein Zeitraum, in dem du es mehr tust als nicht." Rückschläge sind eingeplant.
+
+Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`,
           uebung: {
             titel: 'Deinen Tracker starten',
             anleitung: `Erstelle einen simplen Tracker für deine Affirmationspraxis:
@@ -801,7 +807,7 @@ Gratulation — du hast einen Kurs abgeschlossen, der dein Verhältnis zu deiner
       antworten: [
         'Man sollte einfach häufiger und lauter affirmieren, bis es vergeht',
         'Affirmationen ersetzen in diesem Fall eine Psychotherapie vollständig',
-        'Affirmationstraining ist Selbsterfahrung und ersetzt keine therapeutische Behandlung — bei seelischer Belastung gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
+        'Affirmationstraining ist Selbsterfahrung und ersetzt keine therapeutische Behandlung — bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
         'Solche Belastungen sind ohnehin immer nur Einbildung',
       ],
       richtig: 2,

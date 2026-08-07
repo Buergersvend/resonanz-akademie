@@ -82,8 +82,8 @@ Dieses Protokoll ist oft ein Augenöffner. Es zeigt dir schwarz auf weiß, welch
         },
         {
           id: 'P03-M1-L3',
-          titel: 'Die Neuroplastizität — dein Verbündeter',
-          inhalt: `Ein verbreitetes Bild besagt, das Gehirn sei nach der Kindheit "fertig" und unveränderbar. Dieses Bild gilt heute als überholt — unter dem Stichwort Neuroplastizität wird beschrieben, dass Lern- und Anpassungsprozesse ein Leben lang möglich sind. Für die Arbeit mit Affirmationen ist das der ermutigende Gedanke dahinter: Gewohntes ist nicht endgültig.
+          titel: 'Gewohntes ist nicht endgültig',
+          inhalt: `Ein verbreitetes Bild besagt, wer erwachsen ist, sei festgelegt — die eigenen Muster ließen sich nicht mehr ändern. Die Erfahrung spricht dagegen: Lernen und Umgewöhnen bleiben ein Leben lang möglich. Für die Arbeit mit Affirmationen ist das der ermutigende Gedanke dahinter: Gewohntes ist nicht endgültig.
 
 Der Gedanke dahinter: Was du oft denkst, wird vertrauter — was du selten denkst, tritt in den Hintergrund. Manche Gedanken bekommen durch Wiederholung mehr Gewicht als andere. Was du oft denkst, wird zur Autobahn — schnell und mühelos. Was du selten denkst, verkümmert zum Trampelpfad.
 
@@ -95,7 +95,7 @@ Nach einer Weile: Der neue Pfad wird breiter. Die Affirmation fühlt sich vertra
 
 Etwas später: Der neue Satz beginnt, mit dem alten zu konkurrieren. Situationen, in denen du früher automatisch "Ich kann das nicht" gedacht hast, werden von "Ich schaffe das" unterbrochen.
 
-Mit der Zeit: Die neue Überzeugung wird zur neuen Autobahn. Sie läuft automatisch, ohne bewusste Anstrengung. Das ist der Moment, in dem echte Transformation stattfindet.
+Mit der Zeit: Die neue Überzeugung wird zur neuen Autobahn. Sie läuft automatisch, ohne bewusste Anstrengung. Viele beschreiben diesen Punkt als den, an dem sich etwas wirklich verändert anfühlt.
 
 Der Schlüssel ist Konsistenz. Nicht Intensität, sondern Wiederholung über Zeit. 5 Minuten täglich schlagen 1 Stunde einmal pro Woche — bei Weitem.`,
           uebung: {
@@ -646,7 +646,7 @@ Setze alle 3 heute noch um. Der erste Trigger, den du ausführst, ohne daran den
           titel: 'Warum Dranbleiben länger dauert als erwartet',
           inhalt: `Du hast jetzt alle Werkzeuge für eine transformative Affirmationspraxis. Die große Frage ist: Wie bleibst du dran?
 
-Die verbreitete Angabe, eine neue Gewohnheit brauche 21 Tage, hält keiner Prüfung stand. Untersuchungen zur Gewohnheitsbildung kommen auf deutlich längere und stark schwankende Zeiträume — je nach Person und Vorhaben. Praktisch heißt das: Wer nach drei Wochen aufhört, weil sich noch nichts von selbst anfühlt, hört meist zu früh auf. Genau in dieser Phase geben die meisten auf.
+Die verbreitete Angabe, eine neue Gewohnheit brauche 21 Tage, hält keiner Prüfung stand. Wie lange es tatsächlich dauert, ist sehr unterschiedlich und oft deutlich länger — je nach Person und Vorhaben. Praktisch heißt das: Wer nach drei Wochen aufhört, weil sich noch nichts von selbst anfühlt, hört meist zu früh auf. Genau in dieser Phase geben die meisten auf.
 
 Die 4 Phasen der Gewohnheitsbildung:
 
@@ -724,7 +724,7 @@ Diese Roadmap ist flexibel — passe sie an, wenn sich deine Prioritäten änder
           titel: 'Abschluss — du bist das Werkzeug',
           inhalt: `Du hast den Kurs "Affirmationstraining — Worte als Werkzeug" abgeschlossen. Lass uns zusammenfassen, was du mitgenommen hast:
 
-In Modul 1 hast du verstanden, warum Worte wirken — die Macht der Sprache, dein innerer Dialog und die Neuroplastizität als Verbündeter. Du hast eine Bestandsaufnahme deiner negativen Überzeugungen gemacht.
+In Modul 1 hast du verstanden, warum Worte wirken — die Macht der Sprache, dein innerer Dialog und die Erfahrung, dass Gewohntes nicht endgültig ist. Du hast eine Bestandsaufnahme deiner negativen Überzeugungen gemacht.
 
 In Modul 2 hast du gelernt, wirksame Affirmationen zu formulieren — die 5 Regeln, die Transformation von negativen Überzeugungen und das 7-Lebensbereiche-Framework.
 

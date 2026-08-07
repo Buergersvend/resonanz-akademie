@@ -656,7 +656,7 @@ Phase 2 — Der Durchhänger: Die Neuheit ist verflogen, der Alltag holt dich ei
 
 Phase 3 — Es wird leichter: Du merkst, dass es weniger Überwindung kostet. Du vergisst seltener. Die Affirmation fühlt sich vertrauter an. Erste Veränderungen im Alltag werden sichtbar.
 
-Phase 4 — Es läuft von selbst: Die Affirmation wird zum vertrauten Gedanken. Du ertappst dich dabei, sie spontan zu denken, ohne bewusste Anstrengung. Das ist der Moment der echten Transformation.
+Phase 4 — Es läuft von selbst: Die Affirmation wird zum vertrauten Gedanken. Du ertappst dich dabei, sie spontan zu denken, ohne bewusste Anstrengung. An diesem Punkt beschreiben viele, dass sich der Satz wie ihr eigener anfühlt.
 
 Ein versäumter Tag ist kein Grund aufzuhören. Die Regel ist nicht "eine perfekte Serie" — die Regel ist "ein Zeitraum, in dem du es mehr tust als nicht." Rückschläge sind eingeplant.
 

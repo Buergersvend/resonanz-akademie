@@ -87,12 +87,14 @@ const POSITIV = 'inhalt:';
 
 // ---------------------------------------------------------------- Selbsttest
 // Sollwerte aus der Handmessung am 07.08.2026 (PowerShell, [regex]::Matches).
+// G04-Werte am 08.08.2026 nach abgeschlossener Sanierung neu gemessen,
+// Vorlaeufe fuer G04 damit nicht vergleichbar.
 // KEINE geschaetzten Werte (Regel 35). Wird eine Zeile hier geaendert,
 // sind alle Vorlaeufe ungueltig.
 const SOLL = [
-  ['G04', 'hormon', 3],
-  ['G04', 'nervensystem', 25],
-  ['G04', 'immun', 6],
+  ['G04', 'hormon', 0],
+  ['G04', 'nervensystem', 17],
+  ['G04', 'immun', 5],
   ['G04', 'studie', 2],
   ['G04', 'alpha', 0],
   ['G04', 'prozent', 0],
@@ -172,10 +174,12 @@ if (ohnePositiv.length === 0) console.log('GRUEN Positivmuster trifft in allen '
 else { console.log('ROT   ohne "' + POSITIV + '": ' + ohnePositiv.join(', ')); testOk = false; }
 
 // Fall-Gegenprobe: der Befund, der dieses Werkzeug geformt hat.
-const gross = (texte['G04'] || '').split('Hormon').length - 1;
-const egal = treffer(texte['G04'] || '', 'hormon').length;
-if (egal > gross) console.log('GRUEN Fall-Gegenprobe G04: ignore-case ' + egal + ' > case-sensitiv ' + gross);
-else { console.log('ROT   Fall-Gegenprobe G04 greift nicht - ignore-case wirkt nicht'); testOk = false; }
+// Traegerkurs N13, gemessen 08.08.2026: Hormon gross 5, ignore-case 9.
+// G04 taugt nicht mehr als Traeger, dort ist der Begriff saniert.
+const gross = (texte['N13'] || '').split('Hormon').length - 1;
+const egal = treffer(texte['N13'] || '', 'hormon').length;
+if (egal > gross) console.log('GRUEN Fall-Gegenprobe N13: ignore-case ' + egal + ' > case-sensitiv ' + gross);
+else { console.log('ROT   Fall-Gegenprobe N13 greift nicht - ignore-case wirkt nicht'); testOk = false; }
 
 if (!testOk) { console.log('\nERGEBNIS: ROT - nichts geschrieben.'); process.exit(1); }
 

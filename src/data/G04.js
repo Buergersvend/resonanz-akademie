@@ -696,13 +696,13 @@ Du hast in diesem Kurs Dutzende Atemtechniken kennengelernt — von sanft bis in
 
 ### Soforthilfe — 30 Sekunden bis 2 Minuten
 
-Für akuten Stress, Panik, Nervosität, Ärger:
+Wenn du aufgewühlt bist oder schnell wieder klar werden willst:
 
 **Physiologischer Seufzer** — Ein einziger Atemzug. Doppel-Einatmung durch die Nase, lange Ausatmung durch den Mund. Der schnellste Reset, den es gibt.
 
 **Box-Breathing** — 4 Runden à 4-4-4-4. Unter 2 Minuten. Sofortige Regulation. Unsichtbar für andere.
 
-**4-7-8-Atmung** — 4 Runden. Besonders bei Einschlafproblemen oder Panikansätzen.
+**4-7-8-Atmung** — 4 Runden. Die Ausatmung ist hier doppelt so lang wie die Einatmung.
 
 ### Tägliche Praxis — 5 bis 20 Minuten
 
@@ -710,7 +710,7 @@ Für emotionale Balance und innere Klarheit im Alltag:
 
 **Morgens (aktivierend):** Kapalabhati, 3 Runden zu je 60 bis 100 Stößen wie in Modul 2 — nicht länger, auch wenn es leicht fällt — weckt auf und bringt Klarheit. Wenn du die Kälte-Atem-Praxis für dich geprüft hast, alternativ 3 Runden (15 Minuten). Für beide gelten die Kontraindikationen aus Modul 2 und 3 unverändert.
 
-**Mittags (balancierend):** 5 Minuten Nadi Shodhana (Wechselatmung). Balanciert die Gehirnhälften, löst die Mittagsträgheit, klärt den Geist für den Nachmittag.
+**Mittags (balancierend):** 5 Minuten Nadi Shodhana (Wechselatmung). Viele Übende erleben sie als klärend.
 
 **Abends (beruhigend):** 10 bis 20 Minuten Kohärenzatmung (5,5 Sekunden ein, 5,5 Sekunden aus). Oder 7 bis 11 Runden Bhramari (Summen). Bereitet den Körper auf Erholung und Schlaf vor.
 

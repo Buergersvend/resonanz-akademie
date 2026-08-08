@@ -766,7 +766,7 @@ Gratulation — du hast einen Kurs abgeschlossen, der dir Werkzeuge für den Umg
       frage: 'Was ist laut Kurs der Grundgedanke hinter Affirmationen?',
       antworten: [
         'Das Unterbewusstsein ignoriert wiederholte Sätze',
-        'Eine lebhaft vorgestellte Erfahrung kann sich innerlich aehnlich anfuehlen wie eine erlebte; was oft wiederholt wird, denkt man mit der Zeit leichter',
+        'Eine lebhaft vorgestellte Erfahrung kann sich innerlich ähnlich anfühlen wie eine erlebte; was oft wiederholt wird, denkt man mit der Zeit leichter',
         'Nur laut gesprochene Sätze haben eine Wirkung',
         'Worte haben keinen Einfluss auf den Körper',
       ],
@@ -793,12 +793,12 @@ Gratulation — du hast einen Kurs abgeschlossen, der dir Werkzeuge für den Umg
       richtig: 2,
     },
     {
-      frage: 'Was sagt der Kurs darueber, wie lange eine neue Gewohnheit braucht?',
+      frage: 'Was sagt der Kurs darüber, wie lange eine neue Gewohnheit braucht?',
       antworten: [
         'Genau 3 Tage',
         'Sofort nach dem ersten Mal',
         'Genau 21 Tage',
-        'Wochen bis Monate, je nach Person und Vorhaben — viele hoeren zu frueh auf, weil sich noch nichts von selbst anfuehlt',
+        'Wochen bis Monate, je nach Person und Vorhaben — viele hören zu früh auf, weil sich noch nichts von selbst anfühlt',
       ],
       richtig: 3,
     },
@@ -815,7 +815,7 @@ Gratulation — du hast einen Kurs abgeschlossen, der dir Werkzeuge für den Umg
     {
       frage: 'Was beschreiben viele Menschen am Morgen als „goldene Zeit" für Affirmationsarbeit?',
       antworten: [
-        'Kurz nach dem Aufwachen sind viele Menschen noch offener und weniger kritisch als spaeter am Tag',
+        'Kurz nach dem Aufwachen sind viele Menschen noch offener und weniger kritisch als später am Tag',
         'Weil man morgens am wenigsten konzentriert ist',
         'Weil Affirmationen nur vor dem Frühstück wirken',
         'Weil das Gehirn morgens keine neuen Verbindungen bildet',

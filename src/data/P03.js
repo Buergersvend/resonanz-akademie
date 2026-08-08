@@ -268,7 +268,7 @@ Die Grundform ist simpel: Du stehst vor einem Spiegel, schaust dir selbst in die
 
 Was dabei passiert, ist alles andere als simpel. Der Augenkontakt mit dir selbst holt dich in eine ungewohnte Aufmerksamkeit. Du kannst dir selbst nicht in die Augen schauen und gleichzeitig "auschecken" — der Spiegel zwingt dich in volle Präsenz.
 
-Für viele Menschen ist diese Übung anfangs unangenehm. Manche können sich nicht länger als wenige Sekunden in die Augen schauen. Manche fühlen Widerstand, Scham oder den Impuls, wegzuschauen. Das ist normal — und es ist wichtig. Denn genau dieser Widerstand zeigt dir, wie tief die negative Überzeugung sitzt, die du ersetzen willst.
+Für viele Menschen ist diese Übung anfangs unangenehm. Manche können sich nicht länger als wenige Sekunden in die Augen schauen. Manche fühlen Widerstand, Scham oder den Impuls, wegzuschauen. Das ist normal — und es sagt nichts darüber, wie tief eine negative Überzeugung sitzt, die du ersetzen willst.
 
 Der Ablauf:
 1. Stelle dich vor einen Spiegel, in dem du mindestens dein Gesicht sehen kannst.
@@ -293,7 +293,7 @@ Notiere danach:
 • Konntest du den Augenkontakt halten?
 • Ab welcher Wiederholung hat sich etwas verändert?
 
-Wenn es sich unangenehm anfühlt — gut. Das zeigt, dass du an der richtigen Stelle arbeitest.`,
+Wenn es sich unangenehm anfühlt — das kann passieren. Leichtes Unbehagen bei einer ungewohnten Übung kommt vor. Wird daraus anhaltende Not, starke Scham oder das Gefühl, den Boden zu verlieren, dann ist Pause die richtige Antwort, nicht mehr Disziplin.`,
             dauer: '5 Min',
           },
         },
@@ -332,7 +332,7 @@ ER/SIE-FORM (5x):
 "[Dein Name] ist/hat/kann _______________"
 (... 5 Mal)
 
-Beobachte: Welche Perspektive fühlt sich am stärksten an? Welche löst den meisten Widerstand aus? Die mit dem meisten Widerstand zeigt dir, wo die tiefste Programmierung sitzt.`,
+Beobachte: Welche Perspektive fühlt sich am stärksten an? Welche löst den meisten Widerstand aus? Nimm den Widerstand als Hinweis, mehr nicht — er sagt nichts darüber, welche Perspektive für dich die passende ist. Wenn eine Variante anhaltend belastet, statt dich zu tragen, wähle eine andere oder beende die Übung.`,
             dauer: '10 Min',
           },
         },
@@ -382,7 +382,7 @@ Welche Technik hat stärker gewirkt? Die wird Teil deiner täglichen Praxis.`,
         {
           id: 'P03-M4-L1',
           titel: 'Warum Affirmationen manchmal nicht wirken',
-          inhalt: `Irgendwann wird es passieren: Du sprichst deine Affirmation, und eine innere Stimme antwortet sofort mit "Das stimmt doch gar nicht" oder "Hör auf, dir etwas vorzumachen." Das ist kein Zeichen, dass Affirmationen nicht funktionieren — es ist ein Zeichen, dass sie funktionieren. Du hast gerade die Schutzmechanismen deines Unterbewusstseins aktiviert.
+          inhalt: `Irgendwann wird es passieren: Du sprichst deine Affirmation, und eine innere Stimme antwortet sofort mit "Das stimmt doch gar nicht" oder "Hör auf, dir etwas vorzumachen." Das ist kein Zeichen, dass Affirmationen nicht funktionieren — es ist ebenso wenig ein Zeichen, dass sie funktionieren. Eine innere Gegenstimme ist erst einmal nur das: eine innere Gegenstimme. Wenn sie anhaltend belastet, statt dich zu tragen, ist Pause die richtige Antwort, nicht mehr Wiederholung.
 
 Dein Unterbewusstsein hat eine Kernaufgabe: dich zu schützen. Und eine seiner Strategien ist, den Status quo zu bewahren. Jede Veränderung — selbst eine positive — wird zunächst als potenzielle Bedrohung eingestuft.
 
@@ -495,7 +495,7 @@ Intensität des Gefühls (1–10): ___
 
 Vergleiche die Werte. Der Unterschied zeigt dir die Kraft der emotionalen Aufladung.
 
-Ab jetzt: Jede Affirmation wird gefühlt gesprochen. Neutral ist verboten.`,
+Ab jetzt: Jede Affirmation wird gefühlt gesprochen. Neutral ist nicht falsch — die meisten erleben den Unterschied aber deutlich.`,
             dauer: '5 Min',
           },
         },

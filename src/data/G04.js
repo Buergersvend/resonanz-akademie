@@ -10,8 +10,8 @@ const G04 = {
   format: 'standard',
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
-  voraussetzungen: 'Keine',
-  beschreibung: `Der Atem ist die einzige Körperfunktion, die sowohl automatisch als auch bewusst gesteuert werden kann — und genau das macht ihn zu einer besonderen Verbindung zwischen Körper und Geist. In diesem Kurs lernst du die wichtigsten Atemtechniken der Welt kennen: von den jahrtausendealten Pranayama-Praktiken des Yoga über intensive Formen des verbundenen Atmens bis zu Kälte-Atem-Praktiken und modernem Breathwork. Du verstehst die Physiologie hinter jeder Technik und kannst sie sicher in deiner eigenen Praxis anwenden. Dieser Kurs vermittelt Selbsterfahrung und ersetzt keine medizinische oder therapeutische Behandlung.`,
+  voraussetzungen: 'Keine Vorkenntnisse. Die intensiven Formen in Modul 3 bis 5 setzen körperliche Belastbarkeit voraus und sind bei Herz-Kreislauf-Erkrankungen, Schwangerschaft, Epilepsie und Anfallsleiden nicht geeignet.',
+  beschreibung: `Der Atem ist die einzige Körperfunktion, die sowohl automatisch als auch bewusst gesteuert werden kann — und genau das macht ihn zu einer besonderen Verbindung zwischen Körper und Geist. In diesem Kurs lernst du zentrale Atemtechniken kennen: von den jahrtausendealten Pranayama-Praktiken des Yoga über intensive Formen des verbundenen Atmens bis zu Kälte-Atem-Praktiken und modernem Breathwork. Du verstehst die Physiologie hinter jeder Technik und kannst sie in deiner eigenen Praxis einordnen. Dieser Kurs vermittelt Selbsterfahrung und ersetzt keine medizinische oder therapeutische Behandlung.`,
   status: 'live',
 
   module: [
@@ -857,6 +857,16 @@ Der Atem ist der rote Faden, der alle Praktiken verbindet. Er ist eine der zugä
         'Den Atem so lange wie möglich anhalten',
       ],
       richtig: 0,
+    },
+    {
+      frage: 'Welche Zeichen fordern zum Abbruch einer intensiven Atemübung auf?',
+      antworten: [
+        'Erst eine Ohnmacht — bis dahin gehört alles zum Prozess und wird durchgeatmet',
+        'Starker Schwindel, der nicht nachlässt, Brustschmerzen, Panik, die sich nicht regulieren lässt, Ohnmachtsgefühl — sofort zurück zur normalen Atmung',
+        'Es gibt keine Abbruchzeichen, solange eine Begleitperson im Raum ist',
+        'Leichte Wärme in den Händen und ein ruhiger werdender Atem',
+      ],
+      richtig: 1,
     },
   ],
 };

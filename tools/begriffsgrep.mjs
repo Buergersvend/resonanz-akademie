@@ -31,12 +31,16 @@ const KONTEXT_LAENGE = 200;
 // ---------------------------------------------------------------- Begriffsgruppen
 // Gruppen A-D: Uebergabe 06.08.2026. Gruppe E: J0 (Ursprungs-Strang 05.08.2026).
 const GRUPPEN = {
+  // Begriffe innerhalb einer Gruppe duerfen einander nicht als Praefix oder
+  // Teilzeichenkette enthalten, sonst zaehlt ein Wort mehrfach.
+  // Das gilt auch ueber Gruppengrenzen hinweg, sofern der uebergreifende
+  // Treffer keinen eigenen Erkenntniswert hat.
   A: {
     name: 'Wirkmechanismus',
     begriffe: ['gehirn', 'neuronal', 'synapt', 'hirnare', 'nervensystem', 'hormon',
       'vagus', 'theta', 'alpha', 'frequenz', 'botenstoff', 'cortisol',
-      'amygdala', 'limbisch', 'blutdruck', 'stoffwechsel',
-      'neuroplastiz', 'plastizit', 'neuro']
+      'amygdala', 'limbisch', 'blutdruck', 'stoffwechsel', 'plastizit',
+      'neurotransmitter', 'neurobiolog']
   },
   B: {
     name: 'Autoritaet / Statistik',
@@ -72,7 +76,7 @@ const GRUPPEN = {
       'laesst', 'haeuf', 'groesse', 'oeffn', 'hoech', 'hoer',
       'koenn', 'moegl', 'noetig', 'schoen', 'ueber', 'fuehl',
       'fuehr', 'fuenf', 'frueh', 'muede', 'muess', 'wuensch',
-      'wuerde', 'zurueck', 'natuerlich', 'gefuehl', 'erschoepft', 'schliess']
+      'wuerde', 'zurueck', 'natuerlich', 'erschoepft', 'schliess']
   }
 };
 

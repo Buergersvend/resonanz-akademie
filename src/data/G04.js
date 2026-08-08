@@ -755,7 +755,7 @@ Führe ein einfaches Atemtagebuch oder nutze eine Streak-App. Notiere täglich: 
 
 ### Die Plateau-Phase
 
-Nach 3 bis 6 Wochen regelmäßiger Praxis kommt bei vielen Menschen ein Plateau: Die anfängliche Begeisterung lässt nach, die dramatischen Effekte der ersten Tage normalisieren sich, die Praxis fühlt sich "gewöhnlich" an. Das ist nicht das Zeichen, aufzuhören — es ist das Zeichen, dass die Praxis wirkt. Die Veränderungen sind jetzt subtiler: besserer Schlaf, weniger Reaktivität, mehr Ruhe in Stresssituationen, höhere Grundenergie.
+Nach 3 bis 6 Wochen regelmäßiger Praxis kommt bei vielen Menschen ein Plateau: Die anfängliche Begeisterung lässt nach, die dramatischen Effekte der ersten Tage normalisieren sich, die Praxis fühlt sich "gewöhnlich" an. Dass die Praxis sich gewöhnlich anfühlt, sagt weder, dass sie wirkt, noch dass sie nicht wirkt. Wenn du nach mehreren Wochen nichts bemerkst, ist Aufhören eine sachliche Entscheidung und kein Abbruch. Die Veränderungen sind jetzt subtiler: besserer Schlaf, weniger Reaktivität, mehr Ruhe in Stresssituationen, höhere Grundenergie.
 
 Wenn du durch das Plateau hindurchgehst — weitermachst, ohne spektakuläre Erlebnisse zu erwarten — beginnt die eigentliche Veränderung. Die Atempraxis wird vom Werkzeug zur Lebensweise.
 

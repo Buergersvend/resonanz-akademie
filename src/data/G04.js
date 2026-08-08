@@ -11,7 +11,7 @@ const G04 = {
   dauer: '4–6 Stunden',
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine',
-  beschreibung: `Der Atem ist die einzige Körperfunktion, die sowohl automatisch als auch bewusst gesteuert werden kann — und genau das macht ihn zur mächtigsten Brücke zwischen Körper und Geist. In diesem Kurs lernst du die wichtigsten Atemtechniken der Welt kennen: von den jahrtausendealten Pranayama-Praktiken des Yoga über intensive Formen des verbundenen Atmens bis zu Kälte-Atem-Praktiken und modernem Breathwork. Du verstehst die Physiologie hinter jeder Technik und kannst sie sicher in deiner eigenen Praxis anwenden. Dieser Kurs vermittelt Selbsterfahrung und ersetzt keine medizinische oder therapeutische Behandlung.`,
+  beschreibung: `Der Atem ist die einzige Körperfunktion, die sowohl automatisch als auch bewusst gesteuert werden kann — und genau das macht ihn zu einer besonderen Verbindung zwischen Körper und Geist. In diesem Kurs lernst du die wichtigsten Atemtechniken der Welt kennen: von den jahrtausendealten Pranayama-Praktiken des Yoga über intensive Formen des verbundenen Atmens bis zu Kälte-Atem-Praktiken und modernem Breathwork. Du verstehst die Physiologie hinter jeder Technik und kannst sie sicher in deiner eigenen Praxis anwenden. Dieser Kurs vermittelt Selbsterfahrung und ersetzt keine medizinische oder therapeutische Behandlung.`,
   status: 'live',
 
   module: [
@@ -30,7 +30,7 @@ const G04 = {
 
 ### Mehr als Sauerstoff rein, CO2 raus
 
-Die meisten Menschen verstehen Atmung als simplen Gasaustausch: Sauerstoff einatmen, Kohlendioxid ausatmen. Das stimmt — aber es kratzt nur an der Oberfläche. Bewusste Atmung verändert den pH-Wert deines Blutes und die Aktivität deines Nervensystems — beides messbar und binnen Minuten.
+Die meisten Menschen verstehen Atmung als simplen Gasaustausch: Sauerstoff einatmen, Kohlendioxid ausatmen. Das stimmt — aber es kratzt nur an der Oberfläche. Bewusste Atmung verändert den pH-Wert deines Blutes und die Aktivität deines Nervensystems.
 
 ### Die Mechanik
 
@@ -38,7 +38,7 @@ Beim Einatmen zieht sich das Zwerchfell — der kuppelförmige Muskel unter der 
 
 Beim Ausatmen entspannt sich das Zwerchfell, federt nach oben, die Lunge wird komprimiert, Luft strömt aus. Die Ausatmung ist normalerweise passiv — der Körper nutzt die Elastizität der Lunge und des Brustkorbs.
 
-Das Zwerchfell ist der wichtigste Atemmuskel. Stress, Angst und sitzende Lebensweise führen dazu, dass sich das Atemmuster von der natürlichen Bauchatmung zur flachen Brustatmung verschiebt. Babys atmen noch perfekt — ihr Bauch hebt und senkt sich rhythmisch, das Zwerchfell arbeitet frei. Die Wiederherstellung dieser natürlichen Atemweise ist die Basis aller fortgeschrittenen Atemtechniken.
+Das Zwerchfell ist der wichtigste Atemmuskel. Stress, Angst und sitzende Lebensweise führen dazu, dass sich das Atemmuster von der natürlichen Bauchatmung zur flachen Brustatmung verschiebt. Bei Säuglingen ist das gut zu sehen: ihr Bauch hebt und senkt sich rhythmisch, das Zwerchfell arbeitet frei. Die Wiederherstellung dieser natürlichen Atemweise ist die Basis aller fortgeschrittenen Atemtechniken.
 
 ### Sauerstoff, CO2 und der pH-Wert
 
@@ -58,7 +58,7 @@ Die durchschnittliche Atemfrequenz eines Erwachsenen liegt bei 12 bis 20 Atemzü
 
 6–10 Atemzüge/Minute: Der Bereich, auf den viele Atemtechniken zielen.
 
-Unter 6 Atemzüge/Minute: Der meditative Bereich. Fortgeschrittene Yogis erreichen 2–4 Atemzüge pro Minute in tiefer Meditation.`
+Unter 6 Atemzüge/Minute: Der meditative Bereich.`
         },
         {
           id: 'G04-M1-L2',
@@ -79,7 +79,7 @@ Dein autonomes Nervensystem hat zwei Hauptzweige:
 
 **Der Parasympathikus** ist deine Bremse. Er ist der Gegenspieler. Ihm wird der Ruhe-und-Verdauungs-Modus zugeordnet: Der Herzschlag wird ruhiger, die Verdauung kommt in Gang. Viele Menschen beschreiben diesen Zustand als Gelöstheit oder Schwere im Körper.
 
-Der Schlüssel: Die Einatmung aktiviert den Sympathikus leicht (Herzschlag steigt messbar). Die Ausatmung aktiviert den Parasympathikus (Herzschlag sinkt). Deshalb beruhigen Techniken mit verlängerter Ausatmung — und aktivieren Techniken mit betonter Einatmung.
+Der Schlüssel: Die Einatmung aktiviert den Sympathikus leicht (Herzschlag steigt). Die Ausatmung aktiviert den Parasympathikus (Herzschlag sinkt). Deshalb beruhigen Techniken mit verlängerter Ausatmung — und aktivieren Techniken mit betonter Einatmung.
 
 ### Der Vagusnerv — Dein innerer Ruhenerv
 
@@ -93,7 +93,7 @@ Langsame, tiefe Bauchatmung aktiviert den Vagusnerv (der Vagusnerv verläuft dir
 
 Die Herzratenvariabilität (HRV) misst die natürlichen Schwankungen im Abstand zwischen Herzschlägen. Paradoxerweise ist eine hohe Variabilität gesund — ein Herz, das flexibel reagiert, ist widerstandsfähiger als eines, das starr im gleichen Rhythmus schlägt.
 
-Atemtechniken mit einer Frequenz von etwa 6 Atemzügen pro Minute (5 Sekunden ein, 5 Sekunden aus) erzeugen die maximale HRV — einen Zustand, der als "Kohärenz" bezeichnet wird. In diesem Zustand sind Herz, Atem und Gehirn synchronisiert. Dieser Zustand wird als ruhig, klar und wach beschrieben.
+Atemtechniken mit einer Frequenz von etwa 6 Atemzügen pro Minute (rund 5 bis 5,5 Sekunden ein und aus) erzeugen die maximale HRV — einen Zustand, der als "Kohärenz" bezeichnet wird. In diesem Zustand sind Herz, Atem und Gehirn synchronisiert. Dieser Zustand wird als ruhig, klar und wach beschrieben.
 
 Diese 6-Atemzüge-Frequenz ist kein Zufall — sie entspricht dem natürlichen Eigenrhythmus des Herz-Kreislauf-Systems. Viele traditionelle Gebetsformen, Mantras und Atemübungen landen intuitiv bei genau dieser Frequenz.`
         },
@@ -108,11 +108,11 @@ Es macht keinen Sinn, fortgeschrittene Atemtechniken auf einem dysfunktionalen A
 
 ### Nasenatmung — Warum die Nase der richtige Eingang ist
 
-Die Nase ist das Organ, das für die Atmung designed ist. Der Mund ist für Essen und Sprechen da. Das klingt trivial, hat aber tiefgreifende Konsequenzen:
+Die Nase ist das Organ, das auf die Atmung eingerichtet ist. Der Mund ist für Essen und Sprechen da. Das klingt trivial, hat aber Folgen:
 
 Die Nase filtert die Luft — Härchen und Schleimhäute fangen Partikel, Bakterien und Allergene ab. Die Nase befeuchtet die Luft — trockene Luft schädigt die Bronchien. Die Nase erwärmt die Luft — kalte Luft reizt die Atemwege. Die Nase produziert Stickstoffmonoxid (NO) — ein Gas, das die Blutgefäße weitstellt und die Aufnahme von Sauerstoff in der Lunge unterstützt.
 
-Mundatmung dagegen trocknet die Schleimhäute aus, begünstigt eine schnellere und flachere Atmung und aktiviert eher den Sympathikus — Mundatmung ist Stressatmung.
+Mundatmung dagegen trocknet die Schleimhäute aus, begünstigt eine schnellere und flachere Atmung und aktiviert eher den Sympathikus.
 
 **Praktische Umstellung:** Wenn du gewohnheitsmäßig durch den Mund atmest, beginne bewusst, tagsüber immer wieder den Mund zu schließen und durch die Nase zu atmen. Das genügt als Einstieg — die Umstellung geschieht über viele kleine Wiederholungen im Wachzustand. Von Hilfsmitteln, die die Atmung im Schlaf beeinflussen sollen, ist ohne vorherige Abklärung abzuraten: Schnarchen und nächtliche Atempausen können ernste Ursachen haben. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
@@ -122,7 +122,7 @@ Die natürliche Atemweise ist die Zwerchfellatmung — auch Bauchatmung genannt.
 
 **Übung — Bauchatmung aktivieren:**
 
-Lege dich auf den Rücken. Eine Hand auf die Brust, eine auf den Bauch. Atme durch die Nase ein und beobachte: Welche Hand hebt sich? Wenn sich die Brusthand hebt und die Bauchhand still bleibt, atmest du flach — das ist das Stressmuster.
+Lege dich auf den Rücken. Eine Hand auf die Brust, eine auf den Bauch. Atme durch die Nase ein und beobachte: Welche Hand hebt sich? Wenn sich die Brusthand hebt und die Bauchhand still bleibt, atmest du flach — das ist das flache Brustmuster.
 
 Ziel: Die Bauchhand hebt sich beim Einatmen, die Brusthand bleibt weitgehend still.
 
@@ -134,7 +134,7 @@ Technik: Atme durch die Nase ein und lenke den Atem bewusst nach unten — in de
 
 Die erweiterte Form: Dreiteilig atmen. Zuerst füllt sich der Bauch (untere Lunge), dann der Brustkorb (mittlere Lunge), dann der Schlüsselbeinbereich (obere Lunge) — eine Welle von unten nach oben. Die Ausatmung kehrt die Welle um: oben loslassen, Brust entspannen, Bauch sanft einziehen.
 
-Diese vollständige Yogaatmung nutzt bewusst den ganzen Atemraum. Im Alltag atmen wir alle deutlich flacher — das ist in Ruhe völlig normal und kein Defizit. Als Übung hält sie Zwerchfell und Brustkorb beweglich, verlangsamt die Atemfrequenz und wird als beruhigend erlebt.`
+Diese vollständige Yogaatmung nutzt bewusst den ganzen Atemraum. Im Alltag atmen wir alle deutlich flacher — das ist in Ruhe völlig normal und kein Defizit. Als Übung hält sie Zwerchfell und Brustkorb beweglich und wird als beruhigend erlebt.`
         }
       ]
     },
@@ -164,7 +164,7 @@ Die yogische Anatomie beschreibt ein Netzwerk von 72.000 Nadis — Energiekanäl
 
 **Ida** — der linke Kanal, mondverbunden, kühlend, beruhigend, weiblich. Er wird in moderner Deutung gern dem parasympathischen Nervensystem zur Seite gestellt — es sind zwei verschiedene Beschreibungssysteme, keine Übersetzung. Verbunden mit der rechten Gehirnhälfte.
 
-**Pingala** — der rechte Kanal, sonnenverbunden, wärmend, aktivierend, männlich. Entspricht dem sympathischen Nervensystem. Verbunden mit der linken Gehirnhälfte.
+**Pingala** — der rechte Kanal, sonnenverbunden, wärmend, aktivierend, männlich. Er wird in moderner Deutung gern dem sympathischen Nervensystem zur Seite gestellt — auch hier sind es zwei verschiedene Beschreibungssysteme. Verbunden mit der linken Gehirnhälfte.
 
 **Sushumna** — der zentrale Kanal, der durch die Wirbelsäule verläuft. Wenn Ida und Pingala im Gleichgewicht sind, fließt Prana durch die Sushumna — das ist der Zustand tiefer Meditation, innerer Stille und spiritueller Erfahrung.
 
@@ -215,7 +215,7 @@ Sitze aufrecht. Atme normal ein. Dann: Stoße die Luft in kurzen, kräftigen St�
 
 Beginne mit 30 Stößen, dann eine Pause mit normalem Atem. Drei Runden. Steigere langsam auf 60, dann 100 Stöße pro Runde. 100 Stöße pro Runde sind die Obergrenze, nicht eine Zwischenstufe.
 
-**Wirkung:** Stark aktivierend und energetisierend. Klärt den Kopf, vertreibt Müdigkeit, stärkt das Verdauungsfeuer (Agni). Nicht geeignet bei: Schwangerschaft, hohem Blutdruck, Herzproblemen, Epilepsie, akuten Baucherkrankungen. Bei Schwindel, Kribbeln in Händen oder Gesicht, Druck im Kopf oder Übelkeit: Runde abbrechen und normal weiteratmen.
+**Erfahrung:** Übende beschreiben einen klaren Kopf und weniger Müdigkeit; in der yogischen Tradition wird der Technik eine Wirkung auf das Verdauungsfeuer (Agni) zugeschrieben. Nicht geeignet bei: Schwangerschaft, hohem Blutdruck, Herzproblemen, Epilepsie, akuten Baucherkrankungen. Bei Schwindel, Kribbeln in Händen oder Gesicht, Druck im Kopf oder Übelkeit: Runde abbrechen und normal weiteratmen.
 
 ### Bhastrika — Blasebalg-Atmung
 
@@ -238,7 +238,7 @@ Drei Runden mit Pausen dazwischen.
 
 ### Ujjayi — Der siegreiche Atem
 
-Ujjayi ist die Atemtechnik, die in Yoga-Klassen weltweit am häufigsten verwendet wird — und gleichzeitig eine der wirkungsvollsten Techniken für Fokus und innere Ruhe.
+Ujjayi ist die Atemtechnik, die in Yoga-Klassen weltweit am häufigsten verwendet wird.
 
 **Technik:**
 
@@ -246,13 +246,13 @@ Atme durch die Nase ein und aus, aber verengen dabei leicht die Stimmritze im Ha
 
 Halte den Ujjayi-Klang gleichmäßig — bei der Einatmung und bei der Ausatmung. Die leichte Verengung verlangsamt den Luftstrom automatisch und verlängert den Atem.
 
-**Erfahrung:** Der hörbare, verlangsamte Atem wird als fokussierend und beruhigend beschrieben. Der hörbare Atem gibt dem Geist einen Ankerpunkt — statt an Gedanken festzuhalten, folgt die Aufmerksamkeit dem Klang.
+**Erfahrung:** Der hörbare, verlangsamte Atem wird als fokussierend und beruhigend beschrieben. Er gibt dem Geist einen Ankerpunkt — statt an Gedanken festzuhalten, folgt die Aufmerksamkeit dem Klang.
 
 Ujjayi kann als eigenständige Meditation praktiziert werden (15–20 Minuten) oder als Begleiter jeder anderen Aktivität — Yoga, Gehen, Arbeiten.
 
 ### Bhramari — Die summende Biene
 
-Bhramari ist die vielleicht entspannendste Pranayama-Technik überhaupt. Sie nutzt den Klang des Summens, um das Nervensystem in tiefer Beruhigung zu baden.
+Bhramari gilt als besonders beruhigende Pranayama-Technik. Sie nutzt den Klang des Summens.
 
 **Technik:**
 
@@ -351,7 +351,7 @@ Eine typische Sitzung dauert 45 bis 75 Minuten. Diese Zeit ist kein Soll. Bei st
 
 Das verbundene Atemmuster erzeugt mehrere parallele Prozesse:
 
-**Physiologisch:** Ähnlich wie beim intensiven Atmen sinkt der CO2-Spiegel, der pH-Wert steigt. Aber weil das Tempo moderater ist, sind die Effekte weniger extrem und besser steuerbar.
+**Physiologisch:** Ähnlich wie beim intensiven Atmen sinkt der CO2-Spiegel, der pH-Wert steigt. Aber weil das Tempo moderater ist, sind die Effekte weniger ausgeprägt.
 
 **Seelisch-symbolisch:** Das pausenlose Atmen wird oft so erlebt, als würde es einen inneren Raum kontinuierlich auffüllen. Stellen, an denen sich innerlich etwas verschlossen anfühlt, treten dabei deutlicher hervor. Manche Übende beschreiben einen Moment, in dem sich eine solche Enge löst — begleitet von einer intensiven körperlichen oder emotionalen Empfindung.
 
@@ -359,7 +359,7 @@ Das verbundene Atemmuster erzeugt mehrere parallele Prozesse:
 
 ### Integration
 
-Nach einer Sitzung ist Ruhe und Integration wichtig. Bleibe mindestens 15 Minuten still liegen. Trinke Wasser. Journale, was du erlebt hast. Vermeide intensive Aktivitäten für den Rest des Tages.
+Nach einer Sitzung ist Ruhe und Integration wichtig. Bleibe mindestens 15 Minuten still liegen. Trinke Wasser. Schreibe auf, was du erlebt hast. Vermeide intensive Aktivitäten für den Rest des Tages.
 
 Verbundenes Atmen kann intensive Nachprozesse auslösen — emotionale Wellen, lebhafte Träume, vorübergehende Müdigkeit oder ungewöhnliche Klarheit. Das alles ist normal und Teil des Integrationsprozesses.
 
@@ -372,7 +372,7 @@ Verbundenes Atmen ist ein kraftvolles Werkzeug der Selbsterfahrung. Es kann tief
           titel: 'Sicherheit & Kontraindikationen — Verantwortungsvoll arbeiten',
           inhalt: `## Sicherheit & Kontraindikationen
 
-### Intensive Atemarbeit ist kein Spielzeug
+### Warum diese Techniken einen Rahmen brauchen
 
 Die Techniken in diesem Modul — intensives verbundenes Atmen und alle Formen intensiven Breathworks — sind kraftvoll. Sie können tiefe innere Prozesse anstoßen, aber sie können auch destabilisieren, wenn sie ohne Wissen, ohne Begleitung oder bei falscher Indikation eingesetzt werden.
 
@@ -430,7 +430,7 @@ Wenn du Atemarbeit in deine Praxis integrieren möchtest, investiere in eine fun
 
 ### Was diese Methode ausmacht
 
-Eine der bekanntesten modernen Atem-Praktiken kombiniert eine intensive Atemtechnik mit Kälteexposition und mentalem Fokus. Bekannt wurde sie durch spektakuläre Kälte-Leistungen einzelner Pioniere — Schwimmen unter Eis, Barfußwanderungen im Schnee, langes Verweilen in Eiswasser.
+Eine der bekanntesten modernen Atem-Praktiken kombiniert eine intensive Atemtechnik mit Kälteexposition und mentalem Fokus. Bekannt wurde sie durch aufsehenerregende Kälte-Leistungen einzelner Personen — Schwimmen unter Eis, Barfußwanderungen im Schnee, langes Verweilen in Eiswasser.
 
 Es gibt Studien, die nahelegen, dass Menschen nach kurzem Training mit dieser Methode Einfluss auf ihr autonomes Nervensystem nehmen können. Solche Einzelstudien sind interessant, aber kein Wirknachweis im medizinischen Sinne — betrachte sie als Hinweise, nicht als Heilversprechen. Viele Übende berichten von mehr Wachheit und besserer Kälteverträglichkeit; wie deutlich das ausfällt, ist sehr unterschiedlich.
 
@@ -446,9 +446,9 @@ Was dabei geschieht: Durch die schnelle Atmung sinkt der CO2-Spiegel im Blut. We
 
 **Säule 2: Kälteexposition**
 
-Kalte Duschen, Eisbäder, Kälteschwimmen. Die Kälte fordert die Blutgefäße (Wechsel zwischen Verengung und Erweiterung), spricht das Kälteempfinden an und kann helfen, mentale Widerstandskraft aufzubauen. Wichtig: Kälteexposition hat eigene Risiken (Kreislauf, Herz) — taste dich vorsichtig heran und kläre bei Vorerkrankungen vorab ab. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
+Kalte Duschen, Eisbäder, Kälteschwimmen. Die Atemtechnik aus Säule 1 gehört nicht dazu: Sie wird nie im Wasser praktiziert — siehe Sicherheitshinweise. Die Kälte fordert die Blutgefäße (Wechsel zwischen Verengung und Erweiterung), spricht das Kälteempfinden an und kann helfen, mentale Widerstandskraft aufzubauen. Wichtig: Kälteexposition hat eigene Risiken (Kreislauf, Herz) — taste dich vorsichtig heran und kläre bei Vorerkrankungen vorab ab. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
-Einstieg: Am Ende jeder Dusche 30 Sekunden kaltes Wasser. Steigere auf 1, dann 2, dann 3 Minuten über Wochen. Mehr als 2 bis 3 Minuten bringt für den Alltagsnutzen nichts dazu und belastet den Kreislauf zusätzlich. Der Schlüssel: Nicht verkrampfen, nicht den Atem anhalten — tief und ruhig weiteratmen. Die Atmung ist die Brücke, die dich durch die Kälte trägt.
+Einstieg: Am Ende jeder Dusche 30 Sekunden kaltes Wasser. Steigere auf 1, dann 2, dann 3 Minuten über Wochen. Mehr als 2 bis 3 Minuten bringt für den Alltagsnutzen nichts dazu und belastet den Kreislauf zusätzlich. Der Schlüssel: Nicht verkrampfen, nicht den Atem anhalten — tief und ruhig weiteratmen. Ruhiges Weiteratmen macht den Unterschied.
 
 **Säule 3: Commitment (Mindset)**
 
@@ -479,7 +479,7 @@ Eine der einfachsten Formen, den Atem zu strukturieren — vier gleich lange Abs
 
 ### 4-7-8-Atmung
 
-Eine Technik aus der ayurvedischen Tradition, die vor allem zum Herunterfahren am Abend genutzt wird.
+Eine Technik, die vor allem zum Herunterfahren am Abend genutzt wird.
 
 Einatmen durch die Nase: 4 Sekunden. Atem halten: 7 Sekunden. Ausatmen durch den Mund (mit einem hörbaren "Whoosh"): 8 Sekunden. Wiederhole 4 Runden.
 
@@ -493,19 +493,19 @@ Zu dieser Frequenz gibt es vergleichsweise viele Untersuchungen. Auch hier gilt:
 
 5,5 Sekunden einatmen. 5,5 Sekunden ausatmen. Kein Atemanhalten. Gleichmäßig, ruhig, durch die Nase. 10 bis 20 Minuten.
 
-Das ergibt etwa 5,5 Atemzüge pro Minute — ein Bereich, in dem Herzschlag und Atem sich besonders gut aufeinander einspielen.
+Das ergibt etwa 5 bis 6 Atemzüge pro Minute — ein Bereich, in dem Herzschlag und Atem sich besonders gut aufeinander einspielen.
 
 **Erfahrung:** Viele Übende berichten von mehr Ruhe, gleichmäßigerer Stimmung und leichterem Zur-Ruhe-Kommen am Abend. Das stellt sich bei regelmäßiger Übung allmählich ein, nicht nach einer einzelnen Sitzung.
 
 ### Physiologischer Seufzer
 
-Die schnellste Beruhigungstechnik überhaupt — ein einziger Atemzug:
+Die kürzeste Technik im Kurs — ein einziger Atemzug:
 
 Doppel-Einatmung durch die Nase: Erst ein normaler Atemzug, dann sofort ein zweiter kurzer "Nachschnappen" obendrauf (füllt die kollabierten Lungenbläschen). Dann eine lange, langsame Ausatmung durch den Mund.
 
 Ein einziger physiologischer Seufzer senkt die Anspannung spürbar. Drei hintereinander reichen meist, um den Unterschied zu bemerken.
 
-Der doppelte Einatemzug ist kein Kunstgriff — der Körper zeigt dieses Muster von sich aus: beim Schluchzen, beim Gähnen, im Schlaf. Bewusst eingesetzt wirkt er wie ein Reset-Knopf für dein Nervensystem.`
+Der doppelte Einatemzug ist kein Kunstgriff — der Körper zeigt dieses Muster von sich aus: beim Schluchzen, beim Gähnen, im Schlaf. Bewusst eingesetzt lässt sich dasselbe Muster gezielt abrufen.`
         },
         {
           id: 'G04-M4-L3',
@@ -516,7 +516,7 @@ Der doppelte Einatemzug ist kein Kunstgriff — der Körper zeigt dieses Muster 
 
 Die meisten Atemtechniken in diesem Kurs laden dich ein, tiefer, bewusster oder intensiver zu atmen. Der reduzierte Ansatz geht den entgegengesetzten Weg: Er übt, weniger zu atmen — die Grundidee ist, dass chronisches Überatmen (unbemerkte Hyperventilation im Alltag) das Wohlbefinden beeinträchtigen kann.
 
-Dieser Ansatz entstand Mitte des 20. Jahrhunderts. Die zentrale Beobachtung: Viele Menschen in modernen Gesellschaften atmen tendenziell zu viel — zu schnell, zu tief, zu häufig, durch den Mund. Das kann den CO2-Haushalt verschieben und sich auf das allgemeine Wohlbefinden auswirken.
+Dieser Ansatz entstand Mitte des 20. Jahrhunderts. Die Grundannahme: Manche Menschen atmen im Alltag mehr, als nötig wäre — zu schnell, zu tief, zu häufig, durch den Mund. Das kann den CO2-Haushalt verschieben und sich auf das allgemeine Wohlbefinden auswirken.
 
 ### Das Kontrollpausen-Konzept
 
@@ -570,7 +570,7 @@ Die ausgewogene Praxis kombiniert beides: kurze intensive Atemsessions plus eine
 
 Emotionen und Atem hängen eng zusammen. Viele Muster wiederholen sich — beobachte dich selbst:
 
-Wenn du ängstlich bist, wird dein Atem flach und schnell — er "wandert" in den oberen Brustbereich. Das Zwerchfell verkrampft. Du atmest kaum aus.
+Wenn du ängstlich bist, wird dein Atem flach und schnell — er "wandert" in den oberen Brustbereich. Das Zwerchfell wird fester, die Ausatmung kommt zu kurz.
 
 Wenn du wütend bist, wird dein Atem tief und stoßhaft — kräftige Ausatmungen, angespannter Bauch, geblähte Nasenflügel.
 
@@ -582,15 +582,15 @@ Wenn du entspannt und glücklich bist, atmet dein Körper langsam, tief und rege
 
 Diese Muster laufen automatisch ab — du wählst nicht bewusst, wie du in Angst atmest. Dein Nervensystem schaltet das Atemmuster um, als Reaktion auf die emotionale Bewertung der Situation.
 
-### Die Revolution: Es funktioniert in beide Richtungen
+### Es funktioniert in beide Richtungen
 
-Das Bahnbrechende ist: Die Verbindung ist bidirektional. Emotionen verändern den Atem — aber der Atem verändert auch Emotionen. Wenn du das Atemmuster der Angst willentlich umkehrst — langsam, tief, mit verlängerter Ausatmung —, sendet dein Körper dem Gehirn die Botschaft: "Keine Gefahr." Viele Menschen beschreiben, dass die Angst dabei nachlässt.
+Die Verbindung ist bidirektional. Emotionen verändern den Atem — aber der Atem verändert auch Emotionen. Wenn du das Atemmuster der Angst willentlich umkehrst — langsam, tief, mit verlängerter Ausatmung —, sendet dein Körper dem Gehirn die Botschaft: "Keine Gefahr." Viele Menschen beschreiben, dass die Angst dabei nachlässt.
 
 Dein Gehirn prüft ständig den Zustand deines Körpers: Herzschlag, Muskelspannung, Atemfrequenz. Wenn der Körper "ruhig" signalisiert, passt das Gehirn die emotionale Bewertung an — auch wenn die äußere Situation unverändert ist.
 
 ### Emotionale Atemmuster aufspüren
 
-Eine der wertvollsten Fähigkeiten, die du entwickeln kannst: Emotionen am eigenen Atemmuster erkennen — als Weg zu mehr Selbstwahrnehmung.
+Eine Fähigkeit, die sich mit der Zeit entwickelt: Emotionen am eigenen Atemmuster erkennen — als Weg zu mehr Selbstwahrnehmung.
 
 **Übung — Emotionale Atem-Kartierung:**
 
@@ -598,7 +598,7 @@ Setze dich ruhig hin. Erinnere dich an eine Situation, in der du starke Angst er
 
 Wechsle zu: Wut. Trauer. Scham. Freude. Liebe. Beobachte jedes Mal, was dein Atem tut.
 
-Viele Übende erkennen mit der Zeit wiederkehrende Muster. Manche Emotionen zeigen sich deutlich, andere gar nicht — beides ist normal. Dieses Wissen wird zu einem feinen Selbstwahrnehmungs-Instrument: Wenn du bemerkst, wie du gerade atmest, erkennst du, in welchem emotionalen Zustand du bist — oft bevor der Verstand es benennt. Und im Miteinander schärft es deine Präsenz: Ein veränderter Atem beim Gegenüber ist kein Befund, den du stellst, sondern eine leise Einladung, aufmerksamer und mitfühlender da zu sein.`
+Viele Übende erkennen mit der Zeit wiederkehrende Muster. Manche Emotionen zeigen sich deutlich, andere gar nicht — beides ist normal. Mit der Zeit wird daraus ein brauchbarer Anhaltspunkt: Wenn du bemerkst, wie du gerade atmest, erkennst du, in welchem emotionalen Zustand du bist — oft bevor der Verstand es benennt. Und im Miteinander schärft es deine Präsenz: Ein veränderter Atem beim Gegenüber ist kein Befund, den du stellst, sondern eine leise Einladung, aufmerksamer und mitfühlender da zu sein.`
         },
         {
           id: 'G04-M5-L2',
@@ -617,7 +617,7 @@ Dem Zwerchfell wird in dieser Sichtweise eine Schlüsselrolle zugeordnet. Es lie
 
 **Technik 1 — Der bewusste Seufzer**
 
-Der Seufzer ist die natürlichste Form der Blockadenlösung. Menschen seufzen spontan, wenn sich Anspannung löst — nach einem schwierigen Gespräch, nach einer Prüfung, nach einer Angstphase.
+Seufzen zeigt der Körper von sich aus. Menschen seufzen spontan, wenn sich Anspannung löst — nach einem schwierigen Gespräch, nach einer Prüfung, nach einer Angstphase.
 
 Mache den Seufzer bewusst: Atme tief ein, ohne zu pressen. Dann lass die Luft mit einem hörbaren "Aaaaahhh" heraus — lang, tönend, ohne ihn zu formen. Lass den Ton rau, leise, laut, wackelig sein — was auch immer kommt. Wiederhole 5 bis 10 Mal. Bei Schwindel oder Kribbeln legst du eine Pause ein und atmest normal weiter.
 
@@ -654,7 +654,7 @@ Dein Atem ist dein wichtigstes Werkzeug. Er beeinflusst mit, in welchem Zustand 
 
 Vor einer Übung: 5 Minuten Kohärenzatmung (5,5 Sekunden ein, 5,5 Sekunden aus). Viele Übende berichten, dass sie danach ruhiger und weniger reaktiv in die Übung gehen. Das stellt sich nicht bei jedem und nicht jedes Mal ein.
 
-Während der Übung: Ujjayi-Atmung hält dich fokussiert und verbunden. Der hörbare Atem gibt dir einen tragenden Rhythmus.
+Während der Übung: Ujjayi-Atmung wird oft als fokussierend erlebt. Der hörbare Atem gibt dir einen tragenden Rhythmus.
 
 Nach der Übung: Drei tiefe Seufzer zur Entladung. Dann Erdungsatmung — bewusst in den Bauch und die Beine atmen, um wieder ganz im Alltag anzukommen.
 
@@ -668,11 +668,11 @@ Wenn ein Mensch dir von seelischer oder körperlicher Belastung erzählt, ist di
 
 ### Atem als Brücke zwischen den Welten
 
-In schamanischen Traditionen ist der Atem die Verbindung zwischen sichtbarer und unsichtbarer Welt. In der yogischen Tradition ist er die Brücke zwischen Körper und Geist. In der modernen Wissenschaft ist er die Brücke zwischen willkürlichem und autonomem Nervensystem.
+In schamanischen Traditionen ist der Atem die Verbindung zwischen sichtbarer und unsichtbarer Welt. In der yogischen Tradition ist er die Brücke zwischen Körper und Geist. Beides sind Bilder. Physiologisch ist er die Verbindung zwischen willkürlichem und autonomem Nervensystem.
 
 Egal welche Sprache du sprichst — der Atem ist immer die Brücke. Er ist das Werkzeug, das jeder Mensch hat, das nichts kostet und das immer verfügbar ist — körperlich, emotional und seelisch-symbolisch.
 
-Dein Atem ist dein treuester Begleiter. Er ist mit dir, seit dem Moment deiner Geburt. Er wird bei dir sein bis zu deinem letzten Augenblick. Zwischen diesen beiden Atemzügen liegt dein ganzes Leben — und die Möglichkeit, es bewusst zu gestalten.`
+Der Atem begleitet dich vom ersten bis zum letzten Atemzug. Dazwischen liegt die Möglichkeit, ihn bewusst zu nutzen.`
         }
       ]
     },
@@ -698,7 +698,7 @@ Du hast in diesem Kurs Dutzende Atemtechniken kennengelernt — von sanft bis in
 
 Wenn du aufgewühlt bist oder schnell wieder klar werden willst:
 
-**Physiologischer Seufzer** — Ein einziger Atemzug. Doppel-Einatmung durch die Nase, lange Ausatmung durch den Mund. Der schnellste Reset, den es gibt.
+**Physiologischer Seufzer** — Ein einziger Atemzug. Doppel-Einatmung durch die Nase, lange Ausatmung durch den Mund. Ein Atemzug, mehr braucht es nicht.
 
 **Box-Breathing** — 4 Runden à 4-4-4-4. Unter 2 Minuten. Sofortige Regulation. Unsichtbar für andere.
 
@@ -712,7 +712,7 @@ Für emotionale Balance und innere Klarheit im Alltag:
 
 **Mittags (balancierend):** 5 Minuten Nadi Shodhana (Wechselatmung). Viele Übende erleben sie als klärend.
 
-**Abends (beruhigend):** 10 bis 20 Minuten Kohärenzatmung (5,5 Sekunden ein, 5,5 Sekunden aus). Oder 7 bis 11 Runden Bhramari (Summen). Bereitet den Körper auf Erholung und Schlaf vor.
+**Abends (beruhigend):** 10 bis 20 Minuten Kohärenzatmung (5,5 Sekunden ein, 5,5 Sekunden aus). Oder 7 bis 11 Runden Bhramari (Summen). Viele nutzen das als Übergang in den Abend.
 
 ### Wöchentliche Vertiefung — 30 bis 60 Minuten
 
@@ -745,13 +745,13 @@ Wenn sich die zwei Minuten über einige Wochen eingespielt haben, steigere auf f
 
 ### Anker setzen
 
-Verknüpfe deine Atempraxis mit einer bestehenden Gewohnheit — Psychologen nennen das "Habit Stacking":
+Verknüpfe deine Atempraxis mit einer bestehenden Gewohnheit:
 
 "Nachdem ich morgens die Kaffeemaschine einschalte, atme ich 2 Minuten." "Nachdem ich mein Auto geparkt habe, atme ich 1 Minute bevor ich aussteige." "Nachdem ich abends die Zähne geputzt habe, atme ich 5 Minuten." Der Anker (Kaffee, Parken, Zähneputzen) erinnert dich automatisch — du brauchst keine Willenskraft.
 
 ### Tracking und Belohnung
 
-Führe ein einfaches Atemtagebuch oder nutze eine Streak-App. Notiere täglich: Was habe ich geübt? Wie lange? Wie fühle ich mich danach? Die Kombination aus Sichtbarkeit (du siehst deine Streak wachsen) und Reflexion motiviert stärker als jede Theorie.
+Führe ein einfaches Atemtagebuch. Notiere täglich: Was habe ich geübt? Wie lange? Wie fühle ich mich danach? Sichtbarkeit und Reflexion helfen mehr als jede Theorie.
 
 ### Die Plateau-Phase
 
@@ -759,7 +759,7 @@ Nach 3 bis 6 Wochen regelmäßiger Praxis kommt bei vielen Menschen ein Plateau:
 
 Wer weitermacht, ohne spektakuläre Erlebnisse zu erwarten, erlebt die Praxis oft ruhiger und selbstverständlicher. Wer feststellt, dass sie ihm nichts bringt, darf sie auch lassen. Für manche bleibt sie ein Werkzeug für bestimmte Situationen, für andere wird sie fester Teil des Tages.
 
-Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
+Was hier beschrieben wird, betrifft die Übung selbst, nicht die Behandlung von Beschwerden. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
         {
           id: 'G04-M6-L3',
@@ -768,7 +768,7 @@ Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Ar
 
 ### Verantwortung in der Atemarbeit
 
-Atemtechniken sind mächtige Werkzeuge — und Macht erfordert Verantwortung. Einige wichtige Grundsätze:
+Atemtechniken greifen tief in Körperprozesse ein — das verlangt Sorgfalt. Einige wichtige Grundsätze:
 
 **Kenne deine Grenzen.** Nicht jede Technik ist für jeden Menschen geeignet. Nicht jede Situation erlaubt intensive Atemarbeit. Bevor du eine Technik für dich übernimmst — lies die Kontraindikationen. Jedes Mal.
 
@@ -792,7 +792,7 @@ Vertiefung im Breathwork — wenn du intensiver mit Atemarbeit gehen möchtest, 
 
 Integration mit anderen Modalitäten — Atem und Klang (Trommel-Atmung, Gong-Atmung). Atem und Bewegung (Yoga, Qigong, Tanz). Atem und Meditation (Vipassana, Zen). Atem und Natur (Waldbaden mit bewusstem Atmen).
 
-Der Atem ist der rote Faden, der alle Praktiken verbindet. Er ist die universellste, zugänglichste und kraftvollste Methode der Selbstfürsorge, die jedem Menschen zur Verfügung steht. Und er ist kostenlos, immer verfügbar und gehört dir — von deinem ersten bis zu deinem letzten Atemzug.`
+Der Atem ist der rote Faden, der alle Praktiken verbindet. Er ist eine der zugänglichsten Formen der Selbstfürsorge, die jedem Menschen zur Verfügung steht. Und er ist kostenlos, immer verfügbar und gehört dir — von deinem ersten bis zu deinem letzten Atemzug.`
         }
       ]
     }

@@ -35,7 +35,8 @@ const GRUPPEN = {
     name: 'Wirkmechanismus',
     begriffe: ['gehirn', 'neuronal', 'synapt', 'hirnare', 'nervensystem', 'hormon',
       'vagus', 'theta', 'alpha', 'frequenz', 'botenstoff', 'cortisol',
-      'amygdala', 'limbisch', 'blutdruck', 'stoffwechsel']
+      'amygdala', 'limbisch', 'blutdruck', 'stoffwechsel',
+      'neuroplastiz', 'plastizit', 'neuro']
   },
   B: {
     name: 'Autoritaet / Statistik',
@@ -58,6 +59,20 @@ const GRUPPEN = {
     name: 'J0 — neue Anker (Jahreskreis)',
     begriffe: ['melatonin', 'vitamin d', 'zirkadian', 'biorhythmus', 'immun',
       'winterdepression', 'saisonal-affektiv', 'jahreszeit']
+  },
+  // Gruppe F sucht Umlaut-Umschreibungen im Fliesstext (ae/oe/ue statt ä/ö/ü).
+  // BEWUSST NICHT aufgenommen, weil sie im Bestand nur Falschpositive erzeugen:
+  //   'taet'                       - trifft den Schluesselwert 'spiritualitaet' in 8 Dateien
+  //   'gruen'                      - trifft 'Kongruenz'
+  //   'uebung', 'ueben', 'uebrig'  - 389 Vorkommen als Feldname
+  F: {
+    name: 'Umlautfreier Text',
+    begriffe: ['aehnlich', 'waehl', 'waehr', 'taegl', 'gaeb', 'staend',
+      'aendern', 'maenn', 'jaehr', 'erklaer', 'staerk', 'spaet',
+      'laesst', 'haeuf', 'groesse', 'oeffn', 'hoech', 'hoer',
+      'koenn', 'moegl', 'noetig', 'schoen', 'ueber', 'fuehl',
+      'fuehr', 'fuenf', 'frueh', 'muede', 'muess', 'wuensch',
+      'wuerde', 'zurueck', 'natuerlich', 'gefuehl', 'erschoepft', 'schliess']
   }
 };
 
@@ -189,6 +204,12 @@ const mitFunden = kurse.filter(k => k.gesamt > 0);
 const sauber = kurse.filter(k => k.gesamt === 0);
 const abgenommenMitFunden = kurse.filter(k => k.abgenommen && k.gesamt > 0);
 const gesamtFunde = kurse.reduce((s, k) => s + k.gesamt, 0);
+
+// Trefferdichte statt "Kurse sauber": letztere steht konstruktionsbedingt bei 0
+// und traegt keine Information. Bezugsgroesse sind alle gelesenen Dateien.
+const gesamtZeichen = ids.reduce((s, id) => s + texte[id].length, 0);
+const trefferJe1000 = (gesamtFunde / gesamtZeichen * 1000).toFixed(1);
+
 const heute = new Date().toISOString().slice(0, 10);
 
 // ---------------------------------------------------------------- Markdown
@@ -203,7 +224,7 @@ L.push('');
 L.push('## Ergebnis', '');
 L.push('| Kennzahl | Wert |', '|---|---|');
 L.push('| Dateien gelesen | ' + ids.length + ' |');
-L.push('| Kurse ohne Treffer | **' + sauber.length + '** |');
+L.push('| Treffer/1000Z | **' + trefferJe1000 + '** |');
 L.push('| Kurse mit Treffern | ' + mitFunden.length + ' |');
 L.push('| Treffer gesamt | ' + gesamtFunde + ' |');
 L.push('| davon im Lektionsinhalt | ' + kurse.reduce((s, k) => s + k.imInhalt, 0) + ' |');
@@ -215,23 +236,23 @@ if (abgenommenMitFunden.length) {
   L.push('*`volltextabgenommen` misst gegen das Raster von damals. Diese Kurse tragen');
   L.push('das Siegel und Treffer nach dem heutigen Raster. Jeder Treffer einzeln beurteilen —');
   L.push('viele werden Distraktoren sein.*', '');
-  L.push('| Kurs | abgenommen gegen | Treffer | davon Inhalt | A | B | C | D | E |', '|---|---|---|---|---|---|---|---|---|');
+  L.push('| Kurs | abgenommen gegen | Treffer | davon Inhalt | A | B | C | D | E | F |', '|---|---|---|---|---|---|---|---|---|---|');
   for (const k of abgenommenMitFunden.slice().sort((a, b) => b.gesamt - a.gesamt)) {
     L.push('| **' + k.id + '** | `' + k.gegen + '` | **' + k.gesamt + '** | ' + k.imInhalt + ' | '
-      + k.proGruppe.A + ' | ' + k.proGruppe.B + ' | ' + k.proGruppe.C + ' | ' + k.proGruppe.D + ' | ' + k.proGruppe.E + ' |');
+      + k.proGruppe.A + ' | ' + k.proGruppe.B + ' | ' + k.proGruppe.C + ' | ' + k.proGruppe.D + ' | ' + k.proGruppe.E + ' | ' + k.proGruppe.F + ' |');
   }
   L.push('');
 }
 
 L.push('## Alle Kurse mit Treffern', '');
-L.push('| Kurs | abg. | Treffer | Inhalt | A | B | C | D | E |', '|---|---|---|---|---|---|---|---|---|');
+L.push('| Kurs | abg. | Treffer | Inhalt | A | B | C | D | E | F |', '|---|---|---|---|---|---|---|---|---|---|');
 for (const k of mitFunden.slice().sort((a, b) => b.gesamt - a.gesamt || a.id.localeCompare(b.id))) {
   L.push('| ' + k.id + ' | ' + (k.abgenommen ? '✅' : '—') + ' | **' + k.gesamt + '** | ' + k.imInhalt + ' | '
-    + k.proGruppe.A + ' | ' + k.proGruppe.B + ' | ' + k.proGruppe.C + ' | ' + k.proGruppe.D + ' | ' + k.proGruppe.E + ' |');
+    + k.proGruppe.A + ' | ' + k.proGruppe.B + ' | ' + k.proGruppe.C + ' | ' + k.proGruppe.D + ' | ' + k.proGruppe.E + ' | ' + k.proGruppe.F + ' |');
 }
 L.push('');
 L.push('Gruppen: A=' + GRUPPEN.A.name + ' · B=' + GRUPPEN.B.name + ' · C=' + GRUPPEN.C.name
-  + ' · D=' + GRUPPEN.D.name + ' · E=' + GRUPPEN.E.name);
+  + ' · D=' + GRUPPEN.D.name + ' · E=' + GRUPPEN.E.name + ' · F=' + GRUPPEN.F.name);
 L.push('');
 
 if (sauber.length) {
@@ -261,7 +282,7 @@ console.log('\n--- Ergebnis ---');
 console.log('Dateien ' + ids.length
   + ' · Treffer ' + gesamtFunde
   + ' · davon im Inhalt ' + kurse.reduce((s, k) => s + k.imInhalt, 0)
-  + ' · Kurse sauber ' + sauber.length
+  + ' · Treffer/1000Z ' + trefferJe1000
   + ' · abgenommen mit Treffern ' + abgenommenMitFunden.length);
 if (abgenommenMitFunden.length) {
   console.log('ACHTUNG abgenommen und dennoch Treffer: '

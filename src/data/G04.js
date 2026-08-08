@@ -404,7 +404,7 @@ Folgende Zustände schließen intensive Atemarbeit grundsätzlich aus:
 
 Starker Schwindel, der nicht nachlässt. Brustschmerzen. Extremes Herzrasen. Panik, die sich nicht regulieren lässt. Taubheitsgefühl, das sich auf den Brustbereich ausbreitet. Ohnmachtsgefühl. Desorientierung.
 
-In all diesen Fällen: Sofort zurück zur normalen Atmung. Beine anwinkeln. Wasser trinken. Nicht alleine lassen.
+In all diesen Fällen: Sofort zurück zur normalen Atmung. Beine anwinkeln. Wasser trinken. Nicht alleine lassen. Bei Brustschmerz, anhaltendem Herzrasen oder Bewusstlosigkeit: Notruf 112.
 
 ### Die Rolle des Begleiters
 

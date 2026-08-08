@@ -205,7 +205,7 @@
   },
   "P03": {
     "abgenommen_gegen": "9c49daa",
-    "notiz": "Volltextabnahme 06.08.2026 - 822 Zeilen gelesen, 37 Fundstellen behoben in 7 Commits: Kursbeschreibung, Zahlen/Autoritaet (60000 Gedanken, University College London, 21/66-Tage-Komplex an 8 Stellen), Wirkmechanismus in Erfahrungsform (Hormonspiegel, Vagusnerv, Theta/Alpha/Beta, synaptisch), Pflichtverweis 3x im Lektionstext (7/48/80 Prozent Leseweg), Quiz nachgezogen, Abbruchkriterium Phase 2. Vorher: Klasse 1 irrefuehrend, Pflichtsatz nur in Quizantwort Z. 804, Wortlaut verengt. ANKER1. Begriffs-Grep sauber. Offen: C5 Schutzhinweise (Z. 34, 269/294, 333, 494)."
+    "notiz": "Volltextabnahme 06.08.2026 - 822 Zeilen gelesen, 37 Fundstellen behoben in 7 Commits: Kursbeschreibung, Zahlen/Autoritaet (60000 Gedanken, University College London, 21/66-Tage-Komplex an 8 Stellen), Wirkmechanismus in Erfahrungsform (Hormonspiegel, Vagusnerv, Theta/Alpha/Beta, synaptisch), Pflichtverweis 3x im Lektionstext (7/48/80 Prozent Leseweg), Quiz nachgezogen, Abbruchkriterium Phase 2. Vorher: Klasse 1 irrefuehrend, Pflichtsatz nur in Quizantwort Z. 804, Wortlaut verengt. ANKER1. Begriffs-Grep sauber. C5 vollstaendig saniert 08.08.2026: ebf2bbf (C5.2 bis C5.5, Deutungszwang aufgeloest, Abbruchoption an drei Stellen), 315b40e (C5.1 Uebung Wort-Wirkung Runde 1, Selbstabwertung ersetzt). Offen C7: Mechanismusmodell im Widerstandskapitel (Kernaufgabe schuetzen, Veraenderung als Bedrohung eingestuft), Gruppe A ohne Ankerbegriff, J0-Klasse. Offen: Lektionstitel M5-L1 Morgenritual den Tag programmieren plus ein Restvorkommen Programmierung, Regel-31-Rest aus C1. abgenommen_gegen bleibt 9c49daa, kein zweites Gruen bei offener Achse."
   },
   "P04": {
     "abgenommen_gegen": null,

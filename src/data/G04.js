@@ -708,7 +708,7 @@ Für akuten Stress, Panik, Nervosität, Ärger:
 
 Für emotionale Balance und innere Klarheit im Alltag:
 
-**Morgens (aktivierend):** Kapalabhati (5 Minuten) — weckt auf und bringt Klarheit. Wenn du die Kälte-Atem-Praxis für dich geprüft hast, alternativ 3 Runden (15 Minuten). Für beide gelten die Kontraindikationen aus Modul 3 unverändert.
+**Morgens (aktivierend):** Kapalabhati, 3 Runden zu je 60 bis 100 Stößen wie in Modul 2 — nicht länger, auch wenn es leicht fällt — weckt auf und bringt Klarheit. Wenn du die Kälte-Atem-Praxis für dich geprüft hast, alternativ 3 Runden (15 Minuten). Für beide gelten die Kontraindikationen aus Modul 2 und 3 unverändert.
 
 **Mittags (balancierend):** 5 Minuten Nadi Shodhana (Wechselatmung). Balanciert die Gehirnhälften, löst die Mittagsträgheit, klärt den Geist für den Nachmittag.
 
@@ -718,11 +718,11 @@ Für emotionale Balance und innere Klarheit im Alltag:
 
 Einmal pro Woche eine längere Atempraxis. Optionen:
 
-20 Minuten Pranayama-Sequenz (Kapalabhati, Nadi Shodhana, Ujjayi, Bhramari in Folge). 30 Minuten verbundenes Atmen — in sicherer Umgebung und nur, wenn die Kontraindikationen aus Modul 3 für dich geklärt sind. 15 Minuten Kälte-Atem-Praxis + kalte Dusche, unter denselben Voraussetzungen. 45 Minuten Atemmeditation (einfach sitzen und den natürlichen Atem beobachten — die älteste und schlichteste Übung).
+20 Minuten Pranayama-Sequenz (Kapalabhati, Nadi Shodhana, Ujjayi, Bhramari in Folge). 30 Minuten verbundenes Atmen — in sicherer Umgebung und nur, wenn die Kontraindikationen aus Modul 3 für dich geklärt sind. Und nicht allein: Eine Person, die anwesend bleibt und nichts tun muss, außer da zu sein, genügt. 15 Minuten Kälte-Atem-Praxis + kalte Dusche, unter denselben Voraussetzungen. 45 Minuten Atemmeditation (einfach sitzen und den natürlichen Atem beobachten — die älteste und schlichteste Übung).
 
 ### Situationsbezogene Anwendungen
 
-**Wenn eine Prüfung oder ein Vortrag ansteht:** Box-Breathing + 2 Minuten Ujjayi. **Wenn du unruhig bist:** Langsame Bauchatmung mit verlängerter Ausatmung. **Wenn dir etwas nahegeht:** Seufzer-Atmung — tief ein, tönend "Aaah" aus, zulassen. **Wenn du müde bist:** 20 Runden Kapalabhati oder 2 Runden Bhastrika. **Wenn du dich geärgert hast:** 10 kräftige Ausatmungen durch den Mund (Löwen-Atem). **Wenn du dich vor einer Meditation sammeln willst:** 5 Minuten Nadi Shodhana, dann Stille. **Wenn du abends zur Ruhe kommen willst:** 4-7-8-Atmung, 4 Runden.
+**Wenn eine Prüfung oder ein Vortrag ansteht:** Box-Breathing + 2 Minuten Ujjayi. **Wenn du unruhig bist:** Langsame Bauchatmung mit verlängerter Ausatmung. **Wenn dir etwas nahegeht:** Seufzer-Atmung — tief ein, tönend "Aaah" aus, zulassen. **Wenn du müde bist:** 20 Runden Kapalabhati. Für Bhastrika gelten die Kontraindikationen aus Modul 2 und 3 unverändert — es ist keine Technik für zwischendurch. **Wenn du dich geärgert hast:** 10 kräftige Ausatmungen durch den Mund (Löwen-Atem). **Wenn du dich vor einer Meditation sammeln willst:** 5 Minuten Nadi Shodhana, dann Stille. **Wenn du abends zur Ruhe kommen willst:** 4-7-8-Atmung, 4 Runden.
 
 Diese Zuordnungen sind Anregungen für die eigene Übung, keine Anwendungsempfehlungen bei Beschwerden. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },

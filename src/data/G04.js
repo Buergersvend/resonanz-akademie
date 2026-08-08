@@ -559,7 +559,7 @@ Die ausgewogene Praxis kombiniert beides: kurze intensive Atemsessions plus eine
     {
       id: 'G04-M5',
       titel: 'Atem & Emotionen',
-      beschreibung: 'Die Verbindung zwischen Atemmuster und emotionalem Zustand verstehen, Atem als Werkzeug der emotionalen Regulation nutzen und Blockaden über den Atem lösen.',
+      beschreibung: 'Die Verbindung zwischen Atemmuster und emotionalem Zustand verstehen, Atem als Werkzeug der emotionalen Regulation nutzen und verstehen, was mit dem Bild der Atemblockade gemeint ist.',
       lektionen: [
         {
           id: 'G04-M5-L1',
@@ -568,7 +568,7 @@ Die ausgewogene Praxis kombiniert beides: kurze intensive Atemsessions plus eine
 
 ### Die Atem-Emotions-Spirale
 
-Jede Emotion hat ein eigenes Atemmuster. Beobachte dich selbst:
+Emotionen und Atem hängen eng zusammen. Viele Muster wiederholen sich — beobachte dich selbst:
 
 Wenn du ängstlich bist, wird dein Atem flach und schnell — er "wandert" in den oberen Brustbereich. Das Zwerchfell verkrampft. Du atmest kaum aus.
 
@@ -584,9 +584,9 @@ Diese Muster laufen automatisch ab — du wählst nicht bewusst, wie du in Angst
 
 ### Die Revolution: Es funktioniert in beide Richtungen
 
-Das Bahnbrechende ist: Die Verbindung ist bidirektional. Emotionen verändern den Atem — aber der Atem verändert auch Emotionen. Wenn du das Atemmuster der Angst willentlich umkehrst — langsam, tief, mit verlängerter Ausatmung —, sendet dein Körper dem Gehirn die Botschaft: "Keine Gefahr." Und die Angst beginnt sich zu lösen.
+Das Bahnbrechende ist: Die Verbindung ist bidirektional. Emotionen verändern den Atem — aber der Atem verändert auch Emotionen. Wenn du das Atemmuster der Angst willentlich umkehrst — langsam, tief, mit verlängerter Ausatmung —, sendet dein Körper dem Gehirn die Botschaft: "Keine Gefahr." Viele Menschen beschreiben, dass die Angst dabei nachlässt.
 
-Das ist keine Theorie — es ist Physiologie. Dein Gehirn prüft ständig den Zustand deines Körpers: Herzschlag, Muskelspannung, Atemfrequenz. Wenn der Körper "ruhig" signalisiert, passt das Gehirn die emotionale Bewertung an — auch wenn die äußere Situation unverändert ist.
+Dein Gehirn prüft ständig den Zustand deines Körpers: Herzschlag, Muskelspannung, Atemfrequenz. Wenn der Körper "ruhig" signalisiert, passt das Gehirn die emotionale Bewertung an — auch wenn die äußere Situation unverändert ist.
 
 ### Emotionale Atemmuster aufspüren
 
@@ -602,7 +602,7 @@ Du wirst feststellen, dass jede Emotion ein einzigartiges, wiedererkennbares Ate
         },
         {
           id: 'G04-M5-L2',
-          titel: 'Atemblockaden lösen — Wo der Atem stockt, stockt das Leben',
+          titel: 'Chronische Atemmuster — was gemeint ist, wenn von Atemblockaden die Rede ist',
           inhalt: `## Atemblockaden lösen
 
 ### Chronische Atemmuster als eingefrorene Emotionen
@@ -611,7 +611,7 @@ Ein akuter emotionaler Zustand verändert den Atem kurzfristig — Angst beschle
 
 Dann wird das akute Atemmuster zum chronischen Muster. Die Angst ist vielleicht vorbei, aber der Atem bleibt flach. Die Trauer wurde verdrängt, aber das Zwerchfell bleibt verkrampft. Der Körper hält an dem Muster fest — als würde er die Emotion in seiner Muskulatur und seiner Atemweise konservieren.
 
-Das Zwerchfell ist dabei der zentrale Speicher. Es liegt genau an der Grenze zwischen Brust (Herz, Lunge — obere Chakren) und Bauch (Verdauung, Sexualität — untere Chakren). Wenn das Zwerchfell chronisch verspannt ist, ist die Verbindung zwischen Oben und Unten — zwischen Fühlen und Handeln, zwischen Herz und Instinkt — unterbrochen.
+Dem Zwerchfell wird in dieser Sichtweise eine Schlüsselrolle zugeordnet. Es liegt genau an der Grenze zwischen Brust (Herz, Lunge) und Bauch (Verdauung, Becken). Wenn das Zwerchfell chronisch verspannt ist, ist die Verbindung zwischen Oben und Unten — zwischen Fühlen und Handeln, zwischen Herz und Instinkt — unterbrochen.
 
 ### Drei Techniken zur Blockadenlösung
 
@@ -621,11 +621,11 @@ Der Seufzer ist die natürlichste Form der Blockadenlösung. Menschen seufzen sp
 
 Mache den Seufzer bewusst: Atme tief ein — so tief, wie du kannst. Dann lass die Luft mit einem hörbaren "Aaaaahhh" heraus — lang, tönend, ohne Kontrolle. Lass den Ton rau, leise, laut, wackelig sein — was auch immer kommt. Wiederhole 5 bis 10 Mal.
 
-Das "Aaah" ist nicht zufällig: Der offene Vokal öffnet den Kehlkopf maximal, das Tönen vibriert das Zwerchfell, und der unkontrollierte Ausdruck löst die Kontrolle, die den Atem normalerweise überwacht.
+Das "Aaah" ist nicht zufällig: Der offene Vokal hält den Kehlkopf weit, und der ungeformte Ton macht es leichter, die Ausatmung nicht zu steuern.
 
 **Technik 2 — Zwerchfell-Befreiung**
 
-Lege dich auf den Rücken. Knie angewinkelt. Füße flach auf dem Boden. Lege beide Hände auf den Oberbauch — direkt unter dem Rippenbogen, wo das Zwerchfell sitzt.
+Lege dich auf den Rücken. Knie angewinkelt. Füße flach auf dem Boden. Lege beide Hände auf den Oberbauch — direkt unter dem Rippenbogen, wo das Zwerchfell sitzt. Nicht üben bei Schwangerschaft, frischen Bauchoperationen, Bauchwandbrüchen oder Beschwerden im Oberbauch.
 
 Atme langsam und tief ein. Spüre, wie sich das Zwerchfell unter deinen Händen nach unten bewegt. Beim Ausatmen: drücke sanft — sehr sanft — mit den Fingern in den Oberbauch und begleite das Zwerchfell beim Aufsteigen.
 
@@ -637,7 +637,7 @@ Der Druck bleibt dabei immer sanft. Wenn Schmerz auftritt, brich die Übung ab. 
 
 Nutze die Technik des verbundenen Atmens (Modul 3), aber mit einer spezifischen Absicht: Richte den Atem bewusst in die blockierte Zone. Wenn dein Brustbereich verschlossen ist, atme in die Brust. Wenn dein Bauch fest ist, atme in den Bauch. Stelle dir vor, dass jeder Atemzug Licht und Raum in den blockierten Bereich bringt.
 
-15 bis 20 Minuten verbundenes Atmen mit diesem Fokus können tiefgreifende Lösung bewirken. Allerdings: Begleitung ist ratsam, besonders bei intensiven Blockaden.`
+15 bis 20 Minuten verbundenes Atmen mit diesem Fokus. Viele Übende erleben diese Form als besonders eindrücklich. Allerdings: Begleitung ist ratsam, besonders bei intensiven Blockaden.`
         },
         {
           id: 'G04-M5-L3',
@@ -650,9 +650,9 @@ Unabhängig davon, welchen inneren Weg du gehst — Meditation, Chakra-Selbstwah
 
 ### Dein eigener Atem als Fundament
 
-Dein Atem ist dein wichtigstes Werkzeug. Er bestimmt, in welchem Zustand du bist — und wie präsent du dir selbst und anderen begegnest.
+Dein Atem ist dein wichtigstes Werkzeug. Er beeinflusst mit, in welchem Zustand du bist — und wie präsent du dir selbst und anderen begegnest.
 
-Vor einer Übung: 5 Minuten Kohärenzatmung (5,5 Sekunden ein, 5,5 Sekunden aus). Das bringt dich in einen Zustand optimaler Balance — geerdet, klar, empathisch, nicht reaktiv.
+Vor einer Übung: 5 Minuten Kohärenzatmung (5,5 Sekunden ein, 5,5 Sekunden aus). Viele Übende berichten, dass sie danach ruhiger und weniger reaktiv in die Übung gehen. Das stellt sich nicht bei jedem und nicht jedes Mal ein.
 
 Während der Übung: Ujjayi-Atmung hält dich fokussiert und verbunden. Der hörbare Atem gibt dir einen tragenden Rhythmus.
 
@@ -692,7 +692,7 @@ Dein Atem ist dein treuester Begleiter. Er ist mit dir, seit dem Moment deiner G
 
 ### Die richtige Technik für die richtige Situation
 
-Du hast in diesem Kurs Dutzende Atemtechniken kennengelernt — von sanft bis intensiv, von beruhigend bis aktivierend, von medizinisch fundiert bis spirituell tiefgreifend. Die Kunst liegt nicht darin, alle gleichzeitig zu praktizieren, sondern die richtige Technik im richtigen Moment einzusetzen.
+Du hast in diesem Kurs Dutzende Atemtechniken kennengelernt — von sanft bis intensiv, von beruhigend bis aktivierend, von gut untersucht bis traditionell überliefert. Die Kunst liegt nicht darin, alle gleichzeitig zu praktizieren, sondern die richtige Technik im richtigen Moment einzusetzen.
 
 ### Soforthilfe — 30 Sekunden bis 2 Minuten
 

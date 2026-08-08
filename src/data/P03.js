@@ -31,7 +31,7 @@ Affirmationen nutzen diesen Mechanismus bewusst und gezielt.`,
             titel: 'Wort-Wirkung erleben',
             anleitung: `Teste die Wirkung von Worten direkt an deinem Körper:
 
-Runde 1: Schließe die Augen und wiederhole 30 Sekunden lang innerlich: "Ich bin müde. Ich bin erschöpft. Alles ist anstrengend." — Beobachte deinen Körper. Was passiert?
+Runde 1: Schließe die Augen und wiederhole 30 Sekunden lang innerlich: "Der Tag war lang. Es liegt noch viel an. Die Zeit wird knapp." — Beobachte deinen Körper. Was passiert?
 
 Pause: 3 tiefe Atemzüge.
 

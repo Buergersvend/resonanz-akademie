@@ -751,13 +751,13 @@ Verknüpfe deine Atempraxis mit einer bestehenden Gewohnheit — Psychologen nen
 
 ### Tracking und Belohnung
 
-Führe ein einfaches Atemtagebuch oder nutze eine Streak-App. Notiere täglich: Was habe ich geübt? Wie lange? Wie fühle ich mich danach? Die Kombination aus Sichtbarkeit (du siehst deine Streak wachsen) und Reflexion (du erkennst die Wirkung) motiviert stärker als jede Theorie.
+Führe ein einfaches Atemtagebuch oder nutze eine Streak-App. Notiere täglich: Was habe ich geübt? Wie lange? Wie fühle ich mich danach? Die Kombination aus Sichtbarkeit (du siehst deine Streak wachsen) und Reflexion motiviert stärker als jede Theorie.
 
 ### Die Plateau-Phase
 
-Nach 3 bis 6 Wochen regelmäßiger Praxis kommt bei vielen Menschen ein Plateau: Die anfängliche Begeisterung lässt nach, die dramatischen Effekte der ersten Tage normalisieren sich, die Praxis fühlt sich "gewöhnlich" an. Dass die Praxis sich gewöhnlich anfühlt, sagt weder, dass sie wirkt, noch dass sie nicht wirkt. Wenn du nach mehreren Wochen nichts bemerkst, ist Aufhören eine sachliche Entscheidung und kein Abbruch. Die Veränderungen sind jetzt subtiler: besserer Schlaf, weniger Reaktivität, mehr Ruhe in Stresssituationen, höhere Grundenergie.
+Nach 3 bis 6 Wochen regelmäßiger Praxis kommt bei vielen Menschen ein Plateau: Die anfängliche Begeisterung lässt nach, die dramatischen Effekte der ersten Tage normalisieren sich, die Praxis fühlt sich "gewöhnlich" an. Dass die Praxis sich gewöhnlich anfühlt, sagt weder, dass sie wirkt, noch dass sie nicht wirkt. Wenn du nach mehreren Wochen nichts bemerkst, ist Aufhören eine sachliche Entscheidung und kein Abbruch. Viele Übende beschreiben Veränderungen, die eher beiläufig auffallen als deutlich: Schlaf, Reaktionsbereitschaft, Ruhe in Stresssituationen.
 
-Wenn du durch das Plateau hindurchgehst — weitermachst, ohne spektakuläre Erlebnisse zu erwarten — beginnt die eigentliche Veränderung. Die Atempraxis wird vom Werkzeug zur Lebensweise.
+Wer weitermacht, ohne spektakuläre Erlebnisse zu erwarten, erlebt die Praxis oft ruhiger und selbstverständlicher. Wer feststellt, dass sie ihm nichts bringt, darf sie auch lassen. Für manche bleibt sie ein Werkzeug für bestimmte Situationen, für andere wird sie fester Teil des Tages.
 
 Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
@@ -776,7 +776,7 @@ Atemtechniken sind mächtige Werkzeuge — und Macht erfordert Verantwortung. Ei
 
 **Der Atem gehört dir.** In deiner eigenen Praxis bestimmst allein du das Tempo. Du hast jederzeit das Recht, die Intensität zu reduzieren, eine Pause zu machen oder aufzuhören. Und wo du je gemeinsam mit anderen atmest, gilt dasselbe für sie: niemals jemanden drängen, "durchzuatmen", der nicht will.
 
-**Nachsorge ernst nehmen.** Intensive Atemarbeit kann Prozesse auslösen, die Tage oder Wochen nachwirken. Sorge für dich: Wisse, was nach einer intensiven Session auftauchen kann, und hol dir Unterstützung, wenn du sie brauchst. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
+**Nachsorge ernst nehmen.** Intensive Atemarbeit kann Prozesse auslösen, die Tage oder Wochen nachwirken. Sorge für dich: Wisse, was nach einer intensiven Session auftauchen kann. Halten Schlaflosigkeit, Angst oder Grübeln länger als ein paar Tage an, ist das kein Nachklang, den man aussitzt. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Was der Atem nicht kann
 

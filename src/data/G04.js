@@ -722,7 +722,7 @@ Einmal pro Woche eine längere Atempraxis. Optionen:
 
 ### Situationsbezogene Anwendungen
 
-**Vor einer Prüfung/Vortrag:** Box-Breathing + 2 Minuten Ujjayi. **Bei innerer Unruhe:** Langsame Bauchatmung mit verlängerter Ausatmung. **Bei Trauer:** Seufzer-Atmung — tief ein, tönend "Aaah" aus, zulassen. **Bei Müdigkeit:** 20 Runden Kapalabhati oder 2 Runden Bhastrika. **Bei Wut:** 10 kräftige Ausatmungen durch den Mund (Löwen-Atem). **Vor Meditation:** 5 Minuten Nadi Shodhana, dann Stille. **Vor dem Einschlafen:** 4-7-8-Atmung, 4 Runden.
+**Wenn eine Prüfung oder ein Vortrag ansteht:** Box-Breathing + 2 Minuten Ujjayi. **Wenn du unruhig bist:** Langsame Bauchatmung mit verlängerter Ausatmung. **Wenn dir etwas nahegeht:** Seufzer-Atmung — tief ein, tönend "Aaah" aus, zulassen. **Wenn du müde bist:** 20 Runden Kapalabhati oder 2 Runden Bhastrika. **Wenn du dich geärgert hast:** 10 kräftige Ausatmungen durch den Mund (Löwen-Atem). **Wenn du dich vor einer Meditation sammeln willst:** 5 Minuten Nadi Shodhana, dann Stille. **Wenn du abends zur Ruhe kommen willst:** 4-7-8-Atmung, 4 Runden.
 
 Diese Zuordnungen sind Anregungen für die eigene Übung, keine Anwendungsempfehlungen bei Beschwerden. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.`
         },
@@ -733,7 +733,7 @@ Diese Zuordnungen sind Anregungen für die eigene Übung, keine Anwendungsempfeh
 
 ### Warum gute Vorsätze scheitern — und was stattdessen funktioniert
 
-Die meisten Menschen, die einen Atemkurs absolvieren, sind begeistert. Sie spüren die Wirkung, sie verstehen die Mechanismen, sie nehmen sich vor, täglich zu üben. Zwei Wochen später übt nur noch ein kleiner Teil von ihnen. Nicht weil die Techniken nicht wirken — sondern weil der Übergang von der Begeisterung zur Gewohnheit der schwierigste Schritt ist.
+Die meisten Menschen, die einen Atemkurs absolvieren, sind begeistert. Sie spüren die Wirkung, sie verstehen die Mechanismen, sie nehmen sich vor, täglich zu üben. Zwei Wochen später übt nur noch ein kleiner Teil von ihnen. Manche, weil der Übergang zur Gewohnheit schwer ist. Andere, weil die Technik für sie nicht passt — auch das ist ein Ergebnis.
 
 ### Die Minimalismus-Strategie
 
@@ -741,7 +741,7 @@ Beginne kleiner, als du denkst. Nicht 20 Minuten am Tag — 2 Minuten. Nicht fü
 
 Zwei Minuten Box-Breathing morgens nach dem Aufstehen, bevor du dein Handy anschaust. Das ist alles. Zwei Minuten, die du nicht vergessen, nicht aufschieben und nicht als "zu aufwändig" empfinden kannst.
 
-Wenn du das 21 Tage am Stück geschafft hast, steigere auf 5 Minuten. Wenn du das 21 Tage geschafft hast, auf 10. Nicht vorher. Geduld ist hier wichtiger als Ambition.
+Wenn sich die zwei Minuten über einige Wochen eingespielt haben, steigere auf fünf, später auf zehn. Ein ausgelassener Tag setzt nichts zurück. Mehr als zehn Minuten täglich braucht eine Alltagspraxis nicht. Geduld ist hier wichtiger als Ambition.
 
 ### Anker setzen
 

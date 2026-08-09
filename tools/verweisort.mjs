@@ -31,18 +31,64 @@ const MUSTER = [
   { key: 'frag', kurz: 'Fragment', text: 'zu Arzt, Heilpraktiker oder Therapeut', flags: 'g' },
   {
     key: 'voll', kurz: 'Vollsatz',
-    text: 'Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.',
+    text: 'gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
     flags: 'g'
   }
 ];
 
 const ORTE = ['Inhalt', 'Quiz', 'Kopf'];
 
-// Selbsttest-Erwartungen: Reihenfolge Inhalt / Quiz / Kopf
+// Selbsttest-Erwartungen gegen den echten Bestand: Reihenfolge Inhalt / Quiz / Kopf.
+// Die Zahlen sind UNTERGRENZEN ("mindestens"), keine Punktwerte. Ein Kurs, der
+// zusaetzliche Verweise bekommt, darf den Selbsttest nicht rot faerben; nur ein
+// Verlust unter die Untergrenze ist ROT.
 const ERWARTUNG = {
-  G01: { abkl: [3, 2, 0], frag: [3, 1, 0], voll: [3, 0, 0] },
-  C03: { abkl: [0, 0, 0], frag: [0, 0, 0], voll: [0, 0, 0] },
-  G02: { abkl: [0, 0, 0], frag: [0, 0, 0], voll: [0, 0, 0] }
+  G01: { abkl: [3, 2, 0], frag: [3, 1, 0], voll: [3, 0, 0] }
+};
+
+// Synthetisches Pruefdokument. Prueft die Ortszuordnung an bekannten Treffern,
+// unabhaengig vom jeweiligen Bestand in src/data - anders als Eichkurse kann es
+// nicht durch eine Textaenderung im Kurs stillschweigend seine Aussage verlieren.
+// Aufbau: 'beschreibung:' vor jedem 'inhalt:'/'frage:' => Kopf. Danach ein
+// 'inhalt:'-Block, danach ein Quizblock mit 'frage:' und einer Antwortliste.
+// Wichtigster Fall: der Treffer in der QUIZANTWORT muss als Quiz zaehlen, nicht
+// als Inhalt (Lehre aus P03, 05.08. - Verweis in Quizantwort erzeugt falsches Gruen).
+// Jede Zeile traegt genau die Treffer, die im Kommentar dahinter stehen.
+const PRUEFDOKUMENT = [
+  "export const P99 = {",
+  "  id: 'P99',",
+  //                                                             Kopf: abkl 1, frag 1, voll 1
+  "  beschreibung: 'Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.',",
+  "  lektionen: [",
+  "    {",
+  //                                                           Inhalt: abkl 1, frag 1, voll 1
+  "      inhalt: `Inhalt A: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.",
+  //                                                           Inhalt: abkl 1, frag 1, voll 0
+  "Inhalt B: Zur Abklärung führt der Weg zu Arzt, Heilpraktiker oder Therapeut.",
+  //                                                           Inhalt: abkl 1, frag 0, voll 0
+  "Inhalt C: Beschwerden können auch von selbst abklingen.`,",
+  "      quiz: [",
+  "        {",
+  //                                                             Quiz: abkl 1, frag 1, voll 1
+  "          frage: 'Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut?',",
+  "          antworten: [",
+  //                                                             Quiz: abkl 1, frag 1, voll 0
+  "            'Zur Abklärung führt der Weg zu Arzt, Heilpraktiker oder Therapeut.',",
+  "          ],",
+  "        },",
+  "      ],",
+  "    },",
+  "  ],",
+  "};",
+  ""
+].join('\n');
+
+// Punktwerte, keine Untergrenzen: das Dokument steht hier im Code und kann sich
+// nicht unbemerkt aendern. Reihenfolge Inhalt / Quiz / Kopf.
+const PRUEF_ERWARTUNG = {
+  abkl: [3, 2, 1],
+  frag: [2, 2, 1],
+  voll: [1, 1, 1]
 };
 
 // ---------------------------------------------------------------- Hilfsfunktionen
@@ -64,6 +110,18 @@ function ortBei(text, pos) {
   const f = text.lastIndexOf('frage:', pos);
   if (i === -1 && f === -1) return 'Kopf';
   return i > f ? 'Inhalt' : 'Quiz';
+}
+
+// Zaehlt alle Muster eines Textes je Ort. Nutzt fundstellen() und ortBei(),
+// also genau denselben Weg wie die Messung ueber src/data.
+function messe(text) {
+  const werte = {};
+  for (const m of MUSTER) {
+    const z = { Inhalt: 0, Quiz: 0, Kopf: 0 };
+    for (const p of fundstellen(text, m)) z[ortBei(text, p)]++;
+    werte[m.key] = z;
+  }
+  return werte;
 }
 
 const ersteGruppe = (t, re) => { const m = t.match(re); return m ? m[1] : ''; };
@@ -139,16 +197,40 @@ const nachId = Object.fromEntries(zeilen.map(z => [z.id, z]));
 console.log('--- Selbsttest ---');
 let ok = true;
 
+// Ortszuordnung am synthetischen Pruefdokument. Laeuft zuerst: schlaegt sie fehl,
+// sind alle Bestandszahlen darunter ohnehin nicht zu gebrauchen.
+{
+  const werte = messe(PRUEFDOKUMENT);
+  for (const m of MUSTER) {
+    const ist = ORTE.map(o => werte[m.key][o]);
+    const e = PRUEF_ERWARTUNG[m.key];
+    if (ist.join('/') === e.join('/')) {
+      console.log('GRUEN Pruefdokument ' + m.kurz + ' ' + ist.join('/'));
+    } else {
+      console.log('ROT   Pruefdokument ' + m.kurz + ' ' + ist.join('/') + ' - erwartet genau ' + e.join('/'));
+      ok = false;
+    }
+  }
+  for (const o of ORTE) {
+    const a = werte.abkl[o], fr = werte.frag[o], v = werte.voll[o];
+    if (!(v <= fr && fr <= a)) {
+      console.log('ROT   Pruefdokument ' + o + ': Vollsatz ' + v + ' / Fragment ' + fr + ' / Abkl ' + a
+        + ' - Teilmengenordnung verletzt.');
+      ok = false;
+    }
+  }
+}
+
 for (const [id, soll] of Object.entries(ERWARTUNG)) {
   const z = nachId[id];
   if (!z) { console.log('ROT   ' + id + ' nicht gefunden'); ok = false; continue; }
   for (const m of MUSTER) {
     const ist = ORTE.map(o => z.werte[m.key][o]);
     const e = soll[m.key];
-    if (ist.join('/') === e.join('/')) {
-      console.log('GRUEN ' + id + ' ' + m.kurz + ' ' + ist.join('/'));
+    if (ist.every((n, i) => n >= e[i])) {
+      console.log('GRUEN ' + id + ' ' + m.kurz + ' ' + ist.join('/') + ' >= ' + e.join('/'));
     } else {
-      console.log('ROT   ' + id + ' ' + m.kurz + ' ' + ist.join('/') + ' - erwartet ' + e.join('/'));
+      console.log('ROT   ' + id + ' ' + m.kurz + ' ' + ist.join('/') + ' - erwartet mindestens ' + e.join('/'));
       ok = false;
     }
   }

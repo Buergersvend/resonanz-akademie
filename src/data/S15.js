@@ -311,7 +311,7 @@ Das Inkubations-Ritual: Am Abend nimmst du dir zehn Minuten für einen bewussten
 
 Was sich in solchen Träumen zeigt, kann verschiedene Formen annehmen: ein Bild, das eine Stimmung auf den Punkt bringt; eine Begegnung mit einer hilfreichen Figur; ein emotionaler Moment, der etwas löst; oder eine Szene, die wie eine Antwort auf deine Frage wirkt. Entscheidend ist, dass du das Erlebte anschließend ruhig betrachtest und für dich deutest.
 
-Hier ist eine klare Grenze wichtig: Trauminkubation ist ein Werkzeug der Selbstreflexion und Orientierung — keine Diagnose, keine medizinische Auskunft und keine Vorhersage der Zukunft. Erwarte keine Wunder und keine Heilbotschaften. Bei gesundheitlichen Fragen, körperlichen oder seelischen Beschwerden ist und bleibt die richtige Adresse die ärztliche oder therapeutische Praxis. Träume können dich anregen und begleiten — sie ersetzen niemals fachliche Abklärung und Behandlung.`,
+Hier ist eine klare Grenze wichtig: Trauminkubation ist ein Werkzeug der Selbstreflexion und Orientierung — keine Diagnose, keine medizinische Auskunft und keine Vorhersage der Zukunft. Erwarte keine Wunder und keine Heilbotschaften. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Träume können dich anregen und begleiten — sie ersetzen niemals fachliche Abklärung und Behandlung.`,
           uebung: {
             titel: 'Trauminkubation praktizieren',
             anleitung: `Führe eine Trauminkubation durch — drei Nächte mit derselben Frage:

@@ -195,7 +195,7 @@ Bemerkt man, dass jemand mit starken Reaktionen ringt, begegnet man dem ruhig un
 
 Konkret bedeutet das: Eine Meditationsanleitung diagnostiziert nicht, behandelt keine psychischen Erkrankungen, macht keine Heilversprechen und bearbeitet keine Traumata oder tiefen seelischen Themen therapeutisch. Meditation kann zwar das allgemeine Wohlbefinden fördern, ist aber kein Ersatz für Psychotherapie oder ärztliche Behandlung — und darf auch nicht als solcher dargestellt werden.
 
-Wenn in der Meditation tiefere seelische Themen, anhaltende Belastungen oder Hinweise auf psychische Erkrankungen sichtbar werden, ist die richtige Reaktion: einfühlsam und ruhig begleiten, Sicherheit geben — und behutsam an passende fachliche Hilfe verweisen, etwa an psychotherapeutische oder ärztliche Unterstützung. Das ist kein Versagen, sondern verantwortliches Handeln.
+Wenn in der Meditation tiefere seelische Themen, anhaltende Belastungen oder Hinweise auf psychische Erkrankungen sichtbar werden, ist die richtige Reaktion: einfühlsam und ruhig begleiten, Sicherheit geben — und behutsam an passende fachliche Hilfe verweisen. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Das ist kein Versagen, sondern verantwortliches Handeln.
 
 Besondere Umsicht ist geboten, wenn man weiß oder bemerkt, dass Menschen mit psychischen Belastungen meditieren möchten. Hier ist Zurückhaltung angebracht, und im Zweifel sollte die Person ermutigt werden, dies mit ihren behandelnden Fachleuten abzustimmen. Wer diese Grenze kennt und wahrt, schützt die anvertrauten Menschen und sich selbst — und macht das Anleiten zu einer seriösen, verantwortlichen Praxis.`,
         },

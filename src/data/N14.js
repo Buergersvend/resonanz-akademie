@@ -233,7 +233,7 @@ Diese Reihenfolge ist nicht verhandelbar: erst Arzt, dann Ergänzung. Wer sie ve
 
 Konkret heißt das: keine Deutung von Blut- oder Laborwerten, keine Aussagen darüber, ob jemand eine Schilddrüsenstörung hat, keine Empfehlung von Dosierungen, Präparaten oder dem Absetzen von Medikamenten. Stattdessen: zuhören, zu allgemeinem Wohlbefinden, ausgewogener Ernährung, Erholung und achtsamer Selbstwahrnehmung anregen — und konsequent an ärztliche Stellen verweisen, sobald körperliche Beschwerden im Raum stehen.
 
-Eine hilfreiche innere Leitfrage in jeder Begleitsituation lautet: „Bewege ich mich noch im Bereich von Wohlbefinden und Lebensstil — oder betrete ich gerade ärztliches Gebiet?" Im Zweifel immer der Verweis zum Arzt. Diese Frage schützt vor Überschreitungen, die weder erlaubt noch im Sinne der begleiteten Menschen sind.
+Eine hilfreiche innere Leitfrage in jeder Begleitsituation lautet: „Bewege ich mich noch im Bereich von Wohlbefinden und Lebensstil — oder betrete ich gerade ärztliches Gebiet?" Im Zweifel gilt: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Diese Frage schützt vor Überschreitungen, die weder erlaubt noch im Sinne der begleiteten Menschen sind.
 
 Diese Haltung schützt die begleiteten Menschen, schützt dich rechtlich und macht ganzheitliche Arbeit zu einer seriösen, vertrauenswürdigen Ergänzung der medizinischen Versorgung. Gerade beim heiklen Thema Schilddrüse ist diese Klarheit kein Hindernis, sondern das Fundament guter, verantwortlicher Arbeit.`,
         },

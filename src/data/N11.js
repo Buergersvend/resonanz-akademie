@@ -444,7 +444,7 @@ Die gesunde Haltung verbindet beides richtig: achtsam wahrnehmen, wie es einem g
 
 ### Für die Begleitung
 
-Wenn du dieses Wissen weitergibst, ist die Unterscheidung zentral. Du darfst Menschen ermutigen, achtsam auf sich zu hören und gut für sich zu sorgen. Du deutest aber keine Anzeichen als "Mangel" und stellst keine Vermutungen über Ursachen an. Bei allem, was über allgemeines Wohlbefinden hinausgeht, ist der Verweis an den Arzt der richtige Weg. Diese Klarheit schützt — und sie ist ein Zeichen von Kompetenz, nicht von Begrenzung.
+Wenn du dieses Wissen weitergibst, ist die Unterscheidung zentral. Du darfst Menschen ermutigen, achtsam auf sich zu hören und gut für sich zu sorgen. Du deutest aber keine Anzeichen als "Mangel" und stellst keine Vermutungen über Ursachen an. Bei allem, was über allgemeines Wohlbefinden hinausgeht, gilt: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Diese Klarheit schützt — und sie ist ein Zeichen von Kompetenz, nicht von Begrenzung.
 
 ### Übung: Wahrnehmen ohne zu urteilen
 

@@ -758,7 +758,7 @@ Reiki ist ein Weg, kein Ziel. Mit jeder Woche täglicher Praxis vertieft sich de
 
 ### Erinnerung
 
-Dieser Kurs ist ein Weg der Selbsterfahrung und Energiehygiene. Er dient deinem persönlichen Wohlbefinden und ersetzt keine medizinische oder therapeutische Behandlung. Bei körperlichen oder seelischen Beschwerden wende dich bitte an eine Ärztin, einen Arzt, eine Heilpraktikerin oder eine Psychotherapeutin.
+Dieser Kurs ist ein Weg der Selbsterfahrung und Energiehygiene. Er dient deinem persönlichen Wohlbefinden und ersetzt keine medizinische oder therapeutische Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 ### Übung: Dein Reiki-Versprechen an dich selbst
 

@@ -350,7 +350,7 @@ Erhöhte Aufmerksamkeit ist geboten bei Menschen, die regelmäßig oder dauerhaf
 
 ### Deine Rolle
 
-Deine Aufgabe ist eindeutig und wertvoll: Du machst konsequent auf die Möglichkeit von Wechselwirkungen aufmerksam und verweist an Arzt oder Apotheke. Du beurteilst Wechselwirkungen niemals selbst — das wäre weit jenseits dessen, was eine begleitende Person leisten kann und darf. Dieser eine Hinweis — "Bitte besprich das mit deiner Apotheke" — kann ernsten Schaden verhindern.
+Wechselwirkungen sind der Punkt, an dem Selbstinformation endet: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut, bei Fragen zu Präparaten auch zur Apotheke. Du beurteilst Wechselwirkungen niemals selbst — das wäre weit jenseits dessen, was eine begleitende Person leisten kann und darf. Dieser eine Hinweis — "Bitte besprich das mit deiner Apotheke" — kann ernsten Schaden verhindern.
 
 ### Übung: Den Wechselwirkungs-Reflex
 

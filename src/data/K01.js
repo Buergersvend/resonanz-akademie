@@ -413,7 +413,7 @@ In diesem Modul hast du ein tägliches 10-Minuten-Protokoll erstellt, das Aktivi
 
 Du bist jetzt in der Lage, dein Energiesystem selbstständig wahrzunehmen und zu harmonisieren. Das ist eine Fähigkeit, die mit jedem Tag des Übens wächst — deine Sensibilität nimmt zu, deine Übungen werden vertrauter und das Wohlbefinden tiefer.
 
-Zur Erinnerung: Dieser Kurs ist ein Weg der Selbsterfahrung und Achtsamkeit. Er dient deinem persönlichen Wohlbefinden und ersetzt keine medizinische oder therapeutische Behandlung. Bei körperlichen oder seelischen Beschwerden wende dich bitte an eine Ärztin, einen Arzt, eine Heilpraktikerin oder eine Psychotherapeutin.
+Zur Erinnerung: Dieser Kurs ist ein Weg der Selbsterfahrung und Achtsamkeit. Er dient deinem persönlichen Wohlbefinden und ersetzt keine medizinische oder therapeutische Behandlung. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.
 
 Es gibt vertiefende Kurse, die an dieses Wissen anschließen: Organsprache (K02), Schutzarbeit & Energiehygiene (G11) für fortgeschrittene Schutztechniken oder die Meditationskurse für mehr innere Ruhe.
 

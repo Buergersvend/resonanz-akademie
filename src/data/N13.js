@@ -244,7 +244,7 @@ Treten nach einer Anwendung Rötung, Brennen, Juckreiz, Schwellung oder Bläsche
 
 Konkret bedeutet das: keine Diagnose von Hauterkrankungen, keine Aussagen darüber, was jemand „hat", keine Heilversprechen, keine Empfehlung, ärztliche Behandlungen abzusetzen oder zu ersetzen. Stattdessen: zuhören, zu achtsamer Hautwahrnehmung, ausgewogener Ernährung, sanfter Pflege und gutem Lebensstil anregen — und konsequent an ärztliche Stellen verweisen, sobald auffällige oder anhaltende Hautveränderungen im Raum stehen.
 
-Eine hilfreiche innere Leitfrage in jeder Begleitsituation lautet: „Bewege ich mich noch im Bereich von Pflege und Wohlbefinden — oder betrete ich gerade ärztliches Gebiet?" Im Zweifel immer der freundliche, selbstverständliche Verweis zum Arzt. Das ist kein Eingeständnis von Unwissen, sondern Ausdruck von Verantwortung.
+Eine hilfreiche innere Leitfrage in jeder Begleitsituation lautet: „Bewege ich mich noch im Bereich von Pflege und Wohlbefinden — oder betrete ich gerade ärztliches Gebiet?" Im Zweifel gilt: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Das ist kein Eingeständnis von Unwissen, sondern Ausdruck von Verantwortung.
 
 So verstanden, ist ganzheitliche Hautpflege eine wertvolle, seriöse Ergänzung: Sie stärkt die Beziehung der Menschen zu ihrer Haut und ihrem Körper, fördert achtsame Selbstfürsorge und einen gesunden Lebensstil — und kennt zugleich ihre Grenzen genau. Genau diese Verbindung aus Tiefe und Klarheit macht die Arbeit vertrauenswürdig.`,
         },

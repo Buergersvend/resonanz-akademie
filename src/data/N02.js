@@ -303,7 +303,7 @@ Man vermittelt praktisches Natur-, Garten- und Genusswissen: wie man Kräuter zi
 
 Im Rahmen nicht-heilkundlicher Tätigkeit ist die Weitergabe von Garten-, Küchen- und Genusswissen unproblematisch und bereichernd. Sobald man jedoch beginnt, Pflanzen zur Linderung von Beschwerden zu empfehlen oder gesundheitliche Wirkungen zu versprechen, überschreitet man die Grenze zur Heilkunde — mit allen rechtlichen Folgen. Diese Linie im Blick zu behalten, schützt einen selbst und die Menschen, denen man etwas weitergibt.
 
-Eine hilfreiche innere Leitfrage lautet: „Bewege ich mich noch im Bereich von Genuss, Küche und Garten — oder betrete ich gerade gesundheitliches Gebiet?" Sobald eine Frage in Richtung Beschwerden, Behandlung oder gezielte gesundheitliche Wirkung geht, ist der freundliche Verweis an Arzt oder Apotheke der richtige Weg.
+Eine hilfreiche innere Leitfrage lautet: „Bewege ich mich noch im Bereich von Genuss, Küche und Garten — oder betrete ich gerade gesundheitliches Gebiet?" Sobald eine Frage in Richtung Beschwerden, Behandlung oder gezielte gesundheitliche Wirkung geht, gilt: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut, bei Fragen zu Zubereitung und Sicherheit auch zur Apotheke.
 
 So verstanden, ist die Weitergabe von Pflanzenwissen ein schönes Geschenk: Sie verbindet Menschen mit der Natur, weckt Freude und Wissensdurst und fördert einen mündigen, sicheren Umgang mit der Pflanzenwelt. Diese Verbindung aus Begeisterung und Verantwortung ist das Beste, was man weitergeben kann — und der bleibende Wert dieses Kurses.
 

@@ -838,7 +838,7 @@ Die topische Anwendung — das Auftragen auf die Haut — verbindet zwei Erlebni
 - Eine wärmende Pflege für den unteren Rücken (Lavendel, Muskatellersalbei)
 - Eine pflegende Brustanwendung mit frischen Düften (Eukalyptus radiata)
 
-Hinweis: Diese Anwendungen dienen dem Wohlbefinden und der Pflege. Bei gesundheitlichen Beschwerden wende dich bitte an Ärztin, Arzt, Apotheke oder Heilpraktiker.
+Hinweis: Diese Anwendungen dienen dem Wohlbefinden und der Pflege. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut; bei Fragen zu Anwendung und Sicherheit ätherischer Öle auch zur Apotheke.
 
 ### Patch-Test — immer zuerst
 

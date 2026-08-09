@@ -223,7 +223,7 @@ Anspannung im seitlichen Schläfenbereich wird in der TCM dem Gallenblasenmeridi
 
 Anspannung im Nacken und Hinterkopf wird mit dem Blasenmeridian in Verbindung gebracht. Fengchi (Gb20), Kunlun (Bl60) hinter dem Außenknöchel und Weizhong (Bl40) in der Kniekehle bilden die Sequenz.
 
-Wichtiger Hinweis: Akupressur ist hier ausschließlich als Wohlfühl- und Entspannungsanwendung gedacht. Bei echten Kopfschmerzen oder Migräne — insbesondere wenn sie plötzlich, ungewöhnlich stark oder mit weiteren Symptomen auftreten — gehört die Abklärung in ärztliche Hand. Akupressur ersetzt keine medizinische Untersuchung oder Behandlung.`,
+Wichtiger Hinweis: Akupressur ist hier ausschließlich als Wohlfühl- und Entspannungsanwendung gedacht. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut — insbesondere bei Kopfschmerzen, die plötzlich, ungewöhnlich stark oder mit weiteren Symptomen auftreten. Akupressur ersetzt keine medizinische Untersuchung oder Behandlung.`,
           uebung: {
             titel: 'Entspannungs-Sequenz für den Kopf',
             anleitung: `Führe die folgende Entspannungs-Sequenz an dir selbst durch:

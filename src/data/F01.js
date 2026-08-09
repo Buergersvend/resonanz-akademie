@@ -291,7 +291,7 @@ Man vermittelt Bildung und Selbstwahrnehmung: Wissen über den Zyklus, Anleitung
 
 Im Rahmen nicht-heilkundlicher Tätigkeit ist die Weitergabe von allgemeinem Zykluswissen und die Anleitung zur Selbstwahrnehmung unproblematisch und wertvoll. Sobald man jedoch beginnt, Beschwerden zu deuten, „Ursachen" zu benennen oder zu behandeln, überschreitet man die Grenze zur Heilkunde — mit allen rechtlichen Folgen. Diese Grenze im Blick zu behalten, schützt die begleiteten Menschen und einen selbst.
 
-Eine hilfreiche innere Leitfrage lautet: „Bewege ich mich noch im Bereich von Bildung, Selbstwahrnehmung und Wohlbefinden — oder betrete ich gerade gesundheitliches, ärztliches Gebiet?" Sobald eine Frage in Richtung Beschwerden, Diagnose oder Behandlung geht, ist der freundliche, selbstverständliche Verweis an die Frauenärztin oder den Arzt der richtige Weg.
+Eine hilfreiche innere Leitfrage lautet: „Bewege ich mich noch im Bereich von Bildung, Selbstwahrnehmung und Wohlbefinden — oder betrete ich gerade gesundheitliches, ärztliches Gebiet?" Sobald eine Frage in Richtung Beschwerden, Diagnose oder Behandlung geht, gilt: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut — bei Zyklusfragen insbesondere zur frauenärztlichen Praxis.
 
 So verstanden, ist die Weitergabe von Zykluswissen ein wertvoller Beitrag: Sie hilft Menschen, sich selbst besser zu verstehen, achtsamer mit sich umzugehen und das eigene Leben bewusster zu gestalten — und sie kennt zugleich ihre Grenzen genau. Genau diese Verbindung aus Wissen und Klarheit macht die Begleitung seriös und vertrauenswürdig.
 

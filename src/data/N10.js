@@ -562,7 +562,7 @@ Eine pflanzenbetonte Ernährung gelingt am besten mit Vielfalt und ein wenig Bew
 
 ### Die Begleiter-Perspektive
 
-Du kannst Menschen, die pflanzenbetont essen möchten, mit allgemeinem Wissen und Küchen-Inspiration wunderbar begleiten: Eiweißkombinationen, bunte Vielfalt, Bioverfügbarkeits-Tricks. Sobald es konkret um die Versorgung mit kritischen Nährstoffen wie B12 oder um die Frage nach Ergänzungsmitteln geht, ist der Verweis an Arzt oder Apotheke der richtige und sichere Weg. So bleibt deine Begleitung wertvoll und verantwortungsvoll.
+Du kannst Menschen, die pflanzenbetont essen möchten, mit allgemeinem Wissen und Küchen-Inspiration wunderbar begleiten: Eiweißkombinationen, bunte Vielfalt, Bioverfügbarkeits-Tricks. Sobald es konkret um die Versorgung mit kritischen Nährstoffen wie B12 oder um die Frage nach Ergänzungsmitteln geht, ist die Apotheke die richtige Adresse. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. So bleibt deine Begleitung wertvoll und verantwortungsvoll.
 
 ### Übung: Pflanzlicher Teller
 

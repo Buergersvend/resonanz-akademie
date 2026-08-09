@@ -244,7 +244,7 @@ Eine hilfreiche Leitfrage lautet: „Bewege ich mich noch im Bereich von Wohlbef
 
 Wir haben gesehen, wie eine ballaststoffreiche, pflanzenvielfältige Ernährung, ausreichend Trinken, Bewegung, ein guter Rhythmus, Stressausgleich und achtsames Essen das Wohlbefinden unterstützen können — als sichere, allgemeine Selbstfürsorge. Die energetisch-symbolische Ebene hat den Bauch als Ort von Gefühl und Intuition beleuchtet und zu mehr Achtsamkeit und innerem Einklang eingeladen.
 
-Durchgehend zogen sich zwei Linien: die kritische Haltung gegenüber Mikrobiom-Hype und Wunderversprechen sowie die klare Grenze zur Heilkunde — keine Diagnose, keine Behandlung, keine Heilversprechen, bei Beschwerden der Verweis an den Arzt. Diese Klarheit macht das Wissen erst verantwortbar.
+Durchgehend zogen sich zwei Linien: die kritische Haltung gegenüber Mikrobiom-Hype und Wunderversprechen sowie die klare Grenze zur Heilkunde — keine Diagnose, keine Behandlung, keine Heilversprechen, und bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. Diese Klarheit macht das Wissen erst verantwortbar.
 
 Die Haltung, die dieser Kurs vermitteln will, verbindet Faszination für ein wunderbares Organ mit nüchternem, kritischem Denken und klaren Grenzen. Wer den Darm so versteht — mit Wissen, Wertschätzung, Selbstfürsorge und dem klaren Bewusstsein, wann ärztlicher Rat nötig ist —, kann viel für sein Wohlbefinden tun und dieses Wissen verantwortlich weitergeben. Das ist der bleibende Wert dieses Kurses.`,
         },

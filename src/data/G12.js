@@ -130,7 +130,7 @@ Eine einfache Form ist das achtsame Gehen mit bewusstem Atem: langsam gehen, den
 
 Auch sanfte, ruhige Bewegungen im Stand können hinzukommen: sich genussvoll dehnen, die Arme im Rhythmus des Atems heben und senken, den Körper lockern, das Gesicht der Sonne oder dem Wind zuwenden. Solche einfachen, achtsamen Bewegungen lösen Anspannung und verbinden mit dem eigenen Körper und der Umgebung.
 
-Wichtig bleibt auch hier die sanfte, sichere Haltung: Es geht um Wohlgefühl und Achtsamkeit, nicht um Leistung oder forcierte Technik. Jeder bewegt und atmet in seinem angenehmen Maß. Bei körperlichen Einschränkungen oder Beschwerden gilt: nur tun, was guttut, und im Zweifel ärztlich abklären, welche Bewegung geeignet ist. In diesem Rahmen ist die Verbindung von Atem, Bewegung und Natur ein wunderbarer Weg zu Entspannung und Präsenz.`,
+Wichtig bleibt auch hier die sanfte, sichere Haltung: Es geht um Wohlgefühl und Achtsamkeit, nicht um Leistung oder forcierte Technik. Jeder bewegt und atmet in seinem angenehmen Maß. Bei körperlichen Einschränkungen oder Beschwerden gilt: nur tun, was guttut, und im Zweifel ärztlich abklären, welche Bewegung geeignet ist. Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut. In diesem Rahmen ist die Verbindung von Atem, Bewegung und Natur ein wunderbarer Weg zu Entspannung und Präsenz.`,
         },
       ],
     },

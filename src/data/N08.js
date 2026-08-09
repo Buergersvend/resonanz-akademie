@@ -225,7 +225,7 @@ Konkret bedeutet das: keine Diagnose nach TCM-Schemata, keine Puls- oder Zungend
 
 Wer TCM-Verfahren tatsächlich therapeutisch anwenden möchte, bewegt sich im Bereich der Heilkunde, für den in Deutschland eine entsprechende Qualifikation und Erlaubnis erforderlich ist. Die Vermittlung des TCM-Denkens als Kultur- und Reflexionswissen sowie die Förderung eines ausgewogenen Lebensstils dagegen sind im nicht-heilkundlichen Rahmen möglich und wertvoll.
 
-Bei gesundheitlichen Beschwerden gilt ausnahmslos: Der Arzt oder die Ärztin ist die richtige Anlaufstelle, ergänzt durch die Apotheke. Anhaltende, starke oder ungewöhnliche Beschwerden gehören ärztlich abgeklärt — nicht in eine Deutung nach TCM-Bildern. Diese Grenze schützt die Menschen und macht den Umgang mit dem Thema verantwortlich.`,
+Ausnahmslos gilt: Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut, ergänzt durch die Apotheke. Anhaltende, starke oder ungewöhnliche Beschwerden gehören ärztlich abgeklärt — nicht in eine Deutung nach TCM-Bildern. Diese Grenze schützt die Menschen und macht den Umgang mit dem Thema verantwortlich.`,
         },
         {
           id: 'N08-M6-L2',

@@ -317,7 +317,7 @@ const md = [
   '',
   '**Muster:**',
   '',
-  '| # | Muster | Gross-/Kleinschreibung |',
+  '| # | Muster | Vergleich |',
   '|---|---|---|',
   '| Abkl | `Abkl` | egal (wie `/abkl/i` in `kursmatrix.mjs` Z. 42) |',
   '| Fragment | `zu Arzt, Heilpraktiker oder Therapeut` | **Kernwortlaut** (wie `.includes()` in `kursmatrix.mjs` Z. 46) |',
@@ -337,7 +337,7 @@ const md = [
   '',
   '## LIVE-Kurse',
   '',
-  '| Kurs | Titel | Abkl I | Abkl Q | Abkl K | Frag I | Frag Q | Frag K | Voll I | Voll Q | Voll K |',
+  '| Kurs | Titel | Abkl I | Abkl Q | Abkl K | Frag I | Frag Q | Frag K | Kern I | Kern Q | Kern K |',
   '|---|---|---|---|---|---|---|---|---|---|---|'
 ]
   .concat(live.slice()
@@ -348,7 +348,7 @@ const md = [
       + MUSTER.map(m => ORTE.map(o => z.werte[m.key][o]).join(' | ')).join(' | ') + ' |'))
   .concat([
     '',
-    'Spalten: I=Inhalt · Q=Quiz · K=Kopf. Sortiert nach `Voll I` aufsteigend —',
+    'Spalten: I=Inhalt · Q=Quiz · K=Kopf. Sortiert nach `Kern I` aufsteigend —',
     'oben steht, was im Lektionstext fehlt.',
     ''
   ])
@@ -368,7 +368,7 @@ const md = [
     '',
     '## `coming` (nicht oeffentlich abrufbar, nicht in den Kennzahlen)',
     '',
-    '| Kurs | Abkl I | Abkl Q | Abkl K | Frag I | Frag Q | Frag K | Voll I | Voll Q | Voll K |',
+    '| Kurs | Abkl I | Abkl Q | Abkl K | Frag I | Frag Q | Frag K | Kern I | Kern Q | Kern K |',
     '|---|---|---|---|---|---|---|---|---|---|'
   ])
   .concat(coming.map(z => '| ' + z.id + ' | '

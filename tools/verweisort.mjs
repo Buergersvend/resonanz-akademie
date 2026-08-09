@@ -30,7 +30,7 @@ const MUSTER = [
   { key: 'abkl', kurz: 'Abkl', text: 'Abkl', flags: 'gi' },
   { key: 'frag', kurz: 'Fragment', text: 'zu Arzt, Heilpraktiker oder Therapeut', flags: 'g' },
   {
-    key: 'voll', kurz: 'Vollsatz',
+    key: 'voll', kurz: 'Pflichtsatz-Kern',
     text: 'gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut',
     flags: 'g'
   }
@@ -214,7 +214,7 @@ let ok = true;
   for (const o of ORTE) {
     const a = werte.abkl[o], fr = werte.frag[o], v = werte.voll[o];
     if (!(v <= fr && fr <= a)) {
-      console.log('ROT   Pruefdokument ' + o + ': Vollsatz ' + v + ' / Fragment ' + fr + ' / Abkl ' + a
+      console.log('ROT   Pruefdokument ' + o + ': Pflichtsatz-Kern ' + v + ' / Fragment ' + fr + ' / Abkl ' + a
         + ' - Teilmengenordnung verletzt.');
       ok = false;
     }
@@ -236,19 +236,19 @@ for (const [id, soll] of Object.entries(ERWARTUNG)) {
   }
 }
 
-// Monotonie: Vollsatz enthaelt Fragment enthaelt Abkl. Je Ort muss gelten
+// Monotonie: Pflichtsatz-Kern enthaelt Fragment enthaelt Abkl. Je Ort muss gelten
 // voll <= frag <= abkl. Bricht das, ist die Ortsbestimmung selbst defekt.
 for (const z of zeilen) {
   for (const o of ORTE) {
     const a = z.werte.abkl[o], fr = z.werte.frag[o], v = z.werte.voll[o];
     if (!(v <= fr && fr <= a)) {
-      console.log('ROT   ' + z.id + ' ' + o + ': Vollsatz ' + v + ' / Fragment ' + fr + ' / Abkl ' + a
+      console.log('ROT   ' + z.id + ' ' + o + ': Pflichtsatz-Kern ' + v + ' / Fragment ' + fr + ' / Abkl ' + a
         + ' - Teilmengenordnung verletzt.');
       ok = false;
     }
   }
 }
-if (ok) console.log('GRUEN Teilmengenordnung Vollsatz <= Fragment <= Abkl haelt in allen ' + zeilen.length + ' Dateien');
+if (ok) console.log('GRUEN Teilmengenordnung Pflichtsatz-Kern <= Fragment <= Abkl haelt in allen ' + zeilen.length + ' Dateien');
 
 if (!ok) {
   console.log('\nERGEBNIS: ROT - nichts geschrieben.');
@@ -320,18 +320,18 @@ const md = [
   '| # | Muster | Gross-/Kleinschreibung |',
   '|---|---|---|',
   '| Abkl | `Abkl` | egal (wie `/abkl/i` in `kursmatrix.mjs` Z. 42) |',
-  '| Fragment | `zu Arzt, Heilpraktiker oder Therapeut` | **exakt** (wie `.includes()` in `kursmatrix.mjs` Z. 46) |',
-  '| Vollsatz | vollstaendiger Pflichtsatz | **exakt** |',
+  '| Fragment | `zu Arzt, Heilpraktiker oder Therapeut` | **Kernwortlaut** (wie `.includes()` in `kursmatrix.mjs` Z. 46) |',
+  '| Pflichtsatz-Kern | `geh\u00f6rt die Abkl\u00e4rung zu Arzt, Heilpraktiker oder Therapeut` | **Kernwortlaut** |',
   '',
-  'Es gilt per Konstruktion Vollsatz \u2264 Fragment \u2264 Abkl je Ort.',
+  'Es gilt per Konstruktion Pflichtsatz-Kern \u2264 Fragment \u2264 Abkl je Ort.',
   '',
   '## Kennzahlen (LIVE)',
   '',
   '| Kennzahl | Wert |',
   '|---|---|',
   '| LIVE-Kurse | **' + live.length + '** |',
-  '| Kurse mit `Vollsatz_Inhalt >= 1` | **' + vollInhalt1.length + ' / ' + live.length + '** |',
-  '| Kurse mit `Vollsatz_Inhalt >= 3` | **' + vollInhalt3.length + ' / ' + live.length + '** |',
+  '| Kurse mit `Pflichtsatz-Kern_Inhalt >= 1` | **' + vollInhalt1.length + ' / ' + live.length + '** |',
+  '| Kurse mit `Pflichtsatz-Kern_Inhalt >= 3` | **' + vollInhalt3.length + ' / ' + live.length + '** |',
   '',
   '---',
   '',
@@ -380,7 +380,7 @@ fs.writeFileSync(OUT_MD, md, 'utf8');   // utf8 ohne BOM
 
 console.log('\n--- Ergebnis ---');
 console.log('LIVE ' + live.length
-  + ' · Vollsatz im Inhalt >=1 ' + vollInhalt1.length
+  + ' · Pflichtsatz-Kern im Inhalt >=1 ' + vollInhalt1.length
   + ' · >=3 ' + vollInhalt3.length
   + ' · Warnungen ' + warnungen.length
   + ' · Dateien gelesen ' + zeilen.length);

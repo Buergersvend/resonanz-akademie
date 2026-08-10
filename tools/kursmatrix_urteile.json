@@ -1,286 +1,428 @@
 {
   "B01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "B02": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "B08": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "B09": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "B10": {
     "abgenommen_gegen": null,
-    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen - Verweis in Eigenformulierung (Aerztin/Arzt) war vorhanden, exakte Kette fehlte - 11 Lektionen, unter Umfangsstandard"
+    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen - Verweis in Eigenformulierung (Aerztin/Arzt) war vorhanden, exakte Kette fehlte - 11 Lektionen, unter Umfangsstandard",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "B14": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "C01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "C02": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "C03": {
     "abgenommen_gegen": null,
-    "notiz": "Aus Serienlauf 30.07.2026 ausgenommen: Quizblock liegt vor der letzten Lektion, Dateistruktur weicht ab - Pflichtverweis weiterhin 0x"
+    "notiz": "Aus Serienlauf 30.07.2026 ausgenommen: Quizblock liegt vor der letzten Lektion, Dateistruktur weicht ab - Pflichtverweis weiterhin 0x",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "C04": {
     "abgenommen_gegen": null,
-    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen - ANKER1 offen"
+    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen - ANKER1 offen",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "C06": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "C07": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "C08": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "C09": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "C10": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "E01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "F01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "F02": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "F03": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "F04": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "G01": {
     "abgenommen_gegen": "12c52d1",
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": "v2.0",
+    "schutzstrang": "ungeprueft"
   },
   "G02": {
     "abgenommen_gegen": null,
-    "notiz": "Aus Serienlauf 30.07.2026 ausgenommen: Zeilenenden gemischt (MIX), gehoert zum .gitattributes-Vorgang - Pflichtverweis weiterhin 0x"
+    "notiz": "Aus Serienlauf 30.07.2026 ausgenommen: Zeilenenden gemischt (MIX), gehoert zum .gitattributes-Vorgang - Pflichtverweis weiterhin 0x",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "G03": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "G04": {
-    "abgenommen_gegen": "17b76b1f29b643a9c1502e2e6a243f5090f11b2f",
-    "notiz": "Volltextabnahme 28.07.2026 - 22 Funde behoben (Quellenschutz, Wirkversprechen, Verweisgrenze, ANKER1). Offen: beschreibung Z14 -> Sanierungsqueue."
+    "abgenommen_gegen": null,
+    "notiz": "Siegel 28.07. entfernt: Hash war ein Anker-Commit, keine Abnahme. Neusetzung nach Nachtrag v2.1.",
+    "rasterstand": null,
+    "schutzstrang": "geprueft"
   },
   "G05": {
     "abgenommen_gegen": null,
-    "notiz": "Klasse 2 ohne jeden abkl-Treffer: nennt Heilpraktiker, verweist aber nirgends. \"Wortlaut pruefen\" ist irrefuehrend, es gibt keinen Verweis."
+    "notiz": "Klasse 2 ohne jeden abkl-Treffer: nennt Heilpraktiker, verweist aber nirgends. \"Wortlaut pruefen\" ist irrefuehrend, es gibt keinen Verweis.",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "G06": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "G07": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "G08": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "G09": {
     "abgenommen_gegen": "3a97cc3e2de1bbe5fb1cb26736fc7ea597493da3",
-    "notiz": "Volltextabnahme 28.07.2026 - 18 Aenderungen (HWG-Arzneimittelvergleich, Personen-/Markenanker, Sicherheitshinweis dynamische Meditation, Verweiswortlaut G09-B). Bewusst belassen: 90-Prozent-Zahl (KVP-AE, redaktionell), M6-L2 Energiearbeit-Terminologie (katalogweite Entscheidung)."
+    "notiz": "Volltextabnahme 28.07.2026 - 18 Aenderungen (HWG-Arzneimittelvergleich, Personen-/Markenanker, Sicherheitshinweis dynamische Meditation, Verweiswortlaut G09-B). Bewusst belassen: 90-Prozent-Zahl (KVP-AE, redaktionell), M6-L2 Energiearbeit-Terminologie (katalogweite Entscheidung).",
+    "rasterstand": "v2.0",
+    "schutzstrang": "ungeprueft"
   },
   "G11": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "G12": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "H01": {
     "abgenommen_gegen": null,
-    "notiz": "Klasse 4 ist Messartefakt: einziger abkl-Treffer ist \"abklingen\", keine Verweisstelle. Faktisch Klasse 5, reine Anhaengung."
+    "notiz": "Klasse 4 ist Messartefakt: einziger abkl-Treffer ist \"abklingen\", keine Verweisstelle. Faktisch Klasse 5, reine Anhaengung.",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "K01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "K02": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "K03": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "K04": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N02": {
     "abgenommen_gegen": null,
-    "notiz": "Klasse 4 zutreffend: Verweisstelle vorhanden (\"aerztlich abklaeren\"), es fehlt der Pflichtwortlaut mit Heilpraktiker und Therapeut."
+    "notiz": "Klasse 4 zutreffend: Verweisstelle vorhanden (\"aerztlich abklaeren\"), es fehlt der Pflichtwortlaut mit Heilpraktiker und Therapeut.",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N04": {
     "abgenommen_gegen": null,
-    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen"
+    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N07": {
     "abgenommen_gegen": null,
-    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen - ANKER1 offen"
+    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen - ANKER1 offen",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N08": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N09": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N10": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N11": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N12": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N13": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N14": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N15": {
     "abgenommen_gegen": null,
-    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen"
+    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "N16": {
     "abgenommen_gegen": null,
-    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen"
+    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P02": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P03": {
     "abgenommen_gegen": "9c49daa",
-    "notiz": "Volltextabnahme 06.08.2026 - 822 Zeilen gelesen, 37 Fundstellen behoben in 7 Commits: Kursbeschreibung, Zahlen/Autoritaet (60000 Gedanken, University College London, 21/66-Tage-Komplex an 8 Stellen), Wirkmechanismus in Erfahrungsform (Hormonspiegel, Vagusnerv, Theta/Alpha/Beta, synaptisch), Pflichtverweis 3x im Lektionstext (7/48/80 Prozent Leseweg), Quiz nachgezogen, Abbruchkriterium Phase 2. Vorher: Klasse 1 irrefuehrend, Pflichtsatz nur in Quizantwort Z. 804, Wortlaut verengt. ANKER1. Begriffs-Grep sauber. C5 vollstaendig saniert 08.08.2026: ebf2bbf (C5.2 bis C5.5, Deutungszwang aufgeloest, Abbruchoption an drei Stellen), 315b40e (C5.1 Uebung Wort-Wirkung Runde 1, Selbstabwertung ersetzt). Offen C7: Mechanismusmodell im Widerstandskapitel (Kernaufgabe schuetzen, Veraenderung als Bedrohung eingestuft), Gruppe A ohne Ankerbegriff, J0-Klasse. Offen: Lektionstitel M5-L1 Morgenritual den Tag programmieren plus ein Restvorkommen Programmierung, Regel-31-Rest aus C1. abgenommen_gegen bleibt 9c49daa, kein zweites Gruen bei offener Achse."
+    "notiz": "Volltextabnahme 06.08.2026 - 822 Zeilen gelesen, 37 Fundstellen behoben in 7 Commits: Kursbeschreibung, Zahlen/Autoritaet (60000 Gedanken, University College London, 21/66-Tage-Komplex an 8 Stellen), Wirkmechanismus in Erfahrungsform (Hormonspiegel, Vagusnerv, Theta/Alpha/Beta, synaptisch), Pflichtverweis 3x im Lektionstext (7/48/80 Prozent Leseweg), Quiz nachgezogen, Abbruchkriterium Phase 2. Vorher: Klasse 1 irrefuehrend, Pflichtsatz nur in Quizantwort Z. 804, Wortlaut verengt. ANKER1. Begriffs-Grep sauber. C5 vollstaendig saniert 08.08.2026: ebf2bbf (C5.2 bis C5.5, Deutungszwang aufgeloest, Abbruchoption an drei Stellen), 315b40e (C5.1 Uebung Wort-Wirkung Runde 1, Selbstabwertung ersetzt). Offen C7: Mechanismusmodell im Widerstandskapitel (Kernaufgabe schuetzen, Veraenderung als Bedrohung eingestuft), Gruppe A ohne Ankerbegriff, J0-Klasse. Offen: Lektionstitel M5-L1 Morgenritual den Tag programmieren plus ein Restvorkommen Programmierung, Regel-31-Rest aus C1. abgenommen_gegen bleibt 9c49daa, kein zweites Gruen bei offener Achse.",
+    "rasterstand": "v2.0",
+    "schutzstrang": "maengel_offen"
   },
   "P04": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P05": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P06": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P07": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P12": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P18": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P22": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "P23": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "S01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "S15": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "S17": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "T01": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "T02": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "T07": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "Y02": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "Y03": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "Y05": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "Z01": {
     "abgenommen_gegen": null,
-    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen"
+    "notiz": "Grundabsicherung Pflichtverweis 1x maschinell 30.07.2026 - Volltextabnahme offen",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   },
   "Z03": {
     "abgenommen_gegen": null,
-    "notiz": ""
+    "notiz": "",
+    "rasterstand": null,
+    "schutzstrang": "ungeprueft"
   }
 }

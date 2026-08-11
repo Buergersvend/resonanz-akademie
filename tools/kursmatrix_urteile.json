@@ -138,9 +138,9 @@
     "schutzstrang": "ungeprueft"
   },
   "G04": {
-    "abgenommen_gegen": null,
-    "notiz": "Siegel 28.07. entfernt: Hash war ein Anker-Commit, keine Abnahme. Neusetzung nach Nachtrag v2.1.",
-    "rasterstand": null,
+    "abgenommen_gegen": "cc484d6",
+    "notiz": "Volltextabnahme 08.08.2026, 100 Eingriffe in 12 Etappen. Erstes Siegel nach Nachtrag v2.1 (Raster 6 Punkte, SF1-SF6). Vorheriges Siegel 17b76b1 vom 28.07. war ein Anker-Commit und wurde am 10.08. entfernt.",
+    "rasterstand": "v2.1",
     "schutzstrang": "geprueft"
   },
   "G05": {

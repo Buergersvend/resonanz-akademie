@@ -115,11 +115,11 @@ Im Coaching nutzt du die energetische Dimension als Erweiterung des Horizonts. D
         {
           id: 'C02-M3-L1',
           titel: 'Bewegung als Wohlfühlfaktor',
-          inhalt: `Regelmäßige körperliche Aktivität gilt als einer der wirksamsten Faktoren für Wohlbefinden überhaupt. Als Wellnesscoach hilfst du Menschen, Bewegung nicht als Pflicht, sondern als Geschenk an sich selbst zu entdecken.
+          inhalt: `Regelmäßige körperliche Aktivität gehört zu den Bereichen, denen viele Menschen einen großen Einfluss auf ihr Wohlbefinden zuschreiben. Als Wellnesscoach hilfst du Menschen, Bewegung nicht als Pflicht, sondern als Geschenk an sich selbst zu entdecken.
 
-Bewegung wirkt auf vielen Ebenen zugleich. Sie stärkt das Herz-Kreislauf-System, unterstützt einen ausgeglichenen Stoffwechsel, fördert die Knochengesundheit und hilft beim Halten eines individuell stimmigen Körpergewichts. Allgemein anerkannte Empfehlungen sprechen von etwa dreißig Minuten moderater Aktivität an fünf Tagen pro Woche als gute Orientierung für ein aktives, vitales Leben.
+Bewegung berührt viele Ebenen zugleich. Was sie im Körper bewirkt, ist Gegenstand medizinischer Einordnung und im Einzelfall ärztlich zu klären. Wie viel Bewegung guttut, ist individuell verschieden und lässt sich ärztlich klären.
 
-Auf der psychischen Ebene hat Bewegung eine spürbar stimmungsaufhellende Wirkung. Körperliche Aktivität fördert die Ausschüttung von Botenstoffen wie Endorphinen und Serotonin und hilft vielen Menschen, Anspannung abzubauen und einen klaren Kopf zu bekommen. Viele erleben Bewegung als eines der zuverlässigsten Mittel für mehr innere Ausgeglichenheit im Alltag. Bei anhaltender niedergedrückter Stimmung verweist du an ärztliche oder psychotherapeutische Begleitung.
+Viele Menschen beschreiben, dass sich ihre Stimmung nach Bewegung anders anfühlt und Anspannung nachlässt. Wie das zustande kommt, erleben Menschen unterschiedlich. Viele erleben Bewegung als einen festen Bestandteil ihres Alltags. Bei anhaltender niedergedrückter Stimmung verweist du an ärztliche oder psychotherapeutische Begleitung.
 
 Für viele deiner Klienten ist nicht das Wissen das Problem, sondern die Umsetzung. Sie wissen, dass Bewegung guttut, schaffen es aber nicht, dranzubleiben. Hier liegt deine Coaching-Kompetenz: Du erforschst die individuellen Hindernisse — Zeitmangel, Scham, frühere negative Sporterfahrungen — und findest gemeinsam Wege, die zur aktuellen Lebenssituation passen.
 
@@ -169,7 +169,7 @@ Im Coaching-Kontext integrierst du Körperbewusstsein als Querschnittsthema. Bei
           titel: 'Stressphysiologie verstehen',
           inhalt: `Stress ist eine der zentralen Wohlbefindens-Herausforderungen unserer Zeit. Um als Wellnesscoach wirksam zu arbeiten, brauchst du ein grundlegendes Verständnis davon, was Stress im Körper auslöst — und warum er in kleinen Dosen nützlich, in dauerhafter Form aber belastend ist.
 
-Die Stressreaktion ist ein evolutionäres Überlebensprogramm. Bei wahrgenommener Bedrohung aktiviert die Amygdala im Gehirn zwei Systeme gleichzeitig: Das sympathische Nervensystem schüttet Adrenalin aus — sofortige Energie für Kampf oder Flucht. Die Hypothalamus-Hypophysen-Nebennierenrinden-Achse produziert Cortisol — anhaltende Mobilisierung der Reserven. Herzfrequenz steigt, Muskeln spannen sich, die Verdauung pausiert.
+Die Stressreaktion ist ein evolutionäres Überlebensprogramm. Bei wahrgenommener Bedrohung aktiviert die Amygdala im Gehirn zwei Systeme gleichzeitig: Das sympathische Nervensystem schüttet Stresshormone aus — sofortige Energie für Kampf oder Flucht. Die Hypothalamus-Hypophysen-Nebennierenrinden-Achse hält die Ausschüttung aufrecht — anhaltende Mobilisierung der Reserven. Herzfrequenz steigt, Muskeln spannen sich, die Verdauung pausiert.
 
 Akuter Stress gehört zum Leben dazu. Er schärft die Konzentration und steigert kurzfristig die Leistungsfähigkeit. Entscheidend ist die anschließende Erholung. Anhaltender Stress — das permanente Gefühl von Überforderung oder Kontrollverlust — hält den Körper dagegen in einem Dauerzustand der Anspannung, für den er nicht gemacht ist. Diese fehlende Erholung ist der eigentliche Belastungsfaktor.
 

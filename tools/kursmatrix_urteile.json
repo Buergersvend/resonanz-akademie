@@ -42,10 +42,10 @@
     "schutzstrang": "ungeprueft"
   },
   "C02": {
-    "abgenommen_gegen": null,
+    "abgenommen_gegen": "v2.1-Volltext-2026-08-13",
     "notiz": "",
-    "rasterstand": null,
-    "schutzstrang": "ungeprueft"
+    "rasterstand": "v2.1",
+    "schutzstrang": "geprueft"
   },
   "C03": {
     "abgenommen_gegen": null,

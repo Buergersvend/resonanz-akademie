@@ -16,11 +16,11 @@ const G04 = {
 
   module: [
     // ============================================================
-    // MODUL 1 — Die Wissenschaft des Atems
+    // MODUL 1 — Wie Atmung im Körper wirkt
     // ============================================================
     {
       id: 'G04-M1',
-      titel: 'Die Wissenschaft des Atems',
+      titel: 'Wie Atmung im Körper wirkt',
       beschreibung: 'Die Physiologie der Atmung verstehen, die Verbindung zwischen Atem und Nervensystem begreifen und die Grundlage für alle Atemtechniken legen.',
       lektionen: [
         {
@@ -85,17 +85,17 @@ Der Schlüssel: Die Einatmung aktiviert den Sympathikus leicht (Herzschlag steig
 
 Der Vagusnerv ist der Hauptnerv des Parasympathikus — der längste Hirnnerv, der vom Stammhirn durch Hals, Brust und Bauch bis zu den Eingeweiden verläuft. Er reguliert Herzschlag, Atmung, Verdauung, Immunfunktion und Entzündungsreaktionen.
 
-Über die Atmung kannst du den Vagusnerv direkt stimulieren:
+Über die Atmung besteht eine direkte anatomische Verbindung zum Vagusnerv:
 
-Langsame, tiefe Bauchatmung aktiviert den Vagusnerv (der Vagusnerv verläuft direkt durch das Zwerchfell). Verlängerte Ausatmung aktiviert den vagalen Reflex, der den Herzschlag verlangsamt. Summen und Tönen ("Ommm", Humming) stimuliert den Vagusnerv über die Vibrationen im Kehlkopf — der Vagusnerv innerviert den Kehlkopf direkt.
+Der Vagusnerv verläuft durch das Zwerchfell. Bei langsamer, tiefer Bauchatmung und verlängerter Ausatmung wird physiologisch ein Zusammenhang mit einem ruhigeren Herzschlag beschrieben. Beim Summen und Tönen ("Ommm", Humming) entstehen Vibrationen im Kehlkopf, den der Vagusnerv innerviert. Viele Übende berichten, dass sie sich dabei ruhiger fühlen.
 
 ### Herzratenvariabilität — Das Maß für Resilienz
 
 Die Herzratenvariabilität (HRV) misst die natürlichen Schwankungen im Abstand zwischen Herzschlägen. Paradoxerweise ist eine hohe Variabilität gesund — ein Herz, das flexibel reagiert, ist widerstandsfähiger als eines, das starr im gleichen Rhythmus schlägt.
 
-Atemtechniken mit einer Frequenz von etwa 6 Atemzügen pro Minute (rund 5 bis 5,5 Sekunden ein und aus) erzeugen die maximale HRV — einen Zustand, der als "Kohärenz" bezeichnet wird. In diesem Zustand sind Herz, Atem und Gehirn synchronisiert. Dieser Zustand wird als ruhig, klar und wach beschrieben.
+Bei Atemtechniken mit einer Frequenz von etwa 6 Atemzügen pro Minute (rund 5 bis 5,5 Sekunden ein und aus) wird ein gleichmäßiges Zusammenspiel von Herzschlag und Atem beschrieben, das als "Kohärenz" bezeichnet wird. Auch hier gilt: Hinweise, kein Wirknachweis im medizinischen Sinne. Viele Übende beschreiben diesen Zustand als ruhig, klar und wach.
 
-Diese 6-Atemzüge-Frequenz ist kein Zufall — sie entspricht dem natürlichen Eigenrhythmus des Herz-Kreislauf-Systems. Viele traditionelle Gebetsformen, Mantras und Atemübungen landen intuitiv bei genau dieser Frequenz.`
+Diese 6-Atemzüge-Frequenz liegt nahe am Eigenrhythmus des Herz-Kreislauf-Systems. Viele traditionelle Gebetsformen, Mantras und Atemübungen landen intuitiv bei genau dieser Frequenz.`
         },
         {
           id: 'G04-M1-L3',
@@ -524,9 +524,9 @@ Der Schlüsselbegriff ist die "Kontrollpause" (Control Pause / CP) — die Zeit 
 
 CP unter 10 Sekunden: kurze Kontrollpause. Der Wert schwankt stark mit Tagesform, Anspannung und Übung und sagt für sich genommen wenig.
 
-CP 10–20 Sekunden: Moderate Überatmung. Sehr verbreitet in der Gesamtbevölkerung.
+CP 10–20 Sekunden: Häufigeres Atemmuster. Sehr verbreitet in der Gesamtbevölkerung.
 
-CP 20–40 Sekunden: Normale bis gute Atemkontrolle. Weniger Stresssymptome, bessere Konzentration.
+CP 20–40 Sekunden: Normale bis gute Atemkontrolle.
 
 CP über 40 Sekunden: Sehr gute Atemökonomie. Höhere Werte sind kein Ziel für sich — die Übung soll die Alltagsatmung ruhiger machen, nicht eine Zahl vergrößern.
 
@@ -584,9 +584,9 @@ Diese Muster laufen automatisch ab — du wählst nicht bewusst, wie du in Angst
 
 ### Es funktioniert in beide Richtungen
 
-Die Verbindung ist bidirektional. Emotionen verändern den Atem — aber der Atem verändert auch Emotionen. Wenn du das Atemmuster der Angst willentlich umkehrst — langsam, tief, mit verlängerter Ausatmung —, sendet dein Körper dem Gehirn die Botschaft: "Keine Gefahr." Viele Menschen beschreiben, dass die Angst dabei nachlässt.
+Die Verbindung ist bidirektional. Emotionen verändern den Atem — aber der Atem verändert auch Emotionen. Wenn du das Atemmuster der Angst willentlich umkehrst — langsam, tief, mit verlängerter Ausatmung —, verändert sich der körperliche Zustand, den das Gehirn wahrnimmt. Viele Menschen beschreiben, dass die Angst dabei nachlässt.
 
-Dein Gehirn prüft ständig den Zustand deines Körpers: Herzschlag, Muskelspannung, Atemfrequenz. Wenn der Körper "ruhig" signalisiert, passt das Gehirn die emotionale Bewertung an — auch wenn die äußere Situation unverändert ist.
+Ein verbreitetes Erklärmodell beschreibt es als Rückmeldeschleife: Das Gehirn bezieht den Zustand des Körpers — Herzschlag, Muskelspannung, Atemfrequenz — in seine Einschätzung einer Situation mit ein. Das ist ein Modell, keine gesicherte Wirkkette.
 
 ### Emotionale Atemmuster aufspüren
 
@@ -799,9 +799,9 @@ Der Atem ist der rote Faden, der alle Praktiken verbindet. Er ist eine der zugä
   ],
   quiz: [
     {
-      frage: 'Wie wirken Ein- und Ausatmung auf das Nervensystem?',
+      frage: 'Wie wird das Zusammenspiel von Ein- und Ausatmung im Kurs beschrieben?',
       antworten: [
-        'Die Einatmung aktiviert leicht den Sympathikus, die Ausatmung den Parasympathikus — deshalb beruhigt verlängerte Ausatmung',
+        'Der Einatmung wird der Sympathikus zugeordnet, der Ausatmung der Parasympathikus — deshalb wirkt verlängerte Ausatmung auf viele Übende beruhigend',
         'Beide aktivieren ausschließlich den Sympathikus',
         'Die Ausatmung beschleunigt den Herzschlag',
         'Die Atmung hat keinen Einfluss auf das autonome Nervensystem',
@@ -819,7 +819,7 @@ Der Atem ist der rote Faden, der alle Praktiken verbindet. Er ist eine der zugä
       richtig: 2,
     },
     {
-      frage: 'Welche Atemfrequenz erzeugt die maximale Herzratenvariabilität („Kohärenz")?',
+      frage: 'Bei welcher Atemfrequenz wird das als „Kohärenz" bezeichnete Muster beschrieben?',
       antworten: [
         'Etwa 20 Atemzüge pro Minute',
         'So schnell wie möglich atmen',

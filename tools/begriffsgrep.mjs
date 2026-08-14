@@ -93,7 +93,8 @@ const POSITIV = 'inhalt:';
 // sind alle Vorlaeufe ungueltig.
 const SOLL = [
   ['G04', 'hormon', 0],
-  ['G04', 'nervensystem', 17],
+  ['G04', 'nervensystem', 16],   // 14.08.2026: P6a-Quizfrage umformuliert,
+                                 // Wort "Nervensystem" entfaellt dort
   ['G04', 'immun', 5],
   ['G04', 'studie', 2],
   ['G04', 'alpha', 0],

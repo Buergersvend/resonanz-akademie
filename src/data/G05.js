@@ -12,7 +12,7 @@ const G05 = {
   level: 'Einsteiger bis Fortgeschrittene',
   voraussetzungen: 'Keine — Offenheit für energetische Arbeit',
   beschreibung: `Reiki bedeutet "universelle Lebensenergie" — eine sanfte Methode der Energiearbeit durch die Hände. In diesem Kurs lernst du Reiki als Praxis für dich selbst: vom Verständnis des Energieflusses über systematische Handpositionen bis zur täglichen Selbstanwendung für mehr Ruhe, Balance und Wohlbefinden. Ein Kurs zur Selbsterfahrung und Energiehygiene — kein Ersatz für ärztliche, therapeutische oder heilpraktische Behandlung.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

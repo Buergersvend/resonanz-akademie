@@ -8,7 +8,7 @@ const B10 = {
   preis: 'Kostenlos',
   originalPreis: '49 €',
   beschreibung: 'Entdecke die Grundlagen der Herzkohärenz. Lerne rhythmische Herzfokus-Atmung, achtsame Körperwahrnehmung und intentionsgeleitete Aufmerksamkeitslenkung in 4 kompakten Modulen — als Praxis für mehr innere Balance und Wohlbefinden.',
-  status: 'live',
+  status: 'coming',
   module: [
     {
       nr: 1,

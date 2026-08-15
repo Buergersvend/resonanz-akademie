@@ -13,7 +13,7 @@ const K01 = {
   stunden: '1–2h',
   preis: 'Kostenlos',
   originalPreis: '49 €',
-  status: 'live',
+  status: 'coming',
   desc: 'Lerne dein Chakrasystem und deine Aura kennen — spüre, erkunde und harmonisiere deine Energiezentren. 4 kompakte Module mit sofort anwendbaren Übungen für Selbstwahrnehmung und Energiehygiene. Ein Kurs zur Selbsterfahrung, kein Ersatz für ärztliche oder therapeutische Hilfe.',
   module: [
     // ──────────────────────────────────────────────

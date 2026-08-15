@@ -13,7 +13,7 @@ const G11 = {
   stunden: '2–3h',
   preis: 'Kostenlos',
   originalPreis: '69 €',
-  status: 'live',
+  status: 'coming',
   desc: 'Schütze dein Energiefeld, reinige dich von Fremdenergie und baue eine tägliche Energiehygiene-Routine auf. Wertvoll für sensible, empathische Menschen und alle, die viel Kontakt mit anderen haben.',
   module: [
     // ──────────────────────────────────────────────

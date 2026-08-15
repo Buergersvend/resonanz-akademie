@@ -15,7 +15,7 @@ const N11 = {
   level: 'Einsteiger',
   voraussetzungen: 'Keine',
   beschreibung: `Ein kompakter, klarer Überblick über die zentralen Nähr- und Vitalstoffe: ihre Funktion im Körper, ihr Vorkommen in Lebensmitteln und wie du achtsam auf dein eigenes Wohlbefinden hörst. Dieser Schnelleinstieg vermittelt das Wichtigste in kompakter Form — ohne Selbstdiagnose, mit einem klaren Blick für die Grenze zur ärztlichen Abklärung. Ideal als erster Einstieg oder als Auffrischung des Nährstoffwissens.`,
-  status: 'live',
+  status: 'coming',
 
   module: [
     // ============================================================

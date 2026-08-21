@@ -1,526 +1,236 @@
-// ═══════════════════════════════════════════════════════
-// G11 — Schutzarbeit & Energiehygiene
-// Mikro-Kurs · 4 Module · 12 Lektionen · 2–3h
+// ============================================
+// G11 - Schutzarbeit & Energiehygiene
+// Standard-Kurs · 6 Module · 18 Lektionen · 6-8h
 // Bereich: Schutz & Erdung
-// ═══════════════════════════════════════════════════════
+// Neubau 16./17.08.2026 nach KURS_ERZEUGUNGSAUFTRAG v3.2
+// ============================================
 
 const G11 = {
   id: 'G11',
   titel: 'Schutzarbeit & Energiehygiene',
   bereich: 'schutz',
-  format: 'mikro',
-  symbol: '◈',
-  stunden: '2–3h',
+  format: 'standard',
+  symbol: '◈◈',
+  stunden: '6-8h',
+  level: 'Einsteiger',
   preis: 'Kostenlos',
-  originalPreis: '69 €',
   status: 'coming',
-  desc: 'Schütze dein Energiefeld, reinige dich von Fremdenergie und baue eine tägliche Energiehygiene-Routine auf. Wertvoll für sensible, empathische Menschen und alle, die viel Kontakt mit anderen haben.',
+  voraussetzungen: 'Keine Vorkenntnisse. Die Übungen ab Modul 4 sind nicht geeignet bei Herz-Kreislauf-Erkrankungen, Bluthochdruck, Epilepsie, Asthma, Glaukom, Schwangerschaft, akuter psychischer Belastung, frischen Operationen oder Fieber. Modul 1-3 sind uneingeschränkt lesbar.',
+  beschreibung: 'Ein Selbsterfahrungskurs zur eigenen Wahrnehmung: den eigenen Zustand bemerken, benennen und von Zuschreibungen unterscheiden. Mit einem eigenen Modul zu Grenzen und Sicherheit. Kein Ersatz für ärztliche oder therapeutische Abklärung.',
   module: [
-    // ──────────────────────────────────────────────
-    // MODUL 1 — Warum Energieschutz wichtig ist
-    // ──────────────────────────────────────────────
+    // ------------------------------------------
+    // MODUL 1 - Grundverständnis
+    // ------------------------------------------
     {
       nr: 1,
-      titel: 'Warum Energieschutz wichtig ist',
-      dauer: '20 Min',
+      titel: 'Grundverständnis',
+      dauer: '55 Min',
       lektionen: [
         {
           id: 'G11-M1-L1',
-          titel: 'Du bist ein energetischer Schwamm',
-          inhalt: `Warst du schon mal in bester Stimmung, hast einen Raum voller gestresster Menschen betreten — und 20 Minuten später war deine gute Laune verschwunden? Oder hast du nach einem Telefonat mit einer bestimmten Person das Gefühl gehabt, komplett ausgelaugt zu sein, obwohl du nur zugehört hast?
-
-Das ist kein Zufall und keine Einbildung. Dein Energiefeld interagiert ständig mit den Feldern anderer Menschen — und mit der Energie von Räumen, Orten und Situationen. Du nimmst Energie auf und gibst Energie ab, jede Sekunde des Tages.
-
-Bei manchen Menschen ist diese Durchlässigkeit stärker ausgeprägt als bei anderen. Hochsensible und empathische Menschen sind besonders betroffen — sie spüren nicht nur ihre eigenen Emotionen, sondern auch die der Menschen um sie herum. Das ist eine wunderbare Gabe, aber ohne Schutz wird sie zur Belastung.
-
-Typische Anzeichen, dass du Fremdenergie trägst: Plötzliche Stimmungswechsel, die du dir nicht erklären kannst. Erschöpfung nach sozialen Situationen. Das Gefühl, „nicht ganz bei dir" zu sein. Übernahme von Emotionen anderer (jemand ist wütend, und du wirst auch wütend, obwohl du keinen Grund hast). Körperliche Symptome, die verschwinden, wenn du alleine bist.
-
-Energieschutz bedeutet nicht, eine Mauer um dich zu bauen. Es bedeutet, bewusst zu wählen, welche Energie du aufnimmst und welche nicht. Es ist der Unterschied zwischen einer offenen Tür und einem Sieb — beides lässt Luft durch, aber das Sieb hält den Schmutz zurück.
-
-In diesem Kurs lernst du, dieses Sieb aufzubauen, zu stärken und täglich zu reinigen.`,
-          uebung: {
-            titel: 'Energie-Empfindlichkeits-Check',
-            anleitung: `Bewerte diese Aussagen auf einer Skala von 0 (nie) bis 10 (ständig):
-
-1. Ich übernehme Stimmungen anderer Menschen: ___/10
-2. Menschenmengen erschöpfen mich: ___/10
-3. Nach Gesprächen fühle ich mich oft ausgelaugt: ___/10
-4. Ich spüre die „Energie" von Räumen: ___/10
-5. Bestimmte Personen kosten mich unverhältnismäßig viel Kraft: ___/10
-6. Ich brauche viel Alleinzeit zur Erholung: ___/10
-
-Addiere: ___/60
-
-0–15: Geringe Empfindlichkeit — Schutz als Prävention
-16–35: Mittlere Empfindlichkeit — Schutz empfohlen
-36–60: Hohe Empfindlichkeit — Schutz ist essenziell
-
-Unabhängig vom Ergebnis: Jeder profitiert von Energiehygiene.`,
-            dauer: '3 Min',
-          },
+          titel: 'Was mit Schutzarbeit gemeint ist',
+          inhalt: 'Der Begriff „Schutz" trägt in diesem Kurs eine genaue Bedeutung, und es lohnt sich, sie am Anfang festzulegen — weil er im Alltag oft anders verwendet wird.\n\nGemeint ist die Fähigkeit, zwischen dem eigenen Erleben und dem Erleben anderer zu unterscheiden. Wer aus einem langen Gespräch geht und sich anders fühlt als vorher, hat etwas wahrgenommen. Die Frage, um die es hier geht, ist nicht, *ob* das passiert — sondern ob man im Nachhinein sagen kann, was davon die eigene Reaktion war und was die Situation.\n\nDiese Unterscheidung ist erlernbar. Sie besteht aus drei Teilen: bemerken, dass sich etwas verändert hat; benennen, was genau; und einordnen, woher es kommt. Die meisten Menschen können den ersten Teil bereits und überspringen die beiden anderen.\n\nEin Beispiel für die drei Teile im Zusammenhang. Jemand bemerkt am späten Nachmittag, dass er gereizter ist als sonst — das ist **bemerken**. Beim Nachfragen zeigt sich: Es ist keine allgemeine Gereiztheit, sondern eine Ungeduld bei Nachfragen, die sonst nicht stört — das ist **benennen**. Und beim Zurückgehen fällt auf, dass die letzten drei Stunden aus lauter kurzen Unterbrechungen bestanden — das ist **einordnen**.\n\nOhne den zweiten und dritten Schritt bleibt es bei einem allgemeinen Eindruck von schlechter Verfassung. Das ist nicht falsch, aber es führt zu nichts. Mit ihnen steht am Ende eine Beobachtung, mit der sich etwas anfangen lässt.\n\n**Ein Hinweis zur Sprache, der für den ganzen Kurs gilt.** Begriffe wie „Energie", „Feld" oder „Aufladung" werden hier als **Bilder** verwendet, nicht als physikalische Beschreibungen. Sie sind nützlich, weil sie einem Erleben eine Sprache geben, für das der Alltag wenig Worte hat. Sie sind keine Aussage darüber, was messbar geschieht. Wo dieser Kurs ein solches Bild benutzt, steht es als Bild — nicht als Beleg.\n\nDas ist keine Einschränkung, sondern eine Präzisierung. Ein Bild, das als Bild verstanden wird, lässt sich prüfen: Passt es auf das, was ich erlebe? Ein Bild, das für eine Tatsache gehalten wird, lässt sich nicht mehr prüfen — und wird dadurch unbrauchbar.\n\nDiese Unterscheidung wird im ganzen Kurs durchgehalten. Wo ein Bild auftaucht, steht dabei, dass es eines ist. Das mag anfangs umständlich wirken. Es ist der Unterschied zwischen einer Sprache, die trägt, und einer, die nur überzeugt.'
         },
         {
           id: 'G11-M1-L2',
-          titel: 'Die häufigsten Energieverluste',
-          inhalt: `Energieverlust passiert auf verschiedenen Wegen. Wenn du sie kennst, kannst du sie vermeiden — oder zumindest schneller erkennen und gegensteuern.
-
-Energievampire — Menschen, die Energie abziehen: Nicht jeder tut das absichtlich. Viele Menschen sind unbewusst energetisch bedürftig — sie suchen Aufmerksamkeit, erzeugen Drama, klagen ständig oder dominieren Gespräche. Nach der Interaktion fühlst du dich leer, obwohl nichts Konkretes „passiert" ist. Das ist kein böser Wille — es ist ein energetisches Muster.
-
-Emotionale Übernahme — Empathie ohne Filter: Du spürst den Schmerz anderer als wäre es deiner. Das ist Empathie in Reinform — aber ohne Schutz verwechselst du fremde Gefühle mit eigenen und trägst Lasten, die nicht deine sind.
-
-Raumenergie — Orte speichern Energie: Krankenhäuser, Büros, öffentliche Verkehrsmittel, Orte mit Geschichte — sie alle tragen energetische Signaturen. Wenn du empfindlich bist, nimmst du diese auf wie ein Schwamm Wasser.
-
-Digitale Energieverluste: Soziale Medien, Nachrichtenkonsum, ständige Erreichbarkeit. Auch digitale Interaktionen kosten Energie — besonders wenn sie emotional aufgeladen sind. Ein hitziger WhatsApp-Austausch kann dich energetisch genauso erschöpfen wie ein persönlicher Konflikt.
-
-Eigene Energielecks: Nicht jeder Verlust kommt von außen. Grübeln, Sorgen, ungelebte Emotionen, unausgesprochene Wahrheiten — all das sind interne Energielecks. Du verbrauchst Energie für das Unterdrücken dessen, was eigentlich fließen sollte.
-
-Die gute Nachricht: Für jede Art von Energieverlust gibt es eine Schutz- oder Reinigungstechnik. Die lernst du in den nächsten Modulen.`,
-          uebung: {
-            titel: 'Deine Energieleck-Inventur',
-            anleitung: `Identifiziere deine persönlichen Energielecks:
-
-Personen, die mich Energie kosten:
-1. _______________
-2. _______________
-3. _______________
-
-Situationen/Orte, die mich erschöpfen:
-1. _______________
-2. _______________
-
-Meine häufigsten internen Energielecks (Grübeln, Sorgen, Unterdrücken):
-1. _______________
-2. _______________
-
-Welcher Bereich kostet dich am meisten Energie? Das ist dein Fokus für die Schutzarbeit.`,
-            dauer: '5 Min',
-          },
+          titel: 'Wahrnehmung und Zuschreibung',
+          inhalt: 'Zwischen dem, was jemand wahrnimmt, und dem, was er sich daraus erklärt, liegt ein Schritt. Er läuft meist so schnell ab, dass er unbemerkt bleibt.\n\nEin Beispiel. Jemand sitzt zwei Stunden in einer Besprechung und ist danach erschöpft. Das ist die **Wahrnehmung**: Erschöpfung, jetzt, nach dieser Situation. Der nächste Satz lautet oft: „Die Person mir gegenüber hat mir Energie gezogen." Das ist die **Zuschreibung** — eine Erklärung, die über das Wahrgenommene hinausgeht.\n\nDie Zuschreibung mag sich stimmig anfühlen. Sie ist trotzdem etwas anderes als die Beobachtung. Und sie ist nicht die einzige mögliche: Zwei Stunden Konzentration ermüden. Ein ungelöster Konflikt ermüdet. Ein schlecht gelüfteter Raum ermüdet. Schlafmangel vom Vortag wirkt bis in den Nachmittag.\n\nBemerkenswert ist, wie ungleich diese Erklärungen behandelt werden. Der Hinweis auf zwei Stunden Konzentration klingt banal und wird deshalb selten ausgesprochen. Der Satz über entzogene Energie klingt bedeutsam und wird erinnert. Die Erklärung, die sich interessanter anfühlt, setzt sich durch — nicht die, die besser passt.\n\nDas ist kein Vorwurf an irgendjemanden. Es ist die normale Arbeitsweise von Erinnerung: Sie bevorzugt, was sich als Geschichte erzählen lässt.\n\nWarum das wichtig ist: Wer die Zuschreibung für die Beobachtung hält, kommt zu Maßnahmen, die am Eigentlichen vorbeigehen. Wer glaubt, ein Kollege ziehe Energie, baut Abstand auf — und übersieht, dass die Besprechungen zu lang sind.\n\nDie Übung dieser Lektion ändert daran nichts grundsätzlich. Sie fügt nur einen Moment ein, bevor die Geschichte fertig ist.\n\n**Die Übung dieser Lektion besteht aus einem Satz.** Wenn Sie das nächste Mal bemerken, dass sich Ihr Zustand verändert hat, formulieren Sie zuerst nur die Beobachtung: *Was genau nehme ich wahr, seit wann, in welcher Situation?* Die Erklärung darf danach kommen — aber getrennt, als zweiter Satz, erkennbar als Vermutung.\n\nDas ist unspektakulär und wirkt schnell selbstverständlich. In der Anwendung ist es die schwierigste Übung des Kurses, weil die Zuschreibung immer schneller ist als die Beobachtung.'
         },
         {
           id: 'G11-M1-L3',
-          titel: 'Die 3 Säulen der Energiehygiene',
-          inhalt: `Energiehygiene ruht auf drei Säulen — genau wie körperliche Hygiene. Du duschst (Reinigung), du trägst saubere Kleidung (Schutz), und du achtest auf gesunde Gewohnheiten (Prävention). Energetisch ist es dasselbe.
-
-Säule 1 — Reinigung: Alles, was sich im Laufe des Tages in deinem Energiefeld angesammelt hat, wird entfernt. Wie das tägliche Duschen, aber für dein Energiefeld. Techniken: Energetische Dusche, Salzbad, Räuchern, Abstreifen, Erdung.
-
-Säule 2 — Schutz: Du baust eine bewusste Grenze um dein Energiefeld, die Fremdenergie filtert, ohne dich zu isolieren. Techniken: Lichtschutz, Spiegelschild, Energieblase, bewusste Grenzziehung.
-
-Säule 3 — Stärkung: Ein starkes Energiefeld braucht weniger Schutz, weil es natürlich widerstandsfähiger ist. Techniken: Erdung, Chakra-Arbeit, Aura-Stärkung, gesunde Lebensführung.
-
-Die drei Säulen greifen ineinander:
-Reinigung ohne Schutz = du bist morgen wieder voll
-Schutz ohne Reinigung = du sperrst das Problem mit dir ein
-Beides ohne Stärkung = du bleibst abhängig von den Techniken
-
-Das Ziel ist ein Zustand, in dem dein Energiefeld so stark und klar ist, dass die meisten Alltagsbelastungen einfach an dir abperlen — wie Regen an einer Lotusblüte.`,
-          uebung: {
-            titel: 'Selbsteinschätzung der 3 Säulen',
-            anleitung: `Bewerte deinen aktuellen Stand in jeder Säule (1–10):
-
-Reinigung: Wie regelmäßig reinige ich mein Energiefeld? ___/10
-(10 = tägliche Praxis, 1 = nie bewusst gemacht)
-
-Schutz: Wie gut kann ich mich energetisch abgrenzen? ___/10
-(10 = fühle mich immer geschützt, 1 = bin ein offener Schwamm)
-
-Stärkung: Wie stark und vital fühlt sich mein Energiefeld an? ___/10
-(10 = kraftvoll und strahlend, 1 = schwach und dünn)
-
-Die niedrigste Zahl zeigt dir, wo dein größter Handlungsbedarf liegt. In den nächsten Modulen bauen wir alle drei Säulen auf.`,
-            dauer: '3 Min',
-          },
-        },
-      ],
+          titel: 'Wofür dieser Kurs nicht zuständig ist',
+          inhalt: 'Ein Kurs, der über Erschöpfung, Belastung und Abgrenzung spricht, berührt Bereiche, in denen andere zuständig sind. Diese Grenze gehört an den Anfang, nicht ans Ende.\n\nAnhaltende Erschöpfung, Schlafstörungen, wiederkehrende Schmerzen, Beklemmung oder das Gefühl, den Alltag nicht mehr zu bewältigen, sind **keine Themen dieses Kurses**. Sie haben Ursachen, die abgeklärt gehören — und die Abklärung ist eine fachliche, keine übende Tätigkeit.\n\n> **Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.**\n\nDieser Satz ist keine Formalie. Er markiert eine Grenze, die in beide Richtungen wirkt: Was dieser Kurs anbietet, ersetzt keine Abklärung — und eine laufende Behandlung wird durch nichts hier Beschriebenes ergänzt, verändert oder unterstützt.\n\nWarum das ausdrücklich dasteht: Erschöpfung und Unruhe sind Zustände, die viele Ursachen haben können — von der Schilddrüse über Eisenmangel bis zu einer Belastung, die ausgesprochen gehört. Ein Kurs kann das nicht auseinanderhalten und soll es nicht versuchen. Wer die Abklärung aufschiebt, weil er zuerst etwas anderes probiert, verliert Zeit an der einzigen Stelle, an der Zeit zählt.\n\nWas der Kurs dagegen kann: Er hilft, genauer zu beschreiben, was Sie erleben. Das ist auch für ein ärztliches Gespräch nützlich. Die Angabe, es trete seit sechs Wochen morgens auf und hänge nicht vom Schlaf ab, ist eine andere Auskunft als die Feststellung, es gehe einem nicht gut.\n\nWas der Kurs leistet: Er vermittelt Unterscheidungen und Übungen zur Selbstwahrnehmung. Das ist Selbsterfahrung und Wissen. Es ist keine Ausbildung, keine Qualifikation und keine Befähigung, mit anderen Menschen in dieser Weise zu arbeiten.\n\n**Und eine Anmerkung zum Üben selbst.** Wenn eine Übung in diesem Kurs unangenehm wird, ist das kein Zwischenschritt und kein Zeichen, dass sie wirkt. Es ist ein Grund aufzuhören. Aussetzen ist jederzeit möglich, ohne dass etwas verloren geht — die Lektionen bauen inhaltlich aufeinander auf, nicht als Übungsserie, die einen Durchhaltebogen verlangt. Wer eine Übung überspringt, kann die nächste Lektion vollständig verstehen.'
+        }
+      ]
     },
-
-    // ──────────────────────────────────────────────
-    // MODUL 2 — Reinigungstechniken
-    // ──────────────────────────────────────────────
+    // ------------------------------------------
+    // MODUL 2 - Wahrnehmung
+    // ------------------------------------------
     {
       nr: 2,
-      titel: 'Reinigungstechniken',
-      dauer: '25 Min',
+      titel: 'Wahrnehmung',
+      dauer: '55 Min',
       lektionen: [
         {
           id: 'G11-M2-L1',
-          titel: 'Energetische Grundreinigung — 3 Methoden',
-          inhalt: `Die energetische Reinigung ist deine tägliche Dusche für das Energiefeld. Hier sind drei Methoden — von sanft bis intensiv. Finde heraus, welche für dich am besten funktioniert.
-
-Methode 1 — Die Lichtdusche (2 Minuten):
-Stehe aufrecht, Augen geschlossen. Stelle dir vor, wie ein Strahl aus reinem, goldenem (oder weißem) Licht von oben auf deinen Scheitel trifft. Das Licht fließt wie Wasser über deinen gesamten Körper — Kopf, Schultern, Arme, Torso, Beine, Füße. Alles, was nicht zu dir gehört — graue Energie, schwere Gefühle, Fremdenergie — wird nach unten gespült und fließt durch deine Fußsohlen in die Erde. Die Erde transformiert es.
-
-Methode 2 — Das Abstreifen (2 Minuten):
-Streiche mit deinen Händen über deinen Körper — 5–10 cm Abstand, ohne Berührung. Von oben nach unten, in langen, fließenden Bewegungen. Kopf → Gesicht → Hals → Schultern → Arme → Oberkörper → Beine → Füße. Nach jedem Durchgang schüttle die Hände kräftig aus — als würdest du Wasser abschütteln. 3–5 Durchgänge.
-
-Methode 3 — Die Erd-Erdung (3 Minuten):
-Stehe barfuß (idealerweise auf Gras oder Erde, aber auch indoor möglich). Stelle dir vor, wie Wurzeln aus deinen Fußsohlen tief in die Erde wachsen. Atme ein: Ziehe saubere, erdige Energie durch die Wurzeln hoch in deinen Körper. Atme aus: Schicke alles, was du loslassen willst, durch die Wurzeln nach unten in die Erde. 10 Atemzyklen.
-
-Wann reinigen? Abends nach der Arbeit. Nach intensiven Gesprächen. Nach Menschenmengen. Vor dem Schlafengehen. Die Lichtdusche lässt sich auch wunderbar mit der echten Dusche kombinieren — das Wasser als physischer Anker für die energetische Reinigung.`,
-          uebung: {
-            titel: 'Alle 3 Methoden testen',
-            anleitung: `Teste jetzt alle drei Methoden nacheinander:
-
-1. Lichtdusche (2 Min): Goldenes Licht von oben, alles wird nach unten gespült. Spüre: Wie fühlt sich das an?
-
-2. Abstreifen (2 Min): Hände über den Körper, ausschütteln. Spüre: Unterschied zur Lichtdusche?
-
-3. Erd-Erdung (3 Min): Wurzeln visualisieren, 10 Atemzyklen. Spüre: Bist du danach „schwerer" oder „leichter"?
-
-Bewerte jede Methode (1–10):
-Lichtdusche: ___/10
-Abstreifen: ___/10
-Erd-Erdung: ___/10
-
-Dein Favorit wird Teil deiner Abendroutine.`,
-            dauer: '9 Min',
-          },
+          titel: 'Die eigene Grundlinie kennen',
+          inhalt: 'Um zu bemerken, dass sich etwas verändert hat, braucht es einen Vergleichswert. Genau der fehlt den meisten — nicht aus Unachtsamkeit, sondern weil der eigene Normalzustand selten Anlass gibt, hinzusehen.\n\nDas lässt sich nachholen. Nicht durch Beobachtung in belastenden Momenten, sondern im Gegenteil: an unauffälligen Tagen, in ruhigen Stunden. Was gemeint ist, sind einfache Angaben. Wie ist die Spannung in Schultern und Kiefer, wenn nichts Besonderes ansteht? Wie schnell komme ich morgens in Gang? Wie lange halte ich Konzentration, bevor sie nachlässt? Wie ist meine Stimmung an einem Tag ohne besondere Ereignisse — nicht gut, nicht schlecht, sondern *wie*?\n\nDiese Angaben sind unspektakulär, und das ist ihr Wert. Sie sind der Maßstab, gegen den später verglichen wird. Ohne sie bleibt jede Aussage über Veränderung ungenau: „Ich fühle mich anders als sonst" setzt voraus, dass „sonst" bekannt ist.\n\nEin zweiter Punkt gehört dazu. Die Grundlinie ist nicht konstant. Sie verschiebt sich mit Schlaf, Jahreszeit, Lebensphase, Alter. Wer sie einmal bestimmt und für dauerhaft hält, vergleicht irgendwann gegen einen Wert, den es nicht mehr gibt. Zwei- bis dreimal im Jahr neu hinsehen genügt.\n\nPraktisch heißt das: Notieren Sie die Angaben einmal, an drei ruhigen Tagen, und schreiben Sie das Datum dazu. Drei Tage deshalb, weil ein einzelner Tag zufällig sein kann. Was Sie erhalten, sind keine Messwerte, sondern ein Eindruck in Worten — und der genügt vollständig.\n\n**Und eine Abgrenzung, die hierher gehört.** Wenn beim Hinsehen auffällt, dass der eigene Normalzustand seit längerem von Erschöpfung, Schwere oder Antriebslosigkeit geprägt ist, dann ist das kein Ausgangspunkt für Übungen. Es ist ein Befund, der abgeklärt gehört. **Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.** Der Kurs arbeitet mit Schwankungen um eine tragfähige Grundlinie — nicht mit einer Grundlinie, die selbst das Problem ist.'
         },
         {
           id: 'G11-M2-L2',
-          titel: 'Intensivreinigung — Wenn der Alltag nicht reicht',
-          inhalt: `Manchmal reicht die tägliche Reinigung nicht aus. Nach besonders belastenden Erlebnissen, nach intensivem Kontakt mit anderen Menschen, nach Konflikten oder nach dem Aufenthalt an energetisch schweren Orten brauchst du eine Intensivreinigung.
-
-Das Salzbad: Fülle eine Badewanne mit warmem Wasser und gib 200–300g grobes Meersalz hinzu. Optional: 5 Tropfen Lavendelöl oder Salbeiöl. Steige ein mit der klaren Intention: „Alles, was nicht zu mir gehört, wird jetzt gelöst." Bleibe 20 Minuten. Stelle dir vor, wie das Salzwasser alle Fremdenergie aus deiner Aura zieht — wie ein Magnet. Danach: Wasser ablassen, kurz abduschen, und dir vorstellen, wie der letzte Rest mit dem Wasser abfließt.
-
-Räuchern: Salbei, Palo Santo oder Weihrauch sind seit Jahrtausenden bewährte Reinigungsmittel. Zünde das Räuchermaterial an und führe den Rauch mit einer Feder oder der Hand um deinen gesamten Körper — von unten nach oben. Dann durch den Raum, in jede Ecke. Öffne danach ein Fenster, damit die gelöste Energie abziehen kann.
-
-Die Kalt-Dusche-Reinigung: Stelle dich unter kaltes Wasser (oder beende deine warme Dusche mit 30 Sekunden kalt). Die Kälte kontrahiert dein Energiefeld — wie ein Reset. Stelle dir vor, wie das kalte Wasser nicht nur Schmutz, sondern auch energetische Ablagerungen abwäscht. Danach fühlt sich dein Feld oft frisch und klar an.
-
-Die Klang-Reinigung: Eine Klangschale, eine Stimmgabel oder sogar deine eigene Stimme (tiefes Summen oder Tönen) kann stagnierende Energie auflösen. Die Vibration lockert energetische Verdichtungen — ähnlich wie Ultraschall in der physischen Reinigung.`,
-          uebung: {
-            titel: 'Intensivreinigung planen',
-            anleitung: `Wähle EINE Intensivreinigung, die du diese Woche durchführen wirst:
-
-☐ Salzbad — Wann? _______________
-☐ Räuchern — Hast du Material? ___
-☐ Kalt-Dusche-Reinigung — Morgen nach der Dusche?
-☐ Klang-Reinigung — Hast du eine Klangschale/Stimmgabel?
-
-Falls du keine Badewanne und kein Räuchermaterial hast: Die Kalt-Dusche-Reinigung funktioniert sofort und kostet nichts.
-
-Führe sie durch und notiere danach:
-Energielevel vorher: ___/10
-Energielevel nachher: ___/10
-Was hat sich verändert?`,
-            dauer: '3 Min',
-          },
+          titel: 'Vier Quellen für Zustandsveränderungen',
+          inhalt: 'Wenn sich der eigene Zustand verändert, gibt es mehr Erklärungen als die naheliegende. Vier Gruppen lassen sich unterscheiden — nicht als vollständige Liste, sondern als Prüfreihe, die man durchgeht, bevor man sich festlegt.\n\n**Körperliche Faktoren.** Schlaf, Essen, Trinken, Bewegung, Raumluft, Licht, Zyklus, beginnender Infekt. Die banalste Gruppe und die am häufigsten übersehene, weil sie nichts erklärt, was interessant klingt.\n\nEin Beispiel, das häufiger zutrifft als vermutet: zu wenig getrunken. Die Wirkung setzt schleichend ein und äußert sich als Konzentrationsabfall und dumpfer Kopf — Zeichen, die selten dem Trinken zugeordnet werden, weil kein Durstgefühl dazwischenliegt.\n\n**Aufgabenbezogene Faktoren.** Dauer und Art der Anforderung. Konzentration ermüdet. Entscheidungen ermüden stärker als Ausführung. Unklare Aufgaben ermüden stärker als schwere.\n\n**Zwischenmenschliche Faktoren.** Ungelöste Spannungen, unausgesprochene Erwartungen, Rollen, in denen man sich anders verhält als sonst. Wirkt oft zeitversetzt und wird deshalb der falschen Situation zugeordnet.\n\nDer Zeitversatz ist hier das Tückische. Ein Gespräch am Vormittag kann am Nachmittag wirken, und dann wird die Nachmittagssituation beschuldigt.\n\n**Situative Faktoren.** Lärm, Enge, Gerüche, unvertraute Umgebung, viele Menschen auf wenig Raum. Wirkt unterhalb der Aufmerksamkeitsschwelle und summiert sich.\n\nDer Nutzen dieser Einteilung liegt nicht darin, die richtige Gruppe zu finden — meist wirken mehrere zusammen. Er liegt darin, die Frage offenzuhalten. Wer alle vier durchgeht, kommt zu genaueren Antworten als jemand, der bei der ersten plausiblen Erklärung stehenbleibt.\n\nEine Beobachtung, die dabei hilft: Wenn mehrere Faktoren zusammenkommen, addieren sie sich nicht einfach. Zwei kleine Belastungen gleichzeitig wirken oft stärker als eine große — vermutlich, weil keine davon groß genug ist, um bemerkt und behandelt zu werden. Genau deshalb lohnt das Durchgehen aller vier: Nicht die große Ursache wird gesucht, sondern die Summe der kleinen.\n\n**Zur Übung:** Notieren Sie beim nächsten deutlichen Zustandswechsel zu jeder der vier Gruppen einen Satz. Auch dann, wenn eine Gruppe offensichtlich nichts beiträgt — gerade das Ausschließen macht das Ergebnis belastbar.'
         },
         {
           id: 'G11-M2-L3',
-          titel: 'Raumreinigung — Dein Umfeld klären',
-          inhalt: `Nicht nur dein Körper sammelt Energie — deine Räume tun es auch. Dein Schlafzimmer, dein Büro, dein Auto — sie alle speichern die energetische Signatur dessen, was in ihnen passiert. Streit hinterlässt schwere Energie. Krankheit hinterlässt stagnierende Energie. Stress hinterlässt hektische Energie.
-
-Wann Raumreinigung? Nach einem Streit. Wenn du in eine neue Wohnung ziehst. Wenn sich ein Raum „schwer" oder „stickig" anfühlt, obwohl du gelüftet hast. Nach Krankheit. Regelmäßig — einmal pro Woche reicht.
-
-Die einfachste Raumreinigung: Öffne alle Fenster. Klatsche in jede Ecke des Raumes — laut, bestimmt, 3 Mal pro Ecke. Der Schall bricht stagnierende Energiemuster auf. Dann lüfte 5 Minuten und schließe die Fenster.
-
-Die gründlichere Methode: Gehe mit Räucherwerk (oder einer Klangschale) durch jeden Raum. Starte an der Eingangstür und arbeite im Uhrzeigersinn. Besondere Aufmerksamkeit für Ecken (dort sammelt sich Energie), hinter Türen und unter schweren Möbeln.
-
-Salz als Raumreiniger: Stelle eine Schale mit grobem Meersalz in Räume, die sich schwer anfühlen. Das Salz absorbiert negative Energie. Nach 24 Stunden das Salz entsorgen (nicht wiederverwenden) und frisches hinstellen.
-
-Pflanzen als Dauerschutz: Grüne Pflanzen reinigen nicht nur die Luft, sondern auch die Energie eines Raumes. Besonders empfehlenswert: Einblatt, Efeutute, Aloe Vera. Wenn Pflanzen in einem bestimmten Raum immer wieder eingehen, ist das ein deutliches Zeichen für energetische Belastung.`,
-          uebung: {
-            titel: 'Schnell-Raumreinigung',
-            anleitung: `Reinige JETZT den Raum, in dem du sitzt:
-
-1. Fenster öffnen (wenn möglich)
-2. Klatsche 3 Mal in jede Ecke des Raumes — laut und bestimmt
-3. Stehe in der Mitte des Raumes, atme 3 Mal tief ein und aus, und sprich (laut oder innerlich): „Dieser Raum ist klar, rein und voller guter Energie."
-4. Lüfte 3–5 Minuten
-
-Spüre den Unterschied: Fühlt sich der Raum anders an als vorher? Leichter? Frischer? Offener?
-
-Plane eine gründlichere Raumreinigung für diese Woche — mit Räucherwerk oder Klangschale, wenn verfügbar.`,
-            dauer: '5 Min',
-          },
-        },
-      ],
+          titel: 'Was Wahrnehmung nicht leistet',
+          inhalt: 'Wahrnehmung ist ein Instrument mit bekannten Grenzen. Wer sie kennt, arbeitet genauer.\n\n**Sie ist nicht neutral.** Was erwartet wird, wird eher bemerkt. Wer eine Begegnung als anstrengend erwartet, registriert Anzeichen von Anstrengung stärker — und übersieht die entlastenden. Das ist keine Schwäche, sondern die normale Arbeitsweise von Aufmerksamkeit.\n\nDas lässt sich abmildern, nicht abstellen. Wer die eigene Erwartung vor einer Situation kurz benennt, erkennt sie hinterher im Ergebnis wieder — und kann sie herausrechnen.\n\n**Sie unterscheidet nicht zwischen innen und außen.** Ein flaues Gefühl fühlt sich gleich an, ob es von Hunger, Nervosität oder einer unangenehmen Situation kommt. Die Zuordnung ist immer eine Deutung, nie Teil der Wahrnehmung selbst.\n\n**Sie erlaubt keine Aussage über andere.** Was jemand in Gegenwart einer anderen Person wahrnimmt, ist eine Information über den eigenen Zustand in dieser Situation. Sie sagt nichts darüber, wie es der anderen Person geht, was sie beabsichtigt oder wie sie beschaffen ist. Diese Grenze ist die wichtigste des ganzen Kurses: Der Schritt von „ich fühle mich in ihrer Nähe unwohl" zu „sie zieht mir Energie" ist keine Verfeinerung der Wahrnehmung, sondern eine Behauptung über einen Menschen, die aus dem eigenen Empfinden nicht folgt.\n\nDieser Schritt ist so verbreitet, dass er unauffällig geworden ist. Man hört ihn in beiläufigen Formulierungen über Menschen, die angeblich Energie ziehen oder vor denen man sich schützen müsse — Sätze, die wie Beobachtungen klingen und Urteile sind.\n\n**Und sie ersetzt keine Abklärung.** Wiederkehrende körperliche Zeichen — Schmerz, Schwindel, Herzklopfen, Atemenge — sind keine Wahrnehmungsphänomene, an denen geübt wird. **Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.**\n\nWas bleibt, ist trotzdem viel: eine geschulte Selbstwahrnehmung zeigt früher an, dass etwas kippt. Früher heißt: solange noch Handlungsspielraum besteht. Das ist der praktische Ertrag — nicht Deutungssicherheit, sondern Vorlaufzeit.'
+        }
+      ]
     },
-
-    // ──────────────────────────────────────────────
-    // MODUL 3 — Schutztechniken
-    // ──────────────────────────────────────────────
+    // ------------------------------------------
+    // MODUL 3 - Grenzen & Sicherheit
+    // ------------------------------------------
     {
       nr: 3,
-      titel: 'Schutztechniken',
-      dauer: '25 Min',
+      titel: 'Grenzen & Sicherheit',
+      dauer: '55 Min',
       lektionen: [
         {
           id: 'G11-M3-L1',
-          titel: 'Die Energieblase — Dein persönlicher Schutzschild',
-          inhalt: `Die Energieblase ist die fundamentalste Schutztechnik — eine visualisierte Hülle aus Licht, die dein gesamtes Energiefeld umschließt und Fremdenergie filtert.
-
-Die Technik: Schließe die Augen. Stelle dir vor, wie eine Kugel aus goldenem (oder weißem) Licht dich vollständig umgibt — von allen Seiten, oben und unten. Diese Kugel hat einen Durchmesser von etwa einem Meter um deinen Körper herum. Sie ist stark genug, um negative oder belastende Energie abzuhalten — aber durchlässig genug, um Liebe, Freude und positive Verbindung hineinzulassen.
-
-Die Verstärkung: Gib deiner Blase eine Eigenschaft. „Alles, was mir dient, darf eintreten. Alles andere prallt sanft ab." Oder: „Liebe rein, alles andere raus." Diese Intention ist der Filter.
-
-Die Wiederholung: Baue deine Energieblase morgens auf — idealerweise als Teil deiner Morgenroutine. Sie hält nicht den ganzen Tag in voller Stärke, aber sie bildet eine Grundlage. In belastenden Situationen (vor einem schwierigen Gespräch, in einer Menschenmenge) stellst du sie kurz nach — 10 Sekunden Visualisierung reichen.
-
-Fortgeschrittene Variante: Gib der Blase eine Farbe je nach Bedarf. Gold für allgemeinen Schutz. Violett für spirituellen Schutz. Rosa für Herzschutz bei emotionalen Themen. Blau für Kommunikationsschutz bei schwierigen Gesprächen.
-
-Wichtig: Die Energieblase ist kein Isolationswerkzeug. Du schneidest dich nicht von der Welt ab — du filterst lediglich, was zu dir durchdringt. Denke an eine hochwertige Sonnenbrille: Sie schützt vor schädlicher Strahlung, lässt aber das schöne Licht durch.`,
-          uebung: {
-            titel: 'Energieblase aufbauen',
-            anleitung: `Stehe oder sitze aufrecht. Augen geschlossen. 3 tiefe Atemzüge.
-
-1. Visualisiere einen Punkt goldenen Lichts in deinem Herzen.
-2. Mit jedem Einatmen wird das Licht größer — es dehnt sich aus.
-3. Es wächst über deine Haut hinaus... 10 cm... 30 cm... 50 cm...
-4. Bis es dich vollständig umgibt — eine leuchtende goldene Kugel.
-5. Sprich innerlich: „Alles, was mir dient, ist willkommen. Alles andere bleibt draußen."
-6. Spüre die Grenze der Blase. Sie ist real. Sie ist stark. Sie ist dein Raum.
-
-Öffne die Augen. Wie fühlt sich der Schutz an? Sicherer? Klarer? Abgegrenzter?
-
-Übe das morgens 7 Tage lang — es wird jedes Mal schneller und stärker.`,
-            dauer: '4 Min',
-          },
+          titel: 'Wann nicht geübt wird',
+          inhalt: 'Die Übungen ab Modul 4 arbeiten mit Atmung, Körperwahrnehmung und Aufmerksamkeitslenkung. Das klingt harmlos und ist es meistens auch. Es gibt aber Situationen, in denen genau diese Übungen ungeeignet sind — und die gehören benannt, bevor geübt wird.\n\n**Nicht angewendet wird bei:**\n\n- **Herz-Kreislauf-Erkrankungen, Bluthochdruck oder nach kurz zurückliegenden Herzereignissen.** Atemübungen verändern Kreislaufparameter.\n- **Epilepsie oder Krampfanfällen in der Vorgeschichte.** Veränderte Atmung kann ein Auslöser sein.\n- **Asthma oder akuten Atemwegserkrankungen.** Bewusste Atemsteuerung kann Enge verstärken statt lösen.\n- **Schwangerschaft.** Nicht wegen besonderer Gefahr, sondern weil Kreislaufreaktionen anders ausfallen und individuell einzuschätzen sind.\n- **Glaukom.** Druckverändernde Atemtechniken sind hier nicht angezeigt.\n- **Akuter psychischer Belastung, kurz zurückliegender Traumatisierung, dissoziativen Zuständen.** Nach innen gerichtete Aufmerksamkeit kann belastendes Material verstärken.\n- **Frischen Operationen, akuten Entzündungen, Fieber.** Der Körper ist mit anderem beschäftigt.\n\nZwei Hinweise zum Umgang mit dieser Liste. Erstens: Sie ist nicht vollständig und kann es nicht sein. Wenn eine Erkrankung vorliegt, die hier nicht steht, heißt das nicht, dass die Übungen unbedenklich sind — es heißt, dass die Frage nicht durch eine Liste zu beantworten ist. Zweitens: Vergangenheit zählt. Eine Epilepsie, die seit Jahren keine Anfälle mehr zeigt, gehört trotzdem in diese Kategorie.\n\nDiese Liste ist kein Ausschluss von Personen und keine Bewertung. Sie sagt: **Diese Übungen sind für diese Lagen nicht das richtige Mittel.** Wer betroffen ist, kann den Kurs vollständig lesen und die Unterscheidungen aus Modul 1 bis 3 uneingeschränkt nutzen — sie verlangen nichts vom Körper.\n\nDas ist ausdrücklich so gebaut. Die Unterscheidungen aus Modul 1 und 2 sind der Kern dieses Kurses, und sie kosten den Körper nichts. Wer nur diesen Teil nutzt, hat nicht die halbe Sache, sondern die tragende.\n\n**Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.** Wenn Sie unsicher sind, ob einer der Punkte auf Sie zutrifft, ist das die Stelle, an der die Frage hingehört — nicht in eine Selbsteinschätzung anhand einer Kursliste.'
         },
         {
           id: 'G11-M3-L2',
-          titel: 'Der Spiegelschild — Für intensive Situationen',
-          inhalt: `Manchmal reicht die goldene Blase nicht aus — besonders wenn du es mit Menschen oder Situationen zu tun hast, die energetisch besonders intensiv sind. Für diese Momente gibt es den Spiegelschild.
-
-Das Prinzip: Statt einer durchlässigen Lichthülle visualisierst du eine spiegelnde Oberfläche um dein Energiefeld. Energie, die auf dich gerichtet wird — ob bewusst oder unbewusst — wird reflektiert und zum Sender zurückgeschickt. Nicht als Angriff, sondern als neutrale Rücksendung.
-
-Wann den Spiegelschild einsetzen? Bei Konfrontationen mit manipulativen Personen. In Situationen, in denen du spürst, dass jemand bewusst oder unbewusst deine Energie anzapft. Bei energetisch dichten Umgebungen (Krankenhäuser, Behörden, überfüllte Veranstaltungen). Wenn du merkst, dass deine Blase allein nicht ausreicht.
-
-Die Technik: Stelle dir vor, dass die Außenfläche deiner Energieblase zu einem Spiegel wird — wie poliertes Silber. Alles, was von außen auf dich zukommt, wird reflektiert. Du siehst von innen nach außen, aber von außen sieht man nur die Spiegelung.
-
-Wichtig — der ethische Aspekt: Der Spiegelschild reflektiert neutral. Du schickst nichts Böses zurück — du gibst lediglich zurück, was nicht dir gehört. Es ist wie ein Postpaket, das an den Absender zurückgeschickt wird, weil es falsch adressiert war.
-
-Dauer: Der Spiegelschild ist für spezifische Situationen gedacht, nicht für den Dauerbetrieb. Nach der belastenden Situation löst du ihn bewusst auf und kehrst zu deiner normalen Energieblase zurück. Dauerhaft im Spiegelmodus zu sein kann dich von positiven Verbindungen abschneiden.`,
-          uebung: {
-            titel: 'Spiegelschild üben',
-            anleitung: `Baue erst deine normale goldene Energieblase auf (30 Sek).
-
-Dann transformiere die Außenfläche: Stelle dir vor, wie das Gold sich in poliertes Silber verwandelt — spiegelnd, reflektierend. Von innen siehst du raus, von außen sieht man nur die Spiegelung.
-
-Denke an eine Person oder Situation, die dich energetisch belastet. Stelle dir vor, wie deren Energie auf deinen Spiegel trifft — und sanft zurückprallt. Du bist davon unberührt.
-
-Halte das Bild 1 Minute.
-
-Dann: Löse den Spiegel bewusst auf. Kehre zur goldenen Blase zurück. Sprich: „Ich lasse den Spiegel los. Mein normaler Schutz genügt."
-
-Wie hat sich das angefühlt? Stärker als die goldene Blase allein?`,
-            dauer: '4 Min',
-          },
+          titel: 'Abbruchzeichen',
+          inhalt: '„Achten Sie auf Ihren Körper" ist ein nutzloser Satz. Er sagt nicht, worauf. Deshalb hier konkret:\n\n**Sofort abbrechen bei:**\n\n- **Schmerz oder Druck im Brustkorb**, auch leicht, auch wenn er wieder nachlässt\n- **Atemnot** oder dem Gefühl, nicht durchzukommen\n- **Schwindel mit Schwarzwerden vor den Augen**\n- **Herzrasen oder Herzstolpern**, das sich neu anfühlt\n- **Ohnmachtsgefühl**, Kaltschweißigkeit\n- **Kribbeln in Händen, Füßen oder um den Mund**, Muskelverkrampfung — Zeichen von Überatmung\n- **Plötzlichem, starkem Kopfschmerz**\n- **Übelkeit**, die während der Übung entsteht\n\n**Ebenso abbrechen bei:**\n\n- **Aufsteigender Angst** oder Beklemmung\n- **Dem Gefühl, neben sich zu stehen**, den Körper nicht zu spüren, die Umgebung als unwirklich zu erleben\n- **Aufkommenden belastenden Erinnerungen**\n- **Weinen, das sich nicht wie Erleichterung anfühlt**\n\nWarum zwei getrennte Listen. Die erste betrifft Kreislauf und Atmung, die zweite die Verarbeitung. Beide sind gleich ernst zu nehmen, aber die zweite wird häufiger übergangen — weil Angst oder Weinen sich weniger nach einem Grund zum Aufhören anfühlen als Brustschmerz. Sie sind es genauso.\n\nAbbrechen heißt: aufhören, Augen öffnen, aufsetzen oder aufstehen, ruhig weiteratmen, sich im Raum umsehen und drei Dinge benennen, die man sieht. Trinken. Wenn möglich, jemanden ansprechen.\n\n**Ein Abbruch ist kein misslungener Versuch.** Er ist die Übung, die funktioniert hat — die Wahrnehmung hat gemeldet, und Sie haben gehandelt. Genau das ist der Zweck von allem, was in Modul 1 und 2 steht.\n\nEin Zusatz zum Umfeld: Wenn Sie wissen, dass Sie zu solchen Reaktionen neigen, üben Sie nicht allein in einer Wohnung, in der niemand erreichbar ist. Das ist keine Dramatisierung — es ist dieselbe Vorsicht, die man beim Schwimmen anwendet.\n\nWenn ein Abbruchzeichen auftritt, wird die Übung **nicht am nächsten Tag erneut versucht**, um zu sehen, ob es diesmal geht. Sie wird ausgesetzt, und die Ursache wird geklärt. Bei körperlichen Zeichen ärztlich, bei den zweiten vier Punkten mit fachlicher Begleitung.'
         },
         {
           id: 'G11-M3-L3',
-          titel: 'Erdung — Das unsichtbare Fundament',
-          inhalt: `Erdung (auch Grounding genannt) ist die am meisten unterschätzte Schutztechnik. Ohne Erdung ist jeder andere Schutz instabil — wie ein Haus ohne Fundament. Erdung verbindet dich mit der stabilisierenden Kraft der Erde und gibt dir einen Anker, der dich in dir selbst hält.
-
-Warum Erdung schützt: Ein geerdeter Mensch ist energetisch stabil. Fremdenergie kann ihn nicht so leicht aus dem Gleichgewicht bringen — so wie ein Baum mit tiefen Wurzeln auch starken Wind übersteht. Ein ungeerdeter Mensch ist wie ein Blatt im Wind — jeder energetische Impuls von außen wirbelt ihn herum.
-
-Anzeichen fehlender Erdung: Gedankenrasen, Schwindel, das Gefühl „neben sich zu stehen", Vergesslichkeit, Flucht in Tagträume, kalte Füße, allgemeine Unruhe, Schwierigkeiten bei Entscheidungen.
-
-Die Wurzel-Erdung: Stelle dir vor, wie Wurzeln aus deinen Fußsohlen tief in die Erde wachsen. Sie durchdringen den Boden, das Gestein, die Erde — bis zum warmen, leuchtenden Kern des Planeten. Dort verankern sie sich. Durch diese Wurzeln fließt Erdenergie nach oben in deinen Körper — warm, stabil, nährend. Und alles, was du loslassen willst, fließt nach unten und wird von der Erde absorbiert und transformiert.
-
-Physische Erdung: Barfuß auf der Erde stehen. Gartenarbeit. Bäume berühren. Schwere körperliche Arbeit. Rote Lebensmittel essen (Rote Bete, Tomaten, rote Paprika). Kaltes Wasser über die Handgelenke laufen lassen. All das erdet auf physischer Ebene und verstärkt die energetische Erdung.
-
-Erdung ist besonders wichtig nach meditativer oder spiritueller Arbeit, nach emotionalen Gesprächen und am Ende jeder intensiven Energieübung. Ohne Erdung „schwebst" du — und offenes Schweben macht verwundbar.`,
-          uebung: {
-            titel: 'Tiefen-Erdung — 3 Minuten',
-            anleitung: `Stehe aufrecht, Füße hüftbreit, möglichst barfuß.
-
-1. Spüre den Kontakt deiner Füße mit dem Boden (30 Sek). Drücke bewusst in den Boden.
-
-2. Visualisiere Wurzeln aus deinen Fußsohlen. Sie wachsen nach unten — durch den Boden, durch Erde und Gestein, immer tiefer, bis zum Erdkern (30 Sek).
-
-3. Einatmen: Ziehe warme, rote Erdenergie durch die Wurzeln hoch — in deine Füße, Beine, Becken, bis in deinen Bauch (30 Sek).
-
-4. Ausatmen: Schicke alles, was dich beschwert, durch die Wurzeln nach unten. Die Erde nimmt es auf (30 Sek).
-
-5. 5 Atemzyklen: Rote Erdenergie hoch, Belastung runter (60 Sek).
-
-Spüre nach: Stehst du fester? Fühlst du dich schwerer (im positiven Sinn)? Klarer? Das ist Erdung.`,
-            dauer: '5 Min',
-          },
-        },
-      ],
+          titel: 'Wer zuständig ist',
+          inhalt: 'Ein Kurs kann Unterscheidungen vermitteln. Er kann nicht einschätzen, was bei einem einzelnen Menschen los ist — und er ist nicht erreichbar, wenn es darauf ankommt.\n\n**Bei akuter Gefahr, Bewusstlosigkeit, Atemnot, Verdacht auf Herzinfarkt oder Schlaganfall: 112.** Ohne Abwägung, ohne vorher zu prüfen, ob es „schlimm genug" ist.\n\n**Bei ärztlichen Fragen außerhalb der Sprechzeiten: 116 117**, der ärztliche Bereitschaftsdienst.\n\n**Bei seelischer Not, in Krisen, bei Gedanken, die Angst machen:** Die Telefonseelsorge ist rund um die Uhr, kostenfrei und anonym erreichbar unter **0800 111 0 111** und **0800 111 0 222**. Auch dann, wenn sich die Lage nicht dramatisch genug anfühlt, um anzurufen — gerade dann.\n\nEine Anmerkung, weil sie erfahrungsgemäß nötig ist: Diese Nummern sind nicht erst für den Fall gedacht, in dem etwas eindeutig schwerwiegend ist. Sie sind für Unsicherheit. Der Anruf, bei dem sich herausstellt, dass nichts weiter ist, ist kein Fehlalarm — er ist genau der Zweck.\n\n**Bei anhaltenden Beschwerden:** Hausärztin oder Hausarzt als erste Stelle. **Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.**\n\nUnd eine Grenze, die diesen Kurs betrifft: Was hier vermittelt wird, ist **Selbsterfahrung und Wissen**. Es ist keine Ausbildung, keine Qualifikation und keine Befähigung, mit anderen Menschen in dieser Weise zu arbeiten. Wer die Übungen für sich nutzt, tut das im eigenen Erleben. Wer sie bei anderen anwenden möchte, bewegt sich in einem Bereich, für den es Berufsbilder mit eigenen Zulassungen gibt — und dieser Kurs führt nicht dorthin.\n\nDer Unterschied liegt nicht im Können, sondern in der Verantwortung. Wer mit anderen arbeitet, muss einschätzen, was er auslöst, und dafür einstehen. Diese Einschätzung ist Gegenstand einer Ausbildung — sie entsteht nicht dadurch, dass man Übungen an sich selbst kennt.\n\nNichts in diesem Kurs ergänzt, unterstützt oder verändert eine laufende ärztliche oder therapeutische Behandlung. Wenn Sie in Behandlung sind und unsicher sind, ob eine Übung passt, fragen Sie dort. Die Antwort dort gilt, nicht die hier.'
+        }
+      ]
     },
-
-    // ──────────────────────────────────────────────
-    // MODUL 4 — Deine tägliche Energiehygiene
-    // ──────────────────────────────────────────────
+    // ------------------------------------------
+    // MODUL 4 - Übungspraxis
+    // ------------------------------------------
     {
       nr: 4,
-      titel: 'Deine tägliche Energiehygiene',
-      dauer: '20 Min',
+      titel: 'Übungspraxis',
+      dauer: '60 Min',
       lektionen: [
         {
           id: 'G11-M4-L1',
-          titel: 'Das 5-Minuten-Morgenritual',
-          inhalt: `Dein Morgenritual ist das Fundament deiner Energiehygiene. In 5 Minuten baust du Erdung, Reinigung und Schutz auf — und startest den Tag in deinem eigenen Energiefeld statt im Restprogramm der Nacht.
-
-Die 5-Minuten-Morgensequenz:
-
-Minute 1 — Erdung: Stehe auf, Füße auf dem Boden. Visualisiere deine Wurzeln. 5 Atemzüge: Erdenergie hoch, Restenergie der Nacht runter.
-
-Minute 2 — Reinigung: Stelle dir die Lichtdusche vor — goldenes Licht fließt von oben über deinen gesamten Körper und wäscht alles ab, was nicht zu diesem neuen Tag gehört. Traumreste, Nachtspannungen, alles.
-
-Minute 3–4 — Schutz: Baue deine goldene Energieblase auf. Lasse sie vom Herzen aus wachsen, bis sie dich vollständig umgibt. Sprich deine Intention: „Alles, was mir heute dient, ist willkommen. Alles andere prallt ab."
-
-Minute 5 — Intention: 3 tiefe Atemzüge mit einer klaren Tagesintention. „Heute bleibe ich in meiner Energie." Oder: „Heute bin ich geerdet, geschützt und klar."
-
-Diese 5 Minuten sind nicht optional — sie sind dein energetischer Mindest-Standard. So wie du dich nicht ohne Zähneputzen aus dem Haus begibst, gehst du nicht ohne Energiehygiene in den Tag.`,
-          uebung: {
-            titel: 'Morgenritual — erster Durchlauf',
-            anleitung: `Führe jetzt die komplette 5-Minuten-Sequenz durch:
-
-1. Erdung (1 Min): Wurzeln, 5 Atemzüge. Erdenergie hoch.
-2. Reinigung (1 Min): Lichtdusche von oben. Alles wird abgespült.
-3. Schutz (2 Min): Goldene Blase aufbauen. Intention sprechen.
-4. Intention (1 Min): 3 Atemzüge + Tagessatz.
-
-Energielevel nach dem Ritual: ___/10
-Gefühl der Sicherheit: ___/10
-
-Plane dieses Ritual für morgen früh — direkt nach dem Aufstehen, vor dem Handycheck.`,
-            dauer: '7 Min',
-          },
+          titel: 'Die Grundübung: Zustand feststellen',
+          inhalt: 'Die erste Übung ist keine Technik, sondern eine Bestandsaufnahme. Sie dauert zwei Minuten und ist die Voraussetzung für alles Weitere — ohne sie üben Sie ins Blaue.\n\n**Bevor Sie beginnen:** Die Übungen dieses Moduls sind nicht geeignet, wenn einer der Punkte aus Modul 3, Lektion 1 auf Sie zutrifft. Die Abbruchzeichen aus Modul 3, Lektion 2 gelten für jede Übung in diesem Modul — insbesondere Druck im Brustkorb, Atemnot, Schwindel mit Schwarzwerden vor den Augen und aufsteigende Angst. Bei einem dieser Zeichen wird sofort abgebrochen, nicht abgewartet.\n\n**Die Übung.** Setzen Sie sich hin, Füße auf dem Boden. Augen offen oder geschlossen, wie es angenehmer ist. Atmen Sie normal weiter — nichts wird verändert.\n\nGehen Sie drei Bereiche durch und benennen Sie innerlich, was Sie vorfinden:\n\n**Körper** — wo ist Spannung, wo ist Weite? Kiefer, Schultern, Bauch, Hände. Nicht bewerten, nur feststellen.\n\n**Atem** — kurz oder lang, oben in der Brust oder unten im Bauch, gleichmäßig oder stockend? Wieder: nur feststellen, nicht korrigieren.\n\n**Stimmung** — welches Wort trifft es am besten? Ein Wort genügt. Wenn keines passt, ist auch das eine Auskunft.\n\nDas war die ganze Übung. Zwei Minuten, drei Angaben.\n\n**Warum sie zuerst kommt.** Alles, was danach folgt, setzt voraus, dass Sie Ihren Zustand kennen — sonst wissen Sie hinterher nicht, ob sich etwas verändert hat. Und sie ist die einzige Übung, die auch dann funktioniert, wenn Sie sich schlecht fühlen: Sie verlangt keine Veränderung, nur Auskunft.\n\nWer nur diese eine Übung mitnimmt und die übrigen nicht, hat den praktisch wertvollsten Teil des Kurses. Das ist nicht als Trost gemeint, sondern als Einordnung.'
         },
         {
           id: 'G11-M4-L2',
-          titel: 'Das Abendritual — Den Tag ablegen',
-          inhalt: `Wenn das Morgenritual dich vorbereitet, dann reinigt das Abendritual dich. Alles, was sich tagsüber angesammelt hat — Spannungen, Fremdenergie, emotionale Reste — wird jetzt bewusst abgelegt.
-
-Die 5-Minuten-Abendsequenz:
-
-Minute 1 — Check-in: Wie fühlt sich mein Energiefeld gerade an? Schwer? Dicht? Aufgeladen? Neutral? Benenne es ohne Bewertung.
-
-Minute 2 — Abstreifen: Streiche mit den Händen über deinen Körper (10 cm Abstand). Von oben nach unten, 3 Durchgänge. Schüttle die Hände nach jedem Durchgang aus. Stelle dir vor, wie du den energetischen Staub des Tages abklopfst.
-
-Minute 3 — Erd-Rückgabe: Stehe, Wurzeln visualisieren. Atme 5 Mal: Alles, was nicht zu dir gehört, fließt durch die Wurzeln in die Erde. „Ich gebe zurück, was nicht mir gehört."
-
-Minute 4 — Energieblase auflösen: Löse den Tages-Schutzschild bewusst auf. Du brauchst ihn nachts nicht. Dein Schlafraum sollte ein sicherer Raum sein, in dem du offen sein darfst.
-
-Minute 5 — Dankbarkeit: Lege eine Hand aufs Herz. Benenne 3 Dinge, für die du heute dankbar bist. Dankbarkeit füllt den Raum, den die losgelassene Energie hinterlassen hat, mit etwas Wertvollem.
-
-Dieses Abendritual verbessert nicht nur deine Energiehygiene, sondern auch deine Schlafqualität. Viele Menschen schlafen unruhig, weil sie den energetischen Ballast des Tages mit ins Bett nehmen. Wenn du ihn vorher ablegst, kann dein System nachts tiefer regenerieren.`,
-          uebung: {
-            titel: 'Abendritual — erster Durchlauf',
-            anleitung: `Führe die Abendsequenz durch:
-
-1. Check-in (1 Min): Wie fühlt sich mein Feld an? Ein Wort: ___
-2. Abstreifen (1 Min): 3 Durchgänge, Hände ausschütteln.
-3. Erd-Rückgabe (1 Min): 5 Atemzüge durch die Wurzeln.
-4. Schutz auflösen (1 Min): Blase bewusst auflösen. „Ich bin sicher in diesem Raum."
-5. Dankbarkeit (1 Min): Hand aufs Herz, 3 Dinge benennen.
-
-Wie fühlst du dich danach? Leichter? Ruhiger?
-
-Ab heute: Morgens Aufbau-Ritual, abends Ablege-Ritual. 10 Minuten pro Tag = vollständige Energiehygiene.`,
-            dauer: '7 Min',
-          },
+          titel: 'Atem als Anker',
+          inhalt: 'Diese Übung arbeitet mit dem Atem — und deshalb gilt hier die Sicherheitsvorgabe am strengsten.\n\n**Nicht geeignet bei:** allen Ausschlüssen aus Modul 3, Lektion 1, ohne Ausnahme. Für diese Übung wiegen davon Asthma und akute Atemwegserkrankungen, Herz-Kreislauf-Erkrankungen, Bluthochdruck, Epilepsie, Glaukom und Schwangerschaft besonders, weil hier die Atmung verändert wird — die übrigen Punkte gelten deshalb nicht weniger. Und wie dort gesagt: Die Liste ist nicht vollständig und kann es nicht sein.\n\n**Abbruchzeichen für diese Übung besonders:** Kribbeln in Händen, Füßen oder um den Mund und Muskelverkrampfung — das sind Zeichen von Überatmung und bedeuten sofort aufhören, normal weiteratmen. Ebenso Atemnot, Schwindel oder das Gefühl, nicht durchzukommen.\n\n**Die Übung.** Atmen Sie normal. Zählen Sie beim Einatmen mit, wie weit Sie kommen — vielleicht drei, vielleicht vier. Zählen Sie beim Ausatmen ebenso. Das ist Ihre Ausgangslänge, und sie wird **nicht** verändert.\n\nDann, für sechs bis acht Atemzüge: Lassen Sie das Ausatmen ein wenig länger werden als das Einatmen. Ein Zählschritt genügt. Wenn Sie bei vier ein- und vier ausatmen, werden es vier und fünf. Nicht mehr.\n\nDanach lassen Sie den Atem wieder von selbst laufen und stellen fest, ob sich etwas verändert hat — mit den drei Angaben aus Lektion 1.\n\nWarum ausgerechnet die Ausatmung. Ein längeres Ausatmen ist die einzige Veränderung, die den Atem ruhiger macht, ohne ihn zu verkrampfen — jede Vertiefung der Einatmung führt in die Gegenrichtung. Das ist der Grund, warum diese Übung nichts hinzufügt, sondern nur eine Seite geringfügig verschiebt.\n\n**Zwei Hinweise, die zur Übung gehören.** Erstens: Wenn das Zählen anstrengt oder das Verlängern sich erzwungen anfühlt, ist die Übung an dieser Stelle vorbei. Erzwungenes Atmen ist das Gegenteil dessen, was gemeint ist. Zweitens: Wenn sich nichts verändert, ist das kein Fehler und kein Zeichen von irgendetwas. Es ist eine Beobachtung.\n\nSechs bis acht Atemzüge sind bewusst wenig. Wer daraus zwanzig macht, weil es „besser wirken soll", verlässt den Rahmen, für den diese Übung beschrieben ist.\n\nWenn Sie die Übung mehrmals über den Tag nutzen wollen, spricht aus Sicht dieses Kurses nichts dagegen — eine Zusage über Ihre persönliche Verträglichkeit ist das nicht, und die Punkte aus Modul 3, Lektion 1 gelten für jede einzelne Anwendung — mehrere kurze Anwendungen sind etwas anderes als eine lange. Was nicht gemeint ist: eine feste Anzahl pro Tag, an der Sie sich messen.'
         },
         {
           id: 'G11-M4-L3',
-          titel: 'Abschluss — Energetische Souveränität',
-          inhalt: `Du hast den Kurs „Schutzarbeit & Energiehygiene" abgeschlossen. Lass uns zusammenfassen, was du jetzt besitzt:
-
-In Modul 1 hast du verstanden, warum Energieschutz wichtig ist — du bist ein energetischer Schwamm, und ohne bewussten Schutz nimmst du alles auf, was um dich herum ist. Du hast deine persönlichen Energielecks identifiziert und die 3 Säulen der Energiehygiene kennengelernt.
-
-In Modul 2 hast du Reinigungstechniken gelernt — die tägliche Lichtdusche, das Abstreifen, die Erd-Erdung sowie Intensivmethoden wie Salzbad und Räuchern. Dazu Raumreinigung für dein Umfeld.
-
-In Modul 3 hast du drei Schutztechniken gemeistert — die goldene Energieblase für den Alltag, den Spiegelschild für intensive Situationen und die Tiefen-Erdung als unsichtbares Fundament.
-
-In Modul 4 hast du ein Morgen- und Abendritual etabliert — insgesamt 10 Minuten pro Tag für vollständige Energiehygiene.
-
-Das Ziel hinter allem ist: Energetische Souveränität. Das bedeutet, dass DU entscheidest, welche Energie in dein Feld kommt und welche nicht. Du bist kein Opfer deiner Umgebung — du bist der bewusste Hüter deines eigenen Energieraumes.
-
-Dieses Wissen ist besonders wertvoll, wenn du viel mit anderen Menschen zu tun hast oder einfach ein empathischer Mensch bist. Es ist das Werkzeug, das dich langfristig ausgeglichen und stabil hält, statt auszubrennen.
-
-In der Lernwelt findest du vertiefende Kurse: Chakrenarbeit für die Arbeit an deinen Energiezentren, Aura & Energiefeld für fortgeschrittene Aura-Techniken oder die Arbeit mit Kristallen und Steinen als Schutz- und Reinigungssymbole.
-
-Schütze dein Licht. Es ist dein wertvollstes Gut.`,
-          uebung: {
-            titel: 'Abschluss-Check & 7-Tage-Commitment',
-            anleitung: `Wiederhole deine Selbsteinschätzung aus Modul 1:
-
-Reinigung: ___/10 (vorher: ___)
-Schutz: ___/10 (vorher: ___)
-Stärkung: ___/10 (vorher: ___)
-
-Energie-Empfindlichkeit (Gesamtwert): ___/60 (vorher: ___/60)
-
-Hat sich bereits etwas verschoben? Wahrscheinlich ja — allein das Bewusstsein verändert die Wahrnehmung.
-
-Dein 7-Tage-Commitment:
-„In den nächsten 7 Tagen führe ich jeden Morgen mein 5-Minuten-Aufbau-Ritual und jeden Abend mein 5-Minuten-Ablege-Ritual durch."
-
-Tag 1: ☐  Tag 2: ☐  Tag 3: ☐  Tag 4: ☐  Tag 5: ☐  Tag 6: ☐  Tag 7: ☐
-
-Nach 7 Tagen: Wie hat sich dein Alltag verändert?`,
-            dauer: '5 Min',
-          },
-        },
-      ],
+          titel: 'Grenzen setzen im Kontakt',
+          inhalt: 'Diese Übung verlangt nichts vom Körper. Die körperlichen Ausschlüsse aus Modul 3, Lektion 1 greifen hier deshalb nicht — Kreislauf, Atmung und Augendruck sind nicht beteiligt.\n\n**Die übrigen Ausschlüsse gelten sehr wohl.** Bei akuter psychischer Belastung, kurz zurückliegender Traumatisierung oder dissoziativen Zuständen ist diese Übung nicht angezeigt. Sie richtet die Aufmerksamkeit auf eine belastende Begegnung — genau der Vorgang, der für diese Lagen ausgeschlossen wurde. **Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.**\n\nDie Abbruchzeichen aus Modul 3, Lektion 2 gelten unverändert: Wenn beim Durchdenken einer Situation aufsteigende Angst, belastende Erinnerungen oder das Gefühl entsteht, neben sich zu stehen, wird abgebrochen — das ist kein Übungswiderstand, sondern ein Signal.\n\n**Die Übung besteht aus drei Fragen zu einer konkreten, bereits vergangenen Begegnung.** Nicht zur schwierigsten, die Ihnen einfällt — zu einer mittleren.\n\n**Erstens: Was genau war anstrengend?** Nicht „die Person", sondern was sie tat oder was die Situation verlangte. Lange Dauer? Ein Thema, das Sie nichts angeht? Die Erwartung, eine bestimmte Rolle einzunehmen?\n\n**Zweitens: Was davon lag in Ihrem Einfluss?** Hätten Sie früher gehen können? Eine Frage stellen? Ein Thema wechseln? Manches liegt nicht in Ihrem Einfluss — das festzustellen ist genauso nützlich.\n\n**Drittens: Was würde beim nächsten Mal einen Unterschied machen?** Ein Satz, ein Zeitlimit, ein anderer Ort. Eine einzige konkrete Sache, nicht ein Vorsatz.\n\n**Und dann, wenn Sie mögen: ein Wort dafür.** In Modul 1 stand, dass Bilder nützlich sind, weil sie einem Erleben Sprache geben. Hier ist die Stelle, an der sich das auszahlt. Drei Wörter, die viele Menschen für das Muster brauchbar finden, das sie bei sich entdecken:\n\n**Durchlässig** — Situationen, in denen Sie alles aufnehmen, was ankommt, ohne zu wählen.\n**Abgeschottet** — Situationen, in denen Sie nichts durchlassen, auch das nicht, was Sie gebraucht hätten.\n**Gefiltert** — Situationen, in denen Sie gewählt haben, bewusst oder aus Gewohnheit.\n\nDiese Wörter sind Beschreibungen, keine Zustände. Sie sagen nichts darüber, was mit Ihnen geschieht — sie fassen zusammen, was Sie in Frage eins bis drei über Ihre eigenen Entscheidungen herausgefunden haben. Ein Bild ist ein Griff für eine Erkenntnis, kein Ersatz für sie.\n\n**Warum das hierher gehört.** Was umgangssprachlich „Abgrenzung" heißt, besteht in der Praxis fast nie aus einer inneren Haltung, sondern aus Entscheidungen: früher gehen, nicht antworten, einen Termin nicht annehmen. Die innere Arbeit hilft, diese Entscheidungen zu erkennen. Sie ersetzt sie nicht.\n\nUnd die Grenze aus Modul 2 gilt weiter: Das Ergebnis dieser Übung ist eine Aussage über Ihre Situation und Ihre Möglichkeiten — nicht über den anderen Menschen.'
+        }
+      ]
     },
+    // ------------------------------------------
+    // MODUL 5 - Alltag & Umfeld
+    // ------------------------------------------
+    {
+      nr: 5,
+      titel: 'Alltag & Umfeld',
+      dauer: '55 Min',
+      lektionen: [
+        {
+          id: 'G11-M5-L1',
+          titel: 'Wiederkehrende Situationen erkennen',
+          inhalt: 'Bis hierher ging es um einzelne Begegnungen. Der größere Ertrag liegt aber im Muster: Die meisten Menschen haben nicht dreißig belastende Situationen, sondern drei Typen, die dreißigmal vorkommen.\n\n**Die Übung ist eine Bestandsaufnahme über eine Woche.** Notieren Sie jeden Abend in einem Satz, welche Situation an diesem Tag Zustand gekostet hat. Nur eine, die deutlichste. Kein Tagebuch, keine Auswertung — nur die Zeile.\n\nNach sieben Tagen lesen Sie die sieben Zeilen hintereinander. Fast immer zeigen sich zwei oder drei Muster: dieselbe Tageszeit, dieselbe Art von Anforderung, dieselbe Konstellation von Menschen.\n\n**Das ist der Punkt, an dem sich das Vokabular aus Modul 4 auszahlt.** Zu jedem Muster passt meist eines der drei Wörter. Wo waren Sie **durchlässig** — haben aufgenommen, was ankam, ohne zu wählen? Wo **abgeschottet** — haben auch das nicht durchgelassen, was Sie gebraucht hätten? Wo **gefiltert**?\n\nEin praktischer Hinweis zur Woche: Schreiben Sie die Zeile am selben Abend, nicht am Wochenende aus dem Gedächtnis. Rückblickend gleichen sich Tage an, und die Unterschiede — auf die es hier ankommt — verschwinden zuerst.\n\nDas dritte ist das interessanteste. Situationen, in denen es gut lief, werden selten untersucht. Dabei steht dort, was funktioniert — und das lässt sich übertragen.\n\n**Wenn nichts erkennbar wird**, ist die Woche nicht umsonst gewesen. Es heißt, dass Ihre Belastung situativ ist und nicht strukturell. Das ist eine brauchbare Auskunft, keine gescheiterte Übung.\n\nUnd eine zweite Möglichkeit, die häufiger vorkommt, als man denkt: Es zeigt sich ein Muster, das Sie längst kennen und bisher hingenommen haben. Auch das ist ein Ergebnis. Der Unterschied zu vorher ist, dass es jetzt aufgeschrieben dasteht — und Aufgeschriebenes lässt sich schlechter beiseiteschieben als ein Eindruck.\n\nUnd wenn sich beim Lesen der sieben Zeilen zeigt, dass jeder Tag belastend war, ohne erkennbares Muster: Dann ist die Frage größer als dieser Kurs. **Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.**'
+        },
+        {
+          id: 'G11-M5-L2',
+          titel: 'Räume, Rhythmus, Übergänge',
+          inhalt: 'Umgebungen wirken, und sie wirken unterhalb der Aufmerksamkeit. Das ist der Grund, warum sie so oft übersehen werden: Was man nicht bemerkt, schreibt man keinem Faktor zu.\n\n**Drei Ansatzpunkte, in der Reihenfolge ihres Ertrags:**\n\n**Übergänge.** Der Wechsel zwischen zwei Situationen ist die Stelle mit dem größten Hebel und dem geringsten Aufwand. Zwei Minuten zwischen Besprechung und Schreibtisch, ein kurzer Gang, ein Glas Wasser — nicht als Ritual, sondern als Unterbrechung. Ohne Übergang läuft die eine Situation in die nächste hinein, und am Abend ist unklar, woher die Erschöpfung stammt.\n\nKonkret genügen zwei Minuten mit einer klaren Zäsur — aufstehen, den Raum wechseln, etwas trinken. Entscheidend ist der Wechsel, nicht die Dauer.\n\n**Räume.** Licht, Luft, Lautstärke, Sitzposition, Blickrichtung. Das sind Stellschrauben, die niemand für erwähnenswert hält und die messbar wirken. Wer den ganzen Tag mit dem Rücken zur Tür sitzt, hat eine Restaufmerksamkeit gebunden, die woanders fehlt.\n\nPrüfen Sie eines davon eine Woche lang, statt alles zu ändern. Wer das Licht wechselt und gleichzeitig die Sitzposition, weiß hinterher nicht, was gewirkt hat.\n\n**Rhythmus.** Wann sind Sie aufnahmefähig, wann nicht? Anspruchsvolle Gespräche in die aufnahmefähige Zeit zu legen ist wirksamer als jede Technik danach.\n\nDer Rhythmus ist zugleich der Punkt mit dem geringsten Spielraum. Wer fremdbestimmte Termine hat, kann die aufnahmefähige Zeit nicht frei belegen. Dann verschiebt sich die Frage: Nicht welche Zeit die beste wäre, sondern welcher der Termine überhaupt verschiebbar ist. Meist ist es genau einer — und der reicht.\n\n**Zur Umsetzung:** Nehmen Sie **eine** Sache aus dieser Liste. Nicht drei. Die häufigste Ursache dafür, dass nichts davon bleibt, ist der Versuch, alles gleichzeitig zu ändern.\n\nUnd was die Umgebung nicht leistet: Sie ersetzt keine Entscheidung. Ein besserer Raum macht ein Gespräch nicht überflüssig, das geführt werden muss.'
+        },
+        {
+          id: 'G11-M5-L3',
+          titel: 'Was mit anderen Menschen zu tun hat — und was nicht',
+          inhalt: 'Der häufigste Fehlschluss in diesem Themenfeld betrifft andere. Er ist so verbreitet, dass er eine eigene Lektion verdient.\n\nEr lautet: Wenn ich mich in Gegenwart einer bestimmten Person regelmäßig schlechter fühle, dann liegt es an dieser Person.\n\n**Das kann stimmen. Es folgt aber nicht.** Aus Modul 2: Wahrnehmung sagt etwas über den eigenen Zustand in einer Situation — nicht über den anderen Menschen. Regelmäßigkeit ändert daran nichts, sie macht nur die Zuschreibung überzeugender.\n\nWas tatsächlich folgt, ist begrenzter und praktisch nützlicher: **In dieser Konstellation läuft etwas, das Sie Zustand kostet.** Die Konstellation umfasst beide Seiten, den Rahmen, die Rollen, die Vorgeschichte. Wo darin die Ursache sitzt, ist mit Selbstwahrnehmung nicht zu klären.\n\n**Warum die Unterscheidung nicht bloß akademisch ist.** Wer eine Person als Ursache festlegt, hat nur zwei Handlungsoptionen: Abstand oder Konfrontation. Wer bei der Konstellation bleibt, hat mehr: die Dauer verkürzen, den Rahmen ändern, ein Thema aussparen, eine dritte Person hinzuziehen, etwas ansprechen. Meist wirkt eine davon, und keine verlangt ein Urteil über einen Menschen.\n\n**Und die Grenze in die andere Richtung.** Nichts aus diesem Kurs erlaubt eine Aussage darüber, wie es einem anderen Menschen geht, was er beabsichtigt oder was er „aussendet". Wer solche Aussagen trifft, verlässt den Bereich der Selbstwahrnehmung. Dieser Kurs vermittelt **Selbsterfahrung und Wissen** — keine Ausbildung, keine Qualifikation und keine Befähigung, mit anderen Menschen in dieser Weise zu arbeiten.\n\nDas gilt auch für gut Gemeintes. Jemandem zu sagen, er trage etwas Belastendes bei sich, ist eine Zuschreibung über einen Menschen — unabhängig davon, wie freundlich sie formuliert ist.'
+        }
+      ]
+    },
+    // ------------------------------------------
+    // MODUL 6 - Einordnung
+    // ------------------------------------------
+    {
+      nr: 6,
+      titel: 'Einordnung',
+      dauer: '55 Min',
+      lektionen: [
+        {
+          id: 'G11-M6-L1',
+          titel: 'Was dieser Kurs vermittelt hat',
+          inhalt: 'Ein Rückblick, der nicht wiederholt, sondern zusammenfasst, was tatsächlich in der Hand liegt.\n\n**Eine Unterscheidung.** Zwischen Wahrnehmung und Zuschreibung. Sie ist der Kern von allem Übrigen und die Übung, die am längsten braucht, weil die Zuschreibung immer schneller ist.\n\n**Ein Vergleichsmaßstab.** Die eigene Grundlinie. Ohne sie ist jede Aussage über Veränderung ungenau.\n\n**Ein Prüfraster.** Vier Quellen für Zustandsveränderungen — körperlich, aufgabenbezogen, zwischenmenschlich, situativ. Der Nutzen liegt nicht im Finden der richtigen Gruppe, sondern im Offenhalten der Frage.\n\n**Drei Grenzen.** Wahrnehmung ist nicht neutral, unterscheidet nicht zwischen innen und außen, und erlaubt keine Aussage über andere.\n\n**Eine Sicherheitsstruktur.** Wann nicht geübt wird, woran ein Abbruch erkennbar ist, wer zuständig ist.\n\n**Drei Übungen.** Zustand feststellen, Ausatem verlängern, drei Fragen zu einer Begegnung.\n\n**Ein Vokabular.** Durchlässig, abgeschottet, gefiltert — als Griff für eine Erkenntnis, nicht als Ersatz für sie.\n\nWenn Sie prüfen wollen, was davon tatsächlich sitzt, gibt es einen einfachen Test. Nehmen Sie eine Situation aus den letzten Tagen und gehen Sie sie durch: Was habe ich wahrgenommen, was habe ich daraus gemacht, und welche der vier Quellen habe ich geprüft? Wo Sie ins Stocken geraten, liegt die Stelle, an der es sich lohnt, noch einmal nachzulesen.\n\nDiese sieben Punkte sind bewusst wenige. Ein Kurs, der zwanzig Dinge vermittelt, hinterlässt keine — weil nichts davon greifbar bleibt.\n\nDas ist weniger, als der Umfang des Kurses vermuten lässt, und mehr, als es klingt. Der größte Teil des Textes bestand aus Abgrenzungen — aus dem, was **nicht** gefolgert werden darf. Das ist kein Beiwerk. Wer die Unterscheidungen kennt, aber die Grenzen nicht, kommt zu selbstsicheren Fehlschlüssen.\n\nDas ist auch der Grund, warum dieser Kurs an mehreren Stellen dieselbe Grenze wiederholt. Nicht aus Vorsicht gegenüber Ihnen, sondern weil eine Grenze, die nur einmal am Anfang steht, im Moment der Anwendung nicht da ist.'
+        },
+        {
+          id: 'G11-M6-L2',
+          titel: 'Was das Modell leistet und was nicht',
+          inhalt: 'Dieser Kurs arbeitet mit einer Denkfigur: dass man den eigenen Zustand beobachten, benennen und teilweise beeinflussen kann. Diese Figur hat Reichweite und sie hat Grenzen.\n\n**Was sie leistet.** Sie schafft Abstand zwischen Reiz und Reaktion. Wer bemerkt, dass sich etwas verändert, bevor es sich auswirkt, hat Handlungsspielraum. Das ist der praktische Ertrag: nicht Deutungssicherheit, sondern Vorlaufzeit.\n\n**Was sie nicht leistet.** Sie erklärt nicht, warum etwas geschieht. Sie kann eine Ursache nicht bestimmen. Sie ersetzt weder Diagnostik noch Behandlung noch die Entscheidung, etwas im eigenen Leben zu ändern.\n\nDiese Aufzählung ist nicht als Einschränkung gemeint, sondern als Zuständigkeitsbeschreibung. Ein Werkzeug, das alles könnte, wäre bei nichts verlässlich. Der Wert dieser Denkfigur liegt gerade darin, dass ihr Anwendungsbereich klein und dafür belastbar ist.\n\n**Und ein Punkt, der zur Redlichkeit gehört.** Die Sprache dieses Feldes — Energie, Feld, Durchlässigkeit — ist Bildsprache. Sie ist nützlich, weil sie Erlebtes greifbar macht. Sie ist kein Nachweis, dass ein solches Feld existiert, und dieser Kurs behauptet das an keiner Stelle. Wer die Bilder für Tatsachen hält, verliert die Fähigkeit, sie zu prüfen — und damit ihren Nutzen.\n\nDas ist keine Relativierung von außen. Es ist die Bedingung, unter der die Bilder überhaupt brauchbar bleiben.\n\nPraktisch erkennen Sie den Unterschied an der Frage, ob eine Aussage sich noch prüfen lässt. Die Feststellung, es helfe Ihnen, etwas als Durchlässigkeit zu beschreiben, ist prüfbar — Sie können feststellen, ob es hilft. Die Aussage, Ihr Feld sei durchlässig gewesen, ist es nicht mehr; sie setzt voraus, was sie beschreibt.\n\n**Woran Sie erkennen, dass es zu weit geht.** Wenn eine Erklärung nicht mehr widerlegbar ist, ist sie keine Erklärung mehr. Wenn Zweifel als Beleg für die Richtigkeit gilt, ebenso. Wenn ein Modell jede Beobachtung erklärt, erklärt es keine. Diese drei Prüfsätze gelten über diesen Kurs hinaus.\n\nSie sind nicht gegen dieses Themenfeld gerichtet. Sie gelten für Ratgeber, für Werbung, für politische Argumente und für jeden Kurs — auch für diesen.'
+        },
+        {
+          id: 'G11-M6-L3',
+          titel: 'Wie es weitergeht',
+          inhalt: 'Zum Schluss die Frage, was mit dem Gelernten geschieht.\n\n**Im Alltag.** Die realistische Erwartung ist nicht tägliche Praxis, sondern gelegentlicher Zugriff. Die meisten Menschen nutzen von einem Kurs wie diesem ein bis zwei Dinge, und zwar dann, wenn sie sie brauchen. Das ist kein Scheitern, sondern der Normalfall — und deshalb wurde jede Übung so gebaut, dass sie einzeln funktioniert.\n\n**Wenn Sie länger nichts tun** und in einem halben Jahr zurückkommen, fangen Sie nicht von vorn an. Die Unterscheidung zwischen Wahrnehmung und Zuschreibung bleibt, auch ungeübt.\n\n**Wenn Sie weitergehen wollen**, liegt der nächste Schritt in der Genauigkeit, nicht in neuen Techniken. Die drei Fragen aus Modul 4 tragen deutlich weiter als die erste Anwendung vermuten lässt.\n\n**Wo dieser Kurs endet.** Er endet an drei Stellen zuverlässig:\n\nBei allem, was **abgeklärt gehört** — anhaltende Erschöpfung, Schmerz, Schlafstörungen, Beklemmung, Zustände, die den Alltag beeinträchtigen. **Bei körperlichen oder gesundheitlichen Beschwerden gehört die Abklärung zu Arzt, Heilpraktiker oder Therapeut.** In akuten Lagen gelten die Stellen aus Modul 3, Lektion 3.\n\nBei allem, was **andere Menschen betrifft**. Was hier vermittelt wurde, ist Selbsterfahrung und Wissen. Es ist keine Ausbildung, keine Qualifikation und keine Befähigung, mit anderen Menschen in dieser Weise zu arbeiten.\n\nBei allem, was **eine Entscheidung verlangt**. Wenn eine Situation regelmäßig Zustand kostet und die drei Fragen immer dasselbe ergeben, ist die nächste Bewegung keine Übung. Sie ist ein Gespräch, eine Änderung, ein Nein. Innere Arbeit hilft, das zu erkennen — sie ersetzt es nicht.\n\nDamit ist der Kurs zu Ende. Was bleibt, ist eine Unterscheidung und die Bereitschaft, sie anzuwenden.'
+        }
+      ]
+    }
   ],
   quiz: [
     {
-      frage: 'Was beschreibt der Kurs mit dem Bild „Du bist ein energetischer Schwamm"?',
+      frage: 'Sie sind nach einer zweistündigen Besprechung erschöpft. Welcher Satz ist eine Beobachtung?',
       antworten: [
-        'Dass man körperlich ständig Wasser trinken muss',
-        'Dass dein Energiefeld ständig Energie von Menschen, Räumen und Situationen aufnimmt und abgibt — Anzeichen sind z. B. plötzliche Stimmungswechsel oder Erschöpfung nach sozialen Situationen',
-        'Dass Energie nur von innen kommt und Äußeres keine Rolle spielt',
-        'Dass ausschließlich unsensible Menschen betroffen sind',
+        'Die Person mir gegenüber hat mir Energie gezogen',
+        'Ich bin seit dem Ende der Besprechung erschöpft',
+        'In dieser Runde bin ich immer durchlässig',
+        'Der Raum war energetisch belastet'
       ],
       richtig: 1,
     },
     {
-      frage: 'Auf welchen drei Säulen ruht die Energiehygiene laut Kurs?',
+      frage: 'Warum werden bei einem Zustandswechsel alle vier Quellen durchgegangen, auch die offensichtlich unbeteiligten?',
       antworten: [
-        'Reinigung, Schutz und Stärkung',
-        'Ernährung, Schlaf und Sport',
-        'Meditation, Gebet und Fasten',
-        'Isolation, Abschottung und Rückzug',
+        'Weil immer alle vier gleichzeitig wirken',
+        'Weil das Ausschließen einer Gruppe das Ergebnis belastbar macht',
+        'Weil die körperliche Gruppe die häufigste ist',
+        'Weil sich so die eigentliche Ursache bestimmen lässt'
       ],
-      richtig: 0,
+      richtig: 1,
     },
     {
-      frage: 'Welche drei Grundmethoden der energetischen Reinigung nennt der Kurs?',
+      frage: 'Während der Atemübung entsteht ein Kribbeln in den Händen und um den Mund. Was tun Sie?',
       antworten: [
-        'Salzbad, Räuchern und Klangschale',
-        'Ausschließlich kaltes Duschen',
-        'Lichtdusche, Abstreifen und Erd-Erdung',
-        'Schlafen, Essen und Trinken',
+        'Weiteratmen, denn Kribbeln zeigt an, dass die Übung greift',
+        'Die Ausatmung noch etwas verlängern',
+        'Sofort aufhören und normal weiteratmen, das ist ein Zeichen von Überatmung',
+        'Morgen kürzer versuchen, um zu sehen, ob es dann geht'
       ],
       richtig: 2,
     },
     {
-      frage: 'Wie beschreibt der Kurs die „Energieblase"?',
+      frage: 'Für welche Lage sind die Übungen ab Modul 4 nicht vorgesehen?',
       antworten: [
-        'Als Isolationswerkzeug, das dich völlig von der Welt abschneidet',
-        'Als Technik, die nur nachts funktioniert',
-        'Als Mauer, die jede Verbindung blockiert',
-        'Als Filter bzw. Schutzhülle, die belastende Energie abhält, aber Liebe und positive Verbindung durchlässt (wie eine Sonnenbrille) — ausdrücklich kein Isolationswerkzeug',
-      ],
-      richtig: 3,
-    },
-    {
-      frage: 'Was gilt laut Kurs für den „Spiegelschild"?',
-      antworten: [
-        'Man schickt dem Gegenüber bewusst etwas Böses zurück',
-        'Er ist für den dauerhaften Dauerbetrieb gedacht',
-        'Er reflektiert Energie neutral zum Absender zurück (kein Angriff), ist nur für spezifische, intensive Situationen gedacht und wird danach bewusst wieder aufgelöst',
-        'Er ersetzt die Erdung vollständig',
+        'Wenig Zeit',
+        'Keine Vorkenntnisse',
+        'Bluthochdruck',
+        'Wenig Ruhe in der Wohnung'
       ],
       richtig: 2,
     },
     {
-      frage: 'Wie versteht der Kurs „Energieschutz" — und was ist er ausdrücklich NICHT?',
+      frage: 'Sie fühlen sich in Gegenwart einer Kollegin regelmäßig schlechter. Was folgt daraus?',
       antworten: [
-        'Bewusstes Wählen und Filtern, welche Energie man aufnimmt — ein „Sieb, kein Isolationswerkzeug"; eine Selbstfürsorge-Praxis für sensible und empathische Menschen',
-        'Eine Mauer, die einen komplett von anderen abschottet und isoliert',
-        'Ein Ersatz für die ärztliche oder therapeutische Abklärung körperlicher Beschwerden',
-        'Eine Garantie, nie wieder erschöpft oder krank zu werden',
+        'Sie zieht Ihnen Energie',
+        'Sie sollten den Kontakt meiden',
+        'In dieser Konstellation läuft etwas, das Sie Zustand kostet',
+        'Sie sind bei ihr besonders durchlässig, das ist eine Eigenschaft von ihr'
       ],
-      richtig: 0,
+      richtig: 2,
     },
+    {
+      frage: 'Woran erkennen Sie, dass eine Erklärung zu weit geht?',
+      antworten: [
+        'Wenn sie sich unangenehm anfühlt',
+        'Wenn Zweifel daran als Beleg für ihre Richtigkeit gilt',
+        'Wenn sie nicht zur eigenen Erfahrung passt',
+        'Wenn sie ohne Fachbegriffe auskommt'
+      ],
+      richtig: 1,
+    }
   ],
-}
+};
 
-export default G11
+export default G11;

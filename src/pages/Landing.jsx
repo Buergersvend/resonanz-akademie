@@ -31,10 +31,10 @@ const BEREICHE = [
 ]
 
 const FORMATE = [
-  { symbol: '◈', name: 'Mikro-Kurs', hours: '1–2 Stunden', desc: 'Ein Thema, ein konkretes Ergebnis', preis: 'Kostenlos · Gründungsphase' },
-  { symbol: '◈◈', name: 'Standard-Kurs', hours: '3–6 Stunden', desc: 'Vollständiger Themenkomplex mit Workbook', preis: 'Kostenlos · Gründungsphase' },
-  { symbol: '◈◈◈', name: 'Intensiv-Kurs', hours: '8–16 Stunden', desc: 'Umfassende Vertiefung mit Praxisübungen', preis: 'Kostenlos · Gründungsphase' },
-  { symbol: '◈◈◈◈', name: 'Vertiefungsweg', hours: '30–60 Stunden', desc: 'Umfassender Lernweg mit Teilnahmezertifikat', preis: 'Kostenlos · Gründungsphase' },
+  { symbol: '◈', name: 'Mikro-Kurs', hours: '1–2 Stunden', desc: 'Ein Thema, ein konkretes Ergebnis', preis: 'Kostenlos' },
+  { symbol: '◈◈', name: 'Standard-Kurs', hours: '3–6 Stunden', desc: 'Vollständiger Themenkomplex mit Workbook', preis: 'Kostenlos' },
+  { symbol: '◈◈◈', name: 'Intensiv-Kurs', hours: '8–16 Stunden', desc: 'Umfassende Vertiefung mit Praxisübungen', preis: 'Kostenlos' },
+  { symbol: '◈◈◈◈', name: 'Vertiefungsweg', hours: '30–60 Stunden', desc: 'Umfassender Lernweg mit Teilnahmezertifikat', preis: 'Kostenlos' },
 ]
 
 export default function Landing() {
@@ -543,6 +543,35 @@ export default function Landing() {
         </div>
       </section>
 
+      {/* ═══ LERNWEISE ═══ */}
+      <section style={lernweise.section}>
+        <div style={lernweise.container}>
+          <div style={lernweise.block}>
+            <h2 style={lernweise.title}>
+              Wie in der Lernwelt gelernt wird
+            </h2>
+            <div style={lernweise.list}>
+              <div style={lernweise.item}>Du bestimmst Reihenfolge und Tempo. Kein Pflichtpfad, kein Zeitfenster.</div>
+              <div style={lernweise.item}>Alle Inhalte sind für diese Plattform entstanden. Kein zugekauftes Material, keine Lizenzinhalte.</div>
+              <div style={lernweise.item}>Alle Inhalte der Lernwelt kostenlos. Ohne Zahlungsdaten, ohne Abo, ohne Kündigung.</div>
+              <div style={lernweise.item}>Klar aufgebaut. Modul, Lektion, Übung - immer dieselbe Struktur.</div>
+              <div style={lernweise.item}>Wissen mit Übung verbunden. Jede Lektion hat einen Anwendungsteil.</div>
+            </div>
+          </div>
+
+          <div style={{ ...lernweise.block, marginBottom: 0 }}>
+            <h2 style={lernweise.title}>
+              Wofür die Lernwelt nicht gedacht ist
+            </h2>
+            <div style={lernweise.list}>
+              <div style={lernweise.item}>Keine Berufsausbildung und kein anerkannter Abschluss.</div>
+              <div style={lernweise.item}>Kein Ersatz für ärztliche oder therapeutische Behandlung.</div>
+              <div style={lernweise.item}>Keine Diagnose und keine Heilbehandlung.</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* ═══ CTA ═══ */}
       <section style={cta.section}>
         <div style={cta.glow} />
@@ -859,6 +888,41 @@ const formate = {
     fontWeight: '600',
     color: '#D4AF37',
     letterSpacing: '0.02em',
+  },
+}
+
+const lernweise = {
+  section: {
+    padding: '100px 24px',
+    background: '#0a0a0a',
+  },
+  container: {
+    maxWidth: '1200px',
+    margin: '0 auto',
+  },
+  block: {
+    marginBottom: '56px',
+  },
+  title: {
+    fontFamily: "'Cormorant Garamond', serif",
+    fontSize: 'clamp(1.8rem, 4vw, 2.8rem)',
+    fontWeight: '400',
+    color: '#E8E4D9',
+    marginBottom: '12px',
+  },
+  list: {
+    display: 'grid',
+    gap: '12px',
+  },
+  item: {
+    padding: '20px 24px',
+    background: '#111111',
+    borderRadius: '10px',
+    border: '1px solid rgba(212, 175, 55, 0.08)',
+    fontFamily: "'Raleway', sans-serif",
+    fontSize: '1rem',
+    color: '#9A9589',
+    lineHeight: '1.7',
   },
 }
 

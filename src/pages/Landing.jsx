@@ -551,11 +551,31 @@ export default function Landing() {
               Wie in der Lernwelt gelernt wird
             </h2>
             <div style={lernweise.list}>
-              <div style={lernweise.item}>Du bestimmst Reihenfolge und Tempo. Kein Pflichtpfad, kein Zeitfenster.</div>
-              <div style={lernweise.item}>Alle Inhalte sind für diese Plattform entstanden. Kein zugekauftes Material, keine Lizenzinhalte.</div>
-              <div style={lernweise.item}>Alle Inhalte der Lernwelt kostenlos. Ohne Zahlungsdaten, ohne Abo, ohne Kündigung.</div>
-              <div style={lernweise.item}>Klar aufgebaut. Modul, Lektion, Übung - immer dieselbe Struktur.</div>
-              <div style={lernweise.item}>Wissen mit Übung verbunden. Jede Lektion hat einen Anwendungsteil.</div>
+              <div style={lernweise.item}>
+                <span style={lernweise.raute}>◈</span>
+                <span style={lernweise.satz1}>Du bestimmst Reihenfolge und Tempo.</span>
+                <span style={lernweise.satz2}>Kein Pflichtpfad, kein Zeitfenster.</span>
+              </div>
+              <div style={lernweise.item}>
+                <span style={lernweise.raute}>◈</span>
+                <span style={lernweise.satz1}>Alle Inhalte sind für diese Plattform entstanden.</span>
+                <span style={lernweise.satz2}>Kein zugekauftes Material, keine Lizenzinhalte.</span>
+              </div>
+              <div style={lernweise.item}>
+                <span style={lernweise.raute}>◈</span>
+                <span style={lernweise.satz1}>Alle Inhalte der Lernwelt kostenlos.</span>
+                <span style={lernweise.satz2}>Ohne Zahlungsdaten, ohne Abo, ohne Kündigung.</span>
+              </div>
+              <div style={lernweise.item}>
+                <span style={lernweise.raute}>◈</span>
+                <span style={lernweise.satz1}>Klar aufgebaut.</span>
+                <span style={lernweise.satz2}>Modul, Lektion, Übung - immer dieselbe Struktur.</span>
+              </div>
+              <div style={lernweise.item}>
+                <span style={lernweise.raute}>◈</span>
+                <span style={lernweise.satz1}>Wissen mit Übung verbunden.</span>
+                <span style={lernweise.satz2}>Jede Lektion hat einen Anwendungsteil.</span>
+              </div>
             </div>
           </div>
 
@@ -564,9 +584,9 @@ export default function Landing() {
               Wofür die Lernwelt nicht gedacht ist
             </h2>
             <div style={lernweise.list}>
-              <div style={lernweise.item}>Keine Berufsausbildung und kein anerkannter Abschluss.</div>
-              <div style={lernweise.item}>Kein Ersatz für ärztliche oder therapeutische Behandlung.</div>
-              <div style={lernweise.item}>Keine Diagnose und keine Heilbehandlung.</div>
+              <div style={lernweise.hinweis}>Keine Berufsausbildung und kein anerkannter Abschluss.</div>
+              <div style={lernweise.hinweis}>Kein Ersatz für ärztliche oder therapeutische Behandlung.</div>
+              <div style={lernweise.hinweis}>Keine Diagnose und keine Heilbehandlung.</div>
             </div>
           </div>
         </div>
@@ -909,13 +929,15 @@ const lernweise = {
     fontWeight: '400',
     color: '#E8E4D9',
     marginBottom: '12px',
+    textAlign: 'center',
   },
   list: {
     display: 'grid',
-    gap: '12px',
+    gridTemplateColumns: 'repeat(auto-fit, minmax(340px, 1fr))',
+    gap: '20px',
   },
   item: {
-    padding: '20px 24px',
+    padding: '28px 24px',
     background: '#111111',
     borderRadius: '10px',
     border: '1px solid rgba(212, 175, 55, 0.08)',
@@ -923,6 +945,29 @@ const lernweise = {
     fontSize: '1rem',
     color: '#9A9589',
     lineHeight: '1.7',
+  },
+  raute: {
+    display: 'block',
+    fontSize: '0.9rem',
+    color: '#D4AF37',
+    marginBottom: '10px',
+  },
+  satz1: {
+    display: 'block',
+    fontWeight: '600',
+    color: '#E8E4D9',
+    marginBottom: '6px',
+  },
+  satz2: {
+    color: '#9A9589',
+  },
+  hinweis: {
+    padding: '12px 24px',
+    fontFamily: "'Raleway', sans-serif",
+    fontSize: '0.95rem',
+    color: '#9A9589',
+    lineHeight: '1.7',
+    textAlign: 'center',
   },
 }
 

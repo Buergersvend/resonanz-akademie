@@ -112,7 +112,6 @@ export default function Navbar() {
             <>
               <a href="#bereiche" style={styles.link}>Bereiche</a>
               <a href="#formate" style={styles.link}>Formate</a>
-              <a href="#unterschied" style={styles.link}>Warum wir</a>
             </>
           )}
           <Link to="/login" style={styles.cta}>

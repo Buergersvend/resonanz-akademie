@@ -37,15 +37,6 @@ const FORMATE = [
   { symbol: '◈◈◈◈', name: 'Vertiefungsweg', hours: '30–60 Stunden', desc: 'Umfassender Lernweg mit Teilnahmezertifikat', preis: 'Kostenlos · Gründungsphase' },
 ]
 
-const UNTERSCHIEDE = [
-  { andere: 'Starre Kurs-Struktur', hr: 'Frei wählbare Reihenfolge, eigenes Tempo' },
-  { andere: 'Generische Inhalte', hr: 'Praxisnah aufgebaute, eigenständige Inhalte' },
-  { andere: 'Überladene Plattformen', hr: 'Klar, schnell, intuitiv' },
-  { andere: 'Zugang nur gegen Gebühr', hr: 'Alle Inhalte kostenfrei' },
-  { andere: 'Theorie ohne Anwendung', hr: 'Verbindung von Selbsterfahrung, Bewusstsein & Technologie' },
-  { andere: 'Keine Community', hr: 'Resonanz-Netzwerk: Gleichgesinnte verbinden sich' },
-]
-
 export default function Landing() {
   const heroRef = useRef(null)
   const ambientRef = useRef(null)
@@ -552,29 +543,6 @@ export default function Landing() {
         </div>
       </section>
 
-      {/* ═══ UNTERSCHIED ═══ */}
-      <section id="unterschied" style={unterschied.section}>
-        <div style={unterschied.container}>
-          <span style={bereiche.overline}>Warum Human Resonanz</span>
-          <h2 style={{ ...bereiche.title, marginBottom: '48px' }}>
-            Kein Vergleich
-          </h2>
-          
-          <div style={unterschied.table}>
-            <div style={unterschied.headerRow}>
-              <div style={unterschied.headerCell}>Andere Anbieter</div>
-              <div style={{ ...unterschied.headerCell, color: '#D4AF37' }}>Human Resonanz Lernwelt</div>
-            </div>
-            {UNTERSCHIEDE.map((u, i) => (
-              <div key={i} style={unterschied.row}>
-                <div style={unterschied.cellAndere}>{u.andere}</div>
-                <div style={unterschied.cellHR}>{u.hr}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* ═══ CTA ═══ */}
       <section style={cta.section}>
         <div style={cta.glow} />
@@ -891,61 +859,6 @@ const formate = {
     fontWeight: '600',
     color: '#D4AF37',
     letterSpacing: '0.02em',
-  },
-}
-
-const unterschied = {
-  section: {
-    padding: '100px 24px',
-    background: '#0a0a0a',
-  },
-  container: {
-    maxWidth: '900px',
-    margin: '0 auto',
-    textAlign: 'center',
-  },
-  table: {
-    borderRadius: '12px',
-    overflow: 'hidden',
-    border: '1px solid rgba(212, 175, 55, 0.12)',
-  },
-  headerRow: {
-    display: 'grid',
-    gridTemplateColumns: '1fr 1fr',
-    background: '#141414',
-  },
-  headerCell: {
-    padding: '16px 24px',
-    fontFamily: "'Raleway', sans-serif",
-    fontSize: '0.78rem',
-    fontWeight: '600',
-    color: '#9A9589',
-    letterSpacing: '0.08em',
-    textTransform: 'uppercase',
-    textAlign: 'left',
-  },
-  row: {
-    display: 'grid',
-    gridTemplateColumns: '1fr 1fr',
-    borderTop: '1px solid rgba(212, 175, 55, 0.06)',
-  },
-  cellAndere: {
-    padding: '14px 24px',
-    fontFamily: "'Raleway', sans-serif",
-    fontSize: '0.9rem',
-    color: '#6B6760',
-    textAlign: 'left',
-    background: '#0d0d0d',
-    textDecoration: 'line-through',
-    textDecorationColor: 'rgba(107, 103, 96, 0.3)',
-  },
-  cellHR: {
-    padding: '14px 24px',
-    fontFamily: "'Raleway', sans-serif",
-    fontSize: '0.9rem',
-    color: '#E8E4D9',
-    textAlign: 'left',
-    background: 'rgba(212, 175, 55, 0.04)',
   },
 }
 
